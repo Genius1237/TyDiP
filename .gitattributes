@@ -1,1 +1,10 @@
 data/unlabelled_train_sets/ filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/af_af_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/es_es_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/hi_hi_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/hu_hu_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/ko_ko_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/ta_ta_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/fr_fr_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/ru_ru_train.txt filter=lfs diff=lfs merge=lfs -text
+data/unlabelled_train_sets/vi_vi_train.txt filter=lfs diff=lfs merge=lfs -text
