@@ -1,0 +1,421 @@
+<!-- <script src="https://assets.crowd.aws/crowd-html-elements.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+<script type='text/javascript'>
+    window.onload = function() {
+        var btn = document.getElementById('submitButton');
+        if (btn != null){
+            btn.setAttribute('onclick', 'return submitClicked()');
+        }
+    }
+    function validateForm() {
+        var numForeign = 15;
+        var numEnglish = 5;
+        let checkbox, sliderStyle, sliderContent, sliderOverall = false;
+        let sentence_num = 0;
+        let sentence_type = "en_sentence";
+        for (let i = 0; i < numEnglish + numForeign; i++) {
+            if (i > numEnglish - 1) {
+                sentence_type = "foreign_sentence";
+                sentence_num = i - numEnglish;
+            }
+            checkbox = document.getElementsByName(sentence_type + sentence_num + "_invalid")[0].checked;
+            sliderOverall = document.getElementsByName(sentence_type + sentence_num + "_overall")[0].set;
+            // contraRadioButtons = document.getElementsByName(sentence_type + sentence_num + "_radio_contra");
+            // contraRadio =  contraRadioButtons[0].checked || contraRadioButtons[1].checked;
+            // influenceRadioButtons = document.getElementsByName(sentence_type + sentence_num + "_radio_influence");
+            // influenceRadio = influenceRadioButtons[0].checked || influenceRadioButtons[1].checked;
+            // if (!checkbox){
+            //     if (!(sliderOverall && contraRadio)){
+            //         return false;
+            //     }
+            //     if (contraRadioButtons[0].checked && !influenceRadio){
+            //         return false;
+            //     }
+            // }
+            if (!checkbox){
+                if (!sliderOverall){
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    function handle_checkbox_click(e) {
+        if (e.checked) {
+            e.parentElement.parentElement.getElementsByClassName("labels_slider_container")[0].style.filter = "blur(5px)";
+        } else {
+            e.parentElement.parentElement.getElementsByClassName("labels_slider_container")[0].style.filter = "blur(0px)";
+        }
+    }
+    function handle_slider_click(e) {
+        e.set = true;
+        e.className = 'slider_done slider';
+    }
+    function submitClicked(){
+        if (!validateForm()) {
+            alert("All fields need to be filled in");
+            return false;
+        }else{
+            return true;
+        }
+    }
+    function handle_contra_click(e) {
+        if (e.value=="yes"){
+            e.parentElement.parentElement.getElementsByClassName("checkbox_horiz")[1].getElementsByClassName("checkbox_horiz")[0].className = "checkbox_horiz"
+        } else {
+            e.parentElement.parentElement.getElementsByClassName("checkbox_horiz")[1].getElementsByClassName("checkbox_horiz")[0].className = "checkbox_horiz checkbox_horiz_hidden";
+        }
+    }
+</script>
+<style>
+    body, form {
+    font-family: Amazon Ember,Helvetica Neue,Roboto,Arial,sans-serif;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    }
+    
+    .slider {
+        -webkit-appearance: none;
+        width: 100%;
+        height: 15px;
+        /* border-radius: 5px; */
+        background: #d3d3d3;
+        outline: none;
+        opacity: 0.7;
+        -webkit-transition: .2s;
+        transition: opacity .2s;
+    }
+
+    .slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background: red;
+        cursor: pointer;
+    }
+
+    .slider::-moz-range-thumb {
+        width: 15px;
+        height: 15px;
+        /* border-radius: 50%; */
+        background: red;
+        cursor: pointer;
+    }
+
+    .slider_done.slider::-webkit-slider-thumb {
+        background: #04AA6D
+    }
+
+    .slider_done.slider::-moz-range-thumb {
+        background: #04AA6D
+    }
+
+    table {
+        table-layout: fixed;
+    }
+
+    .slider_container {
+        width: 95%;
+    }
+
+    .slider_labels {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        background-color: lightgrey;
+    }
+
+    .labels {
+        width: 9%;
+        height: 100%;
+        /* overflow-wrap: break-word; */
+        text-align: center;
+        font-size: 12;
+        /* background-color: lightpink; */
+    }
+
+    .labels_slider_container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 600px;
+        height: 120px;
+        align-self: center;
+    }
+
+    .descriptive_container {
+        /* height: 400px; */
+        display: flex;
+        /* justify-content: center; */
+        margin-left: 64px;
+        margin-right: 64px;
+        /* margin-bottom: 16px; */
+        /* margin-top: 16px; */
+    }
+
+    .checkbox_contianer {
+        /* height: 400px; */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 64px;
+        margin-right: 64px;
+        margin-bottom: 16px;
+        margin-top: 16px;
+    }
+
+    .slider_descriptions {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        height: 150px;
+        align-self: center;
+    }
+
+    .description {
+        font-size: 14;
+    }
+
+    .sentence_container {
+        width: 40%;
+        align-self: center;
+        /* margin-right: 64px; */
+        /* margin-top: 100px;
+        margin-bottom: 100px; */
+        /* overflow: scroll;
+        max-height: 200px; */
+    }
+
+    .button_container {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        margin-top: 32px;
+        margin-bottom: 32px;
+    }
+
+    .buttons {
+        width: 108px;
+        height: 32px;
+        margin: 8px;
+        border: 1px solid black;
+        font-weight: bolder;
+        border-radius: 4px;
+    }
+
+    .buttons:hover{
+        cursor: pointer;
+        opacity: 0.7;
+    }
+
+    .buttons.next{
+        background-color: lightseagreen;
+    }
+
+    .buttons.prev{
+        background-color: lightcoral ;
+    }
+    .checkbox_horiz {
+        font-size: 14;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .checkbox_horiz_hidden {
+        display: none;
+    }
+</style>
+<div style="padding-right: 64px; padding-left: 64px;">
+    <div id='form' class="form">
+        <h1>Politeness Annotation</h1>
+        <p><b>Please rate how polite the request comes across for you</b>. Each request is a part of a conversation between editors on wikipedia. There can be multiple factors affecting the politeness level of a sentence, such as style and content. 
+        <ul>
+            <li><b>Style</b>: How did the requester phrase their request? The same content could be conveyed in both an impolite and polite manner. After reading the sentence, if you're able to think of a more polite way of saying the same thing, the style is not very polite</li>
+            <li><b>Content</b>: What is being asked in this request? For example, if the request is assuming the other editor made a mistake or violated rules intentionally, it less polite than one where editors are discussing what changes to make to a page. The content score will reflect the nature of the request</li>
+        </ul>
+        </p>
+        
+        <p>You'll assign a single politeness score after considering all factors.</p>
+        <!-- After assigning a politeness score, please mark if there is discrepancy between style and content in this request. Some requests could be conveying a more negative message, but could be using a better choice of words to do it. Some requests could be the other way round, conveying a positive message with a bad choice of words.</p> -->
+
+        <!-- <p>Consider the following request</p>
+        <ul>
+        <li>I'm somewhat puzzled by your recent edits on the Harper page, which have left two different sets of footnotes. Could you please explain your rationale for the change?</li>
+        </ul>
+        <p>The person making the request is frustrated that some confusing edits have been made to a page, but is using a careful set of words to convey it in a polite manner. This request is an example of one that has an impolite/negative content, but a polite/positve style.</p>
+        
+        <p>Whereas, looking at this request</p>
+        <ul>
+        <li>Restored history. Can check that I did it all ok?</li>
+        </ul>
+        <p>This request is conveying a simple message about some revision to a page, but is conveyed in a very short and terse manner that makes it appear rude. This reqeust is an example of one that has a polite/positive content, but an impolite/negative style.</p>
+
+        <p>Most sentences are unlikely to have contradicting content and style. If you mark that there is discrepancy between style and content, you will be asked to provide an additional piece of information - whether it was style or content that affected your final score more.</p> -->
+
+        <p>A small fraction of the sentences may not be actual valid text. Simply mark those as invalid on the rightmost column.</p>
+        
+        <p>The task is spread over 4 pages. The first page contains 5 sentences in English and the remaining 3 pages contain 5 sentences each in a Foreign langauge.</p>
+
+        <p>You can navigate between the pages using the Previous and Next Buttons.</p>
+        
+        <p>Before we start, please enter you Prolific ID</p>
+        <label for="prolific_id">Prolific ID:</label>
+        <input type="text" id="prolific_id" name="prolific_id"><br><br>
+
+        <div id="progress" hidden>0</div>
+        <div id="sentence_container"></div>
+        <!-- <p>First are 5 requests in English that you will have to annotate</p>
+        <div id="en_sentences"></div>
+
+        <p>Now, we present 15 requests from a foreign language that you will have to annotate</p>
+        <div id="foreign_sentences"></div> -->
+        
+        <div class="button_container">
+            <button id="prev_btn" type="button" onclick="prevPage()" class="buttons prev">Previous</button>
+            <button id="next_btn" type="button" onclick="nextPage()" class="buttons next">Next</button>
+        </div>
+
+        <p>If you have any comments about any particular sentence or about the set of factors (style/content) for a particular sentence, please leave them below.</p>
+        <textarea name="comments" id="comments" style="font-family:sans-serif"></textarea>
+
+        <p>Click the button below once you're done. If there are any missing fields, you'll be notified and you have to check the form again</p>
+        <!-- <p>If everything has been filled properly, you have successfully completed the task and <b>your completion code will be copied to your clipboard</b></p> -->
+        <!-- <p><b>Paste this code to complete the task on Prolific</b>. You can go to the appropriate field on Prolific and use Ctrl + V to paste the code.</p> -->
+        <!-- <button type="submit" onclick="submitClicked(event)">Submit</button> -->
+</div>
+</div>
+<div id="data">
+    <div id="en_sentence0" hidden>${en_sentence0}</div>
+    <div id="en_sentence1" hidden>${en_sentence1}</div>
+    <div id="en_sentence2" hidden>${en_sentence2}</div>
+    <div id="en_sentence3" hidden>${en_sentence3}</div>
+    <div id="en_sentence4" hidden>${en_sentence4}</div>
+    
+    <div id="foreign_sentence0" hidden>${foreign_sentence0}</div>
+    <div id="foreign_sentence1" hidden>${foreign_sentence1}</div>
+    <div id="foreign_sentence2" hidden>${foreign_sentence2}</div>
+    <div id="foreign_sentence3" hidden>${foreign_sentence3}</div>
+    <div id="foreign_sentence4" hidden>${foreign_sentence4}</div>
+    <div id="foreign_sentence5" hidden>${foreign_sentence5}</div>
+    <div id="foreign_sentence6" hidden>${foreign_sentence6}</div>
+    <div id="foreign_sentence7" hidden>${foreign_sentence7}</div>
+    <div id="foreign_sentence8" hidden>${foreign_sentence8}</div>
+    <div id="foreign_sentence9" hidden>${foreign_sentence9}</div>
+    <div id="foreign_sentence10" hidden>${foreign_sentence10}</div>
+    <div id="foreign_sentence11" hidden>${foreign_sentence11}</div>
+    <div id="foreign_sentence12" hidden>${foreign_sentence12}</div>
+    <div id="foreign_sentence13" hidden>${foreign_sentence13}</div>
+    <div id="foreign_sentence14" hidden>${foreign_sentence14}</div>
+</div>
+<template id="annotation">
+    {{#each sentences}}
+        <div class="descriptive_container">
+            <div class="sentence_container">
+                {{sentence}}
+            </div>
+            <div class="labels_slider_container">
+                <div class="slider_labels">
+                <div class="labels">Very Impolite</div>
+                    <div class="labels">Impolite</div>
+                    <div class="labels">Somewhat Impolite</div>
+                    <div class="labels">Neutral</div>
+                    <div class="labels">Somewhat Polite</div>
+                    <div class="labels">Polite</div>
+                    <div class="labels">Very Polite</div>
+                </div>
+                <div class="slider_container">
+                    <input type="range" min="-3" max="3" step="0.5" class="slider" name="{{id}}_overall"
+                        onclick="handle_slider_click(this)" onchange="handle_slider_click(this)">
+                    </div>
+                <!-- <div class="checkbox_horiz">
+                    Style and Content of this sentence imply opposite politeness levels?
+                    <input type="radio" name="{{id}}_radio_contra" value="yes" onchange="handle_contra_click(this)">
+                    <label>Yes</label>
+                    <input type="radio" name="{{id}}_radio_contra" value="no" onchange="handle_contra_click(this)">
+                    <label>No</label>
+                    <input type="checkbox" name="{{id}}_contra" onchange="handle_contra_click(this)">
+                </div>
+                <div class="checkbox_horiz">
+                    <div>&nbsp;</div>
+                    <div class="checkbox_horiz checkbox_horiz_hidden" hidden>
+                    Which aspect influenced your score more?
+                    <input type="radio" name="{{id}}_radio_influence" value="style">
+                    <label>Style</label>
+                    <input type="radio" name="{{id}}_radio_influence" value="content">
+                    <label>Content</label>
+                    </div>
+                </div> -->
+            </div>
+            <div class="checkbox_contianer">
+                <input type="checkbox" name="{{id}}_invalid" onclick="handle_checkbox_click(this)">
+                <label for="{{id}}_valid">Invalid</label><br>
+            </div>
+        </div>
+    {{/each}}
+    <p style="text-align:center;">Page {{page_num}}/{{total_pages}}</p>
+</template>
+<script>
+    var template = document.getElementById('annotation').innerHTML;
+    var render_sentences = Handlebars.compile(template);
+    var numForeign = 5;
+    var numEnglish = 5;
+    var numEnGroups = 1;
+    var numForeignGroups = 3
+    var enElements = [];
+    var foreignElements = []
+    for (let i=0; i < numEnGroups; i++){
+        enElements.push([]);
+        for (let j=0; j < numEnglish; j++){
+            enElements[i].push({id: "en_sentence"+ (i*numEnglish + j), sentence: document.getElementById("en_sentence" + (i*numEnglish + j)).textContent});
+        }
+        var element = document.createElement("div");
+        element.setAttribute("id", "group" + i);
+        element.innerHTML = render_sentences({sentences: enElements[i], page_num: i + 1, total_pages: numEnGroups + numForeignGroups});
+        element.setAttribute("hidden", "true");
+        document.getElementById('sentence_container').appendChild(element);
+    }
+    for (let i=0; i < numForeignGroups; i++){
+        foreignElements.push([]);
+        for (let j=0; j < numForeign; j++){
+            foreignElements[i].push({id: "foreign_sentence"+ (i*numForeign + j), sentence: document.getElementById("foreign_sentence" + (i*numForeign + j)).textContent});
+        }
+        var element = document.createElement("div");
+        element.setAttribute("id", "group" + (i + numEnGroups));
+        element.innerHTML = render_sentences({sentences: foreignElements[i], page_num: numEnGroups + i + 1, total_pages: numEnGroups + numForeignGroups});
+        element.setAttribute("hidden", "true");
+        document.getElementById('sentence_container').appendChild(element);
+    }
+    document.getElementById("group0").removeAttribute("hidden");
+    document.getElementById("progress").textContent = 0;
+
+    function prevPage(){
+        var group = parseInt(document.getElementById("progress").textContent);
+        if (group != 0) {
+            document.getElementById("group" + (group)).setAttribute("hidden", "true");
+            document.getElementById("group" + (group - 1)).removeAttribute("hidden");
+            document.getElementById("progress").textContent = group - 1;
+        }
+    }
+
+    function nextPage(){
+        var group = parseInt(document.getElementById("progress").textContent);
+        if (group != numEnGroups + numForeignGroups - 1) {
+            document.getElementById("group" + (group)).setAttribute("hidden", "true");
+            document.getElementById("group" + (group + 1)).removeAttribute("hidden");
+            document.getElementById("progress").textContent = group + 1;
+        }
+    }
+    var search = window.location.search;
+    if (search != "") {
+        var params = new URLSearchParams(search);
+        var assignmentId = params.get("assignmentId");
+        if (assignmentId == "ASSIGNMENT_ID_NOT_AVAILABLE") {
+            document.getElementById("sentence_container").style.pointerEvents = 'none';
+        }
+    }
+</script>
