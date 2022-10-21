@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('முடியுமா', 9), ('உதவ', 2), ('உதவ முடியுமா', 2), ('இயலுமா', 2), ('நீங்கள்', 2)]",True
+Strategy - Please_start,,
+please,"[('முடியுமா', 9), ('உதவ', 2), ('உதவ முடியுமா', 2), ('இயலுமா', 2), ('நீங்கள்', 2)]",True
+Strategy - HASHEDGE,,
+think,"[('நீங்கள்', 7), ('நினைக்கிறீர்கள்', 7), ('நான்', 6), ('நினைக்கின்றீர்கள்', 5), ('think', 3)]",True
+thought,"[('thought', 4), ('எண்ணியிருப்பீர்கள்', 1), ('என', 1), ('யோசித்தபோது', 1), ('கேட்டிருந்த', 1)]",True
+thinking,"[('சிந்திப்பது', 1), ('நினைத்து', 1), ('உங்களுக்கு', 1), ('உண்டா', 1), ('உங்களுக்கு _ உண்டா', 1)]",True
+almost,"[('தானியங்கி', 1), ('கழகப்', 1), ('கிட்டத்தட்ட', 1)]",True
+apparent,"[('எவ்வித', 1)]",True
+apparently,[],False
+appear,"[('தோன்றவில்லை', 2), ('படாத', 1), ('செரிக்கப்பட்டுள்ளது', 1), ('உள்ளது', 1), ('காணப்படுகிறது', 1)]",True
+appeared,"[('செய்திகளை', 1)]",True
+appears,"[('தோன்றுகின்றது', 2), ('சொற்றொடர் _ வருகிறது', 2), ('வருகிறது', 2), ('சொற்றொடர்', 2), ('தோன்றுகிறது', 1)]",True
+approximately,"[('ஏறத்தாழ', 3)]",True
+around,"[('வளைக்கிறீர்கள்', 2), ('சுற்றி', 1)]",True
+assume,"[('எடுத்துக்கொள்ளலாமா', 2), ('எனக்கொள்ளலாமா', 1)]",True
+assumed,[],False
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('இக்கூற்று', 2), ('கூற்று', 1)]",True
+claimed,[],False
+doubt,"[('ஐயம்', 10), ('சந்தேகம்', 7), ('doubt', 1), ('வீண்', 1), ('ஐயம் என்னவெனில்', 1)]",True
+doubtful,[],False
+essentially,"[('அடிப்படையில்', 1)]",True
+estimate,"[('அடிப்படையில்', 1)]",True
+estimated,[],False
+feel,"[('நீங்கள்', 1), ('பார்த்தால்', 1), ('நீங்களே', 1), ('உணர', 1), ('உணர்வேன்', 1)]",True
+felt,[],True
+frequently,[],True
+from our perspective,[],False
+generally,"[('பொதுவாக', 1), ('தாங்கவே _ உண்டா', 1), ('உண்டா', 1), ('தாங்கவே', 1)]",True
+guess,"[('அணுமானிக்கிறேன்', 2), ('புதியவர்களாதலால்', 2), ('ஊகம்', 1), ('என நினைக்கிறேன்', 1), ('என', 1)]",True
+in general,[],True
+in most cases,[],False
+in most instances,[],False
+in our view,[],False
+indicate,"[('குறிப்பிட்டால்', 4), ('குறிப்பிட்டால் _ கருத்தில்லையெனில்', 2), ('கருத்தில்லையெனில்', 2), ('குறிக்கும்வகையில்', 2)]",True
+indicated,"[('குறிக்கப்பட்டுள்ளது', 1), ('சுட்டியுள்ளது', 1)]",True
+largely,[],False
+likely,[],True
+mainly,"[('முக்கியமாக', 1), ('பிரதானமாக', 1)]",True
+may,"[('இருக்கலாம்', 8), ('நிர்வாகித்', 2), ('மே', 2), ('போயிருக்கலாம்', 1), ('எனது _ தந்திருக்கலாம்', 1)]",True
+maybe,"[('ஒருவேளை', 12), ('ஒரு', 5), ('சேர்ப்பதால்', 1), ('ஒரு வேளை', 1), ('வேளை', 1)]",True
+might,"[('இருந்தால்', 1), ('யாரோ', 1), ('தொடங்கலாம்', 1)]",True
+mostly,[],False
+often,"[('பெரும்பாலும்', 4), ('அதிகளவில்', 1), ('முடியாது', 1)]",True
+on the whole,[],False
+ought,[],True
+perhaps,[],True
+plausible,[],False
+plausibly,[],False
+possible,"[('முடியுமா', 190), ('இயலுமா', 16), ('செய்யலாமா', 3), ('முடிந்தால்', 3), ('உருவாக்கலாம்', 2)]",True
+possibly,"[('possibly', 3)]",True
+postulate,[],False
+postulated,[],False
+presumable,[],False
+probable,[],False
+probably,"[('ஒருவேளை', 2), ('உலகமே', 1)]",True
+relatively,[],False
+roughly,[],True
+seems,"[('தெரிகிறது', 9), ('தோன்றுகிறது', 5), ('உள்ளது', 4), ('தெரிகின்றது', 2), ('இருப்பது', 2)]",True
+should,"[('வேண்டும்', 53), ('வேண்டுமா', 12), ('கூடாது', 9), ('என்ன', 5), ('என', 4)]",True
+sometimes,"[('சில', 4), ('சமயம்', 2), ('சில சமயம்', 2), ('சிலசமயங்களில்', 1), ('நேரங்களில்', 1)]",True
+somewhat,"[('ஓரளவுக்கு', 2), ('சற்றே', 1)]",True
+suggest,"[('பரிந்துரைக்களாம்', 1)]",True
+suggested,"[('பரிந்துரைக்கப்பட்டு', 1), ('பரிந்துரைத்துள்ளீர்கள்', 1), ('பரிந்துரைத்த', 1)]",True
+suppose,"[('பெறுகிறோம்', 1)]",True
+suspect,[],True
+tend to,[],True
+tends to,[],True
+typical,[],False
+typically,[],False
+uncertain,[],False
+uncertainly,[],False
+unclear,"[('தெளிவில்லை', 1)]",True
+unclearly,[],False
+unlikely,[],False
+usually,"[('பொதுவாக', 10), ('வழக்கம்', 2)]",True
+broadly,[],False
+tended to,[],True
+presumably,[],False
+suggests,[],True
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],False
+in this view,[],False
+in our opinion,[],False
+in my opinion,[],True
+to my knowledge,[],False
+fairly,"[('ஓரளவு', 1)]",True
+quite,[],False
+rather,"[('மாறாக', 2), ('போல்', 1), ('விடுவதைவிட _ விடலாமே', 1), ('விடலாமே', 1), ('விடுவதைவிட', 1)]",True
+argue,"[('இருப்பதை', 1)]",True
+argues,[],True
+argued,"[('வாதிட்டனரா', 1)]",True
+claims,"[('இக்கூற்றுகளுக்கு', 1), ('கூற்றுகள்', 1)]",True
+feels,[],False
+indicates,"[('எனக்', 1), ('குறிப்பிடுகிறது', 1), ('எனக் குறிப்பிடுகிறது', 1)]",True
+supposed,[],False
+supposes,[],False
+suspects,[],False
+postulates,[],False
+Strategy - Deference,,
+great,"[('பெரிய', 2), ('சிறந்த', 1), ('பெரும்பறை', 1), ('பெரியப்', 1), ('மிகுந்த', 1)]",True
+good,"[('நல்ல', 41), ('நல்லது', 12), ('நன்று', 7), ('நன்றாக', 4), ('good', 2)]",True
+nice,"[('நன்றாக', 11), ('மகிழ்ச்சி', 4), ('நல்லதல்லவா', 3), ('நன்று', 3), ('நல்லது', 2)]",True
+good,"[('நல்ல', 41), ('நல்லது', 12), ('நன்று', 7), ('நன்றாக', 4), ('good', 2)]",True
+interesting,"[('சிறப்பாக', 1), ('ஆர்வமூட்டும்', 1)]",True
+cool,"[('குளிர்ச்சியாக', 1), ('தேவையற்ற', 1), ('எப்படி', 1)]",True
+excellent,"[('மிகச்சிறந்த', 1), ('நன்று', 1)]",True
+awesome,"[('அருமை', 4), ('வியப்பாக', 3), ('அற்புதமான', 2), ('மிக்க', 1)]",True
+Strategy - 1st_person_pl.,,
+we,"[('நாம்', 122), ('உங்களைப்', 38), ('சிலரின்', 21), ('நாங்கள்', 9), ('நாமும்', 5)]",True
+our,"[('நமது', 17), ('நம்', 15), ('எங்கள்', 10), ('எமது', 9), ('நாங்கள்', 2)]",True
+us,"[('நாம்', 6), ('நம்மிடம்', 5), ('நான்', 2), ('உங்கள்', 2), ('நீங்கள்', 2)]",True
+ourselves,"[('நாமே', 1), ('நீங்கள்', 1)]",True
+Strategy - 1st_person,,
+i,"[('நான்', 305), ('நீங்கள்', 49), ('எனக்கு', 40), ('நினைக்கிறேன்', 22), ('நானும்', 16)]",True
+my,"[('எனது', 83), ('என்', 61), ('என்னுடைய', 30), ('நான்', 4), ('உங்கள்', 3)]",True
+mine,"[('என்னுடையது', 2), ('எனதுதான்', 1)]",True
+myself,"[('என்னைப்', 3), ('நானே', 1), ('ஆச்சரியப்படாதீர்கள்', 1), ('விட்டேன்', 1), ('என்னுடைய', 1)]",True
+Strategy - 1st_person_start,,
+i,"[('நான்', 305), ('நீங்கள்', 49), ('எனக்கு', 40), ('நினைக்கிறேன்', 22), ('நானும்', 16)]",True
+my,"[('எனது', 83), ('என்', 61), ('என்னுடைய', 30), ('நான்', 4), ('உங்கள்', 3)]",True
+mine,"[('என்னுடையது', 2), ('எனதுதான்', 1)]",True
+myself,"[('என்னைப்', 3), ('நானே', 1), ('ஆச்சரியப்படாதீர்கள்', 1), ('விட்டேன்', 1), ('என்னுடைய', 1)]",True
+Strategy - 2nd_person,,
+you,"[('நீங்கள்', 430), ('உங்களுக்கு', 70), ('உங்களைப்', 63), ('நான்', 54), ('உங்களால்', 52)]",True
+your,"[('உங்கள்', 224), ('உங்களது', 15), ('உங்களின்', 11), ('உங்களுடைய', 8), ('உங்க', 6)]",True
+yours,"[('உங்களுடையதா', 4), ('என்னுடையது', 2), ('உங்களதா', 2), ('உங்களதாக', 1), ('உங்கள்', 1)]",True
+yourself,"[('விரும்புகிறோம்', 38), ('உங்களை', 8), ('உங்களைப்', 6), ('நீங்களே', 4), ('தானே', 4)]",True
+Strategy - 2nd_person_start,,
+you,"[('நீங்கள்', 430), ('உங்களுக்கு', 70), ('உங்களைப்', 63), ('நான்', 54), ('உங்களால்', 52)]",True
+your,"[('உங்கள்', 224), ('உங்களது', 15), ('உங்களின்', 11), ('உங்களுடைய', 8), ('உங்க', 6)]",True
+yours,"[('உங்களுடையதா', 4), ('என்னுடையது', 2), ('உங்களதா', 2), ('உங்களதாக', 1), ('உங்கள்', 1)]",True
+yourself,"[('விரும்புகிறோம்', 38), ('உங்களை', 8), ('உங்களைப்', 6), ('நீங்களே', 4), ('தானே', 4)]",True
+Strategy - Indirect_(greeting),,
+hi,"[('வணக்கம்', 2), ('ஹாய்', 1), ('hi', 1)]",True
+hello,"[('வணக்கம்', 119), ('வணக்கங்க', 2), ('வண்க்கம்', 1), ('நலமா', 1), ('தங்களுக்கும்', 1)]",True
+hey,[],True
+Strategy - Direct_question,,
+what,"[('என்ன', 441), ('எந்த', 35), ('எது', 16), ('எவை', 12), ('என்னென்ன', 10)]",True
+why,"[('ஏன்', 109), ('எதற்காக', 20), ('எதற்கு', 17), ('எதனால்', 7), ('வேண்டும்', 6)]",True
+who,"[('யார்', 38), ('யாருக்காகப்', 6), ('யாரு', 3), ('நன்கு', 3), ('யாருக்கு', 3)]",True
+how,"[('எப்படி', 276), ('எவ்வாறு', 153), ('நலமா', 27), ('எத்தனை', 23), ('எவ்வளவு', 21)]",True
+Strategy - Direct_start,,
+so,"[('அப்படி', 182), ('எனவே', 52), ('ஆகவே', 15), ('அதனால்', 13), ('அவ்வாறு', 13)]",True
+then,"[('பிறகு', 16), ('பின்னர்', 12), ('அப்புறம்', 9), ('என்றால்', 9), ('பின்', 6)]",True
+and,"[(',', 237), ('அளவும்', 178), ('மற்றும்', 80), ('மேலும்', 55), ('வந்து', 46)]",True
+but,"[('ஆனால்', 455), ('ஆனாலும்', 8), ('மட்டுமல்லாது', 2), ('சேர்த்ததோடு', 2), ('but', 2)]",True
+or,"[('அல்லது', 375), (',', 15), ('or', 5), ('ஒன்றுக்கு', 4), ('உண்டா', 4)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,[],False
+abounds,[],False
+abundance,[],False
+abundant,[],False
+accessable,[],False
+accessible,[],False
+acclaim,[],False
+acclaimed,[],False
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,"[('நிறைவேற்றக்', 2)]",True
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,[],True
+accurately,[],False
+achievable,[],False
+achievement,"[('சாதனைப்போக்கு', 1), ('சாதனை', 1)]",True
+achievements,"[('சாதனைகளுக்கான', 2), ('பணிகளை', 1)]",True
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,[],False
+adjustable,[],False
+admirable,[],False
+admirably,[],False
+admiration,[],False
+admire,"[('பாரட்டுகின்றனர்', 1), ('வியக்கின்றனர்', 1), ('பாரட்டுகின்றனர் _ வியக்கின்றனர்', 1), ('போற்றுவது', 1)]",True
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,[],False
+adore,[],False
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,"[('முன்னேறியுள்ளன', 2)]",True
+advantage,[],False
+advantageous,[],False
+advantageously,[],False
+advantages,[],False
+adventuresome,[],False
+adventurous,[],False
+advocate,[],False
+advocated,[],False
+advocates,[],False
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,[],True
+affectionate,"[('பெற்றவரிடம்', 1), ('பாசம் பெற்றவரிடம்', 1), ('பாசம்', 1)]",True
+affinity,[],False
+affirm,[],False
+affirmation,[],False
+affirmative,[],False
+affluence,[],False
+affluent,[],False
+afford,"[('கொடுக்க', 1)]",True
+affordable,[],False
+affordably,[],False
+afordable,[],False
+agile,[],False
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],False
+altruistically,[],False
+amaze,[],True
+amazed,"[('கூறும்', 2), ('வியந்து', 2), ('வியந்து கூறும்', 2), ('வியக்க', 1), ('வியக்க வைத்துள்ளது', 1)]",True
+amazement,[],False
+amazes,[],False
+amazing,"[('மிரள', 1), ('வைக்கிறது', 1), ('மிரள வைக்கிறது', 1)]",True
+amazingly,[],False
+ambitious,[],False
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,[],False
+amity,[],False
+ample,[],True
+amply,[],False
+amuse,[],False
+amusing,[],False
+amusingly,[],False
+angel,[],False
+angelic,[],False
+apotheosis,[],False
+appeal,"[('மறைவழி', 2), ('இட்ட', 2), ('முறையிடுங்கள்', 1), ('முறையிடுவதை', 1)]",True
+appealing,"[('வருகிறீர்கள்', 1), ('வைத்து', 1), ('வைத்து வருகிறீர்கள்', 1), ('விடுத்துள்ளேன்', 1)]",True
+applaud,[],False
+appreciable,[],False
+appreciate,"[('பாராட்டுவது', 2), ('பாராட்டுகின்றேன்', 2), ('பாராட்டுகிறேன்', 1), ('எழுதும்', 1), ('எழுதும் _ பாராட்டுவது', 1)]",True
+appreciated,"[('பாராட்டியதையும்', 1), ('உணர்ந்து', 1), ('உணர்ந்து பாராட்டியதையும்', 1)]",True
+appreciates,[],False
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('பொருத்தமான', 6), ('உரிய', 6), ('தகுந்த', 5), ('பொருத்தம்', 2), ('பொருத்தமானது', 2)]",True
+approval,"[('ஒப்புதல்', 2), ('பெறுவது', 1), ('ஒப்புதலை', 1)]",True
+approve,[],True
+ardent,[],False
+ardently,[],False
+ardor,[],False
+articulate,[],False
+aspiration,[],False
+aspirations,[],False
+aspire,[],False
+assurance,[],False
+assurances,[],False
+assure,[],False
+assuredly,[],False
+assuring,[],False
+astonish,[],False
+astonished,[],False
+astonishing,[],False
+astonishingly,[],False
+astonishment,[],False
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,[],True
+attraction,[],False
+attractive,[],False
+attractively,[],False
+attune,[],False
+audible,"[('உணரத்தக்க', 1)]",True
+audibly,[],False
+auspicious,[],False
+authentic,[],True
+authoritative,[],False
+autonomous,[],False
+available,"[('கிடைக்கக்', 178), ('கிடைக்கும்', 3), ('கிடைக்குமா', 3), ('செய்யது', 2), ('கிடைக்கிறது', 1)]",True
+aver,[],True
+avid,"[('சீரிய', 1), ('முனைப்பான', 1)]",True
+avidly,[],False
+award,"[('விருது', 6), ('வழங்கும்', 2), ('சுக்கைற்றெட்சு', 1), ('விருதும்', 1), ('விருதுக்கான', 1)]",True
+awarded,[],False
+awards,"[('விருதுகள்', 1), ('விருதுகளை', 1)]",True
+awe,[],True
+awed,[],False
+awesome,"[('அருமை', 4), ('வியப்பாக', 3), ('அற்புதமான', 2), ('மிக்க', 1)]",True
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,[],False
+bargain,[],False
+beauteous,[],False
+beautiful,"[('போன்று', 1)]",True
+beautifullly,[],False
+beautifully,"[('அழகாக', 1)]",True
+beautify,[],False
+beauty,"[('அழகி', 1), ('அழகு', 1)]",True
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],True
+believeable,[],False
+beloved,[],False
+benefactor,[],False
+beneficent,[],False
+beneficial,[],False
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('நன்மை', 3), ('பயன்', 2), ('கிடையாது', 1), ('மூலம்', 1), ('மூலம் _ நன்மை', 1)]",True
+benefits,"[('பயன்கள்', 2), ('நன்மைகள்', 1)]",True
+benevolence,[],False
+benevolent,"[('மரபு', 1), ('நற்போக்கு', 1), ('மரபு _ நற்போக்கு', 1)]",True
+benifits,[],False
+best,"[('சிறந்த', 11), ('சிறந்தது', 1), ('என்னால்', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('நல்லது', 3), ('நன்றாக', 2), ('முடியும்', 2), ('சிறப்பாக', 2), ('இருப்பிடம்', 1)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,"[('அருளினோன்காண்', 1)]",True
+blessing,[],False
+bliss,[],False
+blissful,[],False
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,"[('வளர்ந்து', 1)]",True
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,[],False
+bonuses,[],False
+boom,[],False
+booming,[],False
+boost,[],True
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,[],False
+bravery,[],False
+bravo,[],False
+breakthrough,[],False
+breakthroughs,[],False
+breathlessness,"[('மூச்சுத் திவலை', 1), ('மூச்சுத்', 1), ('திவலை', 1)]",True
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,[],False
+brighten,[],False
+brighter,[],False
+brightest,[],False
+brilliance,[],False
+brilliances,[],False
+brilliant,[],False
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,"[('பிறரும் உரையாடினால்', 2), ('உரையாடினால்', 2), ('பிறரும்', 2)]",True
+calming,[],False
+calmness,[],False
+capability,[],False
+capable,"[('சேமிக்கும்', 1)]",True
+capably,[],False
+captivate,[],True
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,[],True
+celebrated,"[('கொண்டாடப்படுகிறது', 4), ('கொண்டாடப்படும்', 1)]",True
+celebration,"[('கொண்டாட்ட', 1), ('ஒருங்கிணைப்புப்', 1), ('கொண்டாட்ட ஒருங்கிணைப்புப்', 1)]",True
+celebratory,[],False
+champ,[],False
+champion,[],False
+charisma,[],False
+charismatic,[],False
+charitable,[],False
+charm,[],False
+charming,[],False
+charmingly,[],False
+chaste,[],False
+cheaper,[],False
+cheapest,[],False
+cheer,[],False
+cheerful,[],False
+cheery,[],False
+cherish,[],False
+cherished,[],False
+cherub,[],False
+chic,[],True
+chivalrous,[],False
+chivalry,[],False
+civility,[],False
+civilize,[],True
+clarity,[],True
+classic,[],True
+classy,[],False
+clean,[],True
+cleaner,[],False
+cleanest,[],False
+cleanliness,[],False
+cleanly,[],False
+clear,"[('தெளிவான', 5), ('தெரியவில்லை', 2), ('தெரிய', 2), ('காட்டுகின்றது', 1), ('தெளிவுபடுத்தக்கூடாது', 1)]",True
+clear-cut,[],False
+cleared,"[('clear', 1)]",True
+clearer,"[('கூற', 2), ('சிறிது', 2), ('சிறிது தெளிவாகக் கூற', 1), ('தெளிவாகக்', 1), ('இடப்படுகின்றன', 1)]",True
+clearly,"[('தெளிவாக', 4), ('நான்', 2), ('நான் தெளிவாக', 2), ('தெளிவாகத்', 2), ('ஆழமாகவும்', 1)]",True
+clears,[],False
+clever,[],False
+cleverly,[],False
+cohere,[],False
+coherence,[],False
+coherent,[],False
+cohesive,[],False
+colorful,[],False
+comely,[],False
+comfort,[],True
+comfortable,"[('வசதியான', 1)]",True
+comfortably,[],False
+comforting,[],False
+comfy,[],False
+commend,[],True
+commendable,"[('பாராட்டத்தக்கது', 1)]",True
+commendably,[],False
+commitment,[],False
+commodious,[],False
+compact,"[('சிறு', 1)]",True
+compactly,[],False
+compassion,[],False
+compassionate,[],False
+compatible,[],True
+competitive,"[('போட்டியா', 1)]",True
+complement,[],False
+complementary,[],False
+complemented,[],False
+complements,[],False
+compliant,[],False
+compliment,"[('புகழ்ச்சியாகவே', 2)]",True
+complimentary,[],False
+comprehensive,[],False
+conciliate,[],False
+conciliatory,[],False
+concise,[],False
+confidence,[],True
+confident,[],False
+congenial,[],False
+congratulate,[],False
+congratulation,[],True
+congratulations,"[('வாழ்த்துக்கள்', 6), ('வாழ்த்துகள்', 5), ('பங்களிப்பு', 2), ('உங்கள்', 2), ('உங்கள் பங்களிப்பு _ வாழ்த்துக்கள்', 2)]",True
+congratulatory,[],False
+conscientious,[],False
+considerate,[],False
+consistent,[],False
+consistently,[],False
+constructive,[],False
+consummate,[],False
+contentment,[],False
+continuity,[],False
+contrasty,[],False
+contribution,"[('பங்களிப்பு', 13), ('பங்களிப்பை', 2), ('பங்களிப்பைக்', 1), ('பங்களிப்பில்', 1), ('பங்களிக்கும்', 1)]",True
+convenience,[],True
+convenient,[],False
+conveniently,[],False
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,[],False
+convincingly,[],False
+cool,"[('குளிர்ச்சியாக', 1), ('தேவையற்ற', 1), ('எப்படி', 1)]",True
+coolest,[],False
+cooperative,[],False
+cooperatively,[],False
+cornerstone,[],False
+correct,"[('சரியா', 21), ('சரியான', 19), ('சரியானதா', 10), ('சரிதானா', 10), ('சரி', 8)]",True
+correctly,"[('சரியாக', 2), ('இப்படி', 1)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,"[('துணிவு', 3), ('துணிவில்லாமல்தானே', 1)]",True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,[],False
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('கிரியேட்டிவ்', 3), ('ஆக்கப்பூர்வமானது', 1), ('ஆக்க', 1), ('கிரியேட்டிவ் காமன்ஸ்', 1), ('காமன்ஸ்', 1)]",True
+credence,[],False
+credible,"[('விரைந்து _ செரிக்கப்பட்டுள்ளது', 1), ('செரிக்கப்பட்டுள்ளது', 1), ('விரைந்து', 1), ('பரிந்துரை', 1), ('ஏற்படும்', 1)]",True
+crisp,[],False
+crisper,[],False
+cure,[],True
+cure-all,[],False
+cushy,[],False
+cute,[],True
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,"[('துணித்தாய்வு', 1)]",True
+daringly,[],False
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,"[('dawn', 1)]",True
+dazzle,[],False
+dazzled,[],False
+dazzling,[],False
+dead-cheap,[],False
+dead-on,[],False
+decency,[],False
+decent,[],True
+decisive,[],False
+decisiveness,[],False
+dedicated,[],False
+defeat,[],False
+defeated,[],False
+defeating,[],False
+defeats,[],False
+defender,[],False
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,[],False
+delicious,[],False
+delight,[],False
+delighted,[],False
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,[],False
+deserving,[],False
+desirable,[],False
+desiring,[],False
+desirous,[],False
+destiny,"[('விதியை', 1)]",True
+detachable,[],False
+devout,[],False
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,[],False
+dignify,[],False
+dignity,[],False
+diligence,[],False
+diligent,"[('நன்றி', 1)]",True
+diligently,[],False
+diplomatic,[],False
+dirt-cheap,[],False
+distinction,[],False
+distinctive,[],False
+distinguished,[],False
+diversified,[],False
+divine,"[('இறை', 1)]",True
+divinely,[],False
+dominate,"[('ஆதிக்கம்', 2), ('செலுத்துகின்றனரா', 2), ('ஆதிக்கம் செலுத்துகின்றனரா', 2)]",True
+dominated,[],False
+dominates,[],False
+dote,[],False
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,[],False
+dynamic,"[('dynamic', 1)]",True
+eager,[],True
+eagerly,"[('முழுவதுமாகத்', 1)]",True
+eagerness,[],False
+earnest,[],False
+earnestly,[],False
+earnestness,[],False
+ease,[],True
+eased,[],True
+eases,[],True
+easier,"[('எளிது', 2), ('எளிமையாகுமல்லவா', 1), ('உள்ளதா', 1), ('ஏதும்', 1), ('ஏதும் உள்ளதா', 1)]",True
+easiest,[],False
+easiness,[],False
+easing,[],True
+easy,"[('எளிதா', 1), ('எளிது', 1), ('பயன்படுத்த', 1), ('பயன்படுத்த எளிது', 1), ('இலகு', 1)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,"[('எளிமையான _ சிக்கனமான', 1), ('சிக்கனமான', 1), ('எளிமையான', 1)]",True
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,"[('படிக்காத', 1)]",True
+effective,"[('பயனுள்ளதா', 1)]",True
+effectively,[],False
+effectiveness,[],False
+effectual,[],False
+efficacious,[],False
+efficient,"[('சரியல்ல', 1)]",True
+efficiently,[],False
+effortless,[],False
+effortlessly,[],False
+effusion,[],False
+effusive,[],False
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,[],False
+elegantly,[],False
+elevate,[],False
+elite,[],False
+eloquence,[],False
+eloquent,[],False
+eloquently,[],False
+embolden,[],False
+eminence,[],False
+eminent,[],False
+empathize,[],False
+empathy,[],False
+empower,[],False
+empowerment,[],False
+enchant,[],True
+enchanted,"[('மயங்காதல்லவா', 1), ('மயங்காமல்', 1)]",True
+enchanting,[],False
+enchantingly,[],False
+encourage,"[('ஊக்கப்படுத்தி', 1)]",True
+encouragement,[],False
+encouraging,"[('உற்சாகமூட்டுவதாக', 1), ('வாய்ப்பு அளிக்கக்கூடியபடி _ தெரிந்துகொள்வதற்கு', 1), ('தெரிந்துகொள்வதற்கு', 1), ('வாய்ப்பு', 1), ('அளிக்கக்கூடியபடி', 1)]",True
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,[],False
+endorsed,[],False
+endorsement,[],False
+endorses,[],False
+endorsing,[],False
+energetic,[],False
+energize,[],False
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],False
+engrossing,[],False
+enhance,"[('திரும்ப', 1), ('திரும்ப _ அதிகரிக்க', 1), ('அதிகரிக்க', 1)]",True
+enhanced,[],False
+enhancement,[],False
+enhances,[],False
+enjoy,"[('வெளியேற்றி', 1), ('வெளியேற்றி நீர்', 1), ('நீர்', 1), ('மகிழ்நன்', 1)]",True
+enjoyable,[],False
+enjoyably,[],False
+enjoyed,[],False
+enjoying,"[('ரசித்துக்கொண்டிருக்கிறேன்', 1)]",True
+enjoyment,[],False
+enjoys,[],False
+enlighten,[],True
+enlightenment,"[('ஞானம்', 1)]",True
+enliven,[],False
+ennoble,[],False
+enough,"[('போதுமா', 6), ('போதுமான', 2), ('போதிய', 2), ('நேரிடையாக', 2), ('போதாதா', 2)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,[],False
+enrichment,[],False
+enterprising,[],False
+entertain,[],False
+entertaining,[],False
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,[],False
+enthusiast,[],True
+enthusiastic,[],True
+enthusiastically,"[('உற்சாகமாகப்', 51), ('ஆர்வத்துடன்', 1)]",True
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,[],False
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,[],False
+equitable,[],False
+ergonomical,[],False
+err-free,[],False
+erudite,[],False
+ethical,[],False
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,[],False
+evenly,[],False
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],False
+exaltation,[],False
+exalted,[],False
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,"[('கடந்தும்', 2), ('விரிவாக்க', 2)]",True
+exceeded,[],False
+exceeding,[],False
+exceedingly,[],False
+exceeds,[],False
+excel,[],True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],True
+excellency,[],False
+excellent,"[('மிகச்சிறந்த', 1), ('நன்று', 1)]",True
+excellently,[],False
+excels,[],False
+exceptional,[],False
+exceptionally,[],False
+excite,[],True
+excited,"[('உற்சாகமாக', 21), ('குறித்து', 1)]",True
+excitedly,[],False
+excitedness,[],False
+excitement,[],False
+excites,[],False
+exciting,[],False
+excitingly,[],False
+exellent,[],False
+exemplar,[],False
+exemplary,[],False
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],False
+extoll,[],False
+extraordinarily,[],False
+extraordinary,[],False
+exuberance,[],False
+exuberant,[],False
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,[],False
+fabulously,[],False
+facilitate,"[('இலகுவாக்க', 1)]",True
+fair,"[('நியாயமா', 4), ('அழகல்ல', 2), ('கண்காட்சிக்கு', 2), ('நியாயமான', 2), ('நியாயம்', 1)]",True
+fairly,"[('ஓரளவு', 1)]",True
+fairness,[],False
+faith,"[('நம்பிக்கை', 4), ('நம்பிக்கையை', 1), ('நன்நோக்கம்', 1), ('சமயம்', 1), ('நம்பிக்கையில்', 1)]",True
+faithful,[],False
+faithfully,[],False
+faithfulness,[],False
+fame,"[('புகழ்ப்பெறுதல்', 1), ('புகழை', 1)]",True
+famed,[],False
+famous,"[('பெற்று', 1), ('பிரசித்தி', 1), ('பிரசித்தி பெற்று', 1), ('பிரபலமடைய', 1), ('புகழ்பெற்றவரா', 1)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],False
+fanfare,[],False
+fans,[],False
+fantastic,"[('ஃபெண்டாஸ்டிக்', 1)]",True
+fantastically,[],False
+fascinate,[],False
+fascinating,[],False
+fascinatingly,[],False
+fascination,[],False
+fashionable,[],False
+fashionably,[],False
+fast,"[('எப்படி', 1), ('வேகமாக', 1)]",True
+fast-growing,[],False
+fast-paced,[],False
+faster,[],False
+fastest,[],False
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('எதிரான', 1)]",True
+favorable,[],False
+favored,[],False
+favorite,"[('பிடித்த', 1)]",True
+favorited,[],False
+favour,[],False
+fearless,[],True
+fearlessly,[],False
+feasible,[],False
+feasibly,[],False
+feat,[],True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,[],False
+fertile,[],False
+fervent,[],False
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,[],False
+fiery,[],False
+fine,"[('இருக்கு', 1)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],False
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,[],False
+flatter,[],False
+flattering,[],False
+flatteringly,[],False
+flawless,[],False
+flawlessly,[],False
+flexibility,"[('தகுந்த _ தன்மை _ நடைமுறைப்படுத்த', 1), ('நடைமுறைப்படுத்த', 1), ('தன்மை', 1), ('தகுந்த', 1)]",True
+flexible,"[('வளைந்துகொடுக்காதது', 1)]",True
+flourish,[],False
+flourishing,[],False
+fluent,[],False
+flutter,[],False
+fond,[],False
+fondly,[],False
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,[],True
+fortunately,[],False
+fortune,[],False
+fragrant,[],False
+free,"[('கட்டற்ற', 4), ('free', 1), ('கலைக்களஞ்சியத்தில்', 1), ('வாங்க இலவசக்', 1), ('வாங்க', 1)]",True
+freed,[],True
+freedom,"[('freedom', 1)]",True
+freedoms,[],False
+fresh,[],True
+fresher,[],False
+freshest,[],False
+friendliness,[],False
+friendly,"[('நன்பாட்டுப் புலவனாய்ச்', 1), ('புலவனாய்ச்', 1), ('நன்பாட்டுப்', 1)]",True
+frolic,[],False
+frugal,[],False
+fruitful,[],False
+ftw,[],True
+fulfillment,"[('நிறைவைத்', 1)]",True
+fun,[],True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('வெறும் _ மூலம் _ பெறலாம்', 2), ('மூலம்', 2), ('பெறலாம்', 2), ('வெறும்', 2)]",True
+gained,[],False
+gainful,[],False
+gainfully,[],False
+gaining,[],False
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],True
+geekier,[],False
+geeky,[],False
+gem,[],True
+gems,[],False
+generosity,[],False
+generous,[],False
+generously,[],False
+genial,[],False
+genius,[],False
+gentle,[],False
+gentlest,[],False
+genuine,[],False
+gifted,[],False
+glad,"[('மகிழ்ச்சி', 5), ('இப்போது _ மகிழ்ச்சி', 2), ('இப்போது', 2), ('ஆங்கில', 1), ('நீங்கள்', 1)]",True
+gladden,[],False
+gladly,[],False
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,[],False
+gloriously,[],False
+glory,[],False
+glow,[],False
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('தங்கம்', 2)]",True
+golden,[],False
+good,"[('நல்ல', 41), ('நல்லது', 12), ('நன்று', 7), ('நன்றாக', 4), ('good', 2)]",True
+goodly,[],False
+goodness,"[('நற்கீரன்', 1)]",True
+goodwill,"[('நன்மதிப்பை', 2), ('நல்லெண்ண', 1)]",True
+goood,[],False
+gooood,[],False
+gorgeous,[],False
+gorgeously,[],False
+grace,"[('அருள்கூர்ந்து', 1), ('கூர்ந்து', 1), ('அருள்', 1), ('அருள் கூர்ந்து', 1)]",True
+graceful,[],False
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,"[('பேரகரமுதலியிலும்', 1)]",True
+grandeur,[],False
+grateful,[],False
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,[],False
+great,"[('பெரிய', 2), ('சிறந்த', 1), ('பெரும்பறை', 1), ('பெரியப்', 1), ('மிகுந்த', 1)]",True
+greatest,[],False
+greatness,[],False
+grin,[],False
+groundbreaking,[],False
+guarantee,"[('பெயரில்', 1)]",True
+guidance,"[('வழிகாட்டல்', 3), ('வழிகாட்டுதல்', 1), ('வழிகாட்டலின்மையுமா', 1)]",True
+guiltless,[],False
+gumption,[],False
+gush,[],False
+gusto,[],False
+gutsy,[],False
+hail,[],False
+halcyon,[],False
+hale,[],False
+hallmark,[],False
+hallmarks,[],False
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,[],False
+handsomely,[],False
+handy,[],False
+happier,[],False
+happily,[],False
+happiness,"[('மகிழ்ச்சி', 4)]",True
+happy,"[('மிக்க', 3), ('மகிழ்ச்சி', 3), ('நீங்கள்', 1), ('இனிய', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,[],False
+harmonious,[],False
+harmoniously,[],False
+harmonize,[],False
+harmony,[],False
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,"[('ஆரோக்கியமானதல்ல', 1)]",True
+hearten,[],False
+heartening,[],False
+heartfelt,"[('அன்பார்ந்த', 1)]",True
+heartily,[],False
+heartwarming,[],False
+heaven,[],True
+heavenly,[],False
+helped,"[('இணைந்து', 2), ('உதவி', 1)]",True
+helpful,"[('உதவியாக', 3), ('உதவுமல்லவா', 1)]",True
+helping,[],False
+hero,[],True
+heroic,"[('வீர', 1)]",True
+heroically,[],False
+heroine,[],True
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,[],False
+holy,"[('புனித', 1)]",True
+homage,[],False
+honest,[],False
+honesty,[],False
+honor,"[('கௌரவித்தி', 1)]",True
+honorable,[],False
+honored,[],False
+honoring,[],False
+hooray,[],False
+hopeful,[],False
+hospitable,[],False
+hot,"[('hot', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,[],True
+humane,[],False
+humble,[],False
+humility,"[('அடக்கம்', 1)]",True
+humor,"[('நகைச்சுவை உணர்வு', 1), ('உணர்வு', 1), ('நகைச்சுவை', 1)]",True
+humorous,[],False
+humorously,[],False
+humour,[],False
+humourous,[],False
+ideal,"[('ideal', 1)]",True
+idealize,[],False
+ideally,[],False
+idol,[],False
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],False
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,[],False
+ilu,[],True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,[],False
+impartial,[],False
+impartiality,[],False
+impartially,[],False
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('முக்கியம்', 4), ('முக்கியமான', 3), ('முக்கிய', 3), ('முக்கியத்துவம்', 3), ('முக்கியமானதோ', 2)]",True
+impress,"[('கவர்ந்துள்ளதா', 1)]",True
+impressed,[],False
+impresses,[],False
+impressive,[],False
+impressively,[],False
+impressiveness,[],False
+improve,"[('மேம்படுத்த', 9), ('உயர்த்த', 2), ('மேம்படுத்தட்டும்', 2), ('மேம்படுத்தலாமே', 2), ('முன்னேற்ற', 2)]",True
+improved,"[('மேம்படுத்தியிருக்கலாமே', 2), ('மேம்படுத்தியுள்ளேன்', 1), ('மேம்படுத்தி', 1), ('மேம்படுத்த', 1)]",True
+improvement,"[('improvement', 1)]",True
+improvements,"[('நன்மாற்றங்கள்', 1), ('மேம்பாடுகளை', 1)]",True
+improves,[],False
+improving,"[('மேம்படுத்தும்', 1)]",True
+incredible,[],False
+incredibly,[],False
+indebted,"[('தவறு _ பட்டுள்ளேன்', 1), ('பட்டுள்ளேன்', 1), ('தவறு', 1)]",True
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,"[('உழிஞை _ நன்றாக', 1), ('நன்றாக', 1), ('உழிஞை', 1)]",True
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,[],False
+infallible,[],False
+infallibly,[],False
+influential,[],False
+ingenious,[],False
+ingeniously,[],False
+ingenuity,[],False
+ingenuous,[],False
+ingenuously,[],False
+innocuous,[],False
+innovation,[],False
+innovative,"[('புதுமையான', 1)]",True
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,[],True
+inspirational,[],False
+inspire,[],False
+inspiring,"[('சரிசமானமாக', 1)]",True
+instantly,[],False
+instructive,[],False
+instrumental,[],True
+integral,[],False
+integrated,"[('ஒருங்கிணைத்து', 1)]",True
+intelligence,[],False
+intelligent,[],False
+intelligible,[],True
+interesting,"[('சிறப்பாக', 1), ('ஆர்வமூட்டும்', 1)]",True
+interests,"[('நலனுக்கும்', 1)]",True
+intimacy,[],False
+intimate,[],False
+intricate,"[('நுட்பம்வாய்ந்த', 1)]",True
+intrigue,[],False
+intriguing,[],False
+intriguingly,[],False
+intuitive,[],False
+invaluable,[],False
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],False
+inviolable,[],False
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,[],False
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,[],True
+joyful,[],False
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,[],False
+jubilantly,[],False
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],False
+keen,[],True
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,[],False
+kindness,"[('தயவால்', 1)]",True
+knowledgeable,[],False
+kudos,[],False
+large-capacity,[],False
+laud,[],False
+laudable,[],False
+laudably,[],False
+lavish,[],False
+lavishly,[],False
+law-abiding,[],False
+lawful,[],False
+lawfully,[],False
+lead,"[('இருக்கும்', 1), ('இட்டுச்செல்கிறது', 1), ('வழிநடத்துமா', 1), ('lead', 1)]",True
+leading,"[('முன்னணி', 2), ('முன்னணிப்', 2)]",True
+leads,[],True
+lean,[],True
+led,[],True
+legendary,[],False
+leverage,[],False
+levity,[],False
+liberate,[],True
+liberation,"[('விடுதலைக்காக', 1), ('விடுதலை', 1)]",True
+liberty,[],False
+lifesaver,[],False
+light-hearted,[],False
+lighter,"[('இலகுவான', 1), ('இருக்கிறதா', 1), ('பர்ஸனாலிட்டியாகவே _ லைட்டர் _ இருக்கிறதா', 1), ('பர்ஸனாலிட்டியாகவே', 1), ('லைட்டர்', 1)]",True
+likable,[],False
+like,"[('போன்ற', 32), ('போல்', 18), ('போன்று', 10), ('போல', 6), ('விரும்புகிறேன்', 4)]",True
+liked,[],False
+likes,[],False
+liking,"[('விருப்பப்படி', 2)]",True
+lionhearted,[],False
+lively,[],False
+logical,[],True
+long-lasting,[],False
+lovable,[],False
+lovably,[],False
+love,"[('அன்பு', 2), ('அன்புப்', 1), ('காதலா', 1), ('அன்பில்', 1)]",True
+loved,"[('அன்புக்குரியவற்றை', 2), ('எமது', 1), ('எமது அன்புக்குரியவற்றை', 1)]",True
+loveliness,[],False
+lovely,[],False
+lover,[],False
+loves,[],True
+loving,[],True
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,[],False
+loyalty,[],False
+lucid,[],False
+lucidly,[],False
+luck,"[('நற்கீரன்', 1)]",True
+luckier,[],False
+luckiest,[],False
+luckiness,[],False
+lucky,"[('லக்கி', 1)]",True
+lucrative,[],False
+luminous,[],False
+lush,[],False
+luster,[],False
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,[],False
+luxuriously,[],False
+luxury,"[('ஆடம்பர', 1)]",True
+lyrical,[],False
+magic,"[('மாஜாஜால', 1)]",True
+magical,[],False
+magnanimous,[],False
+magnanimously,[],False
+magnificence,[],False
+magnificent,[],False
+magnificently,[],False
+majestic,[],False
+majesty,[],False
+manageable,[],False
+maneuverable,[],False
+marvel,"[('மார்வெல்', 3), ('மார்வெல் _ மார்வெல்', 1), ('marvel', 1)]",True
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,[],False
+masterful,[],False
+masterfully,[],False
+masterpiece,[],False
+masterpieces,[],False
+masters,[],False
+mastery,[],False
+matchless,[],False
+mature,"[('முதிர்ச்சி', 1)]",True
+maturely,[],False
+maturity,[],False
+meaningful,"[('அர்த்தமுள்ள', 2)]",True
+memorable,[],False
+merciful,[],False
+mercifully,[],False
+mercy,[],False
+merit,"[('merit', 1)]",True
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,[],False
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,[],False
+meticulously,[],False
+mightily,[],False
+mighty,[],True
+mind-blowing,[],False
+miracle,[],False
+miracles,[],False
+miraculous,"[('மிரள _ செய்யும்', 1), ('மிரள', 1), ('செய்யும்', 1)]",True
+miraculously,[],False
+miraculousness,[],False
+modern,"[('தற்காலத்', 1), ('நவீன', 1)]",True
+modest,[],False
+modesty,[],False
+momentous,[],False
+monumental,[],False
+monumentally,[],False
+morality,[],False
+motivated,[],False
+multi-purpose,[],False
+navigable,[],False
+neat,[],False
+neatest,[],False
+neatly,[],False
+nice,"[('நன்றாக', 11), ('மகிழ்ச்சி', 4), ('நல்லதல்லவா', 3), ('நன்று', 3), ('நல்லது', 2)]",True
+nicely,"[('நைசாக', 1)]",True
+nicer,[],False
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,[],False
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,[],False
+noteworthy,"[('குறிப்பிடத்தக்கது', 1)]",True
+nourish,[],True
+nourishing,[],False
+nourishment,[],False
+novelty,"[('நாவற்பழமா', 1)]",True
+nurturing,[],False
+oasis,[],False
+obsession,[],False
+obsessions,[],False
+obtainable,[],False
+openly,[],True
+openness,[],False
+optimal,"[('உகந்த', 15), ('உகந்தது', 2)]",True
+optimism,[],False
+optimistic,[],False
+opulent,[],False
+orderly,[],False
+originality,[],False
+outdo,[],False
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,[],False
+outstandingly,[],False
+outstrip,[],False
+outwit,[],False
+ovation,[],False
+overjoyed,"[('மகிழ்ச்சி', 1), ('மட்டற்ற', 1), ('மட்டற்ற மகிழ்ச்சி', 1)]",True
+overtake,[],False
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],False
+painlessly,[],False
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,[],False
+paradise,[],False
+paramount,[],False
+pardon,[],False
+passion,[],False
+passionate,[],False
+passionately,[],False
+patience,[],False
+patient,[],True
+patiently,"[('பொறுமையாக', 2)]",True
+patriot,[],True
+patriotic,"[('நாட்டுடமை', 2), ('குறைந்தபட்சம் _ நாட்டுடமை', 1), ('குறைந்தபட்சம்', 1)]",True
+peace,"[('அமைதி', 1), ('அருள்', 1)]",True
+peaceable,[],False
+peaceful,[],False
+peacefully,[],False
+peacekeepers,[],False
+peach,[],False
+peerless,[],False
+pep,[],False
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,"[('சரியான', 2), ('சரியானது', 2)]",True
+perfection,[],False
+perfectly,[],False
+permissible,"[('முறையான', 2), ('தேவைப்படும்', 1), ('அனுமதி', 1), ('முறையான _ அனுமதி', 1)]",True
+perseverance,[],False
+persevere,[],False
+personages,[],False
+personalized,[],False
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,[],False
+pinnacle,[],False
+playful,[],False
+playfully,[],False
+pleasant,[],False
+pleasantly,[],False
+pleased,[],False
+pleases,[],False
+pleasing,[],False
+pleasingly,[],False
+pleasurable,"[('அளிக்க', 1)]",True
+pleasurably,[],False
+pleasure,"[('மகிழ்ச்சி', 1)]",True
+plentiful,[],False
+pluses,[],False
+plush,[],False
+plusses,[],False
+poetic,[],False
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,[],False
+polite,"[('கண்ணியமான', 3), ('கண்ணியவானா', 1), ('கண்ணியமான _ வழிநடத்துமா', 1), ('வழிநடத்துமா', 1)]",True
+politeness,[],False
+popular,"[('popular', 2)]",True
+portable,[],False
+posh,[],False
+positive,"[('நல்விளைவாக', 1)]",True
+positively,[],False
+positives,[],False
+powerful,"[('வாய்ந்த', 1)]",True
+powerfully,[],False
+praise,"[('புகழ்ச்சி', 2), ('பாராட்டுவது', 1), ('புகழ்ச்சியா', 1)]",True
+praiseworthy,[],False
+praising,"[('பாராட்டி', 2)]",True
+pre-eminent,[],False
+precious,"[('பொன்னான', 1)]",True
+precise,[],False
+precisely,[],False
+preeminent,[],False
+prefer,[],True
+preferable,[],False
+preferably,[],False
+prefered,[],False
+preferes,[],False
+preferring,[],False
+prefers,[],False
+premier,[],False
+prestige,[],False
+prestigious,[],False
+prettily,[],False
+pretty,[],True
+priceless,[],False
+pride,"[('பெருமை', 1)]",True
+principled,[],False
+privilege,"[('பாக்கியம்', 1), ('சித்தம் _ பாக்கியம்', 1), ('சித்தம்', 1)]",True
+privileged,[],False
+prize,"[('பரிசில்', 2), ('மின்பரிசுச்', 1)]",True
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,[],False
+productively,[],False
+proficient,[],False
+proficiently,[],False
+profound,"[('ஆழ்மன _ வெளிப்படையான', 1), ('ஆழ்மன', 1), ('வெளிப்படையான', 1)]",True
+profoundly,[],False
+profuse,[],False
+profusion,[],False
+progress,"[('நடந்துகொண்டிருக்கிறது', 3), ('முன்னேறவில்லை', 1), ('நடந்துகொண்டிருக்கிறது _ அறிந்த', 1), ('அறிந்த', 1)]",True
+progressive,[],True
+prolific,[],False
+prominence,[],False
+prominent,[],False
+promise,[],False
+promised,[],False
+promises,[],False
+promising,[],False
+promoter,[],False
+prompt,"[('உடனடி', 2)]",True
+promptly,[],False
+proper,"[('முறையான', 8), ('சரியான', 6), ('தகுந்த', 1)]",True
+properly,"[('சரியாக', 5), ('முறையாக', 3), ('ஒழுங்காக', 2), ('உம்மால்', 1), ('முறைப்படி', 1)]",True
+propitious,[],False
+propitiously,[],False
+pros,[],True
+prosper,[],True
+prosperity,"[('வாழ்க', 2), ('வாழ்க வளமுடன்', 1), ('வளமுடன்', 1)]",True
+prosperous,[],False
+prospros,[],False
+protect,"[('காக்கின்றதாகக்', 1), ('காக்கவேண்டியவர்கள்', 1)]",True
+protection,[],False
+protective,[],False
+proud,[],True
+proven,"[('நிரூபிக்கப்பட்டுள்ளது', 1)]",True
+proves,[],False
+providence,[],False
+proving,"[('நிரூபித்துவிட்டு', 1)]",True
+prowess,[],False
+prudence,[],False
+prudent,[],False
+prudently,[],False
+punctual,[],False
+pure,"[('தூய', 3), ('பிரியா', 1), ('தூய _ பிரியா', 1)]",True
+purify,[],False
+purposeful,[],False
+quaint,[],True
+qualified,[],False
+qualify,"[('கொடுக்க', 1)]",True
+quicker,[],False
+quiet,[],False
+quieter,[],False
+radiance,[],False
+radiant,"[('கதிரும்', 1)]",True
+rapid,[],False
+rapport,[],False
+rapt,[],False
+rapture,[],False
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,"[('ஒட்டுமொத்தமாக', 1)]",True
+razor-sharp,[],False
+reachable,[],False
+readable,"[('வாசித்து', 1)]",True
+readily,[],False
+ready,"[('தயாரா', 1), ('தயார்', 1), ('உதவ', 1), ('தங்களுக்கு', 1), ('தங்களுக்கு உதவ', 1)]",True
+reaffirm,[],False
+reaffirmation,[],False
+realistic,[],False
+realizable,[],False
+reasonable,[],False
+reasonably,[],False
+reasoned,[],False
+reassurance,[],False
+reassure,[],False
+receptive,[],False
+reclaim,[],False
+recomend,[],False
+recommend,"[('பரிந்துரைக்க', 8), ('பரிந்துரை', 3), ('பரிந்துரைக்கிறீர்', 1), ('நீக்க பரிந்துரைக்கலமா', 1), ('பரிந்துரைக்கலமா', 1)]",True
+recommendation,"[('பரிந்துரை', 6), ('பரிந்துரையில்', 2), ('பரிந்துரைக்கு', 2), ('பரிந்துரைப்', 1), ('கட்டுரை', 1)]",True
+recommendations,"[('பரிந்துரைகளே', 1), ('பரிந்துரைகள்தான்', 1)]",True
+recommended,"[('பரிந்துரைக்கப்பட்டுள்ளது', 2), ('நீக்கப்', 1), ('நீக்கப் பரிந்துரைக்கப்பட்டுள்ளது', 1)]",True
+reconcile,[],False
+reconciliation,[],False
+record-setting,[],False
+recover,"[('மீட்க', 2), ('மீளப்', 1), ('மீட்டெடுக்கவா', 1), ('மீட்டெடு', 1), ('மீள்விக்கவா', 1)]",True
+recovery,"[('மீளப்பெறுதலா', 2)]",True
+rectification,[],False
+rectify,"[('சீரமைக்கலாமா', 1)]",True
+rectifying,[],False
+redeem,[],False
+redeeming,[],False
+redemption,"[('மீளமை', 1), ('சிவத்தொண்டிற்கு', 1)]",True
+refine,[],True
+refined,[],True
+refinement,[],False
+reform,"[('சீர்திருத்தம்', 1)]",True
+reformed,[],False
+reforming,[],False
+reforms,[],False
+refresh,[],True
+refreshed,[],False
+refreshing,"[('ஊட்டுகிறது', 2)]",True
+refund,[],False
+refunded,[],False
+regal,[],False
+regally,[],False
+regard,"[('எவ்வாறு', 1), ('கூட', 1)]",True
+rejoice,[],False
+rejoicing,[],False
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,[],False
+relent,[],True
+reliable,[],False
+reliably,[],False
+relief,"[('மனம்', 1)]",True
+relish,[],False
+remarkable,[],False
+remarkably,[],False
+remedy,[],False
+remission,[],False
+remunerate,[],False
+renaissance,"[('மறுமலர்ச்சி', 1)]",True
+renewed,[],False
+renown,[],True
+renowned,"[('புகழ்ப்பெற்றவரா', 1)]",True
+replaceable,[],False
+reputable,[],False
+reputation,[],False
+resilient,[],False
+resolute,[],False
+resound,[],False
+resounding,[],False
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('மரியாதை', 2), ('மரியாதை வைத்திருக்கின்றனரா', 1), ('மரியாதை வைத்திருக்கின்றேனா', 1), ('வைத்திருக்கின்றனரா', 1), ('வைத்திருக்கின்றேனா', 1)]",True
+respectable,[],False
+respectful,"[('மிக்கவரா', 1), ('மரியாதை மிக்கவரா', 1), ('மரியாதை', 1)]",True
+respectfully,[],True
+respite,[],False
+resplendent,[],False
+responsibly,[],False
+responsive,[],False
+restful,[],False
+restored,"[('மீட்டெக்கப்படவேண்டியவையா', 1)]",True
+restructure,[],False
+restructured,[],False
+restructuring,[],False
+retractable,[],False
+revel,[],False
+revelation,[],False
+revere,[],False
+reverence,[],False
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,[],False
+revive,[],False
+revives,[],False
+revolutionary,"[('கொண்டவரா', 1), ('புரட்சிகர _ கொண்டவரா', 1), ('புரட்சிகர', 1)]",True
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,[],True
+rewarding,[],False
+rewardingly,[],False
+rich,"[('செல்வ', 1), ('செல்வகுரு', 1)]",True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('சரியா', 20), ('சரியான', 19), ('சரி', 13), ('அல்லவா', 6), ('சரியாக', 6)]",True
+righten,[],False
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,"[('சரியாகவே', 1)]",True
+rightness,[],False
+risk-free,[],False
+robust,[],False
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,"[('காதல்', 1)]",True
+romantically,[],False
+romanticize,[],False
+roomier,[],False
+roomy,[],False
+rosy,[],False
+safe,[],True
+safely,[],False
+sagacity,[],False
+sagely,[],False
+saint,"[('saint', 1), ('புனிதர்', 1)]",True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,[],False
+sane,[],False
+satisfactorily,[],False
+satisfactory,"[('திருப்தியாக', 1)]",True
+satisfied,"[('திருப்தி', 1)]",True
+satisfies,[],False
+satisfy,[],True
+satisfying,"[('திருப்தி', 1)]",True
+satisified,[],False
+saver,"[('சேவர்', 1), ('saver', 1)]",True
+savings,[],False
+savior,[],False
+savvy,[],False
+scenic,[],False
+seamless,[],False
+seasoned,[],False
+secure,[],False
+securely,[],False
+selective,[],False
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,[],False
+sensational,[],False
+sensationally,[],False
+sensations,[],False
+sensible,"[('உணரத்தக்க', 1)]",True
+sensibly,[],False
+sensitive,[],True
+serene,[],False
+serenity,[],False
+sexy,[],False
+sharp,"[('sharp', 1)]",True
+sharper,[],False
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,[],True
+shiny,"[('பளபளப்பான', 1)]",True
+significant,"[('சிறப்புமிக்க', 2), ('குறிப்பிடத்தக்க', 2), ('குறிப்பிடத்தக்கமை', 1), ('குறிப்பிடத்தக்கவர்கள்', 1), ('பற்றி', 1)]",True
+silent,"[('கேட்ட', 1), ('மெளனம்', 1), ('மௌமான', 1)]",True
+simpler,"[('எளிமையான', 1)]",True
+simplest,"[('எளிமையானது', 1)]",True
+simplified,"[('எளிமைப்படுத்த', 1)]",True
+simplifies,[],False
+simplify,[],False
+simplifying,[],False
+sincere,[],False
+sincerely,[],False
+sincerity,[],False
+skill,[],False
+skilled,[],False
+skillful,[],False
+skillfully,[],False
+slammin,[],False
+sleek,[],False
+slick,[],False
+smart,[],True
+smarter,[],False
+smartest,[],False
+smartly,[],False
+smile,[],False
+smiles,[],False
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,[],False
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,[],False
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,"[('மென்ம', 1), ('மென்', 1)]",True
+softer,[],False
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,"[('solid', 3)]",True
+solidarity,[],False
+soothe,[],False
+soothingly,[],False
+sophisticated,[],False
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,[],False
+spectacularly,[],False
+speedily,[],False
+speedy,[],False
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,"[('ஆன்மிகப்பேச்சாளர்கள்', 1)]",True
+splendid,[],False
+splendidly,[],False
+splendor,[],False
+spontaneous,[],True
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,[],False
+stabilize,[],False
+stable,[],False
+stainless,[],False
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],False
+steadfastly,[],False
+steadfastness,[],False
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,[],False
+stellarly,[],False
+stimulate,[],False
+stimulates,[],False
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],False
+straightforward,[],True
+streamlined,[],False
+striking,[],False
+strikingly,[],False
+striving,[],False
+strong,[],True
+stronger,[],False
+strongest,[],False
+stunned,[],False
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,[],False
+stylishly,[],False
+stylized,[],False
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,[],False
+succeed,"[('வெற்றி', 4), ('வேண்டுமா', 1), ('முடியும்', 1)]",True
+succeeded,[],False
+succeeding,[],False
+succeeds,[],False
+succes,[],True
+success,"[('வெற்றிக்கான', 2)]",True
+successes,"[('வெற்றிகள்', 1)]",True
+successful,[],False
+successfully,[],False
+suffice,[],False
+sufficed,[],False
+suffices,[],False
+sufficient,"[('போதுமே', 1), ('போதுமானதா', 1)]",True
+sufficiently,[],False
+suitable,"[('ஏற்புடைய', 1), ('பொருத்தமில்லை', 1), ('தகுந்த', 1)]",True
+sumptuous,[],False
+sumptuously,[],False
+sumptuousness,[],False
+super,"[('சூப்பர்', 1)]",True
+superb,[],False
+superbly,[],False
+superior,[],False
+superiority,[],False
+supple,[],False
+support,"[('ஆதரவு', 1), ('நன்றி', 1), ('துணை', 1)]",True
+supported,[],True
+supporter,[],False
+supporting,[],False
+supportive,[],False
+supports,"[('விக்கியில்', 1)]",True
+supremacy,[],False
+supreme,"[('உச்சநீதிமன்றமும்', 1)]",True
+supremely,[],False
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,[],False
+surreal,[],False
+survival,[],False
+survivor,[],False
+sustainability,"[('பேண்த்தகைமை', 2), ('சரி', 1), ('பேண்த்தகைமை _ சரி', 1), ('sustainability', 1), ('பேண்தகைமை', 1)]",True
+sustainable,"[('பேணத்தக்க', 1)]",True
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,[],False
+sweet,[],True
+sweeten,[],False
+sweetheart,[],False
+sweetly,[],False
+sweetness,[],False
+swift,[],False
+swiftness,[],False
+talent,"[('திறமையினை', 1)]",True
+talented,[],False
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,[],False
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,[],False
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('நன்றி', 9), ('மிக்க', 2), ('எதிர்பார்க்கிறீர்கள்', 1), ('நன்றிங்க', 1), ('தோழரே', 1)]",True
+thankful,[],False
+thinner,[],False
+thoughtful,[],False
+thoughtfully,[],False
+thoughtfulness,[],False
+thrift,[],False
+thrifty,[],False
+thrill,[],True
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,[],False
+thriving,[],False
+thumb-up,[],False
+thumbs-up,[],False
+tickle,[],False
+tidy,[],False
+time-honored,[],False
+timely,[],False
+tingle,[],False
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,[],False
+tolerable,[],False
+toll-free,[],False
+top,"[('மேல்', 4), ('மேலே', 2), ('மேற்புறமுள்ள', 1), ('கீழ்நிலையிலிருந்து', 1)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,[],False
+tough,[],False
+tougher,[],False
+toughest,[],False
+traction,[],True
+tranquil,[],False
+tranquility,[],False
+transparent,[],False
+treasure,[],False
+tremendously,[],False
+trendy,[],False
+triumph,[],False
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,[],False
+trouble-free,[],False
+trump,[],False
+trumpet,[],False
+trust,"[('நம்புவது', 1)]",True
+trusted,[],False
+trusting,[],False
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,[],False
+trusty,[],False
+truthful,[],False
+truthfully,[],False
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,[],False
+unassailable,[],False
+unbeatable,[],False
+unbiased,[],False
+unbound,[],False
+uncomplicated,[],False
+unconditional,[],False
+undamaged,[],False
+undaunted,[],False
+understandable,"[('மீள்விக்கையில்', 1), ('சரி', 1), ('புரிந்துகொள்ளக்கூடியது', 1), ('சரி _ புரிந்துகொள்ளக்கூடியது', 1), ('புரியும்படியாக', 1)]",True
+undisputable,[],False
+undisputably,[],False
+undisputed,[],False
+unencumbered,[],False
+unequivocal,[],False
+unequivocally,[],False
+unfazed,[],False
+unfettered,[],False
+unforgettable,[],False
+unity,[],True
+unlimited,[],False
+unmatched,[],False
+unparalleled,[],False
+unquestionable,[],False
+unquestionably,[],False
+unreal,[],False
+unrestricted,[],False
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,"[('மேம்படுத்த', 1), ('உயர்த்தியதே', 1)]",True
+upheld,[],False
+uphold,[],False
+uplift,[],True
+uplifting,[],False
+upliftingly,[],False
+upliftment,[],False
+upscale,[],False
+usable,[],False
+useable,[],False
+useful,"[('பயனுடைய', 3), ('பயன்படக்கூடியவையா', 2), ('பயனுள்ள', 2), ('பயன்படத்தக்க', 1), ('தொடங்கலாமா', 1)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,[],True
+valiantly,"[('வீரமரணம்', 1)]",True
+valor,[],False
+valuable,[],False
+variety,"[('பல்வேறு', 2), ('பலதரப்பட்ட', 1)]",True
+venerate,[],False
+verifiable,[],False
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,[],False
+victory,[],False
+viewable,[],False
+vigilance,[],False
+vigilant,[],False
+virtue,[],False
+virtuous,[],False
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],False
+vouchsafe,[],False
+warm,[],False
+warmer,[],False
+warmhearted,[],False
+warmly,[],False
+warmth,[],False
+wealthy,[],False
+welcome,"[('வருக', 3), ('வரவேற்கிறேன்', 2), ('ஆர்வத்தை வரவேற்கிறேன்', 2), ('ஆர்வத்தை', 2), ('மீண்டும்', 1)]",True
+well,"[('சரி', 4), ('நன்கு', 2), ('அறிமுகத்திலும்', 2), ('நல்லது', 2), ('சிறப்பாகத்', 2)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,[],False
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,[],True
+willingly,[],False
+willingness,[],False
+win,[],True
+windfall,[],False
+winnable,[],False
+winner,"[('வெற்றியாளர்', 1)]",True
+winners,"[('வெற்றியாளர்கள்', 1), ('winners', 1)]",True
+winning,"[('வெற்றிபெற்று', 2), ('வெற்றி', 1)]",True
+wins,[],True
+wisdom,"[('ஞானம்', 2), ('wisdom', 2)]",True
+wise,"[('பயனர்வெளிவாரியாகவும்', 2), ('பயனர்வாரியாகவும்', 2), ('வாரியாகவும்', 1), ('உணர்வேன்', 1)]",True
+wisely,[],False
+witty,[],False
+won,"[('பெற்ற', 1)]",True
+wonder,"[('அதிசயமாகும்', 4), ('ஆச்சர்யப்பட', 1), ('வியக்கின்றனர்', 1), ('ஐயம்', 1)]",True
+wonderful,[],True
+wonderfully,"[('அருமையாக', 1)]",True
+wonderous,[],False
+wonderously,[],False
+wonders,[],False
+wondrous,[],False
+woo,[],True
+work,"[('பணி', 17), ('வேலை', 6), ('உழைப்பை', 3), ('வேலையை', 2), ('இயங்காதா', 2)]",True
+workable,[],False
+worked,"[('உழைத்த _ தர', 2), ('தர', 2), ('உழைத்த', 2), ('பணியாற்றியவன்', 2), ('உழைத்திருக்கிறார்கள்', 1)]",True
+works,"[('செய்கிறது', 2), ('படைப்புக்களைப்', 2), ('அமையும்', 1), ('என்ன', 1), ('படைப்புகள்', 1)]",True
+world-famous,[],False
+worth,"[('worth', 1)]",True
+worth-while,[],False
+worthiness,[],False
+worthwhile,[],False
+worthy,"[('தகுதியானவையா', 1)]",True
+wow,"[('ஆஹா', 1)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],False
+youthful,[],False
+zeal,[],True
+zenith,[],False
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,[],False
+abolish,[],False
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],False
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,[],False
+abruptly,[],False
+abscond,[],False
+absence,[],False
+absent-minded,[],False
+absentee,[],False
+absurd,[],False
+absurdity,[],False
+absurdly,[],False
+absurdness,[],False
+abuse,"[('செய்யாதீர்கள்', 1), ('abuse', 1)]",True
+abused,[],False
+abuses,[],False
+abusive,[],False
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,"[('தற்செயலான', 1)]",True
+accost,[],False
+accursed,[],False
+accusation,"[('குற்றச்சாட்டே', 2)]",True
+accusations,[],True
+accuse,"[('தேடுகிறீர்களா', 1), ('கூறுவதும்', 1)]",True
+accuses,[],False
+accusing,"[('கொடுத்துக்', 2), ('குற்றச்சாட்டும் _ கொடுத்துக்', 1), ('குற்றச்சாட்டும்', 1)]",True
+accusingly,[],False
+acerbate,[],False
+acerbic,[],False
+acerbically,[],False
+ache,[],True
+ached,[],True
+aches,[],True
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,[],True
+addicted,[],False
+addicting,[],False
+addicts,[],False
+admonish,[],False
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,[],False
+adulterate,[],False
+adulterated,[],False
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,[],False
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,[],True
+aggravate,[],False
+aggravating,[],False
+aggravation,[],False
+aggression,[],False
+aggressive,[],False
+aggressiveness,[],False
+aggressor,[],False
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],False
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,[],False
+alarm,[],False
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,[],False
+alienated,[],False
+alienation,[],False
+allegation,[],False
+allegations,[],False
+allege,[],True
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,[],False
+ambiguous,[],False
+ambivalence,[],False
+ambivalent,[],False
+ambush,[],False
+amiss,[],False
+amputate,[],False
+anarchism,[],False
+anarchist,[],False
+anarchistic,[],False
+anarchy,"[('அரசின்மைக்', 1)]",True
+anemic,[],False
+anger,[],True
+angrily,[],False
+angriness,[],False
+angry,"[('கோபப்பட்டிருந்தால்', 2), ('வெக்கப்படாமல் கேக்கோணும் சரியே', 1), ('சரியே', 1), ('கேக்கோணும்', 1), ('வெக்கப்படாமல்', 1)]",True
+anguish,[],False
+animosity,"[('பொறுப்பில் _ பொறுப்பில் _ விரோதம்', 1), ('பொறுப்பில்', 1), ('விரோதம்', 1), ('அவசரம்', 1)]",True
+annihilate,[],False
+annihilation,"[('அழிவின்மை _ வாழ்வு', 2), ('அழிவின்மை', 2), ('வாழ்வு', 2)]",True
+annoy,[],True
+annoyance,[],False
+annoyances,[],False
+annoyed,"[('சினமடைவதைத்', 1)]",True
+annoying,"[('உறுத்தலாகத் தான் இருக்கும்', 1), ('இருக்கும்', 1), ('உறுத்தலாகத்', 1), ('தான்', 1), ('என்பதாலேயே', 1)]",True
+annoyingly,[],False
+annoys,[],False
+anomalous,[],False
+anomaly,[],False
+antagonism,[],False
+antagonist,[],False
+antagonistic,[],False
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,"[('எதிர்ப்பு', 1), ('கலையரசி _ எதிர்ப்பியலை _ எதிர்ப்பு', 1), ('எதிர்ப்பியலை', 1), ('கலையரசி', 1)]",True
+antiquated,[],False
+antithetical,[],False
+anxieties,"[('கவலைகளை', 1)]",True
+anxiety,[],False
+anxious,[],False
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],True
+apocalypse,[],False
+apocalyptic,[],False
+apologist,[],False
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],False
+apprehensively,[],False
+arbitrary,"[('எதேச்சதிகார', 1), ('முதற்கண் _ எதேச்சதிகார', 1), ('முதற்கண்', 1)]",True
+arcane,[],False
+archaic,[],False
+arduous,[],False
+arduously,[],False
+argumentative,[],False
+arrogance,[],False
+arrogant,[],False
+arrogantly,[],False
+ashamed,"[('கூறிய', 2)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],True
+assassinate,[],False
+assault,[],False
+assult,[],False
+astray,[],False
+asunder,[],False
+atrocious,[],False
+atrocities,[],False
+atrocity,[],False
+atrophy,[],False
+attack,"[('தாக்குதல்', 6), ('தாக்குதல் _ தாக்குதல்', 1), ('தாக்குவது', 1), ('தாக்குதலாகவே', 1), ('தாக்குவதும்', 1)]",True
+attacks,[],True
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,[],False
+audiciously,[],False
+austere,[],False
+authoritarian,[],False
+autocrat,[],False
+autocratic,[],False
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],False
+averse,[],False
+aversion,[],False
+aweful,[],False
+awful,[],False
+awfully,[],False
+awfulness,[],False
+awkward,[],False
+awkwardness,[],False
+ax,[],True
+babble,[],False
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,[],False
+backwardness,[],False
+backwood,[],False
+backwoods,[],False
+bad,"[('கெட்ட', 2)]",True
+badly,[],False
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],False
+banal,[],False
+banalize,[],False
+bane,[],False
+banish,[],False
+banishment,[],False
+bankrupt,[],False
+barbarian,[],False
+barbaric,[],False
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,[],False
+baseless,"[('ஆதாரமற்ற', 1)]",True
+bash,[],False
+bashed,[],False
+bashful,[],False
+bashing,[],False
+bastard,[],False
+bastards,[],False
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,"[('கேட்கிறேன்', 1)]",True
+beggar,[],False
+beggarly,[],False
+begging,[],False
+beguile,[],False
+belabor,[],False
+belated,[],False
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,[],False
+bellicose,[],False
+belligerence,[],False
+belligerent,[],False
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,[],False
+berate,[],True
+bereave,[],False
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],False
+betray,"[('ஏற்படுத்துவீர்களா', 1), ('கொடுக்கும் _ ஏற்படுத்துவீர்களா', 1), ('கொடுக்கும்', 1)]",True
+betrayal,[],False
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,[],False
+bewilder,[],False
+bewildered,[],False
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,[],False
+bewitch,[],False
+bias,"[('bias', 1)]",True
+biased,"[('சார்புடையவர்', 1)]",True
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,[],False
+bitch,[],False
+bitchy,[],False
+biting,[],False
+bitingly,[],False
+bitter,[],False
+bitterly,[],False
+bitterness,[],False
+bizarre,[],False
+blab,[],False
+blabber,[],False
+blackmail,[],True
+blah,[],False
+blame,"[('குற்றம்', 2), ('கூறுவதோ', 1), ('குற்றச்சாட்டா', 1)]",True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,[],False
+blasted,[],False
+blatant,[],False
+blatantly,[],False
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],False
+bleeding,[],False
+bleeds,[],False
+blemish,[],False
+blind,[],True
+blinding,[],False
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,[],False
+blockhead,[],False
+bloodshed,[],False
+bloodthirsty,[],False
+bloody,[],False
+blotchy,[],False
+blow,[],True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,[],False
+blur,[],True
+bluring,[],False
+blurred,[],False
+blurring,[],False
+blurry,"[('இருக்கின்றது', 1)]",True
+blurs,[],False
+blurt,[],False
+boastful,[],False
+boggle,[],False
+bogus,[],False
+boil,[],False
+boiling,[],False
+boisterous,[],False
+bomb,[],True
+bombard,[],False
+bombardment,[],False
+bombastic,[],False
+bondage,[],False
+bonkers,[],False
+bore,[],True
+bored,[],True
+boredom,"[('சலிப்பும்', 1)]",True
+bores,[],False
+boring,"[('சலிப்பு', 1), ('சோர்வு _ சலிப்பு', 1), ('சோர்வு', 1)]",True
+botch,[],False
+bother,"[('தொந்தரவாக', 1)]",True
+bothered,[],False
+bothering,[],False
+bothers,[],False
+bothersome,[],False
+bowdlerize,[],False
+boycott,[],False
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,[],False
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,[],False
+brazen,[],False
+brazenly,[],False
+brazenness,[],False
+breach,"[('நடு', 1)]",True
+break,"[('பின்பற்றலாம்', 1), ('உடைகின்றன', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,[],False
+breaking,[],False
+breaks,[],False
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,[],True
+broken,"[('உடைந்த', 3), ('broken', 1)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,[],False
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,[],False
+brute,[],False
+brutish,[],False
+bs,[],True
+buckle,[],False
+bug,"[('வழு', 4), ('பிழை', 4), ('குறைபாடு', 2), ('அட்மின்கல்', 1), ('அட்மின்கல் பிழைகலை', 1)]",True
+bugging,[],True
+buggy,[],False
+bugs,"[('பிழைகளுக்கான _ மலியும் பிழைகளைத்', 2), ('பிழைகளைத்', 2), ('மலியும்', 2), ('பிழைகளுக்கான', 2), ('பயன்கள்', 1)]",True
+bulkier,[],False
+bulkiness,[],False
+bulky,[],False
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,[],False
+bullshyt,[],False
+bully,[],False
+bullying,[],False
+bullyingly,[],False
+bum,[],True
+bump,[],False
+bumped,[],False
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,[],False
+bungle,[],False
+bungler,[],False
+bungling,[],False
+bunk,[],False
+burden,"[('பளு', 1), ('ஏற்றக்கூடாது', 1)]",True
+burdensome,[],False
+burdensomely,[],False
+burn,[],True
+burned,"[('எரித்தவரும்', 1), ('எரித்தவரும் நஞ்சுண்டவரும்', 1), ('நஞ்சுண்டவரும்', 1)]",True
+burning,[],False
+burns,[],False
+bust,[],False
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,[],False
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],False
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,[],False
+cancerous,[],False
+cannibal,[],False
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,[],True
+carelessness,"[('எல்லைமீறிவிட்டதா', 1), ('கவனக்குறைவா _ எல்லைமீறிவிட்டதா _ கவனிக்கவும்', 1), ('கவனிக்கவும்', 1), ('கவனக்குறைவா', 1)]",True
+caricature,[],False
+carnage,[],False
+carp,[],False
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,[],False
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,[],False
+censure,[],False
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,[],False
+chaos,[],False
+chaotic,[],False
+chasten,[],False
+chastise,[],False
+chastisement,[],False
+chatter,[],False
+chatterbox,[],False
+cheap,[],False
+cheapen,[],False
+cheaply,[],False
+cheat,[],False
+cheated,[],False
+cheater,[],False
+cheating,[],False
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,[],False
+chide,[],False
+childish,"[('குழந்தைதனமானது', 1), ('குழந்தைத்தனமானது', 1)]",True
+chill,[],False
+chilly,[],False
+chintzy,[],False
+choke,[],False
+choleric,[],False
+choppy,[],False
+chore,[],False
+chronic,"[('தினசரி', 1), ('நாளந்த', 1), ('நாளந்த _ தினசரி', 1)]",True
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,[],False
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,[],False
+clogged,[],False
+clogs,[],False
+cloud,[],False
+clouding,[],False
+cloudy,[],False
+clueless,[],False
+clumsy,[],False
+clunky,[],False
+coarse,[],False
+cocky,[],False
+coerce,[],False
+coercion,[],False
+coercive,[],False
+cold,[],False
+coldly,[],False
+collapse,[],False
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],False
+comical,[],False
+commiserate,[],False
+commonplace,[],False
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('ஈடுபட்டதற்காக', 1), ('கூறும்', 1), ('ஈடுபட்டதற்காக _ கூறும்', 1)]",True
+complained,[],False
+complaining,"[('கூறுவது', 1)]",True
+complains,[],False
+complaint,"[('சொல்லி _ வேண்டுகோள்', 1), ('சொல்லி', 1), ('வேண்டுகோள்', 1), ('காவல்', 1), ('காவல் _ புகார்', 1)]",True
+complaints,[],False
+complex,"[('சிக்கலான', 1)]",True
+complicated,[],True
+complication,"[('சிக்கலாவது', 2)]",True
+complicit,"[('உடந்தையா', 1)]",True
+compulsion,"[('நிர்பந்தம்', 1)]",True
+compulsive,[],False
+concede,[],False
+conceded,[],False
+conceit,[],False
+conceited,[],False
+concen,[],True
+concens,[],False
+concern,[],True
+concerned,[],True
+concerns,[],False
+concession,"[('விட்டுக்கொடுப்பு', 1)]",True
+concessions,[],False
+condemn,"[('ஈடுபடுபவர்களை', 1)]",True
+condemnable,[],False
+condemnation,"[('கண்டனம் சொல்லுவாங்களா', 1), ('கண்டனம்', 1), ('சொல்லுவாங்களா', 1)]",True
+condemned,[],False
+condemns,"[('செய்கின்றன', 1)]",True
+condescend,[],False
+condescending,[],False
+condescendingly,[],False
+condescension,[],False
+confess,[],False
+confession,[],False
+confessions,[],False
+confined,[],False
+conflict,"[('conflict', 1), ('சிக்கலில்', 1)]",True
+conflicted,[],False
+conflicting,"[('முரண்பாடான', 1)]",True
+conflicts,[],False
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],False
+confrontation,[],False
+confrontational,[],False
+confuse,"[('மேம்படுத்தவும்', 1), ('குழப்பிக்கொள்வாரே', 1), ('போட்டுக்', 1), ('போட்டுக் குழப்பிக்கொள்வாரே', 1), ('வேண்டுமென்றே தமிழை', 1)]",True
+confused,"[('குழம்பி', 1)]",True
+confuses,[],False
+confusing,"[('குழப்பத்தை', 3), ('குழப்பமாக', 2), ('சற்றுக் குழப்பத்தை உண்டுபண்ணுகின்றது', 1), ('சற்றுக்', 1), ('உண்டுபண்ணுகின்றது', 1)]",True
+confusion,"[('குழப்பம்', 8), ('குழப்பைத்தை', 1), ('குழப்பத்தையே', 1), ('குழப்பங்கள்', 1), ('குழப்பத்தையும்', 1)]",True
+confusions,[],False
+congested,[],False
+congestion,[],False
+cons,[],True
+conscons,[],False
+conservative,[],False
+conspicuous,[],False
+conspicuously,[],False
+conspiracies,[],False
+conspiracy,[],False
+conspirator,[],False
+conspiratorial,[],False
+conspire,[],False
+consternation,[],False
+contagious,[],False
+contaminate,[],False
+contaminated,[],False
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,"[('காழ்புணர்ச்சியினாலும்', 1)]",True
+contemptible,[],False
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,"[('வகையில்', 1), ('வகையில் _ பதிவது', 1), ('பதிவது', 1)]",True
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,[],True
+contradiction,"[('முரண்பாட்டை', 1)]",True
+contradictory,"[('முரணாகவும்', 1), ('முரண்பட்டதை', 1)]",True
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,[],False
+controversy,"[('controversy', 2), ('சர்ச்சை', 1)]",True
+convoluted,[],False
+corrode,[],False
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,[],False
+corrupted,[],False
+corrupting,[],False
+corruption,[],False
+corrupts,[],False
+corruptted,[],False
+costlier,[],False
+costly,[],False
+counter-productive,[],False
+counterproductive,[],False
+coupists,[],False
+covetous,[],False
+coward,"[('கோவைக்காரரா', 1)]",True
+cowardly,[],False
+crabby,[],False
+crack,[],False
+cracked,[],False
+cracks,[],False
+craftily,[],False
+craftly,[],False
+crafty,[],False
+cramp,[],False
+cramped,[],False
+cramping,[],False
+cranky,[],False
+crap,"[('கவனமெடுக்க', 1), ('கவனமெடுக்க _ மாதிரி', 1), ('மாதிரி', 1)]",True
+crappy,[],False
+craps,[],False
+crash,[],True
+crashed,[],False
+crashes,[],False
+crashing,"[('இடிக்குதே', 1)]",True
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,"[('விட்டத்தைப்பார்த்து', 1), ('வெறித்தாரோ', 1), ('விட்டத்தைப்பார்த்து வெறித்தாரோ', 1), ('பைத்தியம்', 1)]",True
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,[],False
+creeping,[],False
+creeps,[],False
+creepy,[],False
+crept,[],False
+crime,"[('குற்றமா', 1), ('குற்றத்தை', 1), ('குற்றமாகுமா', 1)]",True
+criminal,[],False
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,[],False
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,"[('நெருக்கடியில்', 1)]",True
+critic,[],True
+critical,[],True
+criticism,"[('நபரை', 1)]",True
+criticisms,"[('விமர்சனங்கள்', 1), ('விமரிசனங்களில்', 1)]",True
+criticize,"[('காட்டுகின்றனர்', 1), ('எதிர்கொண்டு', 1)]",True
+criticized,[],False
+criticizing,[],False
+critics,[],False
+cronyism,[],False
+crook,[],False
+crooked,[],False
+crooks,[],False
+crowded,[],False
+crowdedness,[],False
+crude,[],False
+cruel,[],False
+crueler,[],False
+cruelest,[],False
+cruelly,[],False
+cruelness,[],False
+cruelties,[],False
+cruelty,[],False
+crumble,[],False
+crumbling,[],False
+crummy,[],False
+crumple,[],False
+crumpled,[],False
+crumples,[],False
+crush,[],True
+crushed,[],False
+crushing,"[('நச்சுத்தீனி', 1), ('நச்சுத்தீனி _ நொறுக்குத்தீனி', 1), ('நொறுக்குத்தீனி', 1)]",True
+cry,[],True
+culpable,[],False
+culprit,"[('செய்யாதோர்', 1), ('செய்யாதோர் _ உளர்', 1), ('உளர்', 1)]",True
+cumbersome,[],False
+cunt,[],False
+cunts,[],False
+cuplrit,[],False
+curse,[],False
+cursed,[],False
+curses,[],False
+curt,[],False
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,[],False
+cynicism,[],False
+d*mn,[],False
+damage,[],True
+damaged,[],False
+damages,"[('பணம்', 1)]",True
+damaging,[],False
+damn,[],False
+damnable,[],False
+damnably,[],False
+damnation,[],False
+damned,[],False
+damning,[],False
+damper,[],False
+danger,[],True
+dangerous,[],False
+dangerousness,[],False
+dark,[],True
+darken,[],False
+darkened,[],False
+darker,[],False
+darkness,"[('வெளிச்சம்', 1)]",True
+dastard,[],False
+dastardly,[],False
+daunt,[],False
+daunting,[],False
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('இறந்தவர்களுக்கு', 1)]",True
+deadbeat,[],False
+deadlock,[],False
+deadly,[],False
+deadweight,[],False
+deaf,[],False
+dearth,[],False
+death,"[('மரணத்துக்கு', 1), ('இறப்பு', 1)]",True
+debacle,[],False
+debase,[],False
+debasement,[],False
+debaser,[],False
+debatable,[],False
+debauch,[],False
+debaucher,[],False
+debauchery,[],False
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,[],True
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,[],False
+decayed,[],False
+deceit,[],False
+deceitful,[],False
+deceitfully,[],False
+deceitfulness,[],False
+deceive,[],False
+deceiver,[],False
+deceivers,[],False
+deceiving,[],False
+deception,"[('வஞ்சனை', 1)]",True
+deceptive,[],False
+deceptively,[],False
+declaim,[],False
+decline,[],False
+declines,[],False
+declining,[],False
+decrement,[],False
+decrepit,[],False
+decrepitude,[],False
+decry,[],False
+defamation,"[('இழிவுப்', 1), ('defamation', 1)]",True
+defamations,[],False
+defamatory,"[('அவதூறாகக்', 1), ('உயர்வான', 1), ('இழிவு', 1), ('இழிவு _ உயர்வான', 1)]",True
+defame,[],False
+defect,[],False
+defective,[],False
+defects,[],False
+defensive,[],False
+defiance,[],False
+defiant,[],False
+defiantly,[],False
+deficiencies,[],False
+deficiency,[],False
+deficient,"[('குறையுள்ளதாகவும்', 1)]",True
+defile,[],True
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,[],False
+defy,[],False
+degenerate,[],False
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,[],True
+degrading,[],False
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,[],False
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,"[('தாமதம் காரணம்', 1), ('தாமதம்', 1), ('காரணம்', 1)]",True
+delayed,[],False
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,[],False
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,"[('ஒழுங்கும்', 1), ('ஒழுங்கும் ஒருசீர்த்திடநிலையுமே பிரளயப் பொறிமுறையின்', 1), ('பொறிமுறையின்', 1), ('பிரளயப்', 1), ('ஒருசீர்த்திடநிலையுமே', 1)]",True
+delusion,[],False
+delusional,[],False
+delusions,[],False
+demean,[],True
+demeaning,[],False
+demise,[],False
+demolish,[],False
+demolisher,[],False
+demon,[],False
+demonic,[],False
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,"[('மறுப்பு', 3)]",True
+denied,"[('மறுக்கப்', 2)]",True
+denies,"[('தெரிவித்தால்', 1)]",True
+denigrate,[],False
+denounce,[],False
+dense,[],True
+dent,[],True
+dented,[],False
+dents,[],True
+denunciate,[],False
+denunciation,[],False
+denunciations,[],False
+deny,"[('மறுக்க', 1)]",True
+denying,[],False
+deplete,[],False
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],False
+depress,[],True
+depressed,[],False
+depressing,[],False
+depressingly,[],False
+depression,"[('depression', 1)]",True
+depressions,[],False
+deprive,[],False
+deprived,[],False
+deride,[],False
+derision,[],False
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,[],False
+desecrate,[],False
+desert,"[('சோலைமந்தியா', 1)]",True
+desertion,[],False
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],False
+despairing,[],False
+despairingly,[],False
+desperate,[],False
+desperately,[],False
+desperation,[],False
+despicable,[],False
+despicably,[],False
+despise,[],False
+despised,[],False
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],False
+despotic,[],False
+despotism,[],False
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,"[('வேண்டும்', 1)]",True
+destroyer,[],False
+destruction,"[('அழித்ததற்கு', 1)]",True
+destructive,[],False
+desultory,[],False
+deter,[],True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,[],False
+deterrent,[],False
+detest,[],False
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,[],False
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,[],True
+detrimental,"[('பாதகமான', 1)]",True
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,[],False
+devastatingly,[],False
+devastation,[],False
+deviate,[],False
+deviation,[],False
+devil,[],False
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,[],False
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],False
+dictator,[],True
+dictatorial,"[('சர்வாதிகாரம்', 2), ('சர்வாதிகாரம் செய்கிறார்கள்', 1), ('செய்கிறார்கள்', 1)]",True
+die,[],True
+die-hard,[],False
+died,"[('இறந்த', 1)]",True
+dies,[],True
+difficult,"[('உள்ளது', 3), ('சிக்காது', 1), ('வராதா', 1), ('சிரமமாக', 1), ('கடினமாகவும்', 1)]",True
+difficulties,[],False
+difficulty,[],True
+diffidence,[],False
+dilapidated,[],False
+dilemma,"[('நெருடல்', 1)]",True
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,[],True
+ding,[],True
+dings,[],True
+dinky,[],False
+dire,[],True
+direly,[],False
+direness,[],False
+dirt,[],True
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,"[('பிழைகளுக்கான _ பிழைகளைத்', 2), ('பிழைகளைத்', 2), ('பிழைகளுக்கான', 2)]",True
+disable,"[('முடக்குவீர்கள்', 1), ('முடக்கினால்', 1)]",True
+disabled,"[('முடக்கப்பட்டார்', 2), ('முடக்கப்பட்டதாலேயே', 2), ('முடக்கப்பட்டுள்ளது', 1), ('விலகிய', 1)]",True
+disaccord,[],False
+disadvantage,[],False
+disadvantaged,[],False
+disadvantageous,[],False
+disadvantages,[],False
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,"[('மறுப்போ', 1)]",True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,"[('கருத்து முரண்பட்ட', 1), ('முரண்பட்ட', 1), ('கருத்து', 1)]",True
+disagreeing,[],False
+disagreement,[],True
+disagrees,[],False
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,[],False
+disappointed,[],False
+disappointing,[],False
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,[],False
+disapprove,[],False
+disapproving,[],False
+disarm,[],False
+disarray,[],False
+disaster,[],False
+disasterous,[],False
+disastrous,[],False
+disastrously,[],False
+disavow,[],False
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],True
+disbeliever,[],True
+disclaim,[],False
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,[],False
+discompose,[],False
+disconcert,[],False
+disconcerted,[],False
+disconcerting,[],False
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,[],False
+discontented,[],False
+discontentedly,[],False
+discontinued,[],True
+discontinuity,[],False
+discontinuous,[],False
+discord,[],False
+discordance,[],False
+discordant,[],False
+discountenance,[],False
+discourage,[],False
+discouragement,[],False
+discouraging,[],False
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,[],False
+discrepant,[],False
+discriminate,[],False
+discrimination,[],False
+discriminatory,[],False
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,"[('கேள்வியே', 1), ('கேவலப்படுத்த்தான்', 1), ('கேள்வியே _ கேவலப்படுத்த்தான் கேட்கப்படுகின்றதா', 1), ('கேட்கப்படுகின்றதா', 1)]",True
+disgraced,[],False
+disgraceful,[],False
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,"[('மௌமான', 1)]",True
+disgusted,[],False
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,[],False
+disgustingly,[],False
+dishearten,[],False
+disheartening,[],False
+dishearteningly,[],False
+dishonest,[],False
+dishonestly,[],False
+dishonesty,[],False
+dishonor,[],False
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,[],False
+disliked,[],False
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,[],False
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],False
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,[],False
+disoobedient,[],False
+disorder,"[('நோய்', 1)]",True
+disordered,[],False
+disorderly,[],False
+disorganized,[],False
+disorient,[],False
+disoriented,[],False
+disown,[],False
+disparage,[],False
+disparaging,[],False
+disparagingly,[],False
+dispensable,[],False
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],False
+displaced,[],False
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,[],False
+disproportionate,[],False
+disprove,[],False
+disputable,[],False
+dispute,"[('சொத்து', 1)]",True
+disputed,"[('disputed', 2)]",True
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,[],False
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,[],True
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,"[('கண்ணியமற்று உரையாடுதல் _ விரும்பினால்', 1), ('கண்ணியமற்று', 1), ('உரையாடுதல்', 1), ('விரும்பினால்', 1)]",True
+disrespectfully,"[('மரியாதைக் குறைவாக', 1), ('குறைவாக', 1), ('மரியாதைக்', 1)]",True
+disrespectfulness,[],False
+disrespecting,[],False
+disrupt,[],True
+disruption,[],False
+disruptive,"[('disruptive', 2)]",True
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,[],False
+dissatisfactory,[],False
+dissatisfied,[],False
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,[],False
+dissembler,[],False
+dissension,[],False
+dissent,"[('கருத்து', 1)]",True
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,[],False
+dissidents,[],False
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,[],False
+dissonance,[],False
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,"[('சிதைக்க', 1), ('சிதைக்காமல்', 1)]",True
+distorted,[],False
+distortion,"[('ஒலி', 1), ('விலகலை', 1), ('ஒலி விலகலை', 1)]",True
+distorts,[],False
+distract,[],False
+distracting,[],False
+distraction,[],False
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,[],False
+distrustful,[],False
+distrusting,[],False
+disturb,[],False
+disturbance,[],False
+disturbed,[],False
+disturbing,[],False
+disturbingly,[],False
+disunity,[],False
+disvalue,[],False
+divergent,[],False
+divisive,[],False
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,[],True
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,[],False
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,[],False
+doomed,[],False
+doomsday,[],False
+dope,"[('டூப்', 1), ('போடுபவருக்கு', 1), ('டூப் போடுபவருக்கு', 1)]",True
+doubt,"[('ஐயம்', 10), ('சந்தேகம்', 7), ('doubt', 1), ('வீண்', 1), ('ஐயம் என்னவெனில்', 1)]",True
+doubtful,[],False
+doubtfully,[],False
+doubts,"[('சந்தேகங்கள்', 1), ('சந்தேகங்களையும்', 1)]",True
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],False
+downfall,[],False
+downfallen,[],False
+downgrade,[],False
+downhearted,[],False
+downheartedly,[],False
+downhill,[],False
+downside,[],False
+downsides,[],False
+downturn,[],False
+downturns,[],False
+drab,[],False
+draconian,[],False
+draconic,[],False
+drag,"[('என்னை', 1), ('என்னை _ பதிலதர', 1), ('பதிலதர', 1)]",True
+dragged,"[('அழிக்கப்படுமானால்', 2)]",True
+dragging,[],False
+dragoon,[],False
+drags,[],False
+drain,[],False
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,[],False
+drastically,[],False
+drawback,[],False
+drawbacks,[],False
+dread,[],False
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,[],False
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,[],False
+dropouts,[],False
+drought,[],False
+drowning,"[('அமிழ்து', 1)]",True
+drunk,[],False
+drunkard,[],False
+drunken,[],False
+dubious,"[('dubious', 2)]",True
+dubiously,[],False
+dubitable,[],False
+dud,[],True
+dull,[],False
+dullard,[],False
+dumb,"[('மூக்கன்', 1)]",True
+dumbfound,[],False
+dump,"[('திணிப்பு', 3)]",True
+dumped,[],False
+dumping,[],False
+dumps,[],False
+dunce,[],False
+dungeon,[],False
+dungeons,[],False
+dupe,[],False
+dust,[],True
+dusty,[],False
+dwindling,[],False
+dying,[],True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,[],False
+emaciated,[],False
+emasculate,[],False
+embarrass,[],True
+embarrassing,[],False
+embarrassingly,[],False
+embarrassment,"[('வெட்கம் _ அனுபவித்திருக்கிறீர்களா', 1), ('வெட்கம்', 1), ('அனுபவித்திருக்கிறீர்களா', 1)]",True
+embattled,[],False
+embroil,[],False
+embroiled,[],False
+embroilment,[],False
+emergency,"[('அவசர', 2), ('பேச்சுப்பக்கத்தில்', 1), ('பேச்சுப்பக்கத்தில் _ அவசர', 1), ('அவசரப்', 1)]",True
+emphatic,[],False
+emphatically,[],False
+emptiness,"[('வெறுமையின்', 2)]",True
+encroach,[],False
+encroachment,[],False
+endanger,[],False
+enemies,"[('எதிரிகளுடன்', 4)]",True
+enemy,"[('எதிரிகளில்', 1)]",True
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,[],False
+enrage,[],False
+enraged,[],False
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,[],False
+equivocal,[],False
+erase,[],False
+erode,"[('ஈரோடு', 3), ('ஈரோடு _ கோவை', 1), ('கோவை', 1)]",True
+erodes,[],False
+erosion,"[('அரிப்பு', 2)]",True
+err,[],True
+errant,[],False
+erratic,[],False
+erratically,[],False
+erroneous,"[('பிழையான', 2), ('தெளிவுபடுத்தவும்', 1), ('பிழை', 1), ('தெளிவுபடுத்தவும் _ பிழை', 1)]",True
+erroneously,[],False
+error,"[('பிழை', 8), ('பிழையா', 4), ('பிழையேற்பட', 2), ('வழு', 2), ('error', 2)]",True
+errors,"[('பிழைகள்', 5), ('பிழைகளும்', 2), ('தவறுகளாகத்தன்', 1), ('அத்தவறுகள்', 1), ('பிழைகளுக்கும்', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,[],False
+evasion,[],False
+evasive,[],False
+evil,[],False
+evildoer,[],False
+evils,[],False
+eviscerate,[],False
+exacerbate,[],False
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,[],False
+exaggeration,[],False
+exasperate,[],False
+exasperated,[],False
+exasperating,[],False
+exasperatingly,[],False
+exasperation,[],False
+excessive,[],False
+excessively,[],False
+exclusion,[],False
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('சாக்குப் போக்குச்', 1), ('சாக்குப்', 1), ('போக்குச்', 1)]",True
+excuses,[],False
+execrate,[],False
+exhaust,[],True
+exhausted,"[('மகிழ்ச்சியான', 1), ('தீர்ந்து', 1), ('தீர்ந்து _ மகிழ்ச்சியான', 1)]",True
+exhaustion,"[('சலிப்பும்', 1), ('விக்கியாக்கம்', 1), ('விக்கியாக்கம் _ சலிப்பும் சோர்வும் நேர்வது', 1), ('நேர்வது', 1), ('சோர்வும்', 1)]",True
+exhausts,[],False
+exhorbitant,[],False
+exhort,[],False
+exile,[],False
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,[],False
+expensive,[],False
+expire,"[('விலகும்', 1)]",True
+expired,[],False
+explode,[],False
+exploit,[],False
+exploitation,[],False
+explosive,[],False
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,[],False
+extermination,[],False
+extinguish,[],False
+extort,[],False
+extortion,[],False
+extraneous,[],False
+extravagance,[],False
+extravagant,[],False
+extravagantly,[],False
+extremism,[],False
+extremist,[],True
+extremists,[],False
+eyesore,[],False
+f**k,[],False
+fabricate,[],False
+fabrication,[],False
+facetious,[],False
+facetiously,[],False
+fail,"[('தவறில்லை', 1)]",True
+failed,"[('தோல்வி', 1)]",True
+failing,[],False
+fails,[],False
+failure,"[('மீறினால்', 1)]",True
+failures,[],False
+faint,"[('மயங்கி', 1)]",True
+fainthearted,[],False
+faithless,[],False
+fake,[],True
+fall,"[('தயவு', 1), ('அடங்குவரா', 1), ('வீழ்த்தல்', 1)]",True
+fallacies,[],False
+fallacious,[],False
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,[],False
+fallen,[],False
+falling,[],False
+fallout,[],False
+falls,"[('உறங்கிவிட்டால்', 1)]",True
+false,"[('பிழையான', 1), ('தவறான', 1)]",True
+falsehood,[],False
+falsely,[],False
+falsify,[],False
+falter,[],False
+faltered,[],False
+famine,[],False
+famished,[],False
+fanatic,[],False
+fanatical,[],False
+fanatically,[],False
+fanaticism,[],False
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,[],False
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,"[('பாசிசம்', 1), ('ஃபாசிசம்', 1)]",True
+fascist,"[('கிரந்தம்', 1), ('பாசிச', 1)]",True
+fastidious,[],False
+fastidiously,[],False
+fastuous,[],False
+fat,[],True
+fat-cat,[],False
+fat-cats,[],False
+fatal,[],False
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,"[('அயற்சி', 2)]",True
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('தவறு', 1), ('fault', 1)]",True
+faults,[],False
+faulty,[],False
+fawningly,[],False
+faze,[],False
+fear,"[('மீதுள்ள', 1)]",True
+fearful,[],False
+fearfully,[],False
+fears,[],False
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,[],False
+felon,[],False
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,"[('காய்ச்சல்', 1)]",True
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],False
+fibber,[],False
+fickle,[],False
+fiction,"[('புதினம்', 1)]",True
+fictional,[],False
+fictitious,[],False
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,[],False
+figurehead,[],False
+filth,[],False
+filthy,[],False
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,[],False
+flabbergast,[],False
+flabbergasted,[],False
+flagging,[],False
+flagrant,[],False
+flagrantly,[],False
+flair,[],False
+flairs,[],False
+flak,[],False
+flake,[],False
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],False
+flaw,[],True
+flawed,[],False
+flaws,"[('குறைகள்', 2), ('குறைகளைக்', 1), ('குறைகளை', 1)]",True
+flee,[],False
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],True
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],False
+fool,[],True
+fooled,"[('எளிதாக ஏமாற்றி விடுகிறார்களா', 1), ('எளிதாக', 1), ('விடுகிறார்களா', 1), ('ஏமாற்றி', 1)]",True
+foolhardy,[],False
+foolish,[],False
+foolishly,[],False
+foolishness,[],False
+forbid,"[('செய்வேனா', 1)]",True
+forbidden,"[('தடைசெய்யப்பட்ட', 1), ('தடை', 1), ('forbidden', 1)]",True
+forbidding,"[('அழகல்ல', 1)]",True
+forceful,[],False
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,[],False
+forgetful,[],False
+forgetfully,[],False
+forgetfulness,[],False
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,[],False
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,[],False
+fragile,[],False
+fragmented,"[('அறுபட்டக்', 1)]",True
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,[],True
+fraudulent,"[('வஞ்சப்', 1)]",True
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],False
+freaking,[],False
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,"[('உறையாத', 1)]",True
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,[],False
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,[],False
+frictions,[],False
+fried,[],False
+friggin,[],False
+frigging,[],False
+fright,[],False
+frighten,[],False
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,[],False
+frown,[],False
+froze,[],True
+frozen,"[('உறைந்தவர்களா', 2)]",True
+fruitless,[],False
+fruitlessly,[],False
+frustrate,[],False
+frustrated,[],False
+frustrates,[],False
+frustrating,[],False
+frustratingly,[],False
+frustration,[],True
+frustrations,"[('மனக்கசப்புகள்', 1), ('மனக்கசப்புகள் _ விலகல்கள்', 1), ('விலகல்கள்', 1)]",True
+fuck,[],False
+fucking,[],False
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],False
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,[],False
+furious,[],False
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,"[('நாட்டாமை', 1), ('வம்புக்கு', 1)]",True
+fussy,[],False
+fustigate,[],False
+fusty,[],False
+futile,"[('வீண் வேலை', 1), ('வீண்', 1), ('வேலை', 1)]",True
+futilely,[],False
+futility,[],False
+fuzzy,[],False
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,[],False
+gape,[],False
+garbage,"[('குப்பிளான் _ இடுகுறிப்', 1), ('குப்பிளான்', 1), ('இடுகுறிப்', 1)]",True
+garish,[],False
+gasp,[],False
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,[],False
+get-rich,[],False
+ghastly,[],False
+ghetto,[],False
+ghosting,[],False
+gibber,[],False
+gibberish,[],False
+gibe,[],False
+giddy,[],False
+gimmick,"[('வித்தையும்', 51)]",True
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,[],False
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,[],False
+glitches,[],False
+gloatingly,[],False
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],True
+gnawing,[],False
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],False
+goofy,[],False
+goon,[],False
+gossip,[],False
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],True
+grating,[],True
+gravely,[],False
+greasy,[],False
+greed,[],True
+greedy,[],False
+grief,[],False
+grievance,"[('காரணமோ', 1), ('மனக்குறைக்கு _ காரணமோ', 1), ('மனக்குறைக்கு', 1)]",True
+grievances,"[('தெரிவித்துச்', 2), ('குறைகளை', 2), ('குறைகளை _ தெரிவித்துச்', 2), ('தோற்றத்தைத்', 1), ('அஞ்சுகிறேன்', 1)]",True
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],False
+grimace,[],False
+grind,[],False
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],False
+gross,[],False
+grossly,[],False
+grotesque,[],False
+grouch,[],False
+grouchy,[],False
+groundless,[],False
+grouse,[],False
+growl,[],False
+grudge,[],False
+grudges,[],False
+grudging,[],False
+grudgingly,[],False
+gruesome,"[('காட்டமாக', 2)]",True
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,[],False
+guile,[],False
+guilt,[],True
+guiltily,[],False
+guilty,"[('ஒப்புக்கொள்கின்றார்', 1)]",True
+gullible,[],False
+gutless,[],False
+gutter,[],False
+hack,[],False
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],False
+halfheartedly,[],False
+hallucinate,[],False
+hallucination,[],False
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,[],True
+hangs,"[('தொங்குகிறது', 1)]",True
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,[],False
+harassed,[],False
+harasses,[],False
+harassment,[],False
+harboring,[],False
+harbors,[],False
+hard,"[('வன்', 1), ('கடுமையாக', 1)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,[],False
+hardened,[],False
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,[],False
+hardships,[],False
+harm,"[('பாதிப்பு', 1), ('நட்டம்', 1)]",True
+harmed,[],False
+harmful,"[('விளைவிக்கக்கூடிய', 1)]",True
+harms,[],False
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,"[('கடும்', 1), ('வன்', 1), ('கடும் _ வன் _ வேறு', 1), ('வேறு', 1), ('வன்மையாகத்', 1)]",True
+harshly,[],False
+hasseling,[],False
+hassle,[],False
+hassled,[],False
+hassles,[],False
+haste,[],False
+hastily,[],False
+hasty,[],False
+hate,[],True
+hated,[],False
+hateful,[],False
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,[],False
+hating,[],False
+hatred,"[('காழ்புணர்ச்சியினாலும்', 1)]",True
+haughtily,[],False
+haughty,[],False
+haunt,[],False
+haunting,[],False
+havoc,[],False
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,"[('தலைவலி', 1)]",True
+headaches,[],False
+heartbreaker,[],False
+heartbreaking,[],False
+heartbreakingly,[],False
+heartless,[],False
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],False
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],False
+hedonistic,[],False
+heedless,[],False
+hefty,[],False
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,[],False
+hell,[],True
+hell-bent,[],False
+hellion,[],False
+hells,[],False
+helpless,[],False
+helplessly,[],False
+helplessness,[],False
+heresy,"[('heresy', 1)]",True
+heretic,[],False
+heretical,[],False
+hesitant,"[('என்னுடன்', 1)]",True
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,"[('இடையூறாக', 1)]",True
+hindrance,[],False
+hiss,[],False
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,[],False
+hobble,[],False
+hogs,[],False
+hollow,[],False
+hoodium,[],False
+hoodwink,[],False
+hooligan,[],False
+hopeless,[],False
+hopelessly,[],False
+hopelessness,[],False
+horde,[],False
+horrendous,[],False
+horrendously,[],False
+horrible,"[('கொடுமைன்னு', 1)]",True
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],False
+hostile,[],False
+hostilities,[],False
+hostility,[],False
+hotbeds,[],False
+hothead,[],False
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,[],False
+humiliating,[],False
+humiliation,[],False
+humming,[],False
+hung,[],True
+hurt,"[('கூறிவிட்டேனா', 1)]",True
+hurted,[],False
+hurtful,[],False
+hurting,[],False
+hurts,"[('புண்படும்', 1)]",True
+hustler,[],False
+hype,[],True
+hypocricy,[],False
+hypocrisy,[],False
+hypocrite,[],False
+hypocrites,[],False
+hypocritical,"[('வஞ்சப்', 4), ('அண்டன்', 2), ('அண்டன் _ வஞ்சப்', 2)]",True
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],False
+hysterical,[],False
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,[],False
+idiotic,[],False
+idiotically,[],False
+idiots,[],False
+idle,[],True
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,[],False
+ignorant,"[('அறியாமையாலா', 1), ('அறியாமல்', 1)]",True
+ignore,"[('புரக்கணிக்கிறீர்கள்', 2), ('ஏன்', 2), ('ஏன் _ புரக்கணிக்கிறீர்கள்', 2)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('கண்டிக்காமல் _ முறைகேடானது', 1), ('முறைகேடானது', 1), ('கண்டிக்காமல்', 1)]",True
+illegally,[],False
+illegitimate,[],False
+illicit,[],False
+illiterate,[],False
+illness,[],False
+illogic,[],False
+illogical,[],False
+illogically,[],False
+illusion,[],False
+illusions,[],False
+illusory,[],False
+imaginary,[],False
+imbalance,[],False
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,[],False
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,[],False
+immorality,[],False
+immorally,[],False
+immovable,[],False
+impair,[],False
+impaired,[],False
+impasse,[],False
+impatience,[],False
+impatient,[],False
+impatiently,[],False
+impeach,[],False
+impedance,[],False
+impede,[],False
+impediment,"[('இடைஞ்சலும்', 1)]",True
+impending,[],False
+impenitent,[],False
+imperfect,[],False
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,[],False
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,[],False
+impertinent,[],False
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,[],False
+implausibly,[],False
+implicate,[],False
+implication,[],True
+implode,[],False
+impolite,[],False
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,[],True
+imposers,[],False
+imposing,"[('திணிப்பது', 1)]",True
+imposition,[],False
+impossible,"[('சாத்திமற்றதா', 1)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],False
+impoverished,[],False
+impractical,"[('நடைமுறையற்ற', 1), ('நடைமுறையன்று', 1)]",True
+imprecate,[],False
+imprecise,[],False
+imprecisely,[],False
+imprecision,[],False
+imprison,[],False
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,[],False
+improperly,[],False
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,[],False
+impudent,[],False
+impudently,[],False
+impugn,[],False
+impulsive,[],False
+impulsively,[],False
+impunity,[],False
+impure,[],False
+impurity,[],False
+inability,[],True
+inaccuracies,[],False
+inaccuracy,[],False
+inaccurate,"[('தவறான', 1)]",True
+inaccurately,[],False
+inaction,[],False
+inactive,[],False
+inadequacy,[],False
+inadequate,[],False
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('பொருத்தமற்ற', 4), ('தன்னிலை', 1), ('தன்னிலை _ பொருத்தமற்ற', 1), ('பொருத்தமற்ற _ அடித்துவிடலாம்', 1), ('அடித்துவிடலாம்', 1)]",True
+inappropriately,[],False
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,"[('மெளனமாக', 1), ('கவனியாது', 1), ('செயற்படும்', 1), ('கவனியாது செயற்படும் _ மெளனமாக', 1)]",True
+inaudible,[],False
+incapable,[],False
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,[],False
+incessantly,[],False
+incite,[],False
+incitement,[],False
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,[],False
+incoherent,[],False
+incoherently,[],False
+incommensurate,[],False
+incomparable,[],False
+incomparably,[],False
+incompatability,[],False
+incompatibility,"[('ஏற்றவற்றம்', 1)]",True
+incompatible,[],False
+incompetence,[],False
+incompetent,[],False
+incompetently,[],False
+incomplete,[],False
+incompliant,[],False
+incomprehensible,[],False
+incomprehension,[],False
+inconceivable,[],False
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,[],False
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,[],False
+inconsistency,[],False
+inconsistent,[],False
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,"[('வசதியின்மை', 1), ('அவசியம்', 1), ('அவசியம் _ வசதியின்மை', 1)]",True
+inconveniently,[],False
+incorrect,"[('சரியான', 2), ('தவறான', 2), ('தொகுப்புக்கள்', 2), ('தவறான தொகுப்புக்கள் _ சரியான', 2), ('சரிவரப் புரியவில்லை', 2)]",True
+incorrectly,"[('தவறுதலாக', 1), ('தவறாகத்', 1)]",True
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,[],False
+indecent,[],True
+indecently,"[('அநாகரிகமாக', 1)]",True
+indecision,[],False
+indecisive,[],False
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,"[('அலட்சியப்', 2), ('போக்கா', 1), ('அலட்சியப் போக்கா', 1)]",True
+indifferent,"[('உதாசீனப்படுத்தும்', 2)]",True
+indigent,[],False
+indignant,[],False
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,[],False
+indiscreetly,[],False
+indiscretion,[],False
+indiscriminate,[],False
+indiscriminately,[],False
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,[],False
+ineffective,[],False
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,[],False
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,"[('கலைக்களஞ்சியத்திற்கு இடம்பெறும் தகுதியற்றன', 1), ('தகுதியற்றன', 1), ('இடம்பெறும்', 1), ('கலைக்களஞ்சியத்திற்கு', 1)]",True
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,[],False
+inequality,[],False
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,"[('தவிர்க்க', 1), ('தவிர்க்க முடியாததா', 1), ('முடியாததா', 1)]",True
+inevitably,[],False
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,[],False
+inexperienced,[],False
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,[],False
+inextricably,"[('பிரிக்கமுடியாது', 1), ('தொடர்ச்சியாக', 1), ('பிரிக்கமுடியாது _ தொடர்ச்சியாக', 1)]",True
+infamous,[],False
+infamously,[],False
+infamy,[],False
+infected,[],False
+infection,[],False
+infections,[],False
+inferior,[],False
+inferiority,[],False
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],False
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,[],True
+infraction,[],False
+infringe,[],True
+infringement,"[('மீறல்', 13), ('பதிப்புரிமை', 5), ('மீறலைச்', 2), ('செய்தது _ பதிப்புரிமை மீறலைச்', 2), ('செய்தது', 2)]",True
+infringements,"[('மீறல்', 1), ('மீறல் _ மொழிபெயர்ப்பு', 1), ('மொழிபெயர்ப்பு', 1)]",True
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],False
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],False
+injurious,[],False
+injury,[],False
+injustice,[],False
+injustices,[],False
+innuendo,[],False
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,[],False
+insanely,[],False
+insanity,[],False
+insatiable,[],False
+insecure,[],False
+insecurity,[],False
+insensible,[],False
+insensitive,[],False
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,[],False
+insignificant,[],False
+insignificantly,[],False
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],False
+insinuating,[],False
+insinuation,[],False
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,[],False
+instable,[],False
+instigate,[],False
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,[],False
+insufficiently,[],False
+insular,[],False
+insult,"[('அவமதிப்பதாகாதா', 1), ('செய்யாதது', 1), ('வரலாற்றுப்பாடப்புத்தகத்தில்', 1), ('வரலாற்றுப்பாடப்புத்தகத்தில் _ செய்யாதது _ அவமதிப்பதாகாதா', 1)]",True
+insulted,[],False
+insulting,"[('அவமதிக்கவோ வீணடிக்கவோ நினைப்பதாக', 2), ('அவமதிக்கவோ', 2), ('நினைப்பதாக', 2), ('வீணடிக்கவோ', 2), ('அவமதிக்கும்', 1)]",True
+insultingly,[],False
+insults,[],False
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,[],False
+intefere,[],False
+inteferes,[],False
+intense,[],False
+interfere,"[('உண்டு', 1), ('உரிமை உண்டு', 1), ('உரிமை', 1)]",True
+interference,[],False
+interferes,[],False
+intermittent,[],True
+interrupt,[],True
+interruption,[],False
+interruptions,[],False
+intimidate,"[('மிரட்றாங்க', 1), ('கார்ப்பொரேஷன்', 1), ('எங்கேயிருந்து', 1), ('கார்ப்பொரேஷன் _ எங்கேயிருந்து _ மிரட்றாங்க', 1)]",True
+intimidating,"[('மிரட்டலாகத் தெரிந்தது _ நடவடிக்கைகள்', 1), ('மிரட்டலாகத்', 1), ('தெரிந்தது', 1), ('நடவடிக்கைகள்', 1)]",True
+intimidatingly,[],False
+intimidation,"[('மிரட்டல்', 2), ('மிரட்டல் _ கூறாமல்', 1), ('கூறாமல்', 1), ('புகார் _ மிரட்டல்', 1), ('புகார்', 1)]",True
+intolerable,[],False
+intolerablely,[],False
+intolerance,[],False
+intoxicate,[],False
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],True
+intrusion,[],False
+intrusive,[],False
+inundate,[],False
+inundated,[],False
+invader,[],False
+invalid,[],False
+invalidate,[],False
+invalidity,[],False
+invasive,[],False
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,[],False
+involuntarily,[],False
+involuntary,"[('இரகசியமாகவும்', 1)]",True
+irascible,[],False
+irate,[],False
+irately,[],False
+ire,[],True
+irk,[],True
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,[],False
+ironical,[],False
+ironically,[],False
+ironies,[],False
+irony,[],False
+irragularity,[],False
+irrational,[],False
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,[],False
+irregularity,[],False
+irrelevance,[],False
+irrelevant,"[('பொருத்தமற்ற', 2), ('சம்பந்தப்படாத', 1), ('பொருத்தமற்றது', 1), ('உள்ளதா', 1), ('மாக', 1)]",True
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,"[('பொறுப்பற்ற', 2)]",True
+irresponsibly,[],False
+irretating,[],False
+irretrievable,[],False
+irreversible,[],False
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],False
+irritated,[],False
+irritating,[],False
+irritation,"[('எரிச்சல்', 1)]",True
+irritations,[],False
+isolate,[],False
+isolated,[],False
+isolation,[],False
+issue,"[('பிரச்சினை', 3), ('கணக்குக்கான', 2), ('பிரச்சினையா', 1), ('இப்பிரச்சினை', 1), ('தர', 1)]",True
+issues,"[('issues', 2), ('விதயங்களுக்கு', 1), ('பிரச்சினையுள்ளது _ பிரச்சினைகளைக்', 1), ('பிரச்சினையுள்ளது', 1), ('பிரச்சினைகளைக்', 1)]",True
+itch,[],True
+itching,"[('அரிப்பு', 4), ('நமைச்சல்', 1)]",True
+itchy,[],False
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,[],False
+jealously,[],False
+jealousness,[],False
+jealousy,[],False
+jeer,[],False
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,[],False
+jeopardy,[],False
+jerk,"[('jerk', 1)]",True
+jerky,[],False
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,[],False
+joke,"[('நகைச்சுவையாகவா', 1), ('நகைச்சுவையாக', 1), ('கேலிப்பேச்சு', 1)]",True
+joker,[],False
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,"[('junk', 1)]",True
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,[],True
+killed,[],False
+killer,[],False
+killing,"[('கொலுத்தியச்', 1)]",True
+killjoy,[],False
+kills,[],False
+knave,[],False
+knife,[],False
+knock,[],True
+knotted,[],False
+kook,[],False
+kooky,[],False
+lack,"[('சரியான', 1), ('இல்லாததை', 1), ('குறைவு', 1), ('இல்லாததே', 1)]",True
+lackadaisical,[],False
+lacked,[],False
+lackey,[],False
+lackeys,[],False
+lacking,"[('குறை என்ன', 2), ('என்ன', 2), ('குறை', 2), ('குறையே', 1), ('இல்லாத', 1)]",True
+lackluster,[],False
+lacks,[],False
+laconic,[],False
+lag,[],True
+lagged,[],False
+lagging,[],False
+laggy,[],False
+lags,[],False
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,[],True
+lame-duck,[],False
+lament,[],True
+lamentable,[],False
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],False
+lapsed,[],False
+lapses,[],False
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,[],False
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],False
+lawlessness,[],False
+layoff,[],False
+layoff-happy,[],False
+lazy,[],False
+leak,[],False
+leakage,[],False
+leakages,[],False
+leaking,[],False
+leaks,[],False
+leaky,[],False
+lech,[],False
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,[],False
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,"[('எலுமிச்சை', 1)]",True
+lengthy,"[('நெடிய', 1)]",True
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,[],True
+liable,[],False
+liar,[],True
+liars,[],False
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('பொய்யா', 2)]",True
+lied,[],True
+lier,[],True
+lies,[],True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('எல்லை', 3), ('அவகாசம்', 1), ('வரையரை', 1), ('வரையறை', 1), ('வரம்பெல்லாம்', 1)]",True
+limitation,[],False
+limitations,[],False
+limited,[],False
+limits,[],False
+limp,[],False
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,[],False
+loner,[],False
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,[],True
+longingly,[],False
+loophole,[],False
+loopholes,[],False
+loose,[],False
+loot,[],False
+lorn,[],False
+lose,"[('நினைக்கிறீர்கள்', 1), ('நட்டமடையப் _ நினைக்கிறீர்கள்', 1), ('நட்டமடையப்', 1)]",True
+loser,"[('தோற்றவன்', 2)]",True
+losers,[],False
+loses,[],True
+losing,"[('சந்திக்கிறது', 2)]",True
+loss,"[('இழப்பு', 2)]",True
+losses,[],False
+lost,"[('உங்களுக்கு', 1)]",True
+loud,"[('பேசுவது', 2)]",True
+louder,[],False
+lousy,[],False
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,[],False
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,"[('பித்தன்', 1)]",True
+lunaticism,[],False
+lurch,[],False
+lure,[],True
+lurid,[],False
+lurk,[],False
+lurking,[],False
+lying,[],True
+macabre,[],False
+mad,[],True
+madden,[],False
+maddening,[],False
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,[],False
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,[],False
+malicious,[],False
+maliciously,[],False
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,"[('வெறியை', 2)]",True
+maniac,[],False
+maniacal,[],False
+manic,[],False
+manipulate,[],False
+manipulation,[],False
+manipulative,[],False
+manipulators,[],False
+mar,[],True
+marginal,[],False
+marginally,[],False
+martyrdom,[],False
+martyrdom-seeking,[],False
+mashed,[],False
+massacre,[],True
+massacres,"[('படுகொலைகளையும்', 1)]",True
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,[],False
+meaningless,"[('வசனமல்லவா', 1), ('அர்த்தமற்ற வசனமல்லவா', 1), ('அர்த்தமற்ற', 1), ('அர்த்தமற்றதாகிவிடுமல்லவா', 1)]",True
+meanness,[],False
+measly,[],False
+meddle,[],False
+meddlesome,[],False
+mediocre,[],False
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,[],False
+mercilessly,[],False
+mess,"[('இக்குழப்பங்களைத்', 2), ('குழப்பம்', 2), ('இக்குழப்பங்களைத் _ முன்பதிவு', 1), ('முன்பதிவு', 1), ('குழுப்பம்', 1)]",True
+messed,[],False
+messes,[],False
+messing,[],False
+messy,[],True
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],True
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,[],False
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,[],False
+misconceptions,[],False
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],False
+miserable,[],False
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,[],False
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],False
+misinform,[],True
+misinformed,[],False
+misinterpret,[],False
+misjudge,[],False
+misjudgment,[],False
+mislead,[],True
+misleading,"[('தவறான உள்ளடக்கத்தை', 1), ('உள்ளடக்கத்தை', 1), ('தவறான', 1)]",True
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],False
+mispronounced,[],False
+mispronounces,[],False
+misread,[],False
+misreading,[],False
+misrepresent,[],False
+misrepresentation,[],False
+miss,"[('ஏன்', 1)]",True
+missed,[],False
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('தவறு', 4), ('தவறுதலாக', 1), ('தண்டனைதான்', 1), ('தவறைக்', 1), ('பிழையைச்', 1)]",True
+mistaken,"[('தவறாக', 1)]",True
+mistakenly,"[('தவறுதலாக', 2)]",True
+mistakes,"[('தவறுகள்', 4), ('கட்டுரைகளிலாவது', 2), ('விரைவாக', 1), ('தவறு _ விரைவாக', 1), ('தவறு', 1)]",True
+mistified,[],False
+mistress,[],False
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],True
+misunderstand,[],True
+misunderstanding,"[('வழிகாட்டலின்மையுமா', 1), ('தண்டனைதான்', 1), ('புரிந்துகொள்ளாமைக்கு', 1), ('தண்டனைதான் _ புரிந்துகொள்ளாமைக்கு _ வழிகாட்டலின்மையுமா', 1), ('புரிதலின்மை', 1)]",True
+misunderstandings,[],False
+misunderstood,"[('விளங்கிக்', 1), ('தவறாக', 1), ('தவறாக விளங்கிக்', 1), ('சரியாகப் _ கொள்ளவில்லையா', 1), ('சரியாகப்', 1)]",True
+misuse,"[('பயன்படுத்த', 1)]",True
+moan,[],False
+mobster,[],False
+mock,[],False
+mocked,[],False
+mockeries,[],False
+mockery,[],False
+mocking,[],False
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,[],False
+monotony,[],False
+monster,"[('அசுரர்', 4)]",True
+monstrosities,[],False
+monstrosity,[],False
+monstrous,[],False
+monstrously,[],False
+moody,[],False
+moot,[],False
+mope,[],False
+morbid,[],False
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,[],False
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,"[('கொலைச்', 1)]",True
+murderer,[],False
+murderous,"[('தாக்குதல்', 1)]",True
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,[],False
+mysteriously,[],False
+mystery,"[('மர்மம்', 1)]",True
+mystify,[],False
+myth,"[('புராணக்கதையை _ பயனை', 1), ('புராணக்கதையை', 1), ('பயனை', 1), ('கட்டுக்கதை', 1)]",True
+nag,[],True
+nagging,[],False
+naive,[],False
+naively,[],False
+narrower,[],False
+nastily,[],False
+nastiness,[],False
+nasty,[],True
+naughty,[],False
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,"[('சொல்லவேண்டியதில்லையன்றோ', 1)]",True
+needlessly,[],False
+needy,[],False
+nefarious,[],False
+nefariously,[],False
+negate,[],False
+negation,[],False
+negative,"[('வேறு _ எதிர்மறையான கருத்தை', 1), ('எதிர்மறையான', 1), ('கருத்தை', 1), ('வேறு', 1)]",True
+negatives,[],False
+negativity,[],False
+neglect,[],False
+neglected,[],False
+negligence,[],False
+negligent,"[('அலட்சியமாக இருந்த', 1), ('அலட்சியமாக', 1), ('இருந்த', 1)]",True
+nemesis,[],False
+nepotism,[],False
+nervous,[],False
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,[],False
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,"[('இரைச்சல்', 3), ('இரைச்சலா', 1)]",True
+noises,[],False
+noisier,[],False
+noisy,[],False
+non-confidence,[],False
+nonexistent,[],False
+nonresponsive,[],False
+nonsense,"[('முட்டாள்த்தனமாகப்', 4), ('தேவையற்ற', 1), ('தயவு _ தேவையற்ற', 1), ('தயவு', 1)]",True
+nosey,[],False
+notoriety,[],False
+notorious,[],False
+notoriously,[],False
+noxious,[],False
+nuisance,[],False
+numb,[],True
+obese,[],False
+object,"[('பொருள்', 5), ('ஆட்சேபித்தேன்', 2), ('பொருளுக்கும்', 1), ('பொருளுக்கோ', 1), ('பொருட்', 1)]",True
+objection,"[('ஆட்சேபனை', 1), ('ஆட்சேபணை', 1)]",True
+objectionable,"[('ஒலிக்கிறது', 2), ('எதிர்ப்பு', 1), ('ஒலிக்கிறது _ எதிர்ப்பு', 1)]",True
+objections,"[('ஆட்சேபணை', 1), ('ஆட்சேபனை', 1)]",True
+oblique,[],False
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,[],False
+obnoxiously,[],False
+obscene,[],False
+obscenely,[],False
+obscenity,[],False
+obscure,"[('சூக்குமக் _ மறைபட்டுள்ளன', 2), ('சூக்குமக்', 2), ('மறைபட்டுள்ளன', 2)]",True
+obscured,"[('திருப்தி', 2), ('இருட்டடிப்பு _ செய்த _ திருப்தி', 1), ('இருட்டடிப்பு', 1), ('செய்த', 1)]",True
+obscures,[],False
+obscurity,[],False
+obsess,[],False
+obsessive,[],False
+obsessively,[],False
+obsessiveness,[],False
+obsolete,[],False
+obstacle,"[('தடையாக', 1)]",True
+obstinate,[],False
+obstinately,[],False
+obstruct,[],True
+obstructed,[],False
+obstructing,"[('எதிர்பார்க்கிறீர்களா', 1)]",True
+obstruction,[],False
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,[],False
+odder,[],False
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,[],False
+odor,[],False
+offence,[],False
+offend,[],False
+offender,[],False
+offending,[],False
+offenses,"[('இடங்களைத்', 1)]",True
+offensive,[],False
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,[],False
+ominously,[],False
+omission,[],True
+omit,[],True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,[],False
+opponent,[],False
+opportunistic,[],False
+oppose,"[('எதிர்ப்பது', 1), ('எதற்காக', 1), ('எதிர்ப்பது எதற்காக', 1), ('எதிர்க்க', 1)]",True
+opposition,"[('எதிர்ப்பு', 1)]",True
+oppositions,[],False
+oppress,[],False
+oppression,[],False
+oppressive,[],False
+oppressively,[],False
+oppressiveness,[],False
+oppressors,[],False
+ordeal,[],False
+orphan,"[('orphan', 1)]",True
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,[],False
+outcry,[],False
+outlaw,[],False
+outmoded,[],False
+outrage,[],True
+outraged,[],False
+outrageous,"[('அட்டகாசம்', 1), ('அட்டகாசம் வேறு', 1), ('வேறு', 1)]",True
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,[],False
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,"[('எடுங்கள்', 1)]",True
+overdone,[],False
+overdue,[],False
+overemphasize,[],False
+overheat,[],False
+overkill,[],False
+overloaded,[],False
+overlook,[],False
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],False
+oversight,[],False
+oversights,[],False
+oversimplification,[],False
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],False
+overstate,[],False
+overstated,[],False
+overstatement,[],False
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,[],False
+overthrows,[],False
+overturn,[],False
+overweight,[],False
+overwhelm,[],False
+overwhelmed,[],False
+overwhelming,[],False
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,[],False
+overzealously,[],False
+overzelous,[],False
+pain,[],True
+painful,"[('painful', 1)]",True
+painfull,[],False
+painfully,[],False
+pains,"[('வேதனைகளைப்', 2), ('அவளின்', 1), ('அவளின் வேதனைகளைப்', 1)]",True
+pale,[],False
+pales,[],False
+paltry,[],False
+pan,[],True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,[],False
+panick,[],False
+panicked,[],False
+panicking,[],False
+panicky,[],False
+paradoxical,"[('இழையோடும்', 1), ('முரணாகவுள்ளது', 1)]",True
+paradoxically,[],False
+paralize,[],False
+paralyzed,"[('இல்லாமல்', 2)]",True
+paranoia,[],False
+paranoid,[],False
+parasite,[],False
+pariah,"[('பறையர்', 5)]",True
+parody,[],False
+partiality,"[('partialty', 1)]",True
+partisan,[],False
+partisans,[],False
+passe,[],True
+passive,[],False
+passiveness,[],False
+pathetic,[],False
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,[],False
+peculiarly,[],False
+pedantic,[],False
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],False
+penalty,[],False
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],False
+pernicious,[],False
+perplex,[],False
+perplexed,[],False
+perplexing,[],False
+perplexity,[],False
+persecute,[],False
+persecution,[],False
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,[],False
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,"[('பரிசுகள்', 1), ('பரிசுகள் _ குட்டி', 1), ('குட்டி', 1)]",True
+phobia,[],False
+phobic,[],False
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,[],False
+pig,"[('வளையங்கள்', 2)]",True
+pigs,"[('பிக்கள்', 1), ('நாய்களும்', 1)]",True
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,[],False
+pique,[],False
+pitiable,[],False
+pitiful,[],False
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,[],False
+plagiarize,[],False
+plague,"[('இலக்குமி', 1)]",True
+plasticky,[],False
+plaything,[],False
+plea,[],True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,"[('நிலப்பகுதி', 2)]",True
+plotters,[],False
+ploy,[],True
+plunder,[],False
+plunderer,[],False
+pointless,[],False
+pointlessly,[],False
+poison,"[('நஞ்சு', 1)]",True
+poisonous,"[('நச்சுத்தீனி', 1)]",True
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,[],False
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('ஏழை', 2), ('எழை', 2), ('இருப்பிடம்', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,[],False
+posturing,[],False
+pout,[],False
+poverty,[],False
+powerless,[],False
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,[],False
+prejudices,[],False
+prejudicial,[],False
+premeditated,[],False
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,[],False
+presumptuously,[],False
+pretence,[],False
+pretend,[],True
+pretense,[],False
+pretentious,[],False
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],False
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,[],False
+prison,"[('சிறைவீடு', 1)]",True
+prisoner,[],False
+problem,"[('சிக்கல்', 11), ('பிரச்சினை', 7), ('problem', 6), ('பிரச்சனை', 6), ('பிரச்சனைக்குச்', 3)]",True
+problematic,"[('பிரச்சனை', 1), ('சிக்கலைக்', 1)]",True
+problems,"[('சிக்கல்', 4), ('சிக்கல்கல்', 1), ('சிக்கல்களை', 1), ('பிரச்சனைகள்', 1), ('சிக்கல்கள்', 1)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,[],False
+prohibit,[],True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,[],False
+propagandize,[],False
+proprietary,[],False
+prosecute,[],True
+protest,"[('எதிர்ப்பு', 1), ('தெரிவிக்கிறார்கள்', 1)]",True
+protested,[],False
+protesting,[],False
+protests,[],False
+protracted,[],False
+provocation,[],False
+provocative,[],False
+provoke,[],False
+pry,[],False
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,[],False
+punish,[],True
+punishable,[],False
+punitive,[],False
+punk,[],False
+puny,[],False
+puppet,"[('கைப்பாவை', 6), ('கணக்குகள்', 1), ('கைப்பாவை கணக்குகள்', 1), ('கைப்பாவையில்லாமல்', 1), ('கைப்பாவையாக', 1)]",True
+puppets,[],False
+puzzled,[],False
+puzzlement,[],False
+puzzling,[],False
+quack,"[('குவாக் குவாக்', 1), ('குவாக்', 1)]",True
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,[],False
+quarrellous,[],False
+quarrellously,[],False
+quarrels,[],False
+quarrelsome,[],False
+quash,[],False
+queer,[],False
+questionable,"[('விவாதிக்கக்கூட _ இல்லாத', 1), ('இல்லாத', 1), ('விவாதிக்கக்கூட', 1)]",True
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,[],False
+racism,[],False
+racist,[],False
+racists,[],False
+racy,[],True
+radical,[],False
+radicalization,[],False
+radically,[],False
+radicals,[],False
+rage,[],True
+ragged,[],True
+raging,[],True
+rail,[],True
+raked,[],False
+rampage,[],False
+rampant,[],False
+ramshackle,[],False
+rancor,[],False
+randomly,"[('randomஆக _ தேர்ந்தெடுத்துக்', 1), ('தேர்ந்தெடுத்துக்', 1), ('randomஆக', 1)]",True
+rankle,[],False
+rant,[],True
+ranted,[],True
+ranting,[],False
+rantingly,[],False
+rants,[],True
+rape,[],True
+raped,[],False
+raping,[],True
+rascal,[],False
+rascals,[],False
+rash,[],True
+rattle,[],False
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],False
+reactionary,[],False
+rebellious,[],False
+rebuff,[],False
+rebuke,[],False
+recalcitrant,[],False
+recant,[],False
+recession,[],False
+recessionary,[],False
+reckless,[],False
+recklessly,[],False
+recklessness,[],False
+recoil,[],False
+recourses,[],False
+redundancy,[],False
+redundant,[],False
+refusal,[],False
+refuse,"[('மறுத்தனர்', 6), ('மறுப்பது', 2), ('மறுப்பது ஏன்', 1), ('ஏன்', 1), ('ஏற்க', 1)]",True
+refused,[],True
+refuses,"[('மறுக்கின்றது', 1)]",True
+refusing,[],False
+refutation,[],False
+refute,[],False
+refuted,[],False
+refutes,[],False
+refuting,[],False
+regress,[],False
+regression,[],False
+regressive,[],False
+regret,"[('வருத்தம்', 1), ('தேவை', 1), ('வருத்தம் _ தேவை', 1), ('வருந்துவது தகுமா', 1), ('தகுமா', 1)]",True
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,"[('வருத்தப்பட்டுள்ளார்', 1)]",True
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,[],False
+rejected,[],False
+rejecting,[],False
+rejection,[],False
+rejects,[],False
+relapse,[],False
+relentless,"[('அயராத', 1)]",True
+relentlessly,[],False
+relentlessness,[],False
+reluctance,[],False
+reluctant,"[('தயக்கம்', 1), ('தயங்குகின்றீர்கள்', 1)]",True
+reluctantly,[],False
+remorse,[],False
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,[],True
+renunciation,[],False
+repel,[],False
+repetitive,[],False
+reprehensible,[],False
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],False
+repression,[],False
+repressive,[],False
+reprimand,[],False
+reproach,[],False
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,[],False
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],False
+repulsed,[],False
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,[],True
+resentful,[],False
+resentment,[],False
+resignation,[],False
+resigned,[],False
+resistance,"[('எதிர்ப்பியலை', 1), ('எதிர்ப்பு', 1)]",True
+restless,[],False
+restlessness,[],False
+restrict,[],True
+restricted,[],False
+restriction,[],True
+restrictive,[],False
+resurgent,[],False
+retaliate,[],False
+retaliatory,[],False
+retard,[],True
+retarded,"[('குன்றிய', 1), ('குறைவான', 1), ('குறைவான _ குன்றிய', 1)]",True
+retardedness,[],False
+retards,[],False
+reticent,[],False
+retract,[],False
+retreat,"[('பின்வாங்குவது', 1), ('பின்வாங்குவதே', 1)]",True
+retreated,[],False
+revenge,[],False
+revengeful,[],False
+revengefully,[],False
+revert,[],True
+revile,[],False
+reviled,[],False
+revoke,"[('கொள்ளலாமா', 2), ('திரும்பப் _ கொள்ளலாமா', 2), ('திரும்பப்', 2)]",True
+revolt,[],False
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,"[('சொல்லாட்சி', 1), ('சோதிடம்', 1), ('சோதிடம் _ சொல்லாட்சி', 1)]",True
+rhetorical,[],False
+ricer,[],False
+ridicule,[],False
+ridicules,[],False
+ridiculous,"[('தித்திப்பான', 1)]",True
+ridiculously,[],False
+rife,[],False
+rift,[],False
+rifts,[],False
+rigid,[],False
+rigidity,[],False
+rigidness,[],False
+rile,[],False
+riled,[],False
+rip,[],True
+rip-off,[],False
+ripoff,[],False
+ripped,[],False
+risk,"[('risk', 6), ('இடரா', 1)]",True
+risks,[],False
+risky,[],False
+rival,"[('போட்டியாகக்', 1)]",True
+rivalry,[],False
+roadblocks,[],False
+rocky,[],False
+rogue,[],False
+rollercoaster,[],False
+rot,[],True
+rotten,[],False
+rough,"[('rough', 1)]",True
+rremediable,[],False
+rubbish,"[('குப்பை', 1)]",True
+rude,[],True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,[],True
+ruined,[],False
+ruining,[],False
+ruinous,[],False
+ruins,[],False
+rumbling,[],False
+rumor,[],False
+rumors,[],False
+rumours,[],False
+rumple,[],False
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,[],True
+rusts,[],True
+rusty,[],False
+rut,[],True
+ruthless,[],False
+ruthlessly,[],False
+ruthlessness,[],False
+ruts,[],False
+sabotage,"[('நாசவேலை', 1)]",True
+sack,"[('தொகுவை', 1)]",True
+sacrificed,"[('உள்ளன', 1), ('பலியாகி', 1), ('பலியாகி உள்ளன', 1)]",True
+sad,"[('வருத்தமடையச்', 1)]",True
+sadden,[],False
+sadly,[],False
+sadness,[],False
+sag,[],True
+sagged,[],False
+sagging,[],False
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,[],True
+sarcasm,[],False
+sarcastic,[],False
+sarcastically,[],False
+sardonic,[],False
+sardonically,[],False
+sass,[],True
+satirical,[],False
+satirize,[],False
+savage,[],True
+savaged,[],False
+savagery,"[('அடாவடித்தனம்', 3), ('சீண்டல்', 2), ('அடாவடித்தனம் _ சீண்டல்', 2)]",True
+savages,[],False
+scaly,[],False
+scam,[],True
+scams,[],False
+scandal,[],False
+scandalize,[],False
+scandalized,[],False
+scandalous,[],False
+scandalously,[],False
+scandals,[],False
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,[],False
+scar,[],True
+scarce,[],True
+scarcely,"[('முடியுமா', 1), ('தானியங்கியால்', 1), ('தானியங்கியால் _ முடியுமா', 1)]",True
+scarcity,[],False
+scare,[],True
+scared,"[('புதுப்பயனர்கள்', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,[],False
+scars,[],False
+scary,[],False
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,[],False
+scolded,[],False
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],False
+scornful,[],False
+scornfully,[],False
+scoundrel,[],False
+scourge,[],False
+scowl,[],False
+scramble,[],False
+scrambled,[],False
+scrambles,[],False
+scrambling,[],False
+scrap,[],True
+scratch,[],False
+scratched,[],False
+scratches,[],False
+scratchy,[],False
+scream,[],True
+screech,[],False
+screw-up,[],False
+screwed,[],False
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,[],False
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,[],True
+selfishly,[],False
+selfishness,"[('தன்மனம்', 1)]",True
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,[],False
+senselessly,[],False
+seriousness,[],False
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],False
+setbacks,[],False
+sever,[],True
+severe,[],False
+severity,[],False
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,[],False
+shake,[],False
+shaky,[],False
+shallow,[],False
+sham,[],True
+shambles,[],False
+shame,"[('அவலம்', 1)]",True
+shameful,[],False
+shamefully,[],False
+shamefulness,[],False
+shameless,[],False
+shamelessly,[],False
+shamelessness,[],False
+shark,[],False
+sharply,[],False
+shatter,[],False
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,[],False
+shirker,[],False
+shit,[],True
+shiver,[],False
+shock,[],False
+shocked,[],False
+shocking,[],False
+shockingly,[],False
+shoddy,[],False
+short-lived,[],False
+shortage,[],False
+shortchange,[],False
+shortcoming,"[('குறைபாட்டைக்', 1), ('தெளிவாகின்றது', 1), ('குறைபாட்டைக் _ தெளிவாகின்றது', 1)]",True
+shortcomings,[],False
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,[],False
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,[],False
+shunned,[],False
+sick,[],False
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],False
+sidetracked,[],False
+siege,[],False
+sillily,[],False
+silly,[],False
+simplistic,[],False
+simplistically,[],False
+sin,[],True
+sinful,[],True
+sinfully,[],False
+sinister,[],False
+sinisterly,[],False
+sink,[],False
+sinking,[],False
+skeletons,[],False
+skeptic,"[('சமீம்', 1), ('சமீம் _ ஐயப்பாடு', 1), ('ஐயப்பாடு', 1)]",True
+skeptical,"[('சந்தேகம்', 3), ('சுணக்கமாக', 1), ('சொல்வீர்கள்', 1), ('ஐயம்', 1), ('இருந்ததாலே', 1)]",True
+skeptically,[],False
+skepticism,[],False
+sketchy,[],False
+skimpy,[],False
+skinny,[],False
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,"[('இழித்துக்', 1), ('விதம்', 1), ('மறுத்து', 1)]",True
+slanderer,[],False
+slanderous,[],False
+slanderously,[],False
+slanders,[],False
+slap,[],False
+slashing,[],False
+slaughter,[],False
+slaughtered,[],False
+slave,[],False
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],True
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,[],False
+sloth,[],False
+slothful,[],False
+slow,[],False
+slow-moving,[],False
+slowed,[],False
+slower,[],False
+slowest,[],False
+slowly,[],False
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],False
+sluggish,[],False
+slump,[],False
+slumping,[],False
+slumpping,[],False
+slur,[],False
+slut,[],False
+sluts,[],False
+sly,[],True
+smack,[],False
+smallish,[],False
+smash,[],False
+smear,[],False
+smell,[],True
+smelled,[],False
+smelling,[],False
+smells,[],False
+smelly,[],False
+smelt,[],False
+smoke,"[('புகையெல்லாம்', 1), ('ஒன்றுமில்லை', 1), ('புகையெல்லாம் ஒன்றுமில்லை', 1)]",True
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,[],False
+smugly,[],False
+smut,[],False
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,[],False
+snarky,[],False
+snarl,[],False
+sneak,[],True
+sneakily,[],False
+sneaky,[],False
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,"[('செங்கால்', 1), ('வேண்டாம் _ செங்கால் _ பாம்பு', 1), ('பாம்பு', 1), ('வேண்டாம்', 1)]",True
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,"[('மூக்கறுக்கும்', 1)]",True
+so-cal,[],False
+soapy,[],False
+sob,[],False
+sober,[],False
+sobering,[],False
+solemn,[],False
+solicitude,[],False
+somber,[],False
+sore,[],True
+sorely,[],False
+soreness,[],False
+sorrow,[],False
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('மன்னிக்கவும்', 4), ('வருத்தப்படுகிறார்', 1), ('மன்னிக்க', 1), ('பரிதாபப்படுவதே', 1)]",True
+sour,"[('புளிப்பாக', 1), ('எலுமிச்சை', 1), ('எலுமிச்சை _ புளிப்பாக', 1)]",True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],False
+spewed,[],False
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,[],True
+spiteful,[],False
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,"[('உருவாக்கப்பட்டதா', 1), ('பிரித்து', 1)]",True
+splitting,[],False
+spoil,[],False
+spoilage,[],False
+spoilages,[],False
+spoiled,[],False
+spoilled,[],False
+spoils,[],False
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,[],False
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],False
+squabbling,[],False
+squander,[],False
+squash,[],False
+squeak,[],False
+squeaks,[],False
+squeaky,[],False
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,[],False
+stab,[],True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,[],True
+stains,[],False
+stale,[],False
+stalemate,[],False
+stall,"[('stall', 1)]",True
+stalls,[],False
+stammer,[],False
+stampede,[],False
+standstill,"[('விளக்கத்தில்', 1)]",True
+stark,[],False
+starkly,[],False
+startle,[],False
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,[],False
+static,[],False
+steal,[],True
+stealing,"[('தாக்கும் _ கைப்பாவை அறிதல்', 1), ('கைப்பாவை', 1), ('தாக்கும்', 1), ('அறிதல்', 1)]",True
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],False
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,[],False
+sticky,[],False
+stiff,[],False
+stiffness,[],False
+stifle,[],False
+stifling,[],False
+stiflingly,[],False
+stigma,[],False
+stigmatize,[],False
+sting,[],True
+stinging,[],False
+stingingly,[],False
+stingy,[],False
+stink,[],False
+stinks,[],False
+stodgy,[],False
+stole,[],False
+stolen,[],False
+stooge,[],False
+stooges,[],False
+stormy,[],False
+straggle,[],False
+straggler,[],False
+strain,[],True
+strained,[],False
+straining,[],False
+strange,"[('வினோதமான', 1)]",True
+strangely,[],False
+stranger,"[('மறவரும்', 1), ('கள்ளர் _ மறவரும்', 1), ('கள்ளர்', 1)]",True
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,"[('அழுத்தங்கள்', 1), ('உளைச்சலை', 1)]",True
+stresses,[],False
+stressful,[],False
+stressfully,[],False
+stricken,[],False
+strict,[],True
+strictly,[],False
+strident,[],False
+stridently,[],False
+strife,[],False
+strike,"[('ஸ்ரைக்', 1), ('சிந்தனைப்புயல்', 1)]",True
+stringent,[],False
+stringently,[],False
+struck,"[('பட்டது', 1)]",True
+struggle,"[('கல்லூரிப்', 2), ('போராட்டப்', 2), ('கல்லூரிப் போராட்டப்', 2), ('போராட்டம்', 1)]",True
+struggled,[],False
+struggles,[],False
+struggling,[],False
+strut,[],False
+stubborn,[],False
+stubbornly,[],False
+stubbornness,[],False
+stuck,"[('மாட்டிக்', 1), ('பதிந்துவிட்டேன்', 1), ('சொல்வது சரிதான் _ அவசரப்பட்டு பதிந்துவிட்டேன்', 1), ('சொல்வது', 1), ('அவசரப்பட்டு', 1)]",True
+stuffy,[],False
+stumble,"[('வரலாம்', 1), ('தடுமாற்றம் வரலாம்', 1), ('தடுமாற்றம்', 1)]",True
+stumbled,[],False
+stumbles,[],False
+stump,[],False
+stumped,[],False
+stumps,[],False
+stun,[],True
+stunt,"[('stunt', 1)]",True
+stunted,[],False
+stupid,[],True
+stupidest,[],False
+stupidity,"[('ஒட்டுமொத்த', 1), ('மெளனம்', 1), ('நிருவாகி', 1), ('அடாவடித்தனத்தைக் _ நிறுத்த _ நிருவாகி', 1), ('நிறுத்த', 1)]",True
+stupidly,[],False
+stupified,[],False
+stupify,[],False
+stupor,[],False
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,"[('அடங்கிப்', 1)]",True
+subjected,[],False
+subjection,[],False
+subjugate,[],False
+subjugation,[],False
+submissive,[],False
+subordinate,[],False
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,"[('சொந்தவாழ்வில்', 1), ('சொந்தவாழ்வில் _ விமர்சிக்கவும் _ எவ்வளவு', 1), ('எவ்வளவு', 1), ('விமர்சிக்கவும்', 1), ('தரமற்றுத்தான்', 1)]",True
+subtract,[],False
+subversion,[],False
+subversive,[],False
+subversively,[],False
+subvert,[],False
+succumb,[],False
+suck,[],False
+sucked,[],False
+sucker,[],False
+sucks,[],False
+sucky,[],False
+sue,[],True
+sued,[],True
+sueing,[],False
+sues,[],True
+suffer,[],False
+suffered,[],False
+sufferer,[],False
+sufferers,[],False
+suffering,[],False
+suffers,[],False
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,[],False
+suicide,[],False
+sulk,[],False
+sullen,[],False
+sully,[],False
+sunder,"[('சுந்தர்', 4)]",True
+sunk,[],False
+sunken,[],False
+superficial,[],False
+superficiality,[],False
+superficially,[],False
+superfluous,[],False
+superstition,[],False
+superstitious,[],False
+suppress,[],True
+suppression,[],False
+surrender,"[('அடைகின்றீர்கள்', 1)]",True
+susceptible,[],False
+suspect,[],True
+suspicion,"[('சந்தேகம்', 11), ('இன்னுமொரு', 3), ('இன்னுமொரு சந்தேகம்', 2), ('எழுகிறது', 1), ('சந்தேகம் எழுகிறது', 1)]",True
+suspicions,[],False
+suspicious,"[('தீர்ந்ததா', 2), ('சந்தேகம்', 2), ('சந்தேகம் தீர்ந்ததா', 2)]",True
+suspiciously,[],False
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],False
+swelling,[],False
+swindle,[],False
+swipe,[],False
+swollen,[],False
+symptom,[],True
+symptoms,[],True
+syndrome,[],False
+taboo,[],False
+tacky,[],False
+taint,[],False
+tainted,[],False
+tamper,[],False
+tangle,[],False
+tangled,[],False
+tangles,[],False
+tank,"[('தொட்டி', 1), ('tank', 1)]",True
+tanked,[],False
+tanks,[],False
+tantrum,[],False
+tardy,[],False
+tarnish,[],False
+tarnished,[],False
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],False
+taunting,[],False
+tauntingly,[],False
+taunts,[],False
+taut,[],False
+tawdry,[],False
+taxing,[],False
+tease,"[('கேலி', 1), ('கிண்டல்', 1)]",True
+teasingly,[],False
+tedious,[],False
+tediously,[],False
+temerity,[],False
+temper,[],True
+tempest,[],False
+temptation,[],False
+tenderness,[],False
+tense,[],False
+tension,[],True
+tentative,[],False
+tentatively,[],False
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,[],False
+terribleness,[],False
+terribly,[],False
+terror,[],True
+terror-genic,[],False
+terrorism,"[('terrorism', 1)]",True
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,[],False
+thirst,[],False
+thorny,[],False
+thoughtless,[],False
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,[],True
+threaten,"[('அச்சுறுத்துதல்', 2), ('கொடுத்துவிட்டு', 1), ('தடை', 1)]",True
+threatening,"[('அச்சுறுத்தல்', 2), ('பயன்படுத்தி', 1), ('பயன்படுத்தி _ அச்சுறுத்தல்', 1), ('தடை', 1), ('அச்சுறுத்திக்', 1)]",True
+threats,"[('மிரட்டல்', 1)]",True
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,[],False
+thumb-down,[],False
+thumbs-down,[],False
+thwart,[],False
+time-consuming,[],False
+timid,"[('திமிரியா', 1)]",True
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('சோர்வு', 1)]",True
+tiresome,[],False
+tiring,[],False
+tiringly,[],False
+toil,[],True
+toll,[],False
+top-heavy,[],False
+topple,[],False
+torment,[],False
+tormented,[],False
+torrent,[],False
+tortuous,[],False
+torture,[],False
+tortured,[],False
+tortures,[],False
+torturing,[],False
+torturous,[],False
+torturously,[],False
+totalitarian,[],False
+touchy,[],False
+toughness,[],False
+tout,[],False
+touted,[],False
+touts,[],False
+toxic,[],False
+traduce,[],False
+tragedy,[],False
+tragic,[],False
+tragically,[],False
+traitor,[],False
+traitorous,[],False
+traitorously,[],False
+tramp,[],False
+trample,[],False
+transgress,[],False
+transgression,[],False
+trap,"[('பொறி', 1), ('இப்பொறியில்', 1)]",True
+traped,[],False
+trapped,[],False
+trash,[],False
+trashed,[],False
+trashy,[],False
+trauma,[],False
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,[],False
+treasonous,[],False
+trick,[],True
+tricked,[],False
+trickery,[],False
+tricky,[],False
+trivial,"[('trivial', 1)]",True
+trivialize,[],False
+trouble,"[('பிரச்சினையா', 1), ('வருவதால்', 1), ('சிக்கலா', 1)]",True
+troubled,[],False
+troublemaker,[],False
+troubles,[],False
+troublesome,[],False
+troublesomely,[],False
+troubling,[],False
+troublingly,[],False
+truant,[],False
+tumble,[],True
+tumbled,[],False
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,[],False
+twist,[],True
+twisted,[],False
+twists,[],False
+two-faced,[],False
+two-faces,[],False
+tyrannical,[],False
+tyrannically,[],False
+tyranny,[],False
+tyrant,[],False
+ugh,[],True
+uglier,[],False
+ugliest,[],False
+ugliness,"[('உடலுறவு', 6)]",True
+ugly,[],False
+ulterior,[],False
+ultimatum,[],False
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,"[('முடியாமல்', 2), ('unable', 1), ('இயலாமல்', 1), ('ஹாட்கேட்', 1), ('முடியவில்லை', 1)]",True
+unacceptable,"[('முடியாதது', 1), ('ஏற்றுக்கொள்ள முடியாதது', 1), ('ஏற்றுக்கொள்ள', 1)]",True
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,[],False
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,[],False
+unauthentic,[],False
+unavailable,[],False
+unavoidably,[],False
+unbearable,[],False
+unbearablely,[],False
+unbelievable,"[('நம்பமுடியவில்லை', 1)]",True
+unbelievably,[],False
+uncaring,[],False
+uncertain,[],False
+uncivil,[],True
+uncivilized,"[('நாகரிகமடையாதவர்கள்', 1)]",True
+unclean,[],False
+unclear,"[('தெளிவில்லை', 1)]",True
+uncollectible,[],False
+uncomfortable,[],False
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,[],False
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,[],False
+uncontrolled,[],False
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,[],False
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,[],False
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,[],False
+underestimate,[],False
+underlings,[],False
+undermine,[],False
+undermined,[],False
+undermines,[],False
+undermining,[],False
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,[],False
+undetermined,[],False
+undid,[],False
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,"[('மீளமைக்க', 1), ('மீளமைக்கலாமா', 1)]",True
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,[],False
+uneconomical,[],False
+unemployed,"[('அற்றவர்களா', 1), ('வேண்டுகோள்', 1), ('வேண்டுகோள் _ வேலை அற்றவர்களா', 1), ('வேலை', 1)]",True
+unequal,[],False
+unethical,[],False
+uneven,[],False
+uneventful,[],False
+unexpected,[],False
+unexpectedly,[],False
+unexplained,[],False
+unfairly,[],False
+unfaithful,[],False
+unfaithfully,[],False
+unfamiliar,[],False
+unfavorable,[],False
+unfeeling,[],False
+unfinished,"[('முடிக்காதுள்ள', 1)]",True
+unfit,[],False
+unforeseen,[],False
+unforgiving,[],False
+unfortunate,"[('வருந்தத்தக்கது', 1)]",True
+unfortunately,[],False
+unfounded,[],False
+unfriendly,[],False
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,[],False
+unhealthy,[],False
+unhelpful,[],False
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,"[('முக்கியமற்ற', 1)]",True
+uninformed,[],False
+uninsured,[],False
+unintelligible,"[('எளிமையான', 1)]",True
+unintelligile,[],False
+unipolar,[],False
+unjust,[],False
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,[],False
+unjustly,[],False
+unkind,[],False
+unkindly,[],False
+unknown,"[('தெரியவில்லை', 3), ('அறிய', 1)]",True
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,"[('இறக்குவோமா', 51), ('கற்ற _ இறக்குவோமா', 51), ('கற்ற', 51)]",True
+unlicensed,[],False
+unlikely,[],False
+unlucky,[],False
+unmoved,[],False
+unnatural,[],False
+unnaturally,[],False
+unnecessary,"[('தேவையற்ற', 6), ('அவசியமற்ற', 3), ('தேவையில்லாததை', 1), ('தேவையற்றவையா', 1), ('தேவையற்றதா', 1)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,"[('புயலடித்ததால் _ தெரியாமல்', 1), ('புயலடித்ததால்', 1), ('தெரியாமல்', 1), ('கவனிக்காமல்', 1)]",True
+unobserved,[],False
+unorthodox,[],False
+unorthodoxy,[],False
+unpleasant,[],False
+unpleasantries,[],False
+unpopular,[],False
+unpredictable,[],False
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],False
+unproved,[],False
+unproven,[],False
+unproves,[],False
+unproving,[],False
+unqualified,[],False
+unravel,"[('வலையேற்றப் _ அவிழ்ப்பது', 1), ('வலையேற்றப்', 1), ('அவிழ்ப்பது', 1)]",True
+unraveled,[],False
+unreachable,[],False
+unreadable,[],False
+unrealistic,[],False
+unreasonable,[],False
+unreasonably,[],False
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,[],False
+unreliable,[],False
+unresolved,[],False
+unresponsive,[],False
+unrest,[],False
+unruly,[],False
+unsafe,[],False
+unsatisfactory,[],False
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,[],False
+unsettle,[],False
+unsettled,[],False
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,"[('சொல்லமுடியாத', 1), ('சொல்லமுடியாத _ சிக்கலில்', 1), ('சிக்கலில்', 1)]",True
+unspeakablely,[],False
+unspecified,[],False
+unstable,[],False
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,[],False
+unsuccessfully,[],False
+unsupported,"[('சான்றில்லாத', 1)]",True
+unsupportive,[],False
+unsure,[],False
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,[],False
+untouched,[],False
+untrue,"[('பிழை _ உண்மைத்தன்மை', 1), ('உண்மைத்தன்மை', 1), ('பிழை', 1)]",True
+untrustworthy,[],False
+untruthful,[],False
+unusable,[],False
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,[],True
+unusually,[],False
+unviewable,[],False
+unwanted,"[('தேவையற்ற', 3), ('தேவையற்ற அரைப்புள்ளி', 1), ('அரைப்புள்ளி', 1)]",True
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,[],False
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,[],False
+unyielding,[],False
+upbraid,[],False
+upheaval,[],False
+uprising,[],False
+uproar,[],False
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,[],False
+upset,"[('வருகிறது', 1)]",True
+upseting,[],False
+upsets,[],False
+upsetting,[],False
+upsettingly,[],False
+urgent,"[('அவசரம்', 2), ('விரோதம்', 2), ('விரோதம் _ அவசரம்', 2), ('அவசரத்', 1), ('விரைவு', 1)]",True
+useless,"[('பயனற்றதா', 2), ('சிவப்பு', 1), ('சிவப்பு _ பயனற்ற', 1), ('பயனற்ற', 1)]",True
+usurp,"[('usurp', 2)]",True
+usurper,[],False
+utterly,[],False
+vagrant,[],False
+vague,[],False
+vagueness,[],False
+vain,"[('வீணாயிற்றோ', 1)]",True
+vainly,[],False
+vanity,[],False
+vehement,[],False
+vehemently,[],False
+vengeance,"[('போடுதல்', 1)]",True
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],False
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,[],False
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,[],False
+vice,[],True
+vicious,[],False
+viciously,[],False
+viciousness,[],False
+victimize,[],False
+vile,[],True
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],False
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,"[('மீறுவதாக', 1)]",True
+violation,[],True
+violator,[],False
+violators,[],False
+violent,"[('வன்மையானது', 1)]",True
+violently,[],False
+viper,[],False
+virulence,[],False
+virulent,[],False
+virulently,[],False
+virus,"[('வைரஸ்', 2), ('virus', 1)]",True
+vociferous,[],False
+vociferously,[],False
+volatile,[],False
+volatility,[],False
+vomit,[],False
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,[],False
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],False
+wane,[],False
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,"[('விடுத்தேன்', 1), ('எச்சரிக்கை', 1), ('எச்சரிக்கை விடுத்திருந்ததைக்', 1), ('விடுத்திருந்ததைக்', 1)]",True
+warning,"[('எச்சரிக்கை', 2), ('எச்சரிக்கையும்', 1)]",True
+warp,[],False
+warped,[],False
+wary,[],False
+washed-out,[],False
+waste,"[('காலவிரயமல்லவா', 1), ('நேரம்', 1), ('வந்தது', 1)]",True
+wasted,[],False
+wasteful,[],False
+wastefulness,[],False
+wasting,"[('உழைப்பை', 2), ('உழைப்பை _ வீணடிக்கவோ நினைப்பதாக', 2), ('நினைப்பதாக', 2), ('வீணடிக்கவோ', 2), ('திருத்தி', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,[],False
+weaken,[],False
+weakening,[],False
+weaker,[],False
+weakness,[],False
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,[],False
+weed,[],False
+weep,[],False
+weird,"[('விசமத்தனமான', 1)]",True
+weirdly,[],False
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,[],False
+whiny,[],False
+whips,[],False
+whore,[],False
+whores,[],False
+wicked,[],False
+wickedly,[],False
+wickedness,[],False
+wild,[],True
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,[],False
+wobbled,[],False
+wobbles,[],False
+woe,[],False
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,[],False
+worried,[],False
+worriedly,[],False
+worrier,[],False
+worries,"[('கவலை', 2)]",True
+worrisome,[],False
+worry,"[('கவலை', 2), ('கவலை _ கேள்வி', 1), ('கேள்வி', 1), ('வேண்டாம்', 1)]",True
+worrying,"[('கவலைப்பட்டு _ பயன்', 1), ('கவலைப்பட்டு', 1), ('பயன்', 1)]",True
+worryingly,[],False
+worse,[],False
+worsen,[],False
+worsening,[],False
+worst,[],False
+worthless,[],False
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,[],False
+wreaked,[],False
+wreaks,[],False
+wreck,[],False
+wrest,[],True
+wrestle,"[('மல்லுக்கட்டிக்கொண்டு', 1), ('எதற்க்கு _ மல்லுக்கட்டிக்கொண்டு', 1), ('எதற்க்கு', 1)]",True
+wretch,[],False
+wretched,[],False
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,[],False
+wrinkled,[],False
+wrinkles,[],False
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('தவறா', 14), ('தவறு', 8), ('ஏதேனும்', 5), ('தவறான', 3), ('அப்படியே', 2)]",True
+wrongful,[],False
+wrongly,[],False
+wrought,[],False
+yawn,[],False
+zap,[],False
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,"[('சீரிய', 1)]",True
+zealously,[],False

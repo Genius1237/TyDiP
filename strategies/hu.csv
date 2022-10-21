@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('kérlek', 49), ('légy', 6), ('megtennéd', 6), ('légyszíves', 3), ('kérem', 3)]",True
+Strategy - Please_start,,
+please,"[('kérlek', 49), ('légy', 6), ('megtennéd', 6), ('légyszíves', 3), ('kérem', 3)]",True
+Strategy - HASHEDGE,,
+think,"[('szerintem', 94), ('gondolsz', 51), (',', 40), ('szerinted', 30), ('véleményed', 28)]",True
+thought,"[('gondoltam', 16), ('hittem', 10), ('gondolkodtam', 3), (',', 3), ('hogy', 3)]",True
+thinking,"[('gondolok', 4), ('gondoltam', 2), ('gondolsz', 2), ('gondolkodás', 1), ('vagyok', 1)]",True
+almost,"[('szinte', 11), ('majdnem', 9), ('csaknem', 2), ('szinte mindegyiken', 1), ('mindegyiken', 1)]",True
+apparent,[],True
+apparently,"[('láthatóan', 4), ('úgy látszik', 1), ('úgy', 1), ('látszik', 1), ('nyilván', 1)]",True
+appear,"[('jelenik', 13), ('jelennek', 5), ('jelent', 3), ('megjelenik', 2), ('megjelenjen', 2)]",True
+appeared,"[('jelent', 3), ('megjelent', 3), ('bukkant', 1), ('meg', 1), ('jelent meg', 1)]",True
+appears,"[('megjelenik', 4), ('szerepel', 3), ('jelenik', 1), ('látható', 1), ('látszik', 1)]",True
+approximately,[],False
+around,"[('környékén', 4), ('körül', 3), ('i.e', 1), ('körbe', 1), ('gépközelben', 1)]",True
+assume,"[(',', 2), ('feltételezem', 2), ('feltételezel', 2), ('feltételezi', 1), ('feltételeztem', 1)]",True
+assumed,"[('kellene', 1), ('feltehető', 1)]",True
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('állítása', 1), ('állításodra', 1), ('állítására', 1), ('állításra', 1)]",True
+claimed,"[('állítottam', 1), ('állította', 1)]",True
+doubt,"[('kizáró', 1), ('meggyőződében', 1), ('kétséget kizáró meggyőződében', 1), ('kétséget', 1), ('kétségbe', 1)]",True
+doubtful,[],False
+essentially,"[('lényegileg', 1)]",True
+estimate,[],False
+estimated,[],False
+feel,"[('kedved', 11), ('érzed', 8), ('érzem', 4), ('nyugodtan', 2), ('érzékelem', 2)]",True
+felt,"[('lepett', 1)]",True
+frequently,"[('gyakran', 1)]",True
+from our perspective,[],False
+generally,"[('általában', 1), ('általánosabban', 1)]",True
+guess,"[('gondolom', 4), ('sejtem', 3), (',', 3), ('gondolom ,', 2), ('asszem', 2)]",True
+in general,[],True
+in most cases,[],False
+in most instances,[],False
+in our view,[],False
+indicate,"[('jelezni', 2), ('jelezzem', 1), ('tüntetni', 1), ('tünteti', 1), ('tüntessem', 1)]",True
+indicated,"[('jelzett', 3), ('jeleztem', 3), ('jelezni', 1), ('jelöltem', 1), ('feltűntetni', 1)]",True
+largely,"[('is', 1), ('nagy', 1)]",True
+likely,"[('valószínű', 3), ('valószínűséggel', 2), ('valószínűbb', 1), ('valószínűsítem', 1), ('valószínűleg', 1)]",True
+mainly,"[('elsősorban', 3), ('főleg', 2), ('legfőképp', 1), ('főként', 1)]",True
+may,"[('lehet', 32), ('esetleg', 3), ('május', 3), ('kérdezhetem', 2), ('megkérdezhetem', 2)]",True
+maybe,"[('esetleg', 48), ('talán', 47), ('lehet', 41), ('hogy', 16), ('lehet _ hogy', 11)]",True
+might,"[('lehet', 8), ('talán', 3), ('amik', 1), ('volna', 1), ('másoknak', 1)]",True
+mostly,"[('főleg', 2), ('leginkább', 2), ('zömében', 1), ('soha', 1)]",True
+often,"[('sokszor', 3), ('időközönként', 1), ('látni', 1), ('leggyakrabban', 1), ('milyen', 1)]",True
+on the whole,[],False
+ought,[],True
+perhaps,"[('talán', 10), ('esetleg', 3), ('azt _ talán', 1), ('azt', 1), ('netalántán', 1)]",True
+plausible,[],False
+plausibly,[],False
+possible,"[('lehetséges', 15), ('lehet', 14), ('lehetőség', 6), ('lehetne', 5), (',', 3)]",True
+possibly,"[('esetleg', 16), ('is', 1), ('majd', 1), ('tennéd', 1), ('tudnád', 1)]",True
+postulate,[],False
+postulated,[],False
+presumable,[],False
+probable,"[('valószínű', 1)]",True
+probably,"[('valószínűleg', 8), ('valószínüleg', 2), ('valószínüleg akkor', 1), ('akkor', 1), ('alighanem', 1)]",True
+relatively,"[('viszonylag', 2), ('elég', 1)]",True
+roughly,"[('nagyjából', 1)]",True
+seems,"[('tűnik', 11), ('látszik', 5), ('egyébként', 1), ('láthatólag', 1), ('néz', 1)]",True
+should,"[('kellene', 75), ('kell', 49), ('kéne', 26), ('legyen', 14), ('vagy', 11)]",True
+sometimes,"[('néha', 9), ('olykor', 2), ('időnként', 1), ('igen', 1)]",True
+somewhat,"[('valamennyire', 1), ('mintegy', 1)]",True
+suggest,"[('javasolsz', 8), (',', 2), ('javasolni', 2), ('szerint', 1), ('fogod', 1)]",True
+suggested,"[('javasolta', 2), ('javasolt', 2), ('javasol', 1), ('javasoltam', 1), ('vetettem', 1)]",True
+suppose,"[('tegyük', 4), (',', 1), ('tegyük _ hogy', 1), ('hogy', 1)]",True
+suspect,"[('gyanakodok', 1), ('gyanítod', 1)]",True
+tend to,"[('szokás', 1)]",True
+tends to,[],True
+typical,"[('jellemző', 1), ('tipikus', 1)]",True
+typically,[],False
+uncertain,"[('bizonytalan', 4)]",True
+uncertainly,"[('bizonytalanul', 1)]",True
+unclear,"[('nem', 2), ('tisztázatlan', 1)]",True
+unclearly,[],False
+unlikely,"[('nem', 1), ('valószínűtlennek', 1)]",True
+usually,"[('általában', 11), ('egyébként', 2), ('szoktam', 2), ('jegyzeteknél', 1), ('szokott _ egyébként', 1)]",True
+broadly,"[('legtágabban', 1)]",True
+tended to,[],True
+presumably,"[('feltehetően', 1)]",True
+suggests,"[('javasolja', 1)]",True
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],True
+in this view,[],False
+in our opinion,[],False
+in my opinion,"[('szerintem', 1)]",True
+to my knowledge,[],True
+fairly,"[('igazságosan', 1), ('nagyjából', 1)]",True
+quite,"[('egészen', 13), ('elég', 12), ('egész', 4), ('eléggé', 4), ('már', 2)]",True
+rather,"[('inkább', 29), (',', 3), ('elég', 2), ('meglehetősen', 2), ('nem', 1)]",True
+argue,"[('vitatkozni', 3), ('érvelni', 1), ('indokolnám', 1), ('érvelsz', 1)]",True
+argues,[],False
+argued,[],False
+claims,"[('állításaidat', 2), ('állításokra', 1), ('állításokkal', 1), ('állításokat', 1), ('állításai', 1)]",True
+feels,[],False
+indicates,"[('jelzi', 5), ('jelző', 2), ('írja', 1), ('jelöl', 1), ('kijelzi', 1)]",True
+supposed,"[('kéne', 2), ('akarták', 1)]",True
+supposes,[],False
+suspects,[],False
+postulates,[],False
+Strategy - Deference,,
+great,"[('nagy', 19), ('jó', 3), ('remek', 3), ('szuper', 2), ('nagybaconi', 1)]",True
+good,"[('jó', 200), ('jók', 10), ('jól', 6), ('így', 5), ('jónak', 3)]",True
+nice,"[('szép', 26), ('jó', 7), ('lenne', 6), ('kedves', 3), ('tiszta', 1)]",True
+good,"[('jó', 200), ('jók', 10), ('jól', 6), ('így', 5), ('jónak', 3)]",True
+interesting,"[('érdekes', 14), ('érdekesnek', 1), ('a', 1), ('erdekes', 1), ('érdekesek', 1)]",True
+cool,"[('cifra', 1), ('hűjén', 1)]",True
+excellent,"[('kitűnő', 2), ('kiváló', 1)]",True
+awesome,"[('tök jó', 1), ('tök', 1), ('jó', 1)]",True
+Strategy - 1st_person_pl.,,
+we,"[('tudjuk', 25), ('tudunk', 11), ('nálunk', 10), ('mi', 9), ('nekünk', 8)]",True
+our,"[('a', 8), ('szócikkünk', 4), ('mi', 3), ('cikkünk', 2), ('madárszakértőnknek', 1)]",True
+us,"[('nekünk', 6), ('nálunk', 4), ('velünk', 2), ('tőlünk', 2), ('csináljuk', 1)]",True
+ourselves,"[('magunk', 2), ('magunkat', 1), ('magunknak', 1), ('magunkban', 1)]",True
+Strategy - 1st_person,,
+i,"[('én', 210), ('tudom', 153), ('értem', 101), ('szerintem', 81), ('látom', 77)]",True
+my,"[('a', 120), ('én', 31), ('az', 26), ('kérdésem', 16), ('magam', 5)]",True
+mine,"[('enyém', 3), ('ismerősöm', 1), ('válaszolj', 1)]",True
+myself,"[('magam', 11), ('magamnak', 4), ('én', 2), ('én magam', 2), ('saját', 1)]",True
+Strategy - 1st_person_start,,
+i,"[('én', 210), ('tudom', 153), ('értem', 101), ('szerintem', 81), ('látom', 77)]",True
+my,"[('a', 120), ('én', 31), ('az', 26), ('kérdésem', 16), ('magam', 5)]",True
+mine,"[('enyém', 3), ('ismerősöm', 1), ('válaszolj', 1)]",True
+myself,"[('magam', 11), ('magamnak', 4), ('én', 2), ('én magam', 2), ('saját', 1)]",True
+Strategy - 2nd_person,,
+you,"[('te', 152), ('tudsz', 110), ('tudod', 81), ('tudnád', 70), ('tudnál', 65)]",True
+your,"[('a', 160), ('az', 27), ('te', 10), ('szeretném', 3), ('válaszod', 2)]",True
+yours,"[('tiéd', 4), ('tiédet', 2), ('a', 2), ('tiédből', 1), ('tiéddel', 1)]",True
+yourself,"[('magad', 7), ('magadról', 2), ('te', 2), ('magának _ címét', 1), ('magának', 1)]",True
+Strategy - 2nd_person_start,,
+you,"[('te', 152), ('tudsz', 110), ('tudod', 81), ('tudnád', 70), ('tudnál', 65)]",True
+your,"[('a', 160), ('az', 27), ('te', 10), ('szeretném', 3), ('válaszod', 2)]",True
+yours,"[('tiéd', 4), ('tiédet', 2), ('a', 2), ('tiédből', 1), ('tiéddel', 1)]",True
+yourself,"[('magad', 7), ('magadról', 2), ('te', 2), ('magának _ címét', 1), ('magának', 1)]",True
+Strategy - Indirect_(greeting),,
+hi,"[('szia', 577), ('üdv', 39), (',', 6), ('szervusz', 5), ('szevasz', 1)]",True
+hello,"[('szia', 37), ('hello', 14), ('helló', 9), ('sziasztok', 2), ('üdv', 1)]",True
+hey,"[('hé', 2), ('hahó', 1), ('hajjaj', 1)]",True
+Strategy - Direct_question,,
+what,"[('mi', 495), ('mit', 324), ('milyen', 153), ('amit', 83), ('hogy', 79)]",True
+why,"[('miért', 503), ('hogy', 68), ('minek', 13), (',', 10), ('ezért', 8)]",True
+who,"[('ki', 89), ('aki', 78), ('akik', 24), ('hogy', 16), ('kik', 11)]",True
+how,"[('hogy', 226), ('hogyan', 147), ('mennyire', 27), ('honnan', 20), ('mit', 12)]",True
+Strategy - Direct_start,,
+so,"[('tehát', 89), ('így', 71), ('ezért', 50), ('akkor', 34), ('szóval', 30)]",True
+then,"[('akkor', 200), ('majd', 37), ('aztán', 31), ('ilyenkor', 12), ('azóta', 11)]",True
+and,"[('és', 1157), (',', 139), ('s', 30), ('pedig', 21), ('meg', 16)]",True
+but,"[('de', 759), ('hanem', 80), ('viszont', 40), ('ám', 7), ('csak', 5)]",True
+or,"[('vagy', 692), ('illetve', 25), (',', 18), ('ill', 3), ('vagy _ vagy', 3)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,[],False
+abounds,[],False
+abundance,"[('abundét', 1)]",True
+abundant,[],False
+accessable,[],False
+accessible,[],True
+acclaim,[],True
+acclaimed,"[('elismert', 1)]",True
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,[],False
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,"[('pontosabb', 5), ('pontos', 3), ('pontosnak', 1)]",True
+accurately,"[('pontosabban', 2), ('pontosan', 1)]",True
+achievable,[],False
+achievement,"[('teljesítmény', 1)]",True
+achievements,[],False
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,"[('adekvát', 1), ('adekvátabb', 1)]",True
+adjustable,"[('állítható', 1)]",True
+admirable,[],False
+admirably,[],False
+admiration,[],False
+admire,[],True
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,"[('imádnivaló', 1)]",True
+adore,[],False
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,"[('fejlett', 1)]",True
+advantage,[],True
+advantageous,[],False
+advantageously,[],False
+advantages,"[('előnye', 1)]",True
+adventuresome,[],False
+adventurous,[],False
+advocate,[],False
+advocated,[],False
+advocates,[],False
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,[],False
+affectionate,[],False
+affinity,[],False
+affirm,[],False
+affirmation,[],False
+affirmative,[],False
+affluence,[],False
+affluent,[],False
+afford,[],False
+affordable,[],False
+affordably,[],False
+afordable,[],False
+agile,"[('pörgős', 1)]",True
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],False
+altruistically,[],False
+amaze,[],True
+amazed,[],False
+amazement,[],False
+amazes,"[('elképeszt', 1)]",True
+amazing,"[('elképesztő', 1)]",True
+amazingly,"[('elképesztően', 1)]",True
+ambitious,[],False
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,[],False
+amity,[],False
+ample,[],True
+amply,[],False
+amuse,[],False
+amusing,[],False
+amusingly,[],False
+angel,"[('angyal', 1), ('angyalbőrbe', 1)]",True
+angelic,[],False
+apotheosis,[],False
+appeal,[],False
+appealing,[],False
+applaud,[],False
+appreciable,[],False
+appreciate,[],True
+appreciated,"[('becsülendö', 1)]",True
+appreciates,[],False
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('megfelelő', 7), ('illik', 3), ('legmegfelelőbb', 2), ('helyénvaló', 2), ('megfelelőe', 1)]",True
+approval,"[('jóváhagyást', 1), ('jóváhagyása', 1)]",True
+approve,"[('hagyni', 3), ('jóváhagyni', 3), ('hagyhattad', 1), ('megfontolásból', 1)]",True
+ardent,[],False
+ardently,[],False
+ardor,[],False
+articulate,"[('fogalmazni', 1), ('fogalmazhatnám', 1)]",True
+aspiration,[],False
+aspirations,[],False
+aspire,[],False
+assurance,[],False
+assurances,[],False
+assure,[],True
+assuredly,[],False
+assuring,[],False
+astonish,[],True
+astonished,[],False
+astonishing,"[('tisztességes', 1), ('meghökkentő', 1), ('meghökkentő _ tisztességes', 1)]",True
+astonishingly,[],False
+astonishment,[],False
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,[],False
+attraction,"[('a', 1)]",True
+attractive,[],False
+attractively,[],False
+attune,[],False
+audible,[],False
+audibly,[],False
+auspicious,[],False
+authentic,"[('hiteles', 2), ('autentikus', 2), ('hitelesebb', 1), ('hitelesenk', 1)]",True
+authoritative,"[('mérvadó', 1), ('tekintélyes', 1)]",True
+autonomous,[],False
+available,"[('elérhető', 7), ('rendelkezésre', 2), ('álló', 1), ('lehet', 1), ('kapható', 1)]",True
+aver,[],True
+avid,[],True
+avidly,[],False
+award,"[('kitüntetést', 4), ('díjat', 2), ('kitüntetés', 2), ('díjcikk', 1), ('díj', 1)]",True
+awarded,"[('adják', 1)]",True
+awards,"[('díjak', 3), ('díjat', 2), ('médiadíjból', 1), ('kitüntetések', 1), ('kitüntetéseknél', 1)]",True
+awe,[],True
+awed,[],True
+awesome,"[('tök jó', 1), ('tök', 1), ('jó', 1)]",True
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,[],False
+bargain,"[('alku', 1)]",True
+beauteous,[],False
+beautiful,"[('szép', 5), ('gyönyörű', 2), ('széptáblázatok', 1), ('kivitelű', 1), ('így', 1)]",True
+beautifullly,[],False
+beautifully,[],False
+beautify,[],False
+beauty,"[('szépséged', 1)]",True
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],True
+believeable,[],False
+beloved,[],False
+benefactor,[],False
+beneficent,[],False
+beneficial,[],False
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('haszon', 1), ('válna', 1), ('érdekből', 1), ('közhasznú', 1)]",True
+benefits,"[('van', 1)]",True
+benevolence,"[('jóindulat', 1)]",True
+benevolent,"[('jóindulatú', 1)]",True
+benifits,[],False
+best,"[('legjobb', 16), ('legjobban', 3), ('legjobbakat', 1), ('jót', 1), ('legcélszerűbb', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('jobb', 57), ('jobban', 16), ('érdemesebb', 2), ('nemjobb', 1), ('ismertebb', 1)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,"[('áldjon', 1)]",True
+blessing,[],False
+bliss,[],False
+blissful,[],False
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,[],False
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,[],False
+bonuses,[],False
+boom,[],True
+booming,[],False
+boost,[],False
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,"[('bátrak', 1)]",True
+bravery,"[('vitézkedésem', 1), ('piacravitelével', 1), ('piacravitelével _ vitézkedésem', 1)]",True
+bravo,[],False
+breakthrough,[],False
+breakthroughs,[],False
+breathlessness,[],False
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,[],False
+brighten,[],False
+brighter,[],False
+brightest,[],False
+brilliance,[],False
+brilliances,[],False
+brilliant,"[('zseniális', 1)]",True
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,"[('nyugodj', 1), ('nyugodt:az', 1)]",True
+calming,[],False
+calmness,[],False
+capability,[],False
+capable,"[('képes', 1)]",True
+capably,[],False
+captivate,[],False
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,"[('ünneplik', 1)]",True
+celebrated,[],False
+celebration,[],False
+celebratory,"[('ünneplős', 1)]",True
+champ,[],True
+champion,"[('világbajnokot', 1), ('crocquetbajnokáról', 1), ('bajnok', 1)]",True
+charisma,[],False
+charismatic,[],False
+charitable,[],False
+charm,[],True
+charming,"[('bájos', 1)]",True
+charmingly,[],False
+chaste,[],False
+cheaper,[],False
+cheapest,[],False
+cheer,[],False
+cheerful,[],False
+cheery,[],False
+cherish,[],False
+cherished,[],False
+cherub,[],False
+chic,[],True
+chivalrous,[],False
+chivalry,[],False
+civility,[],False
+civilize,[],False
+clarity,"[('egyértelműség', 2), ('egyértelműségről', 1)]",True
+classic,"[('klasszikus', 1), ('klasszul', 1)]",True
+classy,[],False
+clean,"[('tiszta', 2), ('takarít', 1)]",True
+cleaner,[],False
+cleanest,[],False
+cleanliness,"[('tisztaság', 1)]",True
+cleanly,[],False
+clear,"[('egyértelmű', 17), ('világos', 16), (',', 6), ('tiszta', 4), ('érthető', 3)]",True
+clear-cut,[],False
+cleared,"[('letisztul', 1)]",True
+clearer,"[('érthetőbb', 1), ('egyértelműbb', 1)]",True
+clearly,"[('világosan', 5), ('jól', 1), ('kifejezetten', 1), ('egyértelműen', 1), ('érthetően', 1)]",True
+clears,"[('letisztul', 1)]",True
+clever,"[('okos', 2)]",True
+cleverly,"[('okoskodón', 1)]",True
+cohere,[],False
+coherence,[],False
+coherent,[],False
+cohesive,[],False
+colorful,"[('színes', 1), ('szinnyeis', 1)]",True
+comely,[],False
+comfort,[],True
+comfortable,[],True
+comfortably,[],False
+comforting,[],False
+comfy,[],False
+commend,[],True
+commendable,[],False
+commendably,[],False
+commitment,[],False
+commodious,[],False
+compact,[],False
+compactly,[],False
+compassion,[],False
+compassionate,[],False
+compatible,"[('összefér', 1), ('egyeztethető', 1)]",True
+competitive,[],False
+complement,[],False
+complementary,[],False
+complemented,[],False
+complements,[],False
+compliant,"[('megfelenee', 1), ('szempontból megfelenee', 1), ('szempontból', 1)]",True
+compliment,[],False
+complimentary,[],False
+comprehensive,"[('átfogó', 1)]",True
+conciliate,[],False
+conciliatory,[],False
+concise,"[('megfogalmazású', 1), ('lényegre', 1), ('szűkszavú', 1)]",True
+confidence,"[('magabiztosságból', 1)]",True
+confident,"[('mennyire _ biztos', 1), ('biztos', 1), ('mennyire', 1)]",True
+congenial,[],False
+congratulate,[],False
+congratulation,[],True
+congratulations,"[('gratulálok', 6), ('gratula', 1), ('gratul', 1), (""gratul'lok"", 1)]",True
+congratulatory,[],False
+conscientious,[],True
+considerate,[],False
+consistent,"[('következetes', 1)]",True
+consistently,"[('következetesen', 3), ('következetes', 1), ('megindokolhatnád', 1)]",True
+constructive,"[('konstruktív', 3), ('építő', 2), ('szabálytalanul', 1), ('szabálytalanul _ építő jellegű', 1), ('jellegű', 1)]",True
+consummate,[],False
+contentment,[],False
+continuity,"[('folytonossága', 1)]",True
+contrasty,[],False
+contribution,[],True
+convenience,[],True
+convenient,"[('kényelmesebb', 1)]",True
+conveniently,[],False
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,[],False
+convincingly,[],False
+cool,"[('cifra', 1), ('hűjén', 1)]",True
+coolest,[],False
+cooperative,[],False
+cooperatively,[],False
+cornerstone,"[('alappillérének', 1)]",True
+correct,"[('helyes', 23), ('korrekt', 4), ('helytálló', 2), ('megfelelő', 2), ('javítani', 2)]",True
+correctly,"[('jól', 8), ('helyesen', 8), ('értem', 2), ('helyes', 1), ('tömegesen', 1)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,[],True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,[],False
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('alkotói', 1)]",True
+credence,[],False
+credible,"[('hiteles', 2), ('érdemlően', 1), ('érdemlően igazolt', 1), ('igazolt', 1)]",True
+crisp,[],False
+crisper,[],False
+cure,[],True
+cure-all,[],False
+cushy,[],False
+cute,"[('aranyos', 3), ('leányzót', 1), ('aranyos leányzót', 1), ('aranyos _ mérföldköveket', 1), ('mérföldköveket', 1)]",True
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,[],False
+daringly,[],False
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,[],False
+dazzle,[],False
+dazzled,[],False
+dazzling,[],False
+dead-cheap,[],False
+dead-on,[],False
+decency,[],False
+decent,[],True
+decisive,"[('gyakorolt', 1), ('befolyást', 1), ('meghatározó', 1), ('meghatározó befolyást gyakorolt', 1), ('döntésképes', 1)]",True
+decisiveness,[],False
+dedicated,"[('dedikált', 1)]",True
+defeat,[],False
+defeated,[],False
+defeating,[],False
+defeats,[],False
+defender,[],True
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,"[('finom', 1)]",True
+delicious,"[('finom', 2)]",True
+delight,[],False
+delighted,[],False
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,"[('méltán', 1)]",True
+deserving,[],False
+desirable,"[('kívánatos', 1), ('kívánatosnak', 1)]",True
+desiring,[],False
+desirous,[],False
+destiny,[],False
+detachable,[],False
+devout,[],False
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,"[('méltóságos', 1), ('legméltóságosabbat', 1)]",True
+dignify,[],False
+dignity,"[('méltóságot', 1)]",True
+diligence,[],True
+diligent,[],False
+diligently,[],False
+diplomatic,"[('diplomáciai', 1)]",True
+dirt-cheap,[],False
+distinction,"[('megkülönböztetés', 1)]",True
+distinctive,"[('megkülönböztető', 1)]",True
+distinguished,"[('kitüntetett', 1)]",True
+diversified,[],False
+divine,[],False
+divinely,[],False
+dominate,[],False
+dominated,[],False
+dominates,[],False
+dote,[],True
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,[],False
+dynamic,[],True
+eager,[],False
+eagerly,[],False
+eagerness,[],False
+earnest,[],False
+earnestly,[],False
+earnestness,[],False
+ease,[],True
+eased,[],True
+eases,[],True
+easier,"[('egyszerűbb', 8), ('könnyebb', 2), ('könnyebben', 1), ('egyszerűbben', 1)]",True
+easiest,"[('legegyszerűbb', 1)]",True
+easiness,[],False
+easing,[],True
+easy,"[('könnyen', 3), ('könnyű', 2), ('egyszerű', 2)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,[],False
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,"[('képzett', 1), ('tanult', 1), ('nevelésű', 1), ('nevelésűnek', 1)]",True
+effective,"[('eredményes', 1), ('hatékonynak', 1)]",True
+effectively,"[('hatékonyan', 1)]",True
+effectiveness,[],False
+effectual,[],False
+efficacious,[],False
+efficient,"[('hatékonyabb', 1)]",True
+efficiently,[],False
+effortless,[],False
+effortlessly,[],False
+effusion,[],False
+effusive,[],False
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,"[('elegáns', 1)]",True
+elegantly,[],False
+elevate,[],True
+elite,[],False
+eloquence,[],False
+eloquent,[],False
+eloquently,[],False
+embolden,[],False
+eminence,[],False
+eminent,[],False
+empathize,[],False
+empathy,[],False
+empower,[],False
+empowerment,[],False
+enchant,[],False
+enchanted,[],False
+enchanting,[],False
+enchantingly,[],False
+encourage,[],True
+encouragement,[],False
+encouraging,[],False
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,[],False
+endorsed,[],False
+endorsement,[],False
+endorses,[],False
+endorsing,[],False
+energetic,[],False
+energize,"[('energiákat', 1)]",True
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],False
+engrossing,[],False
+enhance,[],True
+enhanced,[],False
+enhancement,[],False
+enhances,[],False
+enjoy,[],True
+enjoyable,[],False
+enjoyably,[],False
+enjoyed,[],False
+enjoying,[],False
+enjoyment,[],False
+enjoys,"[('élvezi', 1)]",True
+enlighten,[],False
+enlightenment,[],False
+enliven,[],False
+ennoble,[],False
+enough,"[('elég', 42), ('eléggé', 4), ('annyira', 3), ('kellő', 1), ('elége', 1)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,[],False
+enrichment,[],False
+enterprising,[],False
+entertain,[],False
+entertaining,[],False
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,"[('lelkesedésem', 2)]",True
+enthusiast,[],True
+enthusiastic,"[('entschuldigen', 1), ('véleményed', 1), ('lelkes', 1), ('véleményed _ lelkes', 1)]",True
+enthusiastically,[],False
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,"[('bízza', 1), ('gondoltam', 1), ('bízom', 1), ('formátumot', 1), ('formátumot _ bízom', 1)]",True
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,"[('irigyeltem', 1), ('irigyelném', 1), ('irigykedek', 1)]",True
+equitable,[],False
+ergonomical,[],False
+err-free,[],False
+erudite,[],False
+ethical,[],True
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,[],False
+evenly,[],False
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],False
+exaltation,[],False
+exalted,[],False
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,[],True
+exceeded,"[('átlépésénél', 1)]",True
+exceeding,[],False
+exceedingly,[],False
+exceeds,"[('átlépi', 1)]",True
+excel,"[('jeleskednek', 1), ('excel', 1), ('excellel', 1)]",True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],False
+excellency,[],False
+excellent,"[('kitűnő', 2), ('kiváló', 1)]",True
+excellently,[],False
+excels,[],False
+exceptional,"[('kivételes', 1)]",True
+exceptionally,[],True
+excite,[],True
+excited,"[('érdekel _ izgasson', 1), ('izgasson', 1), ('érdekel', 1)]",True
+excitedly,[],False
+excitedness,[],False
+excitement,"[('felkapottság', 1), ('krimi', 1), ('krimi izgalmával', 1), ('izgalmával', 1)]",True
+excites,[],False
+exciting,"[('izgalmas', 1)]",True
+excitingly,[],False
+exellent,[],False
+exemplar,[],True
+exemplary,"[('példás', 1)]",True
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],False
+extoll,[],False
+extraordinarily,[],False
+extraordinary,[],False
+exuberance,[],False
+exuberant,[],False
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,[],False
+fabulously,[],False
+facilitate,[],False
+fair,"[('fair', 3)]",True
+fairly,"[('igazságosan', 1), ('nagyjából', 1)]",True
+fairness,[],False
+faith,"[('hitkomisszár', 1), ('hit', 1)]",True
+faithful,[],True
+faithfully,[],False
+faithfulness,[],False
+fame,"[('hírnév', 1)]",True
+famed,[],False
+famous,"[('nevezetes', 9), ('híres', 7), ('nevezetesek', 3), ('neves', 2), ('világhírű', 2)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],False
+fanfare,[],False
+fans,"[('szurkolók', 1)]",True
+fantastic,"[('fantasztikus', 1)]",True
+fantastically,[],False
+fascinate,[],False
+fascinating,[],False
+fascinatingly,[],False
+fascination,[],False
+fashionable,"[('divatosabbak', 1)]",True
+fashionably,[],False
+fast,"[('gyorsan', 2), ('gyors', 1), ('gyorséttermek', 1)]",True
+fast-growing,[],False
+fast-paced,[],False
+faster,"[('gyorsabban', 1)]",True
+fastest,[],False
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('támogató', 1), ('mellett', 1)]",True
+favorable,[],False
+favored,[],False
+favorite,"[('kedvenc', 4), ('titkolt', 1), ('favorizált', 1), ('adott', 1), ('kedvencem', 1)]",True
+favorited,[],False
+favour,[],False
+fearless,[],False
+fearlessly,[],False
+feasible,"[('megvalósítható', 1)]",True
+feasibly,[],False
+feat,"[('kiemeltnek', 1)]",True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,[],False
+fertile,[],True
+fervent,[],False
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,"[('hűbérbirtoknak', 1), ('konrád _ hűbérbirtoknak', 1), ('konrád', 1)]",True
+fiery,"[('tüzes', 1)]",True
+fine,"[('szépművészeti', 1), ('bizonytalanabb', 1)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],True
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,[],False
+flatter,"[('laposabbak', 1)]",True
+flattering,"[('hízelgő', 1)]",True
+flatteringly,[],False
+flawless,"[('hibátlan', 1)]",True
+flawlessly,[],False
+flexibility,[],False
+flexible,[],False
+flourish,[],True
+flourishing,"[('virít _ rögtön', 1), ('virít', 1), ('rögtön', 1)]",True
+fluent,[],False
+flutter,"[('flávő', 1)]",True
+fond,[],False
+fondly,[],False
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,"[('szerencsésebb', 3)]",True
+fortunately,"[('szerencsére', 1), ('szerencsére _ igazán', 1), ('igazán', 1)]",True
+fortune,"[('jövendőmondót', 1), ('jövendőmondó', 1)]",True
+fragrant,[],False
+free,"[('szabad', 19), ('szabadon', 5), ('szabade', 2), ('végzett', 1), ('szabadegyetemről', 1)]",True
+freed,[],True
+freedom,"[('szabadság', 1), ('szólásszabadság', 1)]",True
+freedoms,[],False
+fresh,"[('friss', 4), ('szemmel', 1)]",True
+fresher,"[('frisebb', 1)]",True
+freshest,[],False
+friendliness,[],False
+friendly,"[('barátságos', 2), ('palotabarát', 2), ('megkövetelő', 1), ('vasútbarát', 1)]",True
+frolic,[],False
+frugal,[],False
+fruitful,[],False
+ftw,[],True
+fulfillment,[],False
+fun,"[('poén', 2), ('jópofa', 1), ('szórakozni', 1), ('szórakoztok', 1)]",True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('felhizlalni', 1)]",True
+gained,"[('tett', 1)]",True
+gainful,[],False
+gainfully,[],False
+gaining,[],True
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],False
+geekier,[],False
+geeky,[],False
+gem,"[('gyöngyszem', 1)]",True
+gems,[],False
+generosity,[],False
+generous,[],False
+generously,[],False
+genial,[],False
+genius,"[('zseniális', 1), ('nemes', 1), ('zseniális _ nemes', 1), ('vagyol', 1), ('dzsunicsiróban', 1)]",True
+gentle,[],True
+gentlest,[],False
+genuine,[],False
+gifted,[],False
+glad,"[('hogy', 9), ('örülök', 8), (',', 2), (', hogy', 2), ('örülök _ hogy', 2)]",True
+gladden,[],False
+gladly,[],False
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,[],False
+gloriously,[],False
+glory,"[('dicsőség', 1), ('dicsőségben', 1), ('dicsőségét', 1)]",True
+glow,[],False
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('aranyérmes', 1), ('aranyat', 1), ('aranyérmet', 1)]",True
+golden,"[('aranyhaj', 1), ('arany', 1), ('aranytojást', 1), ('aranybogár', 1), ('golden', 1)]",True
+good,"[('jó', 200), ('jók', 10), ('jól', 6), ('így', 5), ('jónak', 3)]",True
+goodly,[],False
+goodness,[],False
+goodwill,[],False
+goood,[],False
+gooood,[],False
+gorgeous,"[('roncstelepen _ pompás _ gondos', 1), ('pompás', 1), ('gondos', 1), ('roncstelepen', 1)]",True
+gorgeously,[],False
+grace,"[('grácia', 1), ('kegyeleti', 1), ('kegyed', 1)]",True
+graceful,[],True
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,"[('nagydíja', 1), ('nagylexikonban', 1), ('nagymesteri', 1)]",True
+grandeur,[],False
+grateful,"[('hálás', 1)]",True
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,"[('köszönőviszonyban', 1)]",True
+great,"[('nagy', 19), ('jó', 3), ('remek', 3), ('szuper', 2), ('nagybaconi', 1)]",True
+greatest,[],False
+greatness,"[('nagyságát', 1)]",True
+grin,"[('grin', 5)]",True
+groundbreaking,[],False
+guarantee,"[('garancia', 2), ('biztosíték', 1), ('garantáljae', 1)]",True
+guidance,[],False
+guiltless,[],False
+gumption,[],False
+gush,[],False
+gusto,[],False
+gutsy,[],False
+hail,[],False
+halcyon,[],False
+hale,[],True
+hallmark,[],True
+hallmarks,"[('ismérve', 1)]",True
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,[],False
+handsomely,[],False
+handy,"[('wikidatásításához', 1)]",True
+happier,"[('boldogabb', 1), ('szerencsésebb', 1)]",True
+happily,[],False
+happiness,[],False
+happy,"[('szívesen', 3), ('boldog', 2), ('elégedett', 2), ('kellemes', 1), ('neki ,', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,[],False
+harmonious,[],False
+harmoniously,[],False
+harmonize,[],False
+harmony,[],False
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,"[('egészségességét', 1), ('egészségesnek', 1), ('egészséges', 1)]",True
+hearten,[],False
+heartening,[],False
+heartfelt,[],False
+heartily,[],False
+heartwarming,[],False
+heaven,"[('mennyország', 1), ('az', 1)]",True
+heavenly,[],False
+helped,"[('segítettél', 2), ('segítettek', 1), ('segíteni', 1)]",True
+helpful,"[('hasznosak', 1), ('hasznos', 1), ('segítség', 1)]",True
+helping,"[('segítesz', 1), ('segítő', 1), ('segitesz', 1), ('segítjük', 1), ('besegítesz', 1)]",True
+hero,"[('hőst', 1), ('hőse', 1)]",True
+heroic,[],False
+heroically,[],False
+heroine,[],False
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,[],False
+holy,"[('szentezokninak', 1), ('szent', 1), ('szentkirály', 1)]",True
+homage,[],False
+honest,[],True
+honesty,[],False
+honor,"[('tiszteljelek', 1)]",True
+honorable,[],False
+honored,[],False
+honoring,[],False
+hooray,[],False
+hopeful,[],True
+hospitable,[],False
+hot,"[('forró', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,[],True
+humane,[],False
+humble,"[('szerény', 3), ('szerény véleményem', 1), ('véleményem', 1)]",True
+humility,[],False
+humor,"[('humorérzék', 1)]",True
+humorous,"[('humoros', 3)]",True
+humorously,[],False
+humour,[],False
+humourous,[],False
+ideal,"[('ideális', 2)]",True
+idealize,[],False
+ideally,"[('ideálisan', 1)]",True
+idol,[],False
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],False
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,[],False
+ilu,[],True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,[],False
+impartial,"[('pártatlan', 2), ('elfogulatlan', 1)]",True
+impartiality,[],False
+impartially,[],False
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('fontos', 39), ('fontosabb', 5), ('fontosnak', 5), ('legfontosabb', 4), ('legfontosabbakat', 1)]",True
+impress,[],True
+impressed,[],True
+impresses,[],False
+impressive,"[('imponáló', 1)]",True
+impressively,[],False
+impressiveness,[],False
+improve,"[('javítani', 5), ('feljavítani', 2), ('javítja', 2), ('javítottad', 1), ('fejleszteni', 1)]",True
+improved,"[('javítani', 10), ('fejlődtem', 1), ('javítandó', 1)]",True
+improvement,"[('javítani', 1), ('benne', 1), ('javításra', 1)]",True
+improvements,[],True
+improves,[],False
+improving,"[('javítjuk', 1), ('javítod', 1), ('bővíted _ javítod', 1), ('bővíted', 1), ('javítottad', 1)]",True
+incredible,"[('hihetetlen', 1)]",True
+incredibly,[],False
+indebted,[],False
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,[],False
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,[],False
+infallible,"[('csalhatatlannak', 1), ('tévedhetetlen', 1), ('csalhatatlannak vélt', 1), ('tévedhetetlen _ csalhatatlannak', 1), ('vélt', 1)]",True
+infallibly,[],False
+influential,[],False
+ingenious,[],False
+ingeniously,[],False
+ingenuity,[],False
+ingenuous,[],False
+ingenuously,[],False
+innocuous,[],False
+innovation,[],False
+innovative,[],False
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,[],False
+inspirational,[],False
+inspire,[],False
+inspiring,[],False
+instantly,"[('pillanat alatt', 1), ('alatt', 1), ('pillanat', 1), ('azonnalira', 1)]",True
+instructive,"[('kioktató', 2), ('fölényeskedő _ gúnyolódó _ kioktató _ alapvető', 1), ('fölényeskedő', 1), ('alapvető', 1), ('gúnyolódó', 1)]",True
+instrumental,[],False
+integral,[],False
+integrated,"[('integrálva', 1), ('integrálni', 1), ('integrált', 1)]",True
+intelligence,[],False
+intelligent,[],False
+intelligible,[],False
+interesting,"[('érdekes', 14), ('érdekesnek', 1), ('a', 1), ('erdekes', 1), ('érdekesek', 1)]",True
+interests,"[('érdekei', 1), ('érdeknek', 1)]",True
+intimacy,[],False
+intimate,[],False
+intricate,[],False
+intrigue,[],False
+intriguing,[],False
+intriguingly,[],False
+intuitive,[],False
+invaluable,"[('értékelhetetlen', 1)]",True
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],False
+inviolable,[],False
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,[],False
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,[],True
+joyful,[],False
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,[],False
+jubilantly,[],False
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],False
+keen,[],False
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,[],False
+kindness,[],False
+knowledgeable,"[('értő', 2), ('hozzáértő', 1), ('tudode', 1)]",True
+kudos,[],False
+large-capacity,[],False
+laud,[],True
+laudable,[],False
+laudably,[],False
+lavish,[],False
+lavishly,[],False
+law-abiding,[],False
+lawful,"[('jogszerű', 2)]",True
+lawfully,[],False
+lead,"[('visznek', 1), ('kerülhetne', 1), ('hova', 1), ('vezetni', 1), ('ólomakármi', 1)]",True
+leading,"[('vezető', 2), ('vezet', 1), ('szellemi', 1)]",True
+leads,"[('vezet', 1)]",True
+lean,"[('hajlanék', 1)]",True
+led,"[('vezetett', 1)]",True
+legendary,[],False
+leverage,[],False
+levity,[],False
+liberate,[],True
+liberation,[],False
+liberty,[],False
+lifesaver,[],False
+light-hearted,[],False
+lighter,[],True
+likable,[],False
+like,"[('szeretném', 54), ('mint', 46), ('szeretnék', 15), ('tetszik', 13), ('kedved', 10)]",True
+liked,"[('megtetszett', 1), ('szerettek', 1)]",True
+likes,"[('tetsz', 1)]",True
+liking,[],False
+lionhearted,[],False
+lively,[],False
+logical,"[('logikai', 1), ('logikus', 1), ('logikusabbnak', 1)]",True
+long-lasting,[],False
+lovable,[],False
+lovably,[],False
+love,"[('szívesen', 3), ('szivesen', 1), ('szeretnek', 1), ('love', 1), ('szerelmes', 1)]",True
+loved,[],False
+loveliness,[],False
+lovely,"[('kedves', 1), ('folyamatos', 1), ('folyamatos _ kedves', 1)]",True
+lover,[],True
+loves,"[('szereti', 1)]",True
+loving,[],False
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,[],False
+loyalty,[],False
+lucid,[],False
+lucidly,[],False
+luck,"[('szerencse', 1), ('sikert', 1)]",True
+luckier,"[('szerencsésebb', 2)]",True
+luckiest,"[('legszerencsésebb', 2)]",True
+luckiness,[],False
+lucky,"[('szerencsés', 2)]",True
+lucrative,[],False
+luminous,[],False
+lush,[],True
+luster,[],False
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,[],False
+luxuriously,[],False
+luxury,[],True
+lyrical,"[('lírai', 1)]",True
+magic,"[('mágikus', 1)]",True
+magical,[],False
+magnanimous,[],False
+magnanimously,[],False
+magnificence,[],False
+magnificent,[],False
+magnificently,[],False
+majestic,"[('felségjeles', 1)]",True
+majesty,[],False
+manageable,[],True
+maneuverable,[],False
+marvel,"[('marvel', 1)]",True
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,"[('mester', 7), ('mestere', 2), ('mesterem', 1), ('sablonmester', 1), ('nagymesteri', 1)]",True
+masterful,[],True
+masterfully,"[('mesterien', 1)]",True
+masterpiece,"[('mestermű', 1)]",True
+masterpieces,[],False
+masters,"[('mestere', 1)]",True
+mastery,[],False
+matchless,[],False
+mature,[],False
+maturely,[],False
+maturity,[],False
+meaningful,"[('értelmes', 6), ('érdemi', 1), ('ertelmes', 1), ('tartalmas', 1)]",True
+memorable,[],False
+merciful,[],False
+mercifully,[],False
+mercy,[],False
+merit,"[('érdem', 1), ('érdeme', 1)]",True
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,[],False
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,[],False
+meticulously,[],False
+mightily,[],False
+mighty,[],False
+mind-blowing,[],False
+miracle,"[('nyers', 1)]",True
+miracles,[],False
+miraculous,"[('miraculous', 1)]",True
+miraculously,[],False
+miraculousness,[],False
+modern,"[('modern', 2)]",True
+modest,[],True
+modesty,"[('emléke', 1), ('emléke _ szerénységem', 1), ('szerénységem', 1)]",True
+momentous,[],False
+monumental,[],False
+monumentally,[],False
+morality,[],False
+motivated,"[('szemléletű', 1), ('szemléletű kommunikáció', 1), ('kommunikáció', 1), ('motiválni', 1)]",True
+multi-purpose,[],False
+navigable,[],False
+neat,[],False
+neatest,[],False
+neatly,[],False
+nice,"[('szép', 26), ('jó', 7), ('lenne', 6), ('kedves', 3), ('tiszta', 1)]",True
+nicely,"[('szépen', 7)]",True
+nicer,"[('szebb', 5), ('szebben', 2)]",True
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,[],True
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,[],False
+noteworthy,[],False
+nourish,[],False
+nourishing,[],False
+nourishment,[],False
+novelty,[],False
+nurturing,[],False
+oasis,[],False
+obsession,"[('vagy', 2)]",True
+obsessions,[],False
+obtainable,[],False
+openly,"[('nyíltan', 3)]",True
+openness,[],False
+optimal,"[('optimális', 1)]",True
+optimism,[],False
+optimistic,"[('optimista', 1)]",True
+opulent,[],False
+orderly,[],False
+originality,[],False
+outdo,[],False
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,"[('kiemelkedő', 1)]",True
+outstandingly,"[('kiemelkedően', 1)]",True
+outstrip,[],False
+outwit,[],False
+ovation,[],True
+overjoyed,[],False
+overtake,[],False
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],False
+painlessly,[],False
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,[],False
+paradise,[],False
+paramount,"[('paramounttól', 1)]",True
+pardon,[],False
+passion,"[('szenvedély', 1)]",True
+passionate,[],False
+passionately,[],False
+patience,"[('türelmet', 2), ('türelem', 1), ('türelmem', 1)]",True
+patient,"[('beteg', 1)]",True
+patiently,"[('türelmesen', 1)]",True
+patriot,[],False
+patriotic,[],False
+peace,"[('lelkibékéje', 1), ('békeszerződést', 1)]",True
+peaceable,[],False
+peaceful,[],True
+peacefully,"[('nyugodtan', 1)]",True
+peacekeepers,[],False
+peach,[],False
+peerless,[],False
+pep,[],True
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,"[('tökéletes', 5)]",True
+perfection,[],False
+perfectly,"[('tökéletesen', 2), ('bizonytalanabb', 1), ('teljesen', 1)]",True
+permissible,"[('megengedett', 1)]",True
+perseverance,[],False
+persevere,[],False
+personages,[],False
+personalized,[],False
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,[],False
+pinnacle,[],False
+playful,[],False
+playfully,[],False
+pleasant,[],True
+pleasantly,[],False
+pleased,"[('bírnám', 1)]",True
+pleases,[],False
+pleasing,[],False
+pleasingly,[],False
+pleasurable,[],False
+pleasurably,[],False
+pleasure,[],True
+plentiful,"[('bővelkedő', 1), ('ugyancsak bővelkedő', 1), ('ugyancsak', 1)]",True
+pluses,[],False
+plush,"[('plíz', 1)]",True
+plusses,[],False
+poetic,"[('költői', 5)]",True
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,[],False
+polite,"[('udvarias', 2), ('udvarias _ feltett', 1), ('feltett', 1)]",True
+politeness,[],False
+popular,"[('legnépszerűbb', 2), ('népnevet', 1), ('közkedvelt', 1)]",True
+portable,"[('portable', 1)]",True
+posh,[],False
+positive,"[('pozitívan', 1), ('pozitívabb', 1), ('pozitív', 1)]",True
+positively,"[('pozitívan', 2)]",True
+positives,[],False
+powerful,[],False
+powerfully,[],False
+praise,"[('dicsérő', 1), ('dícsérjem', 1), ('méltatása', 1), ('dicséret', 1)]",True
+praiseworthy,[],False
+praising,[],False
+pre-eminent,[],False
+precious,[],False
+precise,"[('pontos', 1)]",True
+precisely,"[('pontosabban', 2), ('meghatározása', 1), ('pontos _ meghatározása', 1), ('pontos', 1), ('pontosan', 1)]",True
+preeminent,[],False
+prefer,"[('rápihensz', 1), ('preferálnám', 1), ('tetszik.hogy', 1), ('inkább _ lenne', 1), ('lenne', 1)]",True
+preferable,[],False
+preferably,[],False
+prefered,[],False
+preferes,[],False
+preferring,[],False
+prefers,[],False
+premier,[],True
+prestige,"[('presztizs', 1), ('tekintélyéből', 1)]",True
+prestigious,"[('tekintélyes', 1), ('rangos', 1)]",True
+prettily,[],False
+pretty,"[('elég', 19), ('eléggé', 1), ('kicsit', 1), ('nagyjából', 1), ('jól', 1)]",True
+priceless,[],False
+pride,"[('büszkeség', 2), ('büszkeséget', 1)]",True
+principled,[],False
+privilege,[],True
+privileged,"[('kiemelt', 1)]",True
+prize,"[('nobeldíjas', 1), ('nobeldíjat', 1), ('díjat', 1), ('különdíj', 1)]",True
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,"[('eredményes', 1)]",True
+productively,[],False
+proficient,[],False
+proficiently,[],False
+profound,[],True
+profoundly,"[('mélyen', 1)]",True
+profuse,[],False
+profusion,[],False
+progress,"[('haladás', 1)]",True
+progressive,[],True
+prolific,[],False
+prominence,[],False
+prominent,"[('fontos', 1), ('kiemelt', 1), ('jeles', 1)]",True
+promise,"[('ígéretnek', 1)]",True
+promised,[],True
+promises,[],False
+promising,"[('legígéretesebbnek', 1), ('látszik', 1), ('legígéretesebbnek _ látszik', 1), ('kecsegtetőbb dolgokra', 1), ('dolgokra', 1)]",True
+promoter,[],False
+prompt,[],True
+promptly,[],False
+proper,"[('megfelelő', 4), ('tulajdonnév', 1)]",True
+properly,"[('rendesen', 4), ('rendesen kitöltve', 1), ('kitöltve', 1), ('áttöltve', 1), ('megfelelően', 1)]",True
+propitious,[],False
+propitiously,[],False
+pros,[],True
+prosper,[],False
+prosperity,[],False
+prosperous,[],False
+prospros,[],False
+protect,"[('levédte', 1), ('levédtem', 1), ('levédje', 1), ('kivédeni', 1)]",True
+protection,"[('jogvédelem', 3), ('védettség', 1), ('jogvédettségére', 1), ('levédésre', 1), ('olvasóvédelmi', 1)]",True
+protective,[],False
+proud,"[('büszke', 2)]",True
+proven,[],True
+proves,"[('bebizonyítja', 1), ('igazolja', 1)]",True
+providence,[],False
+proving,"[('bizonyítsa', 1)]",True
+prowess,[],False
+prudence,[],False
+prudent,[],False
+prudently,[],False
+punctual,[],False
+pure,"[('tiszta', 1), ('színtiszta', 1)]",True
+purify,[],False
+purposeful,[],False
+quaint,[],True
+qualified,[],True
+qualify,"[('minősülne', 1), ('minősül', 1)]",True
+quicker,[],False
+quiet,"[('félre', 1)]",True
+quieter,"[('csendesebben', 1)]",True
+radiance,[],False
+radiant,[],False
+rapid,[],True
+rapport,[],False
+rapt,[],True
+rapture,[],False
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,[],True
+razor-sharp,[],False
+reachable,[],False
+readable,"[('olvashatóe', 1), ('olvashatóbb', 1), ('olvasható', 1), ('olvashatók', 1)]",True
+readily,[],False
+ready,"[('kész', 7), ('készen', 5), ('van', 1), ('készen van', 1), ('késznek', 1)]",True
+reaffirm,[],False
+reaffirmation,[],False
+realistic,"[('reális', 3), ('életszerű', 1)]",True
+realizable,[],False
+reasonable,"[('észszerű', 1), ('magyarázat', 1), ('ésszerű magyarázat', 1), ('ésszerű', 1)]",True
+reasonably,[],False
+reasoned,[],False
+reassurance,[],False
+reassure,[],False
+receptive,[],False
+reclaim,[],True
+recomend,[],False
+recommend,"[('ajánlani', 6), ('ajánlom', 2), ('ajánlanád', 2), ('ajánlják', 1), ('javasolnád', 1)]",True
+recommendation,"[('ajánlás', 3), ('szabálynak', 1), ('szabálynak _ ajánlás', 1)]",True
+recommendations,[],False
+recommended,"[('ajánlott', 6), ('javasolható', 1), ('javallott', 1)]",True
+reconcile,"[('kibékülni', 1)]",True
+reconciliation,[],False
+record-setting,[],False
+recover,"[('helyreállítom', 1), ('helyreállítására', 1), ('gyógyulni', 1)]",True
+recovery,"[('helyreállítási', 1), ('helyreállítás', 1)]",True
+rectification,"[('helyreigazítást', 1)]",True
+rectify,[],False
+rectifying,[],False
+redeem,[],False
+redeeming,[],False
+redemption,[],False
+refine,[],True
+refined,[],True
+refinement,"[('megfontolásból', 1), ('megfontolásból _ finomítsuk', 1), ('finomítsuk', 1)]",True
+reform,"[('bögreforma', 1)]",True
+reformed,"[('református', 2)]",True
+reforming,[],False
+reforms,[],False
+refresh,"[('frissíteni', 1)]",True
+refreshed,[],False
+refreshing,"[('frissítése', 1)]",True
+refund,"[('visszaállítást', 1)]",True
+refunded,[],False
+regal,[],False
+regally,[],False
+regard,"[('vonatkozólag', 1), ('szempontból', 1)]",True
+rejoice,[],False
+rejoicing,[],False
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,[],False
+relent,[],True
+reliable,"[('megbízható', 4)]",True
+reliably,"[('megbízhatóan', 1)]",True
+relief,"[('segítségműhelybe', 1)]",True
+relish,[],False
+remarkable,[],False
+remarkably,"[('feltűnően', 1)]",True
+remedy,[],False
+remission,[],False
+remunerate,[],False
+renaissance,"[('reneszánsz', 1)]",True
+renewed,[],False
+renown,"[('nevezetességét', 1)]",True
+renowned,[],False
+replaceable,[],False
+reputable,[],False
+reputation,"[('jóhírét', 1), ('ismertsége', 1)]",True
+resilient,[],False
+resolute,[],False
+resound,[],False
+resounding,[],False
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('tiszteletben', 1), ('tekintettel', 1), ('tisztelettel', 1), ('tisztelet', 1)]",True
+respectable,"[('tiszteletreméltó', 1)]",True
+respectful,"[('tiszteletteljes', 2)]",True
+respectfully,[],False
+respite,[],False
+resplendent,[],False
+responsibly,[],False
+responsive,[],False
+restful,[],False
+restored,"[('vissza', 3), ('visszatétele', 1), ('visszaállítottad', 1), ('visszaállítottam', 1), ('állítottál', 1)]",True
+restructure,[],True
+restructured,"[('átstrukturáltam', 1)]",True
+restructuring,[],False
+retractable,[],False
+revel,[],False
+revelation,[],False
+revere,[],False
+reverence,[],False
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,[],False
+revive,[],False
+revives,[],False
+revolutionary,[],False
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,"[('megegyeznénk', 1), ('jutalmazzuk', 1), ('megegyeznénk _ jutalmazzuk', 1)]",True
+rewarding,[],False
+rewardingly,[],False
+rich,[],True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('helyes', 12), ('ugye', 11), ('megfelelő', 10), ('jó', 9), ('igaz', 9)]",True
+righten,[],False
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,"[('önhitten', 1), ('jogosan', 1)]",True
+rightness,[],False
+risk-free,[],False
+robust,[],False
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,"[('romantikushoz', 1), ('romantikus', 1)]",True
+romantically,[],False
+romanticize,[],False
+roomier,[],False
+roomy,[],False
+rosy,[],False
+safe,"[('biztonságos', 2)]",True
+safely,"[('nyugodtan', 1)]",True
+sagacity,[],False
+sagely,[],False
+saint,"[('szentem', 1)]",True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,"[('salutebazilika', 1)]",True
+sane,[],False
+satisfactorily,[],False
+satisfactory,"[('kielégítő', 1)]",True
+satisfied,[],False
+satisfies,"[('hasznos', 1), ('kielégítő _ hasznos', 1), ('kielégítő', 1)]",True
+satisfy,"[('hatáskörben', 1), ('megelégszik', 1), ('hatáskörben _ megelégszik', 1), ('kielégíteni', 1)]",True
+satisfying,[],False
+satisified,[],False
+saver,[],False
+savings,[],False
+savior,[],False
+savvy,[],False
+scenic,[],False
+seamless,"[('elvarratlanul', 1)]",True
+seasoned,[],False
+secure,[],True
+securely,[],False
+selective,[],False
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,[],False
+sensational,[],False
+sensationally,[],False
+sensations,[],False
+sensible,"[('okoskodásnak', 1), ('értelmes', 1), ('ertelmes', 1)]",True
+sensibly,[],False
+sensitive,"[('érzékeny', 1), ('érzékenyek', 1)]",True
+serene,[],False
+serenity,[],False
+sexy,[],False
+sharp,"[('éles', 3)]",True
+sharper,[],False
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,[],False
+shiny,[],False
+significant,"[('jelentős', 6), ('jelentősebb', 1), ('számottevő', 1)]",True
+silent,[],False
+simpler,"[('egyszerűbb', 4), ('rövidebb', 1), ('rövidebb _ egyszerűbb', 1), ('egyszerűbbnek', 1)]",True
+simplest,[],False
+simplified,"[('egyszerűsített', 2), ('egyszerűsödtek', 1)]",True
+simplifies,[],False
+simplify,[],False
+simplifying,[],False
+sincere,[],True
+sincerely,"[('őszintén', 1), ('őszintén _ szívsz', 1), ('szívsz', 1)]",True
+sincerity,"[('őszinteségének', 1)]",True
+skill,[],True
+skilled,[],False
+skillful,[],True
+skillfully,"[('ügyesebben', 1)]",True
+slammin,[],False
+sleek,[],False
+slick,[],False
+smart,"[('okos', 2), ('kisokos', 1)]",True
+smarter,"[('okosabb', 2)]",True
+smartest,[],False
+smartly,[],False
+smile,[],True
+smiles,[],False
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,"[('simítgatná', 1), ('smoothhoz', 1), ('simám', 1), ('sima', 1)]",True
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,"[('simán', 4)]",True
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,"[('üdítőféleség', 1)]",True
+softer,[],False
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,"[('sziklaszilárd', 1), ('szolidabb', 1)]",True
+solidarity,[],False
+soothe,[],False
+soothingly,[],False
+sophisticated,"[('szofisztikáltabbak', 1)]",True
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,[],False
+spectacularly,[],False
+speedily,[],False
+speedy,[],False
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,"[('szellemi', 2), ('lelki', 1)]",True
+splendid,[],False
+splendidly,[],False
+splendor,[],False
+spontaneous,[],True
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,[],False
+stabilize,[],True
+stable,"[('stabil', 2), ('stable', 1)]",True
+stainless,[],False
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],False
+steadfastly,[],False
+steadfastness,[],False
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,[],False
+stellarly,[],False
+stimulate,[],False
+stimulates,[],False
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],False
+straightforward,[],False
+streamlined,[],False
+striking,[],True
+strikingly,[],False
+striving,"[('törekszem', 1)]",True
+strong,"[('erős', 2)]",True
+stronger,"[('erősebb', 3), ('erűbbé', 1)]",True
+strongest,"[('legerősebb', 1)]",True
+stunned,[],False
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,[],True
+stylishly,[],False
+stylized,[],False
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,"[('kérdésben', 1), ('érdemi', 1), ('érdemi kérdésben', 1), ('érdemben', 1), ('tartalmi', 1)]",True
+succeed,"[('segíteni', 1), ('sikerülni', 1), ('sikerül', 1)]",True
+succeeded,"[('sikeredett', 2), ('sikerült', 1)]",True
+succeeding,[],False
+succeeds,"[('sikerül', 1)]",True
+succes,[],True
+success,"[('sikerrel', 2), ('siker', 1)]",True
+successes,"[('sikereket', 1)]",True
+successful,"[('sikeres', 3), ('sikerült', 2)]",True
+successfully,"[('sikeresen', 2)]",True
+suffice,[],False
+sufficed,[],False
+suffices,[],False
+sufficient,"[('elégséges', 1)]",True
+sufficiently,[],False
+suitable,"[('alkalmas', 2), ('alkalmassá', 1), ('legalkalmasabbnak', 1), ('alkalmatos', 1)]",True
+sumptuous,[],False
+sumptuously,[],False
+sumptuousness,[],False
+super,"[('szuper', 2)]",True
+superb,[],False
+superbly,[],False
+superior,"[('felsőbbrendűnek', 3)]",True
+superiority,[],False
+supple,[],True
+support,"[('támogatást', 2), ('támogatni', 2), ('támogatnál', 1), ('támogatnád', 1), ('fogom', 1)]",True
+supported,"[('támogatták', 1)]",True
+supporter,[],True
+supporting,"[('hogy', 1), ('mellékszereplői', 1)]",True
+supportive,[],False
+supports,"[('támogatja', 1), ('támasztja', 1)]",True
+supremacy,"[('szupremátusát', 1)]",True
+supreme,"[('bíróságának', 1)]",True
+supremely,[],False
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,[],True
+surreal,[],False
+survival,[],False
+survivor,"[('túlélői', 1)]",True
+sustainability,[],False
+sustainable,[],False
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,"[('átsöprő', 1)]",True
+sweet,"[('édes', 2)]",True
+sweeten,[],False
+sweetheart,"[('sweetheart', 1)]",True
+sweetly,[],False
+sweetness,[],False
+swift,[],False
+swiftness,[],False
+talent,"[('tehetséggondozás', 1), ('tehetségétől', 1), ('talent', 1), ('énekversenyről', 1)]",True
+talented,[],False
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,[],False
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,[],False
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('köszönöm', 39), ('köszi', 4), ('megköszönném', 2), ('köszönünk', 1), ('hál', 1)]",True
+thankful,[],False
+thinner,[],False
+thoughtful,"[('elgondolkodtató', 1)]",True
+thoughtfully,[],False
+thoughtfulness,"[('meggondoltság _ érzékenység', 1), ('meggondoltság', 1), ('érzékenység', 1)]",True
+thrift,[],False
+thrifty,[],False
+thrill,[],False
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,"[('boldogulni', 1)]",True
+thriving,"[('virít', 1)]",True
+thumb-up,[],False
+thumbs-up,[],False
+tickle,[],False
+tidy,"[('rendbetenni', 2), ('rendbeszedtem', 1)]",True
+time-honored,[],False
+timely,"[('időszerűvé', 1)]",True
+tingle,"[('bizsergetik', 1)]",True
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,"[('összetartozásuk', 1)]",True
+tolerable,"[('elviselhető', 1)]",True
+toll-free,[],False
+top,"[('tetején', 8), ('föntről', 1), ('felső', 1), ('élvonalban', 1), ('legjobb', 1)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,[],True
+tough,[],False
+tougher,[],False
+toughest,[],False
+traction,[],True
+tranquil,[],False
+tranquility,[],False
+transparent,"[('átlátszó', 1)]",True
+treasure,"[('jogtulajdonos', 1), ('jogtulajdonos _ közkincsnek', 1), ('közkincsnek', 1), ('közkincsnem', 1)]",True
+tremendously,[],False
+trendy,"[('trendi', 1)]",True
+triumph,[],True
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,[],False
+trouble-free,[],False
+trump,[],False
+trumpet,[],False
+trust,"[('odabízni', 1), ('rád', 1), ('bízvást', 1), ('bizalmat', 1), ('megcsinálod', 1)]",True
+trusted,[],True
+trusting,[],False
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,[],False
+trusty,[],False
+truthful,[],False
+truthfully,[],False
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,"[('befolyásolás', 1), ('nélküli', 1), ('befolyásolás nélküli', 1)]",True
+unassailable,[],False
+unbeatable,[],False
+unbiased,"[('elfogulatlan', 1)]",True
+unbound,[],False
+uncomplicated,[],False
+unconditional,[],False
+undamaged,[],False
+undaunted,[],False
+understandable,"[('érthető', 4), ('érthetőbb', 2), ('közérthetően', 1)]",True
+undisputable,[],False
+undisputably,[],False
+undisputed,"[('nem', 2), ('vitás', 2), ('nem vitás', 2)]",True
+unencumbered,[],False
+unequivocal,[],False
+unequivocally,[],False
+unfazed,[],False
+unfettered,[],False
+unforgettable,"[('felejthetetlen', 1)]",True
+unity,[],True
+unlimited,[],False
+unmatched,[],False
+unparalleled,[],False
+unquestionable,[],False
+unquestionably,[],False
+unreal,"[('valótlan', 1)]",True
+unrestricted,[],False
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,"[('átjavítottad', 1)]",True
+upheld,[],False
+uphold,[],False
+uplift,[],True
+uplifting,"[('felemelő', 1)]",True
+upliftingly,[],False
+upliftment,[],False
+upscale,[],False
+usable,"[('használható', 2), ('felhasználható', 1), ('használhatóbbak', 1)]",True
+useable,[],False
+useful,"[('hasznos', 13), ('hasznosnak', 1), ('lehet', 1), ('hasznos lehet', 1), ('leghasználhatóbnak', 1)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,[],False
+valiantly,[],False
+valor,[],False
+valuable,"[('értékes', 1)]",True
+variety,"[('szőlőfajtáról', 1), ('szőlőfajta', 1), ('plakátféleség', 1)]",True
+venerate,[],False
+verifiable,"[('igazolható', 2), ('ellenőrizhető', 1)]",True
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,[],False
+victory,"[('viktatúra', 1)]",True
+viewable,[],False
+vigilance,[],False
+vigilant,[],False
+virtue,[],False
+virtuous,[],False
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],True
+vouchsafe,[],False
+warm,"[('meleg', 1)]",True
+warmer,[],False
+warmhearted,[],False
+warmly,[],False
+warmth,[],False
+wealthy,[],False
+welcome,"[('szívesen', 3), ('örülök _ szívesen látunk', 1), ('látunk', 1), ('örülök', 1), ('vesszük', 1)]",True
+well,"[('is', 52), ('jól', 41), ('hát', 26), ('na', 12), ('nos', 11)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,"[('mihamarabbi', 1)]",True
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,"[('hajlandó', 2), ('hajlandóak', 1)]",True
+willingly,"[('akarva _ akarattal', 1), ('akarattal', 1), ('akarva', 1)]",True
+willingness,[],False
+win,"[('nyerni', 2), ('győz', 1)]",True
+windfall,[],False
+winnable,[],False
+winner,"[('nobeldíjas', 1), ('kossuthdíjas', 1)]",True
+winners,"[('győzteseit', 1), ('díjazottjait', 1), ('győztesek', 1), ('díjazott', 1)]",True
+winning,"[('győztes', 1)]",True
+wins,"[('nyer', 1)]",True
+wisdom,"[('wisdom', 2)]",True
+wise,[],True
+wisely,[],False
+witty,[],False
+won,"[('nyertek', 1), ('járt', 1), ('megnyerő', 1), ('győzött', 1), ('nyertem', 1)]",True
+wonder,"[('vajon', 5), ('érdeklődöm', 3), (',', 2), ('vagyok', 2), ('kíváncsi', 2)]",True
+wonderful,"[('csodás', 1), ('csodálatos', 1), ('csodaszép', 1)]",True
+wonderfully,[],False
+wonderous,[],False
+wonderously,[],False
+wonders,[],False
+wondrous,[],False
+woo,"[('pátyolgatok', 1)]",True
+work,"[('működik', 15), ('dolgozol', 9), ('munka', 8), ('munkát', 8), ('dolgozni', 4)]",True
+workable,[],False
+worked,"[('dolgoztam', 3), ('dolgozott', 3), ('dolgoztál', 2), ('sikerült', 2), ('dolgozhattál', 1)]",True
+works,"[('működik', 3), ('műveit', 2), ('művek', 2), ('fog', 1), ('működni', 1)]",True
+world-famous,[],False
+worth,"[('érdemes', 15), ('érdemese', 6), ('ér', 2), ('megér', 1), ('érnek', 1)]",True
+worth-while,[],False
+worthiness,[],True
+worthwhile,"[('érdemes', 3), ('érdemesnek', 2), ('érdemleges', 1)]",True
+worthy,"[('alkalmas', 1), ('érdemtelen _ alkalmas', 1), ('érdemtelen', 1), ('méltó', 1)]",True
+wow,"[('wow', 3), ('ejha', 1), ('hű', 1), ('jajj', 1)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],True
+youthful,[],False
+zeal,[],True
+zenith,"[('zenit', 1)]",True
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,[],False
+abolish,[],False
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],True
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,[],False
+abruptly,[],False
+abscond,[],False
+absence,"[('hiányzást', 1)]",True
+absent-minded,[],False
+absentee,[],False
+absurd,"[('abszurd', 1), ('abszurd _ abszurd', 1)]",True
+absurdity,[],True
+absurdly,[],False
+absurdness,[],False
+abuse,"[('visszélsz', 1)]",True
+abused,[],False
+abuses,[],False
+abusive,[],False
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,"[('véletlen', 3), ('véletlen kerültek', 1), ('kerültek', 1)]",True
+accost,[],False
+accursed,[],False
+accusation,"[('vádaskodást', 1)]",True
+accusations,[],False
+accuse,[],True
+accuses,[],False
+accusing,"[('vádol', 1), ('vádolva', 1)]",True
+accusingly,[],False
+acerbate,[],True
+acerbic,[],False
+acerbically,[],False
+ache,[],True
+ached,[],True
+aches,[],True
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,[],True
+addicted,[],False
+addicting,[],False
+addicts,[],False
+admonish,[],False
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,"[('intelem', 1)]",True
+adulterate,[],True
+adulterated,[],True
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,[],False
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,"[('rettegnék', 1), ('hogy', 1), ('tartanak', 1), ('félek', 1), ('attól _ ,', 1)]",True
+aggravate,[],False
+aggravating,[],False
+aggravation,[],False
+aggression,[],False
+aggressive,"[('agresszív', 1)]",True
+aggressiveness,[],False
+aggressor,"[('agresszorként', 1), ('agresszor', 1)]",True
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],True
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,[],False
+alarm,[],False
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,"[('elidegeníted', 1)]",True
+alienated,[],False
+alienation,[],False
+allegation,"[('állítást', 1)]",True
+allegations,"[('állításait', 1)]",True
+allege,[],False
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,[],False
+ambiguous,"[('furcsa', 1), ('kétértelművé _ furcsa', 1), ('kétértelművé', 1), ('kétértelmű', 1)]",True
+ambivalence,[],False
+ambivalent,[],False
+ambush,[],False
+amiss,[],False
+amputate,[],False
+anarchism,[],False
+anarchist,[],False
+anarchistic,[],False
+anarchy,[],False
+anemic,[],False
+anger,[],True
+angrily,[],False
+angriness,[],False
+angry,"[('haragudj', 3), ('haragszol', 1), ('dühös', 1), ('haragudnék', 1), ('haragszok', 1)]",True
+anguish,[],False
+animosity,[],False
+annihilate,[],False
+annihilation,[],False
+annoy,"[('idegesíteni', 2), ('téged', 1), ('idegesíteni téged', 1), ('idegesíteni akar', 1), ('akar', 1)]",True
+annoyance,[],False
+annoyances,[],False
+annoyed,"[('idegesített', 1), ('bosszantott', 1)]",True
+annoying,"[('bosszantó', 2)]",True
+annoyingly,"[('bosszantóan', 1), ('idegesítően', 1)]",True
+annoys,[],False
+anomalous,[],False
+anomaly,"[('anomáliát', 1)]",True
+antagonism,[],False
+antagonist,[],False
+antagonistic,[],False
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,[],False
+antiquated,[],False
+antithetical,[],False
+anxieties,[],False
+anxiety,[],False
+anxious,[],False
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],False
+apocalypse,[],False
+apocalyptic,[],False
+apologist,[],False
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],False
+apprehensively,[],False
+arbitrary,"[('önkényes', 1), ('szabálytalanul', 1), ('szabálytalanul _ önkényeskedsz', 1), ('önkényeskedsz', 1)]",True
+arcane,[],False
+archaic,"[('archaizálónak', 1)]",True
+arduous,[],False
+arduously,[],False
+argumentative,[],False
+arrogance,"[('nagyképűség', 1)]",True
+arrogant,"[('gúnyolódó', 1), ('öntelt', 1), ('beképzelt', 1)]",True
+arrogantly,[],False
+ashamed,"[('szégyenlősködjünk', 1), ('örömmel', 1)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],False
+assassinate,[],False
+assault,[],False
+assult,[],False
+astray,"[('tévútra mentél _ érted', 1), ('érted', 1), ('mentél', 1), ('tévútra', 1)]",True
+asunder,[],False
+atrocious,[],False
+atrocities,[],False
+atrocity,[],False
+atrophy,[],False
+attack,"[('támadás', 2), ('támadásomon', 1), ('támadási', 1)]",True
+attacks,[],False
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,[],False
+audiciously,[],False
+austere,[],False
+authoritarian,[],False
+autocrat,[],False
+autocratic,[],False
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],True
+averse,[],False
+aversion,[],False
+aweful,[],False
+awful,"[('borzalmasan', 1), ('iszonyatosan', 1), ('borzasztó', 1), ('iszonyú', 1)]",True
+awfully,[],False
+awfulness,[],False
+awkward,"[('esetlenül', 1)]",True
+awkwardness,[],False
+ax,"[('fejszével', 1)]",True
+babble,[],False
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,"[('hátra', 1)]",True
+backwardness,[],False
+backwood,[],False
+backwoods,[],False
+bad,"[('rossz', 22), ('rosszat', 2), ('rosszakra', 1), ('rosszfiú', 1), ('rosszak', 1)]",True
+badly,"[('rosszat', 2), ('rosszul', 2), ('csúnyán', 1)]",True
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],True
+banal,[],False
+banalize,[],False
+bane,[],False
+banish,[],False
+banishment,[],False
+bankrupt,[],False
+barbarian,[],False
+barbaric,[],False
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,[],False
+baseless,[],False
+bash,[],False
+bashed,[],False
+bashful,[],False
+bashing,[],False
+bastard,"[('vadbarom', 1)]",True
+bastards,[],False
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,[],True
+beggar,[],False
+beggarly,[],False
+begging,"[('ovodás', 1)]",True
+beguile,[],False
+belabor,[],False
+belated,[],False
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,[],False
+bellicose,[],False
+belligerence,[],False
+belligerent,[],False
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,[],False
+berate,[],True
+bereave,[],False
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],False
+betray,"[('elárulnád', 1)]",True
+betrayal,[],False
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,[],False
+bewilder,[],False
+bewildered,[],False
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,[],False
+bewitch,[],False
+bias,"[('elfogultságát', 1), ('elfogultság', 1)]",True
+biased,"[('elfogult', 3), ('elfogultak', 1)]",True
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,"[('bigottság', 1)]",True
+bitch,[],False
+bitchy,[],False
+biting,"[('körmönfont', 1)]",True
+bitingly,[],False
+bitter,[],False
+bitterly,[],False
+bitterness,[],False
+bizarre,[],False
+blab,[],True
+blabber,[],False
+blackmail,[],False
+blah,[],False
+blame,"[('hibáztatni', 1), ('blama', 1)]",True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,[],False
+blasted,[],False
+blatant,"[('illetve', 1), ('szemenszedett', 1), ('illetve _ szemenszedett hazugság', 1), ('hazugság', 1)]",True
+blatantly,[],False
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],False
+bleeding,[],False
+bleeds,[],False
+blemish,[],False
+blind,"[('elvakult', 1)]",True
+blinding,[],False
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,[],False
+blockhead,[],False
+bloodshed,[],False
+bloodthirsty,"[('vérengző tömeggyilkos', 1), ('vérengző', 1), ('tömeggyilkos', 1), ('véresszájú _ komoly', 1), ('komoly', 1)]",True
+bloody,"[('véres', 2)]",True
+blotchy,[],False
+blow,[],True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,[],False
+blur,[],True
+bluring,[],False
+blurred,[],False
+blurring,"[('értesítést _ összemosódik', 1), ('értesítést', 1), ('összemosódik', 1)]",True
+blurry,[],False
+blurs,[],True
+blurt,[],False
+boastful,[],False
+boggle,[],False
+bogus,[],False
+boil,"[('forrásolj', 1), ('forrásolni', 1)]",True
+boiling,"[('forrásolsz', 1)]",True
+boisterous,[],False
+bomb,[],False
+bombard,[],False
+bombardment,[],False
+bombastic,[],False
+bondage,[],False
+bonkers,[],False
+bore,"[('viselték', 1)]",True
+bored,"[('unatkozzál', 1)]",True
+boredom,[],False
+bores,[],False
+boring,"[('unalmas', 1)]",True
+botch,[],False
+bother,"[('zavarlak', 4), ('zavar', 3), ('megkérhetlek', 1), ('zavarlak _ megkérhetlek', 1), ('bocsánat', 1)]",True
+bothered,"[('zavar', 3)]",True
+bothering,"[('kínállak', 1), ('faradozol azon', 1), ('azon', 1), ('faradozol', 1)]",True
+bothers,"[('zavar', 5)]",True
+bothersome,[],False
+bowdlerize,[],False
+boycott,"[('bojkott', 1)]",True
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,"[('agyrémet', 1)]",True
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,[],False
+brazen,[],False
+brazenly,[],False
+brazenness,[],False
+breach,[],False
+break,"[('szünet', 1), ('bontanám', 1), ('rugjatok', 1), ('szünetben', 1), ('kitörjön', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,"[('tagolás', 1)]",True
+breaking,"[('töröm', 1), ('törjék', 1)]",True
+breaks,"[('felbomlik', 1), ('szétesik', 1)]",True
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,"[('letörtem', 1), ('törtem', 1)]",True
+broken,"[('bomlott', 1), ('lebontani', 1), ('hibás', 1)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,"[('brutális', 1)]",True
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,"[('meggyilkolták', 1), ('brutálisan', 1), ('brutálisan meggyilkolták', 1)]",True
+brute,[],False
+brutish,[],False
+bs,"[('bs', 1)]",True
+buckle,[],False
+bug,"[('hibajavító', 1), ('hibahiányosság', 1), ('hiba', 1)]",True
+bugging,"[('bogarászva', 1), ('bogarásztam', 1)]",True
+buggy,[],False
+bugs,"[('hibát', 2), ('hibák', 2), ('hibákat', 1)]",True
+bulkier,[],False
+bulkiness,[],False
+bulky,"[('terjedelmes', 1)]",True
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,"[('baromságot', 2), ('marhaságot', 2), ('baromságnak', 1), ('baromságokat', 1), ('értéket', 1)]",True
+bullshyt,[],False
+bully,[],False
+bullying,[],False
+bullyingly,[],False
+bum,[],True
+bump,[],True
+bumped,[],False
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,"[('pamacs', 1)]",True
+bungle,[],False
+bungler,[],False
+bungling,[],False
+bunk,[],True
+burden,[],True
+burdensome,[],False
+burdensomely,[],False
+burn,"[('ég', 1)]",True
+burned,[],False
+burning,[],True
+burns,[],False
+bust,[],False
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,"[('bizánci', 2), ('bizantinológiát', 1)]",True
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],False
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,[],False
+cancerous,[],False
+cannibal,[],False
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,"[('figyelmetlen', 1)]",True
+carelessness,[],False
+caricature,[],False
+carnage,[],False
+carp,[],True
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,[],False
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,[],True
+censure,[],False
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,[],False
+chaos,"[('káoszt', 2), ('káosz', 1), ('káoszra', 1)]",True
+chaotic,[],False
+chasten,[],False
+chastise,[],False
+chastisement,[],False
+chatter,[],False
+chatterbox,[],False
+cheap,[],False
+cheapen,[],False
+cheaply,[],False
+cheat,[],False
+cheated,[],False
+cheater,[],False
+cheating,[],False
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,[],False
+chide,[],False
+childish,"[('gyerekes', 3)]",True
+chill,[],True
+chilly,[],False
+chintzy,[],False
+choke,[],False
+choleric,[],False
+choppy,[],False
+chore,[],False
+chronic,[],False
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,[],False
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,[],False
+clogged,[],False
+clogs,[],False
+cloud,[],True
+clouding,[],False
+cloudy,[],False
+clueless,[],False
+clumsy,[],False
+clunky,[],False
+coarse,[],False
+cocky,[],False
+coerce,[],False
+coercion,[],False
+coercive,[],False
+cold,"[('hidegről', 1), ('jéghideg', 1), ('hideg', 1), ('hidegháborús', 1)]",True
+coldly,[],False
+collapse,"[('összecsuk', 1)]",True
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],False
+comical,[],True
+commiserate,[],False
+commonplace,"[('közhely', 1)]",True
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('panaszkodna', 1)]",True
+complained,"[('bepanaszolt', 1), ('panaszoltad', 1)]",True
+complaining,[],False
+complains,[],False
+complaint,[],False
+complaints,[],False
+complex,"[('összetett', 1)]",True
+complicated,"[('bonyolult', 4), ('komplikált', 1), ('bonyolultnak', 1), ('bonyolultabb', 1), ('bonyolultakat', 1)]",True
+complication,[],False
+complicit,[],False
+compulsion,[],False
+compulsive,"[('kényszeres', 1)]",True
+concede,[],False
+conceded,[],False
+conceit,[],False
+conceited,[],False
+concen,[],False
+concens,[],False
+concern,"[('gondom', 1)]",True
+concerned,"[('foglalkoztam', 1), ('illeti', 1), ('érintett', 1), ('kapcsolatban', 1)]",True
+concerns,[],False
+concession,[],False
+concessions,[],False
+condemn,[],True
+condemnable,[],False
+condemnation,[],False
+condemned,[],False
+condemns,[],False
+condescend,[],False
+condescending,[],False
+condescendingly,[],False
+condescension,[],False
+confess,"[('bevallom', 2), ('megvallom', 1)]",True
+confession,[],False
+confessions,[],False
+confined,[],False
+conflict,"[('adatütköztetés', 1), ('konfliktusba', 1)]",True
+conflicted,[],False
+conflicting,[],False
+conflicts,"[('konfliktusok', 1)]",True
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],False
+confrontation,[],False
+confrontational,[],False
+confuse,"[('keverjük', 2), ('összekevertem', 1), ('összekeveredjenek', 1), ('kelteni', 1), ('kelteni _ elhelyezésével', 1)]",True
+confused,"[('zavart', 2), ('értetlenül', 1), ('összekevertem', 1), ('zavarodva', 1), ('zavaros', 1)]",True
+confuses,"[('keltesz', 1), ('zavarja', 1)]",True
+confusing,"[('zavaros', 4), ('zavaró', 2), ('zavart', 2), ('szándékosan _ zavart', 1), ('szándékosan', 1)]",True
+confusion,"[('borzalmas _ kavarodás', 1), ('kavarodás', 1), ('borzalmas', 1), ('zavarkeltés', 1), ('zavarokolódásért', 1)]",True
+confusions,[],False
+congested,[],False
+congestion,"[('mássalhangzótorlódások feloldására', 1), ('mássalhangzótorlódások', 1), ('feloldására', 1)]",True
+cons,[],True
+conscons,[],False
+conservative,[],False
+conspicuous,"[('feltűnő', 1)]",True
+conspicuously,[],False
+conspiracies,[],False
+conspiracy,[],True
+conspirator,[],False
+conspiratorial,[],False
+conspire,[],False
+consternation,[],False
+contagious,[],False
+contaminate,[],False
+contaminated,[],False
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,[],False
+contemptible,[],False
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,[],False
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,"[('ellent', 1), ('ellentmondaniuk', 1)]",True
+contradiction,"[('ellentmondásba', 1), ('ellentmondása', 1), ('önellentmondás', 1), ('ellentmondás', 1), ('ellentmondást', 1)]",True
+contradictory,"[('ellentmondó', 1), ('ellentmondásos', 1)]",True
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,[],False
+controversy,"[('vitát', 1), ('polémia', 1)]",True
+convoluted,[],False
+corrode,[],False
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,"[('sérültnek', 1)]",True
+corrupted,[],False
+corrupting,[],False
+corruption,"[('korrupciós', 1)]",True
+corrupts,[],False
+corruptted,[],False
+costlier,[],False
+costly,[],False
+counter-productive,[],False
+counterproductive,[],False
+coupists,[],False
+covetous,[],False
+coward,[],True
+cowardly,"[('gyáva szívű', 1), ('szívű', 1), ('gyáva', 1)]",True
+crabby,[],False
+crack,[],False
+cracked,[],False
+cracks,[],False
+craftily,[],False
+craftly,[],False
+crafty,[],False
+cramp,[],False
+cramped,[],False
+cramping,[],False
+cranky,[],False
+crap,"[('följavítását', 1)]",True
+crappy,[],False
+craps,[],False
+crash,"[('sodorjon', 1)]",True
+crashed,[],False
+crashes,"[('letorlodik', 1)]",True
+crashing,[],False
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,"[('szerencsétlen', 1)]",True
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,[],False
+creeping,[],False
+creeps,[],False
+creepy,[],False
+crept,[],False
+crime,[],True
+criminal,"[('bűnőz', 1), ('előéletű', 1), ('bnőm', 1)]",True
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,[],False
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,"[('értékválság', 1)]",True
+critic,[],True
+critical,"[('időkritikus', 1)]",True
+criticism,"[('kritikán', 2), ('kritikát', 2), ('vitába', 1), ('bibliakritikai vitába', 1), ('bibliakritikai', 1)]",True
+criticisms,"[('kritikák', 1), ('kritikákat', 1), ('kritikát', 1), ('kritizálnak', 1)]",True
+criticize,"[('kritizálni', 2), ('bírálni', 1)]",True
+criticized,"[('kritizált', 1)]",True
+criticizing,[],False
+critics,"[('kritikusok', 1)]",True
+cronyism,[],False
+crook,[],False
+crooked,[],False
+crooks,[],False
+crowded,"[('zsúfolt', 1)]",True
+crowdedness,[],False
+crude,[],False
+cruel,[],True
+crueler,[],False
+cruelest,[],False
+cruelly,"[('biztosan', 1), ('kegyetlenül', 1), ('biztosan kegyetlenül', 1)]",True
+cruelness,[],False
+cruelties,[],False
+cruelty,[],False
+crumble,[],False
+crumbling,[],False
+crummy,[],False
+crumple,[],True
+crumpled,"[('megmért', 1), ('kervert', 1), ('megmért _ kervert', 1)]",True
+crumples,[],False
+crush,[],True
+crushed,[],False
+crushing,[],False
+cry,[],True
+culpable,[],False
+culprit,"[('bűnös', 1)]",True
+cumbersome,[],False
+cunt,[],False
+cunts,[],False
+cuplrit,[],False
+curse,"[('tudom', 1), ('tele', 1), ('tele _ tudom', 1), ('játéktudás', 1)]",True
+cursed,[],False
+curses,[],False
+curt,[],True
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,"[('cinikus', 1)]",True
+cynicism,[],False
+d*mn,[],False
+damage,"[('kár', 2), ('kárpotlásként', 1)]",True
+damaged,[],False
+damages,"[('kártérítést', 1)]",True
+damaging,[],False
+damn,"[('átkozott', 1)]",True
+damnable,[],False
+damnably,[],False
+damnation,[],False
+damned,"[('elkárhozik', 1)]",True
+damning,[],False
+damper,"[('elsütőszerkezet', 1), ('csappantyás elsütőszerkezet', 1), ('csappantyás', 1)]",True
+danger,"[('végveszélyben', 1)]",True
+dangerous,"[('veszélyes', 1)]",True
+dangerousness,[],False
+dark,"[('homályosodni', 1), ('sötét', 1)]",True
+darken,[],False
+darkened,[],False
+darker,"[('sötétebb', 1)]",True
+darkness,[],False
+dastard,[],False
+dastardly,[],False
+daunt,[],False
+daunting,[],False
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('halott', 3), ('elhalt', 1), ('halottak', 1), ('halotti', 1)]",True
+deadbeat,[],False
+deadlock,"[('holtpontról', 1)]",True
+deadly,[],False
+deadweight,[],False
+deaf,"[('süket vagyok', 1), ('süket', 1), ('vagyok', 1)]",True
+dearth,[],False
+death,"[('halálozási', 7), ('halála', 2), ('halálozás', 2), ('agyonforrásolásról', 1), ('elhunytát', 1)]",True
+debacle,[],False
+debase,[],False
+debasement,[],False
+debaser,[],False
+debatable,"[('vitatni', 1), ('vitatható', 1)]",True
+debauch,[],False
+debaucher,[],False
+debauchery,[],False
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,[],False
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,[],False
+decayed,[],False
+deceit,[],False
+deceitful,[],False
+deceitfully,[],False
+deceitfulness,[],False
+deceive,[],False
+deceiver,[],False
+deceivers,[],False
+deceiving,[],False
+deception,[],False
+deceptive,"[('megtévesztő', 1)]",True
+deceptively,[],False
+declaim,[],False
+decline,"[('minőségcsökkenést', 1)]",True
+declines,[],False
+declining,"[('csökkenő', 1)]",True
+decrement,[],False
+decrepit,[],False
+decrepitude,[],False
+decry,[],False
+defamation,"[('rágalmazás', 1)]",True
+defamations,[],False
+defamatory,[],False
+defame,[],True
+defect,[],False
+defective,[],False
+defects,[],False
+defensive,[],False
+defiance,[],False
+defiant,[],False
+defiantly,[],False
+deficiencies,"[('hiányaira', 1), ('hiányokra', 1)]",True
+deficiency,[],True
+deficient,[],False
+defile,[],False
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,[],False
+defy,[],False
+degenerate,[],False
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,[],False
+degrading,"[('degradalo', 1), ('degradalo _ nezve', 1), ('nezve', 1)]",True
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,[],False
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,"[('többévnyi', 1), ('jóváhagyás', 1)]",True
+delayed,[],False
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,"[('delikvensre', 1)]",True
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,[],False
+delusion,[],False
+delusional,[],False
+delusions,[],False
+demean,[],False
+demeaning,[],False
+demise,[],False
+demolish,[],False
+demolisher,[],False
+demon,[],True
+demonic,[],False
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,[],False
+denied,"[('tagadtad', 1)]",True
+denies,[],False
+denigrate,[],False
+denounce,[],False
+dense,[],True
+dent,[],True
+dented,[],True
+dents,[],True
+denunciate,[],False
+denunciation,[],False
+denunciations,[],False
+deny,"[('megendegsz', 1)]",True
+denying,[],False
+deplete,[],True
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],False
+depress,[],True
+depressed,"[('lehangol', 1)]",True
+depressing,[],False
+depressingly,[],False
+depression,[],False
+depressions,[],False
+deprive,[],True
+deprived,"[('megvonnak', 1)]",True
+deride,[],False
+derision,[],False
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,"[('lekezelő _ elfogulatlan', 1), ('lekezelő', 1), ('elfogulatlan', 1)]",True
+desecrate,[],False
+desert,[],False
+desertion,[],False
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],False
+despairing,[],False
+despairingly,[],False
+desperate,[],False
+desperately,[],False
+desperation,[],False
+despicable,[],False
+despicably,[],False
+despise,[],False
+despised,[],False
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],False
+despotic,[],False
+despotism,[],False
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,"[('rombolása', 1), ('pusztáznám', 1)]",True
+destroyer,"[('destroyer', 1)]",True
+destruction,"[('elpusztításáról', 1), ('pusztulástól', 1)]",True
+destructive,"[('romboló', 1)]",True
+desultory,[],False
+deter,[],True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,"[('nyelvrontás', 1)]",True
+deterrent,[],False
+detest,[],False
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,[],False
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,[],False
+detrimental,[],False
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,[],False
+devastatingly,[],False
+devastation,[],False
+deviate,"[('térnénk', 1), ('eltérjen', 1), ('eltérésre', 1)]",True
+deviation,[],False
+devil,[],False
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,[],False
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],True
+dictator,"[('diktátor', 1)]",True
+dictatorial,[],False
+die,"[('hunyt', 2), ('elhunyt', 1), ('haltak', 1), ('hunyt el', 1), ('el', 1)]",True
+die-hard,[],False
+died,"[('halt', 9), ('meghalt', 3), ('halhatott', 1), ('elhunytak', 1), ('meg', 1)]",True
+dies,[],True
+difficult,"[('nehéz', 3), ('nehezen', 3), ('nehezebb', 1)]",True
+difficulties,"[('nehézséggel', 1), ('nehézségek', 1)]",True
+difficulty,"[('a', 1), ('nehezített', 1), ('nehezített a', 1)]",True
+diffidence,[],False
+dilapidated,[],False
+dilemma,"[('dilemma', 1)]",True
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,[],True
+ding,[],True
+dings,[],True
+dinky,[],False
+dire,[],True
+direly,[],False
+direness,[],False
+dirt,"[('kösz', 1)]",True
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,"[('szürke', 1), ('piszkít', 1), ('koszos', 1)]",True
+disable,"[('eltilthatunk', 1), ('letiltani', 1)]",True
+disabled,"[('fogyatékos', 1)]",True
+disaccord,[],False
+disadvantage,[],True
+disadvantaged,[],False
+disadvantageous,[],False
+disadvantages,"[('hátrányos', 1)]",True
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,"[('értek', 2), ('értesz', 2), ('értünk _ leírtam', 1), ('leírtam', 1), ('értünk', 1)]",True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,[],False
+disagreeing,[],False
+disagreement,"[('ellenvéleményed', 1), ('nézeteltérésünk', 1)]",True
+disagrees,[],False
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,[],True
+disappointed,"[('csalódást okoztam', 1), ('csalódást', 1), ('okoztam', 1)]",True
+disappointing,[],False
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,[],False
+disapprove,"[('visszaállítjuk', 1), ('helytelenítjük _ visszaállítjuk', 1), ('helytelenítjük', 1)]",True
+disapproving,[],False
+disarm,[],False
+disarray,[],False
+disaster,"[('katasztrófa', 2)]",True
+disasterous,[],False
+disastrous,[],False
+disastrously,[],False
+disavow,[],False
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],False
+disbeliever,[],False
+disclaim,[],False
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,[],False
+discompose,[],False
+disconcert,[],False
+disconcerted,[],False
+disconcerting,[],False
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,[],False
+discontented,[],False
+discontentedly,[],False
+discontinued,[],False
+discontinuity,[],False
+discontinuous,[],False
+discord,[],False
+discordance,[],False
+discordant,[],False
+discountenance,[],False
+discourage,[],False
+discouragement,[],False
+discouraging,[],False
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,"[('diszkreditáld', 1)]",True
+discrepant,[],False
+discriminate,[],False
+discrimination,[],False
+discriminatory,[],False
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,[],True
+disgraced,[],False
+disgraceful,"[('gyalázatos', 1)]",True
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,[],True
+disgusted,[],False
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,"[('undorító', 2), ('érvényességét', 1), ('érvényességét _ undorító', 1), ('visszatetszôbb', 1)]",True
+disgustingly,[],False
+dishearten,[],False
+disheartening,[],False
+dishearteningly,[],False
+dishonest,[],False
+dishonestly,[],False
+dishonesty,[],False
+dishonor,[],False
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,[],False
+disliked,[],False
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,[],False
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],False
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,[],False
+disoobedient,[],False
+disorder,[],False
+disordered,[],False
+disorderly,[],False
+disorganized,[],False
+disorient,[],False
+disoriented,[],False
+disown,[],False
+disparage,[],False
+disparaging,[],False
+disparagingly,[],False
+dispensable,[],False
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],True
+displaced,"[('kitelepítettek', 1)]",True
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,[],False
+disproportionate,[],False
+disprove,[],False
+disputable,[],True
+dispute,"[('vitassak', 1), ('vitában', 1)]",True
+disputed,"[('vitatta', 1), ('vitattad', 1), ('vitatott', 1)]",True
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,[],False
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,[],False
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,[],False
+disrespectfully,[],False
+disrespectfulness,[],False
+disrespecting,[],False
+disrupt,[],True
+disruption,[],False
+disruptive,"[('disruptive', 1)]",True
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,[],False
+dissatisfactory,[],False
+dissatisfied,[],False
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,[],False
+dissembler,[],False
+dissension,[],False
+dissent,[],False
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,[],False
+dissidents,[],False
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,[],False
+dissonance,[],False
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,[],True
+distorted,"[('eltorzult', 1)]",True
+distortion,[],False
+distorts,[],False
+distract,"[('figyelmet', 1), ('viheti _ figyelmet', 1), ('viheti', 1), ('elvonatkoztatni', 1)]",True
+distracting,[],False
+distraction,"[('tényező', 1)]",True
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,[],True
+distrustful,[],False
+distrusting,[],False
+disturb,[],False
+disturbance,[],False
+disturbed,[],False
+disturbing,[],False
+disturbingly,[],False
+disunity,[],False
+disvalue,[],False
+divergent,[],False
+divisive,"[('észosztó', 1)]",True
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,[],False
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,[],False
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,[],True
+doomed,"[('ítélt', 1)]",True
+doomsday,[],False
+dope,[],False
+doubt,"[('kizáró', 1), ('meggyőződében', 1), ('kétséget kizáró meggyőződében', 1), ('kétséget', 1), ('kétségbe', 1)]",True
+doubtful,[],False
+doubtfully,[],False
+doubts,"[('kétli', 1), ('kétségek', 1), ('kétségeink', 1)]",True
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],False
+downfall,[],False
+downfallen,[],False
+downgrade,[],False
+downhearted,[],False
+downheartedly,[],False
+downhill,[],False
+downside,[],False
+downsides,[],False
+downturn,[],False
+downturns,[],False
+drab,[],False
+draconian,[],False
+draconic,[],False
+drag,"[('hurcibálnak', 1), ('vonogass', 1), ('húzhatnám', 1)]",True
+dragged,[],False
+dragging,[],False
+dragoon,[],False
+drags,[],False
+drain,[],False
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,[],False
+drastically,[],False
+drawback,[],False
+drawbacks,[],False
+dread,[],False
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,[],False
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,[],False
+dropouts,[],False
+drought,[],False
+drowning,[],False
+drunk,[],False
+drunkard,[],False
+drunken,[],False
+dubious,[],False
+dubiously,[],False
+dubitable,[],False
+dud,[],True
+dull,[],False
+dullard,[],False
+dumb,[],False
+dumbfound,[],False
+dump,"[('dumpot', 1)]",True
+dumped,[],False
+dumping,"[('emaildömping', 1)]",True
+dumps,[],False
+dunce,[],False
+dungeon,[],False
+dungeons,[],False
+dupe,[],False
+dust,"[('porrá', 1), ('porból', 1)]",True
+dusty,[],False
+dwindling,[],False
+dying,[],True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,[],False
+emaciated,[],False
+emasculate,[],False
+embarrass,[],True
+embarrassing,"[('kínos', 1)]",True
+embarrassingly,[],False
+embarrassment,"[('törekszem', 1), ('zavart _ törekszem', 1), ('zavart', 1)]",True
+embattled,[],False
+embroil,[],True
+embroiled,"[('keveredik', 1)]",True
+embroilment,[],False
+emergency,[],False
+emphatic,[],False
+emphatically,[],False
+emptiness,[],False
+encroach,[],False
+encroachment,[],False
+endanger,[],False
+enemies,"[('ellensége', 1)]",True
+enemy,"[('ellenség', 2)]",True
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,[],False
+enrage,[],True
+enraged,"[('dühített', 1)]",True
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,"[('elokosodásától', 1), ('járványszerű', 1), ('járványszerű elokosodásától', 1), ('járvány', 1)]",True
+equivocal,[],False
+erase,"[('kiradírozhatnám', 1)]",True
+erode,[],False
+erodes,[],False
+erosion,[],False
+err,[],True
+errant,[],False
+erratic,"[('törölgetős', 1)]",True
+erratically,[],False
+erroneous,"[('alapuló', 1)]",True
+erroneously,[],False
+error,"[('hiba', 7), ('hibát', 3), ('hibajelzést', 1), ('hibájába', 1)]",True
+errors,"[('hibák', 4), ('hiba', 2), ('hibát', 1), ('sávhibák', 1), ('hibákról', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,[],False
+evasion,[],False
+evasive,[],False
+evil,"[('gonosz', 3), ('rossz', 1)]",True
+evildoer,[],False
+evils,[],False
+eviscerate,[],False
+exacerbate,[],True
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,"[('túloztam', 1)]",True
+exaggeration,"[('túlzás', 2), ('túlzás _ kicsit', 1), ('kicsit', 1), ('elvárnunk', 1), ('túlzás _ elvárnunk', 1)]",True
+exasperate,[],False
+exasperated,[],False
+exasperating,[],False
+exasperatingly,[],False
+exasperation,[],False
+excessive,[],False
+excessively,[],False
+exclusion,"[('összefoglaló', 1)]",True
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('mentség', 1), ('bocs', 1), ('bocsánat', 1)]",True
+excuses,[],False
+execrate,[],False
+exhaust,[],True
+exhausted,"[('kimerül', 1)]",True
+exhaustion,[],False
+exhausts,[],False
+exhorbitant,[],False
+exhort,[],False
+exile,[],False
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,[],True
+expensive,"[('drága', 2), ('költségesebb', 1)]",True
+expire,"[('használom', 1), ('használom _ lejáratására', 1), ('lejáratására', 1), ('lejár', 1)]",True
+expired,"[('lejárt', 1)]",True
+explode,[],False
+exploit,[],False
+exploitation,[],False
+explosive,[],False
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,"[('irtani', 1)]",True
+extermination,[],False
+extinguish,[],False
+extort,[],False
+extortion,[],False
+extraneous,[],False
+extravagance,[],False
+extravagant,[],False
+extravagantly,[],False
+extremism,[],False
+extremist,[],False
+extremists,[],False
+eyesore,[],False
+f**k,[],False
+fabricate,[],True
+fabrication,[],False
+facetious,[],False
+facetiously,[],False
+fail,"[('sikerül', 1)]",True
+failed,"[('sikerült', 2), ('elmulasztottam', 1)]",True
+failing,"[('hiányában', 1)]",True
+fails,"[('bukik', 1), ('van', 1)]",True
+failure,"[('eredménytelenségről', 1)]",True
+failures,[],False
+faint,"[('halvány', 2)]",True
+fainthearted,[],False
+faithless,[],False
+fake,"[('hamis', 1), ('kamu', 1), ('hamisítvány', 1), ('fals', 1)]",True
+fall,"[('tartoznak', 1), ('ősszel', 1), ('őszre', 1), ('hulljon', 1), ('belekerülhet', 1)]",True
+fallacies,[],False
+fallacious,[],False
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,[],False
+fallen,"[('leesett', 1)]",True
+falling,"[('potyog', 1), ('szétesik', 1)]",True
+fallout,[],False
+falls,"[('esik', 1), ('nem', 1), ('nem alszik', 1), ('alszik', 1)]",True
+false,"[('hamis', 1), ('álszakáll', 1)]",True
+falsehood,[],False
+falsely,[],False
+falsify,[],False
+falter,[],False
+faltered,[],False
+famine,[],False
+famished,[],False
+fanatic,[],False
+fanatical,[],False
+fanatically,[],False
+fanaticism,[],False
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,[],False
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,[],False
+fascist,"[('antifasiszta', 1), ('fasisztának', 1), ('fasisztaszerű', 1)]",True
+fastidious,[],False
+fastidiously,[],False
+fastuous,[],False
+fat,"[('kövérfarkú', 1), ('fett', 1)]",True
+fat-cat,[],False
+fat-cats,[],False
+fatal,[],True
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,[],False
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('képzavar', 1)]",True
+faults,[],True
+faulty,"[('hibás', 3), ('hibásnak', 1), ('meghibásodott', 1)]",True
+fawningly,[],False
+faze,[],False
+fear,"[('tartanunk', 1), ('félelmem', 1)]",True
+fearful,[],False
+fearfully,[],False
+fears,"[('félelmeimmel', 1)]",True
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,"[('lett', 1)]",True
+felon,[],False
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,[],False
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],False
+fibber,[],False
+fickle,[],False
+fiction,[],True
+fictional,"[('kitalált', 1)]",True
+fictitious,"[('fiktív', 1)]",True
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,[],False
+figurehead,[],False
+filth,[],False
+filthy,[],False
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,"[('ököl', 1)]",True
+flabbergast,[],False
+flabbergasted,[],False
+flagging,"[('jelölsz', 1)]",True
+flagrant,[],False
+flagrantly,[],False
+flair,[],False
+flairs,[],False
+flak,[],False
+flake,[],False
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],False
+flaw,"[('hibát', 2)]",True
+flawed,"[('hibás', 1)]",True
+flaws,"[('hibákat', 1), ('hibái', 1), ('hibák', 1)]",True
+flee,[],True
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],False
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],False
+fool,"[('bolond', 1), ('hülyéskedjünk', 1)]",True
+fooled,[],False
+foolhardy,[],False
+foolish,[],True
+foolishly,[],False
+foolishness,[],False
+forbid,[],True
+forbidden,"[('tilos', 4), ('megtiltotta', 1)]",True
+forbidding,[],False
+forceful,[],False
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,[],False
+forgetful,[],False
+forgetfully,[],False
+forgetfulness,[],False
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,[],False
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,"[('hüvelyfenéktörés', 2), ('állapotban', 1), ('hüvelyfenéktörés _ állapotban', 1)]",True
+fragile,[],False
+fragmented,[],False
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,[],False
+fraudulent,[],False
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],False
+freaking,[],False
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,[],False
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,[],False
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,"[('súrlódásból', 1)]",True
+frictions,"[('súrlódások', 1)]",True
+fried,[],False
+friggin,[],False
+frigging,[],False
+fright,[],False
+frighten,[],False
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,[],False
+frown,[],False
+froze,"[('fagytak', 1)]",True
+frozen,[],False
+fruitless,[],False
+fruitlessly,[],False
+frustrate,[],False
+frustrated,[],False
+frustrates,[],False
+frustrating,"[('frusztráló', 1)]",True
+frustratingly,[],False
+frustration,"[('megvaditottés', 1)]",True
+frustrations,[],False
+fuck,"[('faszság', 1), ('faszi', 1)]",True
+fucking,[],False
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],False
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,"[('lenne', 1), ('viccesen', 1)]",True
+furious,[],False
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,[],False
+fussy,[],False
+fustigate,[],False
+fusty,[],False
+futile,[],False
+futilely,[],False
+futility,[],False
+fuzzy,"[('elfuserált', 1)]",True
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,[],False
+gape,[],False
+garbage,"[('szemetes', 1)]",True
+garish,[],False
+gasp,[],True
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,"[('népirtással', 1)]",True
+get-rich,[],False
+ghastly,[],False
+ghetto,"[('gettó', 1)]",True
+ghosting,[],False
+gibber,[],False
+gibberish,[],False
+gibe,[],False
+giddy,[],False
+gimmick,[],False
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,[],False
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,[],False
+glitches,[],False
+gloatingly,[],False
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],False
+gnawing,[],False
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],False
+goofy,[],False
+goon,[],False
+gossip,"[('dankasirályos', 1)]",True
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],True
+grating,[],True
+gravely,[],False
+greasy,"[('kene', 1)]",True
+greed,[],True
+greedy,[],False
+grief,[],False
+grievance,[],False
+grievances,[],False
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],False
+grimace,[],False
+grind,"[('keresem', 1)]",True
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],False
+gross,[],False
+grossly,[],False
+grotesque,[],False
+grouch,[],False
+grouchy,[],False
+groundless,[],False
+grouse,[],False
+growl,"[('morgok', 1)]",True
+grudge,[],False
+grudges,[],False
+grudging,[],False
+grudgingly,[],False
+gruesome,[],False
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,[],False
+guile,[],False
+guilt,[],False
+guiltily,[],False
+guilty,[],False
+gullible,[],False
+gutless,[],False
+gutter,[],False
+hack,[],False
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],False
+halfheartedly,[],False
+hallucinate,[],False
+hallucination,[],False
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,"[('veled', 1), ('akasztod', 1)]",True
+hangs,[],False
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,"[('zaklatni', 1)]",True
+harassed,[],False
+harasses,[],False
+harassment,[],False
+harboring,[],False
+harbors,[],False
+hard,"[('nehéz', 10), ('nehezen', 2), ('szívósan', 1), ('nehezemre', 1), ('jól', 1)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,[],False
+hardened,[],False
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,"[('hehezetet', 1)]",True
+hardships,[],False
+harm,"[('ártanak', 1)]",True
+harmed,[],False
+harmful,[],False
+harms,[],False
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,[],False
+harshly,[],False
+hasseling,[],False
+hassle,[],False
+hassled,[],False
+hassles,[],False
+haste,[],False
+hastily,[],False
+hasty,"[('elhamarkodott', 2)]",True
+hate,[],True
+hated,[],False
+hateful,[],False
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,"[('gyűlöl', 1)]",True
+hating,[],False
+hatred,[],True
+haughtily,[],False
+haughty,[],False
+haunt,[],False
+haunting,[],False
+havoc,[],False
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,"[('fejtágítást', 1)]",True
+headaches,[],False
+heartbreaker,[],False
+heartbreaking,[],False
+heartbreakingly,[],False
+heartless,[],False
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],True
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],False
+hedonistic,[],False
+heedless,[],False
+hefty,[],False
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,[],False
+hell,"[('fenének', 1)]",True
+hell-bent,[],False
+hellion,[],False
+hells,[],False
+helpless,[],False
+helplessly,[],False
+helplessness,[],False
+heresy,[],False
+heretic,[],False
+heretical,[],False
+hesitant,"[('szívű', 1)]",True
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,[],True
+hindrance,[],False
+hiss,"[('kezdesz', 1), ('kezdesz _ hisztizni', 1), ('hisztizni', 1)]",True
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,[],False
+hobble,[],False
+hogs,[],False
+hollow,[],False
+hoodium,[],False
+hoodwink,[],False
+hooligan,[],False
+hopeless,[],True
+hopelessly,"[('reménytelenebbül', 1)]",True
+hopelessness,[],False
+horde,[],False
+horrendous,[],False
+horrendously,[],False
+horrible,"[('borzalmas', 1)]",True
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],False
+hostile,"[('ellenséges', 1)]",True
+hostilities,[],False
+hostility,"[('ellenesség', 1)]",True
+hotbeds,[],False
+hothead,[],False
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,[],False
+humiliating,"[('hasznos _ lealázó', 1), ('hasznos', 1), ('lealázó', 1)]",True
+humiliation,[],False
+humming,"[('hümmögéssel', 1)]",True
+hung,[],True
+hurt,"[('árt', 2), ('bántottam', 1), ('bántásból', 1), ('rosszat', 1), ('bántottad', 1)]",True
+hurted,[],False
+hurtful,"[('bántó', 1)]",True
+hurting,[],False
+hurts,"[('sért', 1)]",True
+hustler,[],False
+hype,[],False
+hypocricy,[],False
+hypocrisy,[],False
+hypocrite,[],False
+hypocrites,[],False
+hypocritical,"[('álságos', 1)]",True
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],False
+hysterical,[],False
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,[],True
+idiotic,[],False
+idiotically,[],False
+idiots,"[('idiótáknak', 1)]",True
+idle,[],False
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,"[('tudatlanság', 1)]",True
+ignorant,"[('tudatlan', 1)]",True
+ignore,"[('ignoráljalak', 1), ('szeretnék', 1), ('szeretnék _ mellőzzem', 1), ('mellőzzem', 1)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('jogsértő', 1), ('jogellenes', 1), ('illegális', 1)]",True
+illegally,[],False
+illegitimate,[],False
+illicit,[],False
+illiterate,[],False
+illness,[],False
+illogic,[],True
+illogical,[],True
+illogically,[],False
+illusion,[],False
+illusions,[],False
+illusory,[],False
+imaginary,[],False
+imbalance,[],False
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,[],False
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,"[('rossz', 1), ('erkölcstelen _ rossz', 1), ('erkölcstelen', 1)]",True
+immorality,[],False
+immorally,[],False
+immovable,[],False
+impair,[],True
+impaired,[],False
+impasse,[],False
+impatience,[],False
+impatient,[],False
+impatiently,[],False
+impeach,[],False
+impedance,[],False
+impede,[],False
+impediment,[],False
+impending,[],False
+impenitent,[],False
+imperfect,[],False
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,[],False
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,[],False
+impertinent,[],False
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,[],False
+implausibly,[],False
+implicate,[],False
+implication,[],False
+implode,[],False
+impolite,[],False
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,[],True
+imposers,[],False
+imposing,[],False
+imposition,[],False
+impossible,"[('lehet', 2), ('lehetetlenné', 2), ('tudjam', 1), ('lehetetlen', 1)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],False
+impoverished,[],False
+impractical,[],False
+imprecate,[],False
+imprecise,[],False
+imprecisely,[],False
+imprecision,[],False
+imprison,[],False
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,[],False
+improperly,[],False
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,[],False
+impudent,[],False
+impudently,[],False
+impugn,[],True
+impulsive,[],False
+impulsively,[],False
+impunity,"[('büntetlenül', 1)]",True
+impure,[],False
+impurity,[],False
+inability,"[('képtelenség', 1)]",True
+inaccuracies,[],False
+inaccuracy,[],False
+inaccurate,"[('pontatlan', 2), ('pontatlannak', 1), ('pontatlanabb', 1), ('rosszabb', 1), ('pontatlanabb _ rosszabb', 1)]",True
+inaccurately,[],False
+inaction,[],False
+inactive,"[('aktív', 1)]",True
+inadequacy,[],False
+inadequate,[],False
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('megfelelőek', 1)]",True
+inappropriately,[],False
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,[],False
+inaudible,[],False
+incapable,[],False
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,[],False
+incessantly,[],False
+incite,[],False
+incitement,[],False
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,[],False
+incoherent,[],False
+incoherently,[],False
+incommensurate,[],False
+incomparable,"[('szégyenemben', 1), ('mérhetőt', 1), ('szégyenemben _ mérhetőt', 1)]",True
+incomparably,[],False
+incompatability,[],False
+incompatibility,[],False
+incompatible,"[('nem', 1)]",True
+incompetence,[],False
+incompetent,"[('képtelen', 1), ('nem értők', 1), ('nem', 1), ('értők', 1)]",True
+incompetently,[],False
+incomplete,"[('hiányos', 4), ('hiányosak', 1), ('világos', 1)]",True
+incompliant,[],False
+incomprehensible,"[('érthetetlen', 5), ('érthetetlenül', 2), ('nem', 1), ('érthetőek', 1), ('nem érthetőek', 1)]",True
+incomprehension,[],False
+inconceivable,"[('elképzelhetetlen', 2)]",True
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,[],False
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,[],False
+inconsistency,[],False
+inconsistent,[],False
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,"[('kellemetlenséget', 1), ('zavarásért _ kérdésem', 1), ('zavarásért', 1), ('kérdésem', 1)]",True
+inconveniently,[],False
+incorrect,"[('hibás', 5), ('inkorrekt', 2), ('hibásnak', 1), ('helytelen', 1)]",True
+incorrectly,"[('hibásan', 4), ('rosszul', 1), ('tévesen beírt', 1), ('tévesen', 1), ('beírt', 1)]",True
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,[],False
+indecent,"[('illetlenség', 1)]",True
+indecently,[],False
+indecision,[],False
+indecisive,[],False
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,[],False
+indifferent,[],False
+indigent,[],False
+indignant,[],False
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,[],False
+indiscreetly,[],False
+indiscretion,[],False
+indiscriminate,[],False
+indiscriminately,[],False
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,[],False
+ineffective,[],False
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,[],False
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,"[('ineligible', 1)]",True
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,[],False
+inequality,[],False
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,[],False
+inevitably,"[('felmerül', 1), ('óhatatlanul felmerül', 1), ('óhatatlanul', 1)]",True
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,[],True
+inexperienced,"[('gyakorlatlan', 1), ('tapasztalatlan', 1)]",True
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,[],False
+inextricably,[],False
+infamous,"[('hírhedt', 1)]",True
+infamously,[],False
+infamy,[],False
+infected,[],False
+infection,[],True
+infections,[],False
+inferior,[],True
+inferiority,[],False
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],False
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,[],False
+infraction,[],False
+infringe,[],True
+infringement,"[('jogsértést', 1), ('megsértéséhez', 1), ('jogsértés', 1), ('jogsértésnek', 1), ('megsértése', 1)]",True
+infringements,[],False
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],False
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],False
+injurious,[],False
+injury,[],False
+injustice,[],True
+injustices,"[('igazságtalanságokhoz', 1)]",True
+innuendo,"[('innuendóval', 1)]",True
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,[],False
+insanely,[],False
+insanity,[],False
+insatiable,"[('telhetetlennek', 1)]",True
+insecure,"[('bizonytalan', 2)]",True
+insecurity,[],False
+insensible,[],False
+insensitive,[],False
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,[],False
+insignificant,"[('jelentéktelen', 1)]",True
+insignificantly,[],False
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],False
+insinuating,[],False
+insinuation,[],False
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,[],False
+instable,[],False
+instigate,[],False
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,[],False
+insufficiently,[],False
+insular,[],False
+insult,"[('sértésként', 1), ('sértettségében', 1), ('sértésnek', 1), ('sértődés', 1), ('dolgot', 1)]",True
+insulted,[],False
+insulting,[],False
+insultingly,[],False
+insults,"[('kommunikációt _ sértegetéseidet', 1), ('sértegetéseidet', 1), ('kommunikációt', 1), ('sértődés', 1)]",True
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,[],False
+intefere,[],False
+inteferes,[],False
+intense,[],False
+interfere,[],False
+interference,[],False
+interferes,[],False
+intermittent,"[('szakaszos', 2)]",True
+interrupt,[],True
+interruption,[],False
+interruptions,[],False
+intimidate,[],False
+intimidating,[],False
+intimidatingly,[],False
+intimidation,"[('megfélemlítésére', 1), ('építenétek', 1), ('megfélemlítésére építenétek', 1)]",True
+intolerable,[],False
+intolerablely,[],False
+intolerance,"[('intolerancia', 1)]",True
+intoxicate,[],False
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],False
+intrusion,[],False
+intrusive,[],False
+inundate,[],False
+inundated,[],False
+invader,[],False
+invalid,[],False
+invalidate,[],False
+invalidity,[],False
+invasive,[],False
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,"[('látható', 1), ('láthatatlanul', 1)]",True
+involuntarily,[],False
+involuntary,[],False
+irascible,[],False
+irate,[],True
+irately,[],True
+ire,[],True
+irk,[],True
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,[],False
+ironical,[],False
+ironically,[],False
+ironies,[],False
+irony,[],False
+irragularity,[],False
+irrational,"[('irracionális', 1)]",True
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,"[('szabálytalanul', 1)]",True
+irregularity,[],False
+irrelevance,[],False
+irrelevant,"[('irreleváns', 3), ('irreveláns', 1)]",True
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,[],False
+irresponsibly,[],False
+irretating,[],False
+irretrievable,[],False
+irreversible,[],False
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],False
+irritated,[],False
+irritating,"[('irizgál', 1), ('föltétlenül ingerlő _ figyelmeztetnek', 1), ('figyelmeztetnek', 1), ('föltétlenül', 1), ('ingerlő', 1)]",True
+irritation,[],False
+irritations,[],False
+isolate,[],False
+isolated,[],False
+isolation,[],False
+issue,"[('kérdés', 2), ('problémával', 1), ('kérdésben', 1), ('kérdését', 1), ('kérdésről', 1)]",True
+issues,"[('kérdésben', 2), ('problémák', 1), ('gondjaid', 1), ('kérdésekkel', 1), ('felvetéseket', 1)]",True
+itch,[],True
+itching,[],True
+itchy,[],False
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,[],False
+jealously,[],False
+jealousness,[],False
+jealousy,[],False
+jeer,[],False
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,[],False
+jeopardy,[],False
+jerk,"[('bunkóságnak', 1)]",True
+jerky,"[('bunkó', 1)]",True
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,[],False
+joke,"[('vicc', 2), ('poén', 2), ('megoldás', 1), ('tréfája', 1), ('viccet', 1)]",True
+joker,[],False
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,"[('ócska', 1)]",True
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,"[('kell', 1)]",True
+killed,"[('öltek', 1), ('ölték', 1)]",True
+killer,[],False
+killing,"[('lyukmegölésre', 1)]",True
+killjoy,[],False
+kills,[],True
+knave,[],False
+knife,[],False
+knock,"[('döngölni', 1)]",True
+knotted,[],False
+kook,[],False
+kooky,[],False
+lack,"[('hiánya', 3), ('időhiányra', 1), ('hiányoznak', 1), ('forráshiány', 1), ('hiányzik', 1)]",True
+lackadaisical,[],False
+lacked,[],False
+lackey,[],False
+lackeys,[],False
+lacking,[],False
+lackluster,[],False
+lacks,"[('nélkülözi', 1)]",True
+laconic,[],False
+lag,[],True
+lagged,[],True
+lagging,[],True
+laggy,[],False
+lags,[],True
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,"[('béna', 1), ('lehet _ béna', 1), ('lehet', 1)]",True
+lame-duck,[],False
+lament,[],False
+lamentable,[],False
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],True
+lapsed,[],True
+lapses,[],False
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,[],False
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],True
+lawlessness,[],False
+layoff,[],False
+layoff-happy,[],False
+lazy,"[('lusta', 2), ('lusták', 1)]",True
+leak,[],False
+leakage,[],False
+leakages,[],False
+leaking,[],False
+leaks,[],False
+leaky,[],False
+lech,[],False
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,[],False
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,[],False
+lengthy,"[('hosszadalmas', 1)]",True
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,"[('felelősségrevonósdi', 1)]",True
+liable,[],True
+liar,[],True
+liars,[],False
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('hazudtolj meg', 1), ('meg', 1), ('hazudtolj', 1), ('hazudni', 1)]",True
+lied,"[('tévedett', 1)]",True
+lier,[],True
+lies,"[('rejlik', 1), ('hazudik _ abcsablon', 1), ('hazudik', 1), ('abcsablon', 1)]",True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('határ', 1), ('határt', 1), ('korlát', 1), ('határolás', 1), ('korlátról', 1)]",True
+limitation,"[('elévülési', 1)]",True
+limitations,[],False
+limited,"[('csak', 1), ('kapcsolható', 1), ('behatárolt', 1)]",True
+limits,"[('korlátokat', 1), ('korlátozza', 1)]",True
+limp,[],False
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,[],False
+loner,[],False
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,[],True
+longingly,[],False
+loophole,[],True
+loopholes,"[('kiskapuzasok', 1), ('kidolgozatlansagok', 1), ('kidolgozatlansagok _ kiskapuzasok', 1)]",True
+loose,[],True
+loot,[],False
+lorn,[],False
+lose,"[('veszne', 1), ('elveszíteni', 1), ('tüntetsz', 1), ('tévesztjük', 1)]",True
+loser,[],True
+losers,[],False
+loses,"[('veszti', 1)]",True
+losing,[],True
+loss,"[('elvesztéséről', 1), ('elvesztését', 1)]",True
+losses,[],False
+lost,"[('elveszett', 3), ('elvesztek', 2), ('elvesztettem', 2), ('eltűntél', 2), ('veszővel', 1)]",True
+loud,"[('hangos', 1)]",True
+louder,[],False
+lousy,[],False
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,"[('alantas', 1)]",True
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,[],False
+lunaticism,[],False
+lurch,[],False
+lure,[],True
+lurid,[],False
+lurk,[],True
+lurking,"[('állsz', 1)]",True
+lying,"[('sértegetéseidet', 1)]",True
+macabre,[],False
+mad,"[('haragudj', 12), ('meg', 1), ('haragudj meg', 1), ('haragszom', 1), ('haragszok', 1)]",True
+madden,[],False
+maddening,[],False
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,[],False
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,"[('rosszizmus', 1), ('rosszindulatra', 1), ('rosszindulatom', 1)]",True
+malicious,"[('rossz', 1), ('ártó', 1), ('rosszindulatú', 1)]",True
+maliciously,[],False
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,"[('hivatkozásmánia', 1)]",True
+maniac,[],False
+maniacal,[],False
+manic,[],True
+manipulate,[],False
+manipulation,"[('manipulasara', 1), ('manipulációt', 1)]",True
+manipulative,"[('manipulatív', 1), ('manipulaciokat', 1), ('manipulativ', 1)]",True
+manipulators,[],False
+mar,[],True
+marginal,[],False
+marginally,[],False
+martyrdom,"[('mártíromsága', 1)]",True
+martyrdom-seeking,[],False
+mashed,[],False
+massacre,[],False
+massacres,[],False
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,[],False
+meaningless,"[('értelmetlen', 3), ('nélkülinek', 1), ('jelentés', 1), ('jelentés nélkülinek', 1)]",True
+meanness,"[('aljasságból', 1)]",True
+measly,[],False
+meddle,[],False
+meddlesome,[],False
+mediocre,[],False
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,[],False
+mercilessly,[],False
+mess,"[('összevisszaság', 1), ('rontottam', 1)]",True
+messed,"[('keveredtem', 1), ('elrontottál', 1), ('elrontottad', 1)]",True
+messes,[],False
+messing,"[('kavar', 1), ('öszekeversz', 1)]",True
+messy,"[('zagyva', 1)]",True
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],True
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,[],False
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,"[('elgondolás', 1)]",True
+misconceptions,[],False
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],False
+miserable,[],False
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,[],False
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],False
+misinform,[],False
+misinformed,[],False
+misinterpret,[],True
+misjudge,[],False
+misjudgment,[],False
+mislead,"[('félreviszi', 1)]",True
+misleading,"[('félrevezető', 4), ('megtévesztő', 1)]",True
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],False
+mispronounced,[],False
+mispronounces,[],False
+misread,"[('rosszul', 2), ('rosszul olvasta', 1), ('olvasta', 1), ('olvastam', 1), ('rosszul olvastam', 1)]",True
+misreading,[],False
+misrepresent,[],False
+misrepresentation,[],False
+miss,"[('megtennéd', 1), ('van', 1), ('lemaradtam', 1), ('lemaradt', 1), ('kihagytam', 1)]",True
+missed,"[('lemaradtam', 4), ('kimaradt', 2), ('hiányolta', 1)]",True
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('hiba', 10), ('hibát', 3), ('hibázhat', 1), ('hibám', 1), ('igen', 1)]",True
+mistaken,"[('tévedek', 2), ('tévedek _ rendben', 1), ('rendben', 1), ('tévedtem', 1)]",True
+mistakenly,[],True
+mistakes,"[('tévedésed', 1), ('hibákra', 1), ('hibákat', 1), ('hiba', 1), ('hibázik', 1)]",True
+mistified,[],False
+mistress,[],False
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],False
+misunderstand,"[('értelmezem', 1), ('értelmezem rosszul', 1), ('rosszul', 1), ('beszélek', 1), ('félreértettem', 1)]",True
+misunderstanding,"[('félreértés', 2), ('félreértésnek', 1)]",True
+misunderstandings,"[('félreértés', 1)]",True
+misunderstood,"[('félreértetted', 1), ('félre', 1), ('értettem félre', 1), ('értettem', 1), ('félreértett', 1)]",True
+misuse,[],True
+moan,[],True
+mobster,[],False
+mock,[],True
+mocked,[],False
+mockeries,[],False
+mockery,"[('gúnyolódást', 1)]",True
+mocking,"[('kioktató', 1)]",True
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,[],False
+monotony,[],False
+monster,[],False
+monstrosities,[],False
+monstrosity,[],False
+monstrous,[],False
+monstrously,[],False
+moody,[],False
+moot,[],True
+mope,[],False
+morbid,[],False
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,[],False
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,"[('gyilkosság', 1)]",True
+murderer,[],True
+murderous,[],False
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,"[('rejtélyes', 1)]",True
+mysteriously,[],False
+mystery,[],False
+mystify,[],False
+myth,"[('mitosz', 1)]",True
+nag,[],True
+nagging,[],False
+naive,[],False
+naively,[],False
+narrower,"[('szorosabb', 1), ('szűkebb', 1)]",True
+nastily,[],False
+nastiness,[],False
+nasty,[],True
+naughty,"[('szemtelen', 2), ('kedves', 1), ('folyamatos', 1), ('folyamatos _ kedves', 1)]",True
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,[],False
+needlessly,[],False
+needy,[],False
+nefarious,[],False
+nefariously,[],False
+negate,[],False
+negation,[],False
+negative,"[('negatív', 6), ('nemnegatív', 1)]",True
+negatives,[],False
+negativity,[],False
+neglect,"[('negligálnád', 1), ('mellőzöttség', 1)]",True
+neglected,"[('hanyagolnátok', 1), ('elhanyagolt', 1)]",True
+negligence,[],False
+negligent,[],False
+nemesis,[],False
+nepotism,[],False
+nervous,"[('idegesebbek', 1), ('érzékenyebbek _ idegesebbek', 1), ('érzékenyebbek', 1)]",True
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,[],False
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,"[('zajt', 1)]",True
+noises,[],False
+noisier,[],False
+noisy,[],False
+non-confidence,[],False
+nonexistent,[],False
+nonresponsive,[],False
+nonsense,"[('beszélek', 2), ('hülyeséget', 2), ('nonszensz', 2), ('hulyeseget', 1), ('értelmetlent', 1)]",True
+nosey,[],False
+notoriety,"[('ismertségre', 1)]",True
+notorious,[],False
+notoriously,[],False
+noxious,[],False
+nuisance,[],True
+numb,"[('lezsibbadt', 1)]",True
+obese,[],False
+object,"[('ellenzi', 1), ('indokolt', 1)]",True
+objection,"[('kifogás', 2), ('kifogásod', 1), ('kifogásuk', 1), ('ellenvetés', 1), ('kifogásom', 1)]",True
+objectionable,"[('találtál', 1), ('kivetnivalót találtál', 1), ('kivetnivalót', 1), ('kifogásolt', 1), ('kifogásolható', 1)]",True
+objections,"[('kifogásai', 1), ('ellenvetésem', 1)]",True
+oblique,[],False
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,[],False
+obnoxiously,[],False
+obscene,"[('szalonképtelen', 1), ('trágár', 1), ('trágár _ szalonképtelen', 1)]",True
+obscenely,[],False
+obscenity,[],False
+obscure,"[('homályos', 1), ('hivatkozni', 1), ('fedi _ hivatkozni', 1), ('fedi', 1), ('homályosítani', 1)]",True
+obscured,[],False
+obscures,[],False
+obscurity,[],False
+obsess,[],True
+obsessive,[],False
+obsessively,[],False
+obsessiveness,[],False
+obsolete,"[('elavulhattak', 1), ('elavultak', 1), ('elavult', 1)]",True
+obstacle,"[('akadálya', 3)]",True
+obstinate,[],False
+obstinately,[],False
+obstruct,[],True
+obstructed,[],False
+obstructing,"[('akadályoznak', 1)]",True
+obstruction,[],False
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,[],True
+odder,[],False
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,[],False
+odor,[],False
+offence,[],False
+offend,[],True
+offender,[],True
+offending,"[('jogsértő', 1)]",True
+offenses,[],False
+offensive,"[('sértő', 3), ('offenzíva', 1), ('számára', 1), ('számára sértő', 1)]",True
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,"[('ominózus', 4), ('szalonképesen _ jelentésűek', 1), ('szalonképesen', 1), ('jelentésűek', 1)]",True
+ominously,[],False
+omission,"[('mulasztásomra', 1), ('kihagyás', 1), ('kihagyása _ indulatos', 1), ('indulatos', 1), ('kihagyása', 1)]",True
+omit,"[('kiírva', 1), ('hagyjuk _ kiírva', 1), ('hagyjuk', 1), ('hagynám', 1), ('hagytad', 1)]",True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,[],False
+opponent,"[('ellenfél', 1)]",True
+opportunistic,[],False
+oppose,[],True
+opposition,[],True
+oppositions,[],False
+oppress,[],True
+oppression,[],False
+oppressive,[],False
+oppressively,[],False
+oppressiveness,[],False
+oppressors,"[('kilépőkkel _ elnyomó személyekkel', 1), ('személyekkel', 1), ('elnyomó', 1), ('kilépőkkel', 1)]",True
+ordeal,[],False
+orphan,[],False
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,"[('kirepesztő', 1)]",True
+outcry,[],False
+outlaw,"[('betyár', 1)]",True
+outmoded,[],False
+outrage,"[('felháborodásodat', 1)]",True
+outraged,"[('felháborodhatnál', 1)]",True
+outrageous,[],False
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,[],True
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,"[('túlozzunk', 1)]",True
+overdone,[],False
+overdue,[],False
+overemphasize,[],False
+overheat,[],False
+overkill,[],False
+overloaded,[],False
+overlook,[],True
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],False
+oversight,[],False
+oversights,[],False
+oversimplification,[],False
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],False
+overstate,[],False
+overstated,[],False
+overstatement,[],False
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,"[('megdönteni', 1)]",True
+overthrows,[],False
+overturn,[],False
+overweight,[],False
+overwhelm,[],True
+overwhelmed,"[('agyam', 1), ('elborul', 1), ('elborul _ agyam', 1), ('lepjen', 1)]",True
+overwhelming,"[('túlterhelné', 1)]",True
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,"[('túlbuzgó', 1)]",True
+overzealously,[],False
+overzelous,[],False
+pain,[],True
+painful,"[('fájdalmas', 1)]",True
+painfull,[],False
+painfully,[],False
+pains,[],False
+pale,[],True
+pales,[],False
+paltry,[],False
+pan,[],True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,[],False
+panick,[],False
+panicked,[],False
+panicking,[],False
+panicky,[],False
+paradoxical,[],False
+paradoxically,[],False
+paralize,[],False
+paralyzed,[],False
+paranoia,[],False
+paranoid,[],False
+parasite,[],False
+pariah,[],False
+parody,[],False
+partiality,[],False
+partisan,"[('pártos', 1), ('pártus', 1)]",True
+partisans,"[('pártonkívüliek', 1)]",True
+passe,[],True
+passive,"[('passzív', 1)]",True
+passiveness,[],False
+pathetic,[],True
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,[],False
+peculiarly,[],False
+pedantic,[],False
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],False
+penalty,"[('halálbüntetést', 1), ('melegházasságot', 1), ('halálbüntetést _ melegházasságot', 1)]",True
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],False
+pernicious,[],False
+perplex,[],False
+perplexed,[],False
+perplexing,[],False
+perplexity,[],False
+persecute,[],True
+persecution,[],False
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,"[('pesten', 3), ('pest', 1)]",True
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,"[('redundáns', 1), ('redundáns _ kicsinyes', 1), ('kicsinyes', 1), ('kicsinyesnek', 1), ('tartasz', 1)]",True
+phobia,[],False
+phobic,[],True
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,"[('pikírt', 1)]",True
+pig,"[('disznó', 1), ('bocs _ disznó', 1), ('bocs', 1), ('pig', 1)]",True
+pigs,[],False
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,"[('megcsípni', 1)]",True
+pique,[],False
+pitiable,[],False
+pitiful,"[('piti', 1)]",True
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,"[('kár', 1), ('sületlenséget', 1), ('persze', 1)]",True
+plagiarize,[],False
+plague,"[('plague', 1)]",True
+plasticky,[],False
+plaything,[],False
+plea,[],True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,"[('cselekményét', 1), ('cselekmény', 1)]",True
+plotters,[],False
+ploy,[],True
+plunder,[],False
+plunderer,[],False
+pointless,"[('értelmetlen', 3)]",True
+pointlessly,[],False
+poison,[],False
+poisonous,[],False
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,[],False
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('szegény', 3), ('rossz', 2), ('gyenge', 2), ('gyatra', 1), ('szegények', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,"[('rosszul', 3)]",True
+posturing,[],False
+pout,[],False
+poverty,[],False
+powerless,[],False
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,"[('balítélet', 1)]",True
+prejudices,[],False
+prejudicial,[],False
+premeditated,[],False
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,[],False
+presumptuously,[],False
+pretence,[],False
+pretend,"[('teszel', 1), ('tégy', 1)]",True
+pretense,[],False
+pretentious,[],True
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],False
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,[],False
+prison,"[('börtöncellában', 1)]",True
+prisoner,[],False
+problem,"[('probléma', 21), ('gond', 19), ('problémát', 12), ('gondom', 4), ('baj', 4)]",True
+problematic,"[('problémás', 4), ('problémásnak', 2)]",True
+problems,"[('problémák', 2), ('gondjaim', 1), ('problémán', 1), ('problémája', 1), ('feladatokat', 1)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,[],False
+prohibit,[],True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,"[('propagandában', 1), ('propaganda', 1), ('propagandaszöveggel', 1), ('propagandaoldal', 1)]",True
+propagandize,[],False
+proprietary,[],False
+prosecute,[],False
+protest,"[('tiltakozott', 1), ('tiltakozásomról', 1), ('tiltakozom', 1)]",True
+protested,"[('tiltakozik', 1)]",True
+protesting,[],False
+protests,[],False
+protracted,[],False
+provocation,"[('provokáció', 1)]",True
+provocative,"[('provokatív', 2)]",True
+provoke,"[('provokálnom', 1)]",True
+pry,[],False
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,[],False
+punish,"[('büntethetnek', 1)]",True
+punishable,[],False
+punitive,[],False
+punk,[],False
+puny,[],False
+puppet,"[('báb', 1)]",True
+puppets,"[('zoknibábjaiként', 1)]",True
+puzzled,"[('értetlenkedek', 1)]",True
+puzzlement,[],False
+puzzling,[],False
+quack,[],False
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,"[('tegeződés', 1), ('veszekedni', 1)]",True
+quarrellous,[],False
+quarrellously,[],False
+quarrels,[],False
+quarrelsome,[],False
+quash,[],False
+queer,[],False
+questionable,"[('kérdéses', 1), ('kérdőjeles', 1)]",True
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,[],False
+racism,"[('fajgyűlölet', 1), ('rasszizmus', 1)]",True
+racist,"[('rasszistoid', 1), ('rasszistabanda', 1)]",True
+racists,[],False
+racy,[],True
+radical,"[('radikális', 1)]",True
+radicalization,[],False
+radically,[],False
+radicals,[],False
+rage,[],True
+ragged,[],False
+raging,[],False
+rail,"[('sínre', 1)]",True
+raked,[],False
+rampage,[],False
+rampant,[],False
+ramshackle,[],False
+rancor,[],False
+randomly,[],False
+rankle,[],False
+rant,[],True
+ranted,[],False
+ranting,[],False
+rantingly,[],False
+rants,[],True
+rape,[],True
+raped,[],False
+raping,[],True
+rascal,[],False
+rascals,[],False
+rash,[],True
+rattle,"[('garázdálkodik', 1)]",True
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],True
+reactionary,[],False
+rebellious,[],False
+rebuff,[],False
+rebuke,"[('szemrehányásként', 1)]",True
+recalcitrant,[],False
+recant,[],False
+recession,[],False
+recessionary,[],False
+reckless,[],False
+recklessly,[],False
+recklessness,[],False
+recoil,[],False
+recourses,[],False
+redundancy,[],False
+redundant,"[('redirekttel', 2), ('feleslegessé', 2), ('váró _ fölöslegessé', 1), ('fölöslegessé', 1), ('váró', 1)]",True
+refusal,[],False
+refuse,"[('nem', 2)]",True
+refused,[],False
+refuses,"[('nem', 2)]",True
+refusing,"[('hajlandó', 1)]",True
+refutation,[],False
+refute,"[('cáfoljam', 2), ('cáfolni', 1), ('cáfoló', 1)]",True
+refuted,"[('cáfolta', 1)]",True
+refutes,[],False
+refuting,[],False
+regress,[],True
+regression,"[('regresszió', 1)]",True
+regressive,[],False
+regret,"[('bánom', 1), ('követtem _ bánom', 1), ('követtem', 1), ('sajnálnám', 1)]",True
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,[],False
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,[],True
+rejected,"[('utasította', 1), ('elutasított _ álló', 1), ('elutasított', 1), ('álló', 1)]",True
+rejecting,"[('elutasitó', 1)]",True
+rejection,[],False
+rejects,[],False
+relapse,[],False
+relentless,[],True
+relentlessly,"[('kérlelhetetlenül', 1)]",True
+relentlessness,[],False
+reluctance,[],False
+reluctant,"[('kedved', 1)]",True
+reluctantly,[],False
+remorse,[],False
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,[],False
+renunciation,[],False
+repel,[],False
+repetitive,"[('ismétlődő', 2), ('ismétlődő _ bosszantó', 1), ('bosszantó', 1), ('személyeskedésről', 1), ('személyeskedés', 1)]",True
+reprehensible,[],False
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],False
+repression,[],False
+repressive,[],False
+reprimand,[],True
+reproach,[],False
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,[],False
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],True
+repulsed,"[('visszasért', 1)]",True
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,[],True
+resentful,[],False
+resentment,"[('ellenérzésedet', 1)]",True
+resignation,"[('lemondásod', 1)]",True
+resigned,"[('lemondott', 1)]",True
+resistance,[],True
+restless,[],False
+restlessness,[],False
+restrict,[],True
+restricted,[],False
+restriction,[],True
+restrictive,[],False
+resurgent,[],False
+retaliate,"[('torolni', 1)]",True
+retaliatory,[],False
+retard,[],False
+retarded,[],False
+retardedness,[],False
+retards,[],False
+reticent,"[('visszahúzódó', 1), ('természetűek', 1), ('visszahúzódó természetűek', 1)]",True
+retract,"[('visszavonogassam', 1)]",True
+retreat,"[('kivonulás', 1)]",True
+retreated,[],False
+revenge,"[('bosszúból', 1)]",True
+revengeful,[],False
+revengefully,[],False
+revert,"[('figyelni _ visszaállítáni', 1), ('figyelni', 1), ('visszaállítáni', 1)]",True
+revile,[],False
+reviled,[],False
+revoke,"[('visszavonni', 1), ('vontam', 1)]",True
+revolt,[],False
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,"[('kerekperec', 1)]",True
+rhetorical,[],False
+ricer,[],False
+ridicule,[],False
+ridicules,[],False
+ridiculous,"[('nevetséges', 4), ('nevetségessé', 1), ('tényleg röhejes', 1), ('röhejes', 1), ('tényleg', 1)]",True
+ridiculously,[],False
+rife,[],False
+rift,[],False
+rifts,[],False
+rigid,[],False
+rigidity,[],False
+rigidness,[],False
+rile,[],False
+riled,[],False
+rip,[],True
+rip-off,[],False
+ripoff,[],False
+ripped,[],False
+risk,"[('kockáztatni', 1), ('kockázata', 1)]",True
+risks,[],True
+risky,[],False
+rival,[],True
+rivalry,[],False
+roadblocks,[],False
+rocky,"[('sziklasziget', 1), ('rendelkező', 1), ('rendelkező sziklasziget', 1)]",True
+rogue,"[('szélhámosnak', 1), ('gazember', 1)]",True
+rollercoaster,[],False
+rot,"[('rohadásnak', 1)]",True
+rotten,"[('rohadjon', 1)]",True
+rough,"[('érdes', 1)]",True
+rremediable,[],False
+rubbish,"[('papiroson', 1), ('szemét', 1)]",True
+rude,"[('durva', 3), ('gyenge', 1), ('gorombaság', 1), ('torolgeted', 1), ('udvariatlanság', 1)]",True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,"[('romról', 1), ('elronthatok', 1), ('tönkre', 1), ('tönkre _ tenni', 1), ('tenni', 1)]",True
+ruined,"[('rombol', 1)]",True
+ruining,"[('elrontani', 1), ('elrontani _ romlott', 1), ('romlott', 1)]",True
+ruinous,[],False
+ruins,[],False
+rumbling,[],False
+rumor,[],False
+rumors,[],False
+rumours,[],False
+rumple,[],True
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,[],True
+rusts,[],False
+rusty,[],False
+rut,[],True
+ruthless,[],False
+ruthlessly,[],False
+ruthlessness,[],False
+ruts,[],False
+sabotage,[],False
+sack,[],False
+sacrificed,[],False
+sad,"[('szomorú', 4)]",True
+sadden,[],False
+sadly,"[('szomorúan', 1)]",True
+sadness,[],False
+sag,[],True
+sagged,[],False
+sagging,[],False
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,[],True
+sarcasm,[],False
+sarcastic,[],False
+sarcastically,[],False
+sardonic,[],False
+sardonically,[],False
+sass,[],True
+satirical,[],False
+satirize,[],False
+savage,[],False
+savaged,[],False
+savagery,[],False
+savages,[],False
+scaly,[],False
+scam,[],True
+scams,[],False
+scandal,"[('botrány', 1), ('szomány', 1)]",True
+scandalize,[],False
+scandalized,[],False
+scandalous,[],False
+scandalously,[],False
+scandals,[],False
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,[],False
+scar,[],True
+scarce,[],False
+scarcely,[],False
+scarcity,[],False
+scare,"[('gondolsz', 1), ('ijesztesz', 1), ('gondolsz _ ijesztesz', 1)]",True
+scared,"[('kicsit megrettentem', 1), ('kicsit', 1), ('megrettentem', 1), ('egyébként', 1), ('megrémíteni', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,[],False
+scars,[],False
+scary,[],False
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,"[('szidjuk', 1), ('lesamesozol', 1), ('ocsmány', 1), ('ocsmány _ lesamesozol', 1), ('szidjátok', 1)]",True
+scolded,"[('elbarmolt', 1)]",True
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],False
+scornful,[],False
+scornfully,[],False
+scoundrel,[],False
+scourge,[],False
+scowl,[],False
+scramble,[],False
+scrambled,[],False
+scrambles,[],False
+scrambling,"[('büvészkedni', 1), ('büvészkedni fogok', 1), ('fogok', 1)]",True
+scrap,[],True
+scratch,"[('kapisgálni', 1)]",True
+scratched,[],False
+scratches,"[('súrolja', 1)]",True
+scratchy,[],False
+scream,[],False
+screech,[],False
+screw-up,[],False
+screwed,"[('elbaltáztam', 1)]",True
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,[],False
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,[],True
+selfishly,[],False
+selfishness,"[('egoizmus', 1)]",True
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,[],False
+senselessly,[],False
+seriousness,[],False
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],False
+setbacks,[],False
+sever,[],True
+severe,[],True
+severity,[],False
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,[],False
+shake,"[('meginog', 1)]",True
+shaky,[],False
+shallow,[],False
+sham,[],True
+shambles,[],False
+shame,"[('kár', 2), ('másságomat', 1), ('másságomat _ szégyen', 1), ('szégyen', 1), ('szégyeljem', 1)]",True
+shameful,[],True
+shamefully,"[('szemérmesen', 1)]",True
+shamefulness,[],False
+shameless,[],False
+shamelessly,[],False
+shamelessness,[],False
+shark,"[('cápa', 1)]",True
+sharply,[],False
+shatter,"[('széttörné', 1)]",True
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,"[('hárítsam', 1)]",True
+shirker,[],False
+shit,"[('megint _ szart', 1), ('megint', 1), ('szart', 1), ('kesz', 1), ('kesz _ mindent', 1)]",True
+shiver,[],True
+shock,[],True
+shocked,[],True
+shocking,"[('megdöbbentő', 2)]",True
+shockingly,[],False
+shoddy,[],False
+short-lived,[],False
+shortage,[],False
+shortchange,[],False
+shortcoming,"[('hiányosságként', 1)]",True
+shortcomings,"[('hiányossága', 1)]",True
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,[],False
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,[],True
+shunned,[],False
+sick,"[('sugárbetegséget', 1)]",True
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],False
+sidetracked,[],False
+siege,[],True
+sillily,[],False
+silly,"[('ostoba cselekedeteket', 1), ('ostoba', 1), ('cselekedeteket', 1), ('butaság', 1)]",True
+simplistic,[],False
+simplistically,[],False
+sin,"[('bűnöm', 1), ('bűn', 1)]",True
+sinful,[],False
+sinfully,[],False
+sinister,[],False
+sinisterly,[],False
+sink,"[('süllyedni', 1)]",True
+sinking,[],False
+skeletons,[],False
+skeptic,"[('szkeptikustól', 1)]",True
+skeptical,"[('szimpatikus', 1), ('szkeptikus', 1)]",True
+skeptically,[],False
+skepticism,[],False
+sketchy,"[('vázlatos', 1)]",True
+skimpy,[],False
+skinny,"[('sovány', 1)]",True
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,[],True
+slanderer,[],False
+slanderous,[],False
+slanderously,[],False
+slanders,[],False
+slap,[],True
+slashing,[],False
+slaughter,[],False
+slaughtered,[],False
+slave,[],False
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],True
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,[],False
+sloth,[],False
+slothful,[],False
+slow,"[('lassú', 1)]",True
+slow-moving,[],False
+slowed,[],False
+slower,[],False
+slowest,[],False
+slowly,"[('lassan', 6), ('haladni', 1)]",True
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],False
+sluggish,[],False
+slump,[],False
+slumping,[],False
+slumpping,[],False
+slur,[],False
+slut,[],False
+sluts,[],False
+sly,"[('csapnivaló', 1)]",True
+smack,[],False
+smallish,[],False
+smash,[],False
+smear,[],True
+smell,"[('pillanatra', 1)]",True
+smelled,[],False
+smelling,"[('szagos', 1)]",True
+smells,"[('reklámszagú', 1)]",True
+smelly,[],False
+smelt,[],False
+smoke,"[('füst', 2)]",True
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,[],True
+smugly,[],False
+smut,[],False
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,[],False
+snarky,[],False
+snarl,[],False
+sneak,[],False
+sneakily,[],False
+sneaky,[],False
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,[],True
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,[],False
+so-cal,[],False
+soapy,[],False
+sob,[],True
+sober,"[('józan', 1)]",True
+sobering,[],False
+solemn,[],True
+solicitude,[],False
+somber,[],False
+sore,[],True
+sorely,[],False
+soreness,[],False
+sorrow,[],True
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('bocs', 12), ('bocsánat', 11), ('bocsi', 5), ('sajnálom', 3), ('hogy', 3)]",True
+sour,[],True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],False
+spewed,[],False
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,[],True
+spiteful,[],False
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,"[('oszt kisnyúl', 1), ('oszt', 1), ('kisnyúl', 1), ('kettébontása', 1), ('szétdarabolni', 1)]",True
+splitting,"[('szőrszálhasogató', 1), ('beszélve', 1), ('beszélve _ kettéválna', 1), ('kettéválna', 1)]",True
+spoil,"[('rontsd', 1), ('rontom', 1), ('ellenőrizted _ rontottad', 1), ('rontottad', 1), ('ellenőrizted', 1)]",True
+spoilage,[],False
+spoilages,[],False
+spoiled,"[('törlését', 2)]",True
+spoilled,[],False
+spoils,"[('rontja', 1)]",True
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,[],False
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],False
+squabbling,"[('karattyolás', 1), ('beugrott _ karattyolás', 1), ('beugrott', 1)]",True
+squander,[],False
+squash,[],False
+squeak,[],True
+squeaks,[],False
+squeaky,"[('gügyögős', 1)]",True
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,[],False
+stab,[],True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,[],False
+stains,[],False
+stale,[],False
+stalemate,[],False
+stall,[],True
+stalls,[],True
+stammer,[],False
+stampede,[],False
+standstill,[],False
+stark,[],False
+starkly,[],False
+startle,[],False
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,[],False
+static,[],False
+steal,[],False
+stealing,[],False
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],False
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,[],True
+sticky,[],False
+stiff,[],False
+stiffness,[],False
+stifle,[],False
+stifling,[],False
+stiflingly,[],False
+stigma,[],True
+stigmatize,"[('megbélyegezni', 1)]",True
+sting,[],True
+stinging,[],False
+stingingly,[],False
+stingy,[],False
+stink,[],False
+stinks,[],False
+stodgy,[],False
+stole,[],False
+stolen,[],False
+stooge,[],False
+stooges,[],False
+stormy,[],False
+straggle,[],False
+straggler,[],False
+strain,"[('növénytörzsfejlődéstan', 1), ('feszülni', 1)]",True
+strained,[],False
+straining,[],False
+strange,"[('furcsa', 4), ('különös', 1)]",True
+strangely,"[('furcsán', 1), ('annyira', 1), ('annyira furcsán', 1)]",True
+stranger,"[('idegen', 1)]",True
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,"[('hangsúlyozása', 1), ('stressz', 1), ('stresszt', 1)]",True
+stresses,[],False
+stressful,[],False
+stressfully,[],False
+stricken,[],False
+strict,"[('szigorú', 1)]",True
+strictly,"[('szigorúan', 1), ('merevenszigorúan', 1)]",True
+strident,[],False
+stridently,[],False
+strife,[],False
+strike,"[('sztrájk', 1), ('belecsap', 1), ('villámcsapás', 1), ('székházostromot', 1), ('elfoglalva', 1)]",True
+stringent,[],False
+stringently,[],False
+struck,"[('tűnt', 1), ('megcsapott', 1)]",True
+struggle,[],False
+struggled,[],False
+struggles,[],False
+struggling,"[('küszködöm', 1), ('küzdök', 1)]",True
+strut,[],False
+stubborn,"[('égbekiálltó', 1)]",True
+stubbornly,"[('csökönyösen', 1), ('makacsul', 1)]",True
+stubbornness,[],False
+stuck,"[('ragadt', 4), ('ragadt _ szerkesztett', 3), ('szerkesztett', 3), ('beleakadtam', 2), ('bele _ szoktuk', 1)]",True
+stuffy,[],False
+stumble,[],False
+stumbled,[],False
+stumbles,[],False
+stump,"[('csonk', 4), ('szubcsonk', 2), ('szubcsonkot', 1), ('nemcsonk', 1), ('csonkodon', 1)]",True
+stumped,[],False
+stumps,"[('csonkot', 1), ('szubcsonkok', 1)]",True
+stun,[],False
+stunt,[],False
+stunted,[],False
+stupid,"[('hülye', 5), ('hülyébb', 1), ('világosan megválaszolta', 1), ('megválaszolta', 1), ('világosan', 1)]",True
+stupidest,[],False
+stupidity,"[('hülyeség', 2), ('kérdezek', 1)]",True
+stupidly,"[('kénytelen', 1), ('véletlenül', 1), ('leírva _ véletlenül _ kénytelen', 1), ('leírva', 1)]",True
+stupified,[],False
+stupify,[],False
+stupor,[],False
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,[],False
+subjected,[],False
+subjection,[],False
+subjugate,[],False
+subjugation,[],False
+submissive,[],False
+subordinate,[],False
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,[],False
+subtract,[],False
+subversion,[],False
+subversive,[],False
+subversively,[],False
+subvert,[],False
+succumb,[],False
+suck,"[('szívsz', 1)]",True
+sucked,"[('szivatnak', 1)]",True
+sucker,"[('szucsonkot', 1)]",True
+sucks,[],False
+sucky,[],False
+sue,"[('perelhetek', 1)]",True
+sued,"[('urat', 1), ('beperelnék', 1), ('urat _ beperelnék', 1)]",True
+sueing,[],False
+sues,[],True
+suffer,"[('szenvedek', 1), ('szenved', 1)]",True
+suffered,"[('szenvedtem', 1)]",True
+sufferer,[],False
+sufferers,[],False
+suffering,[],False
+suffers,[],False
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,[],False
+suicide,"[('öngyilkos', 1)]",True
+sulk,[],False
+sullen,[],False
+sully,[],False
+sunder,[],True
+sunk,[],False
+sunken,[],False
+superficial,"[('felszínes', 1)]",True
+superficiality,[],False
+superficially,"[('felületesen', 2)]",True
+superfluous,"[('fölösleges', 6), ('felesleges', 1)]",True
+superstition,[],True
+superstitious,[],False
+suppress,[],False
+suppression,[],False
+surrender,[],False
+susceptible,[],False
+suspect,"[('gyanakodok', 1), ('gyanítod', 1)]",True
+suspicion,"[('problémák', 1)]",True
+suspicions,[],False
+suspicious,"[('gyanús', 4), ('releváns', 1), ('vírusosgyanús', 1), ('releváns _ vírusosgyanús', 1), ('ellátogató', 1)]",True
+suspiciously,"[('gyanúsan', 1)]",True
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],False
+swelling,[],False
+swindle,[],False
+swipe,[],False
+swollen,[],False
+symptom,[],False
+symptoms,[],False
+syndrome,"[('kozsószindrómáról', 1)]",True
+taboo,"[('tabu', 1)]",True
+tacky,[],False
+taint,[],True
+tainted,[],False
+tamper,[],False
+tangle,"[('gubanc', 1)]",True
+tangled,"[('kusza', 1), ('kusza _ bonyolult', 1), ('bonyolult', 1)]",True
+tangles,[],False
+tank,"[('harckocsi', 2), ('tartály', 1)]",True
+tanked,[],False
+tanks,"[('harckocsikkal', 1)]",True
+tantrum,[],False
+tardy,[],False
+tarnish,[],False
+tarnished,[],False
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],False
+taunting,[],False
+tauntingly,[],False
+taunts,[],False
+taut,[],False
+tawdry,[],False
+taxing,[],False
+tease,[],True
+teasingly,[],False
+tedious,[],False
+tediously,[],False
+temerity,[],False
+temper,"[('élettől', 1), ('élettől _ kedvem', 1), ('kedvem', 1)]",True
+tempest,[],False
+temptation,[],False
+tenderness,[],False
+tense,[],True
+tension,[],True
+tentative,[],True
+tentatively,"[('tapogatólag', 1)]",True
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,"[('szörnyű', 1), ('rettenetes', 1), ('meló', 1)]",True
+terribleness,[],False
+terribly,"[('bonyolult', 1), ('nehezen', 1), ('borzalmasan', 1)]",True
+terror,"[('vörösterror', 1)]",True
+terror-genic,[],False
+terrorism,[],False
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,"[('combosabb', 1)]",True
+thirst,[],True
+thorny,[],False
+thoughtless,[],False
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,"[('fenyegetés', 2)]",True
+threaten,"[('csináljátok _ fenyegetőzz', 1), ('fenyegetőzz', 1), ('csináljátok', 1)]",True
+threatening,"[('fenyegető', 1), ('vízállását _ fenyegető', 1), ('vízállását', 1), ('fenyegetőzől', 1), ('fenyegetek', 1)]",True
+threats,[],False
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,[],False
+thumb-down,[],False
+thumbs-down,[],False
+thwart,[],False
+time-consuming,[],False
+timid,[],True
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('ellustult', 1), ('gondolom', 1)]",True
+tiresome,[],False
+tiring,"[('fárasztó', 1)]",True
+tiringly,[],False
+toil,[],False
+toll,[],False
+top-heavy,[],False
+topple,[],False
+torment,[],False
+tormented,[],False
+torrent,"[('torrent', 1)]",True
+tortuous,"[('fordulatos', 1)]",True
+torture,[],True
+tortured,"[('megkínozták', 1)]",True
+tortures,[],False
+torturing,[],False
+torturous,[],False
+torturously,[],False
+totalitarian,[],False
+touchy,[],False
+toughness,[],False
+tout,[],True
+touted,[],False
+touts,[],False
+toxic,[],True
+traduce,[],False
+tragedy,"[('tragédiáját', 1)]",True
+tragic,[],False
+tragically,[],False
+traitor,[],False
+traitorous,[],False
+traitorously,[],False
+tramp,[],True
+trample,[],True
+transgress,[],False
+transgression,[],False
+trap,"[('csapdája', 1)]",True
+traped,[],False
+trapped,[],False
+trash,"[('kukába', 2)]",True
+trashed,[],False
+trashy,[],False
+trauma,[],False
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,[],False
+treasonous,[],False
+trick,"[('trükköt', 1)]",True
+tricked,[],False
+trickery,[],False
+tricky,"[('csalafintább', 1)]",True
+trivial,"[('trivisális', 1)]",True
+trivialize,[],False
+trouble,"[('baj', 5), ('bajban', 1), ('fáradságot', 1), ('gond', 1)]",True
+troubled,[],False
+troublemaker,[],False
+troubles,[],False
+troublesome,[],False
+troublesomely,[],False
+troubling,[],False
+troublingly,[],False
+truant,[],False
+tumble,[],False
+tumbled,[],False
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,[],False
+twist,[],False
+twisted,[],False
+twists,[],False
+two-faced,[],False
+two-faces,[],False
+tyrannical,[],False
+tyrannically,[],False
+tyranny,"[('zsarnokság', 2), ('zsarnokságtól', 1)]",True
+tyrant,[],True
+ugh,[],True
+uglier,"[('rondább', 1)]",True
+ugliest,[],False
+ugliness,[],False
+ugly,"[('szegény', 1), ('ronda', 1), ('ronda _ szegény', 1), ('csúnyák', 1), ('ocsmány', 1)]",True
+ulterior,[],False
+ultimatum,"[('ultimátum', 1)]",True
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,"[('nem', 3), ('sikerült', 1), ('nem sikerült', 1)]",True
+unacceptable,"[('elfogadhatatlan', 1), ('vállalhatatlan', 1), ('elfogadhatatlanabb', 1)]",True
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,[],False
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,[],False
+unauthentic,[],False
+unavailable,[],False
+unavoidably,[],False
+unbearable,[],False
+unbearablely,[],False
+unbelievable,"[('hihetetlen', 1)]",True
+unbelievably,[],False
+uncaring,[],False
+uncertain,"[('bizonytalan', 4)]",True
+uncivil,[],False
+uncivilized,[],False
+unclean,[],False
+unclear,"[('nem', 2), ('tisztázatlan', 1)]",True
+uncollectible,[],False
+uncomfortable,"[('kellemetlene', 1)]",True
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,[],False
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,[],False
+uncontrolled,"[('ellenőrizetlen', 1)]",True
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,[],False
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,[],False
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,[],False
+underestimate,[],False
+underlings,[],False
+undermine,[],True
+undermined,"[('aláaknázott', 1)]",True
+undermines,[],False
+undermining,[],False
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,"[('kívánatos', 1), ('kívánatos _ nyilvánított', 1), ('nyilvánított', 1)]",True
+undetermined,[],False
+undid,[],False
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,"[('visszavontam', 1)]",True
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,[],False
+uneconomical,[],False
+unemployed,[],False
+unequal,[],False
+unethical,"[('etikátlan', 1)]",True
+uneven,[],False
+uneventful,[],False
+unexpected,[],False
+unexpectedly,[],False
+unexplained,[],False
+unfairly,"[('megbántottál', 1), ('igazságtalanul', 1), ('megbántottál _ igazságtalanul', 1)]",True
+unfaithful,"[('eldöntik', 1), ('hiteltelen', 1), ('eldöntik _ hiteltelen', 1)]",True
+unfaithfully,[],False
+unfamiliar,"[('elhinni', 1)]",True
+unfavorable,[],False
+unfeeling,[],False
+unfinished,"[('befejezetlen', 1), ('készült', 1)]",True
+unfit,[],False
+unforeseen,[],False
+unforgiving,[],False
+unfortunate,"[('szerencsétlen', 2), ('áldatlan', 2), ('sajnálatos', 2)]",True
+unfortunately,"[('sajnos', 48), ('sajna', 2), ('kimaradtak', 1), ('szükség', 1), ('sajnos szükség', 1)]",True
+unfounded,"[('megbeszéled _ írsz', 1), ('megbeszéled', 1), ('írsz', 1)]",True
+unfriendly,[],False
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,[],False
+unhealthy,[],False
+unhelpful,[],False
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,[],False
+uninformed,[],False
+uninsured,[],False
+unintelligible,[],False
+unintelligile,[],False
+unipolar,[],False
+unjust,[],True
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,"[('indokolatlan', 1)]",True
+unjustly,[],False
+unkind,[],False
+unkindly,[],False
+unknown,"[('ismeretlen', 5), ('ismert', 1), ('ismeretlenként', 1), ('ismeretlennel', 1)]",True
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,[],False
+unlicensed,[],False
+unlikely,"[('nem', 1), ('valószínűtlennek', 1)]",True
+unlucky,"[('szerencsétlenül', 1)]",True
+unmoved,[],False
+unnatural,[],False
+unnaturally,[],False
+unnecessary,"[('felesleges', 9), ('fölösleges', 2), ('feleslegesnek', 1), ('egyenlőre', 1), ('egyenlőre felesleges', 1)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,[],False
+unobserved,[],False
+unorthodox,[],False
+unorthodoxy,[],False
+unpleasant,"[('kellemetlen', 1)]",True
+unpleasantries,[],False
+unpopular,"[('népszerűtlen', 1)]",True
+unpredictable,[],False
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],False
+unproved,[],False
+unproven,[],False
+unproves,[],False
+unproving,[],False
+unqualified,"[('minősíthetetlen', 1)]",True
+unravel,"[('összegereblyézni', 1)]",True
+unraveled,[],False
+unreachable,[],False
+unreadable,"[('olvashatatlan', 1)]",True
+unrealistic,"[('nem reális', 1), ('nem', 1), ('reális', 1)]",True
+unreasonable,[],False
+unreasonably,[],False
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,[],False
+unreliable,"[('megbízhatatlan', 1), ('hiteltelen', 1), ('megbízhatatlannak', 1), ('megbízhatatlanok', 1), ('megbízhatók', 1)]",True
+unresolved,[],False
+unresponsive,[],False
+unrest,[],False
+unruly,[],False
+unsafe,[],False
+unsatisfactory,[],False
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,[],False
+unsettle,[],False
+unsettled,[],False
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,[],False
+unspeakablely,[],False
+unspecified,[],False
+unstable,[],False
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,[],False
+unsuccessfully,[],False
+unsupported,[],False
+unsupportive,[],False
+unsure,"[('bizonytalan', 3)]",True
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,[],False
+untouched,[],False
+untrue,[],False
+untrustworthy,[],False
+untruthful,[],False
+unusable,"[('hasznosíthatót', 1)]",True
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,"[('szokatlannak', 1), ('szokatlan', 1)]",True
+unusually,[],False
+unviewable,[],False
+unwanted,"[('nemkivánt', 1)]",True
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,[],False
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,"[('érdemtelen', 1)]",True
+unyielding,[],False
+upbraid,[],False
+upheaval,[],False
+uprising,"[('felkelését', 1)]",True
+uproar,[],False
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,[],False
+upset,"[('lenni', 1), ('indulatos', 1)]",True
+upseting,[],False
+upsets,[],False
+upsetting,[],False
+upsettingly,[],False
+urgent,"[('sürgős', 8)]",True
+useless,"[('használhatatlanok', 1), ('használhatatlan', 1), ('haszontalan', 1)]",True
+usurp,[],True
+usurper,[],False
+utterly,[],False
+vagrant,[],False
+vague,[],False
+vagueness,[],False
+vain,"[('hiába', 4), ('le', 1), ('hiába _ le', 1)]",True
+vainly,[],False
+vanity,[],False
+vehement,[],False
+vehemently,[],False
+vengeance,[],False
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],False
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,"[('rezeg', 1)]",True
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,[],False
+vice,[],True
+vicious,[],False
+viciously,[],False
+viciousness,[],False
+victimize,[],False
+vile,[],True
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],False
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,"[('sértsem', 1)]",True
+violation,"[('jogsértés', 1), ('szabálysértéssel', 1)]",True
+violator,[],False
+violators,[],False
+violent,[],False
+violently,[],False
+viper,[],False
+virulence,[],False
+virulent,[],False
+virulently,[],False
+virus,"[('vírus', 1), ('vírusosgyanús', 1), ('vírust', 1)]",True
+vociferous,[],False
+vociferously,[],False
+volatile,[],False
+volatility,[],False
+vomit,[],False
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,[],False
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],True
+wane,[],True
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,"[('figyelmeztetni', 1), ('figyelmeztettem', 1), ('figyelmeztethetett', 1), ('figyelmeztetve', 1)]",True
+warning,"[('figyelmeztetés', 5), ('figyelmeztetésből', 1), ('figyelmeztető', 1), ('figyelmeztetésre', 1), ('figyelmeztetőt', 1)]",True
+warp,[],True
+warped,"[('elvetemült', 1)]",True
+wary,[],False
+washed-out,[],False
+waste,"[('hulladékból', 2), ('teszkósújságra', 1), ('vesztegetnék', 1), ('tékozlás', 1), ('tékozlásairól', 1)]",True
+wasted,[],False
+wasteful,[],True
+wastefulness,[],False
+wasting,"[('fűtfát', 1), ('fűtfát _ ócsárolni', 1), ('ócsárolni', 1), ('pazaroltok', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,"[('gyenge', 1)]",True
+weaken,[],False
+weakening,[],False
+weaker,[],False
+weakness,[],False
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,"[('ékjeleket', 2)]",True
+weed,"[('gyimforrás', 1), ('gyomlálgatjuk', 1)]",True
+weep,[],True
+weird,"[('furcsa', 3), ('fura', 3), ('furcsállom', 2), ('furcsának', 1), ('furcsán', 1)]",True
+weirdly,"[('furán', 1), ('kicsit furán', 1), ('kicsit', 1)]",True
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,"[('következetes', 1)]",True
+whiny,[],False
+whips,[],False
+whore,[],False
+whores,[],False
+wicked,[],False
+wickedly,[],False
+wickedness,[],False
+wild,"[('vad', 2), ('megvadult', 1), ('vadpasztinákból', 1), ('vadpasztinák', 1), ('vadbarom', 1)]",True
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,[],False
+wobbled,[],False
+wobbles,[],False
+woe,[],False
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,"[('hordta', 1)]",True
+worried,"[('aggódunk', 1)]",True
+worriedly,[],False
+worrier,[],False
+worries,[],False
+worrisome,[],False
+worry,"[('aggódj', 1), ('kicsim', 1)]",True
+worrying,[],False
+worryingly,[],False
+worse,"[('rosseb', 1), ('rosszabbnak', 1), ('rosszabb', 1)]",True
+worsen,[],False
+worsening,[],False
+worst,[],False
+worthless,[],False
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,[],False
+wreaked,[],False
+wreaks,[],False
+wreck,"[('repülőgépet', 1)]",True
+wrest,[],False
+wrestle,[],False
+wretch,[],True
+wretched,"[('nyomorult', 1)]",True
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,"[('szedni', 1)]",True
+wrinkled,[],False
+wrinkles,[],False
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('rosszul', 19), ('rossz', 8), ('baj', 5), ('tévedek', 3), ('gond', 3)]",True
+wrongful,[],False
+wrongly,"[('rosszul', 1)]",True
+wrought,[],False
+yawn,[],False
+zap,[],False
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,"[('buzgó', 1)]",True
+zealously,[],False

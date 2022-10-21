@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('por', 58), ('favor', 49), ('por favor', 20), (',', 6), ('¿', 4)]",True
+Strategy - Please_start,,
+please,"[('por', 58), ('favor', 49), ('por favor', 20), (',', 6), ('¿', 4)]",True
+Strategy - HASHEDGE,,
+think,"[('creo', 117), ('que', 117), ('crees', 115), ('parece', 111), ('opinas', 60)]",True
+thought,"[('pensé', 13), ('pensado', 10), ('pensaba', 8), ('creí', 4), ('que', 4)]",True
+thinking,"[('pensando', 16), ('pensarlo', 1), ('pensabas', 1), ('pensaba', 1), ('pensar', 1)]",True
+almost,"[('casi', 35)]",True
+apparent,"[('aparente', 3)]",True
+apparently,"[('parecer', 13), ('al', 3), ('al parecer', 3), ('visto', 2), ('por', 2)]",True
+appear,"[('aparecen', 18), ('aparecer', 12), ('aparece', 9), ('aparezcan', 6), ('aparezca', 4)]",True
+appeared,"[('aparecido', 2), ('aparecía', 2), ('apareció', 2), ('aparecia', 1)]",True
+appears,"[('aparece', 39), ('sale', 3), ('aparenta', 2), ('figure', 2), ('aparezca', 2)]",True
+approximately,"[('aproximadamente', 2)]",True
+around,"[('por', 9), ('revés', 5), ('en', 4), ('torno', 4), ('alrededor', 3)]",True
+assume,"[('suponer', 3), ('asumo', 2), ('presupones', 1), ('asume', 1)]",True
+assumed,"[('supuse', 1), ('supuesto', 1), ('suponía', 1)]",True
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('reclamación', 4), ('reclamar', 2), ('afirman', 1), ('reivindican', 1), ('reivindiqué', 1)]",True
+claimed,"[('reclamado', 1)]",True
+doubt,"[('duda', 27), ('dudas', 5), ('dudes', 1), ('dude', 1), ('dudo', 1)]",True
+doubtful,"[('dudable', 1)]",True
+essentially,[],False
+estimate,"[('estimado', 1)]",True
+estimated,"[('estimado', 2), ('estimar', 1)]",True
+feel,"[('siento', 9), ('siente', 2), ('sentir', 2), ('sienta', 1), ('encuentras', 1)]",True
+felt,"[('sentí', 2), ('que', 1), ('sintió', 1), ('sentido', 1)]",True
+frequently,"[('frecuencia', 3), ('frecuentemente', 3), ('frecuente', 1), ('frecuentes', 1)]",True
+from our perspective,[],False
+generally,"[('general', 5), ('generalmente', 2)]",True
+guess,"[('supongo', 13), ('que', 8), ('supongo que', 8)]",True
+in general,[],True
+in most cases,[],True
+in most instances,[],False
+in our view,[],False
+indicate,"[('indicar', 9), ('indicarle', 4), ('indicas', 4), ('señalas', 3), ('indico', 2)]",True
+indicated,"[('señalado', 4), ('indica', 2), ('indicado', 2), ('indicaba', 2), ('indiqué', 2)]",True
+largely,"[('medida', 1)]",True
+likely,"[('probable', 3)]",True
+mainly,"[('principalmente', 4)]",True
+may,"[('puede', 36), ('mayo', 8), ('puedo', 7), ('puedan', 5), ('pueda', 5)]",True
+maybe,"[('tal', 21), ('tal vez', 13), ('vez', 13), ('quizás', 12), ('quizá', 10)]",True
+might,"[('podría', 7), ('puede', 1), ('parecerían', 1), ('podrían', 1), ('tal', 1)]",True
+mostly,"[('mayoría', 3)]",True
+often,"[('seguido', 2), ('menudo', 1), ('muchas', 1), ('muchas veces', 1), ('veces', 1)]",True
+on the whole,[],False
+ought,[],True
+perhaps,"[('quizás', 17), ('quizá', 11), ('vez', 8), ('acaso', 7), ('tal', 6)]",True
+plausible,[],False
+plausibly,[],False
+possible,"[('posible', 87), ('puede', 3), ('posibles', 2), ('antes', 1), ('posibilidad', 1)]",True
+possibly,"[('posiblemente', 4)]",True
+postulate,[],True
+postulated,[],False
+presumable,[],False
+probable,"[('probable', 1)]",True
+probably,"[('probablemente', 12), ('seguramente', 1)]",True
+relatively,"[('relativamente', 2)]",True
+roughly,[],True
+seems,"[('parece', 124), ('parezca', 3), ('pareciera', 1), ('parecería', 1), ('hace', 1)]",True
+should,"[('debería', 81), ('debo', 50), ('debe', 47), ('deberíamos', 18), ('deberían', 16)]",True
+sometimes,"[('veces', 15), ('ocasiones', 1), ('alguna vez', 1), ('vez', 1), ('alguna', 1)]",True
+somewhat,"[('algo', 10), ('tanto', 2), ('un', 2), ('un tanto', 1), ('poco', 1)]",True
+suggest,"[('sugieres', 4), ('sugiero', 4), ('sugieren', 2), ('propongo', 2), ('sugeriría', 1)]",True
+suggested,"[('sugerido', 4), ('sugeriste', 3), ('sugirió', 2), ('sugiere', 2), ('sugería', 1)]",True
+suppose,"[('supongo', 27), ('que', 19), ('supongo que', 11), ('supongamos', 6), ('supongamos que', 3)]",True
+suspect,"[('sospechar', 2)]",True
+tend to,[],True
+tends to,"[('suele', 1)]",True
+typical,"[('típico', 3), ('tipicas', 1), ('propio', 1)]",True
+typically,"[('típicamente', 1)]",True
+uncertain,[],True
+uncertainly,[],False
+unclear,"[('poco', 1), ('no', 1)]",True
+unclearly,[],False
+unlikely,[],False
+usually,"[('suelo', 6), ('normalmente', 4), ('suele', 3), ('habitualmente', 2), ('suelen', 2)]",True
+broadly,[],False
+tended to,[],True
+presumably,[],False
+suggests,"[('sugiere', 2)]",True
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],False
+in this view,[],False
+in our opinion,[],False
+in my opinion,[],True
+to my knowledge,[],False
+fairly,"[('bastante', 3)]",True
+quite,"[('bastante', 27), ('bastantes', 7), ('de', 3), ('bien', 2), ('muy', 2)]",True
+rather,"[('más', 10), ('bien', 6), ('más bien', 3), ('antes', 2), ('bastante', 1)]",True
+argue,"[('argumentar', 7), ('discutir', 4), ('argumentas', 2), ('argumentarlo', 1), ('argumentaréis', 1)]",True
+argues,"[('argumenta', 1)]",True
+argued,"[('argumentada', 2)]",True
+claims,"[('reclama', 1), ('reclamos', 1), ('afirmaciones', 1), ('afirma', 1)]",True
+feels,"[('sienta', 1)]",True
+indicates,"[('indique', 4), ('indica', 3), ('indican', 1)]",True
+supposed,"[('supone', 6), ('supuesta', 4), ('supuesto', 2), ('suponía', 1), ('debemos', 1)]",True
+supposes,"[('supone', 1)]",True
+suspects,[],False
+postulates,"[('postulados', 1)]",True
+Strategy - Deference,,
+great,"[('gran', 18), ('grandes', 7), ('genial', 6), ('mucha', 3), ('grande', 2)]",True
+good,"[('buena', 62), ('buenas', 44), ('bueno', 34), ('bien', 32), ('buen', 27)]",True
+nice,"[('gusto', 3), ('lindo', 3), ('bonito', 2), ('bienchido', 1), ('bueno', 1)]",True
+good,"[('buena', 62), ('buenas', 44), ('bueno', 34), ('bien', 32), ('buen', 27)]",True
+interesting,"[('interesante', 21), ('interesantes', 2), ('interesan', 1)]",True
+cool,"[('mola', 3), ('chulas', 1), ('chido', 1), ('dura', 1)]",True
+excellent,"[('excelente', 10), ('excelentes', 1)]",True
+awesome,"[('impresionante', 1)]",True
+Strategy - 1st_person_pl.,,
+we,"[('nos', 46), ('podemos', 38), ('estamos', 36), ('tenemos', 35), ('vamos', 23)]",True
+our,"[('nuestra', 25), ('nuestro', 20), ('nuestros', 8), ('nuestras', 4), ('el', 1)]",True
+us,"[('nos', 35), ('nosotros', 15), ('usted', 2), ('recordemos', 2), ('somos', 2)]",True
+ourselves,"[('preguntarnos', 2), ('organizamos', 1), ('autolimitamos', 1), ('limitarnos', 1), ('nosotros', 1)]",True
+Strategy - 1st_person,,
+i,"[('me', 494), ('yo', 378), ('te', 278), ('creo', 192), ('tengo', 134)]",True
+my,"[('mi', 429), ('mis', 93), ('me', 11), ('mía', 5), ('la', 5)]",True
+mine,"[('mío', 7), ('mías', 6), ('mía', 5), ('mio', 4), ('mia', 3)]",True
+myself,"[('mismo', 14), ('yo', 8), ('misma', 4), ('yo misma', 3), ('mí', 3)]",True
+Strategy - 1st_person_start,,
+i,"[('me', 494), ('yo', 378), ('te', 278), ('creo', 192), ('tengo', 134)]",True
+my,"[('mi', 429), ('mis', 93), ('me', 11), ('mía', 5), ('la', 5)]",True
+mine,"[('mío', 7), ('mías', 6), ('mía', 5), ('mio', 4), ('mia', 3)]",True
+myself,"[('mismo', 14), ('yo', 8), ('misma', 4), ('yo misma', 3), ('mí', 3)]",True
+Strategy - 2nd_person,,
+you,"[('te', 501), ('puedes', 217), ('podrías', 189), ('tú', 181), ('crees', 122)]",True
+your,"[('tu', 348), ('tus', 105), ('su', 77), ('sus', 13), ('vuestras', 6)]",True
+yours,"[('tuyo', 12), ('tuya', 11), ('tuyas', 6), ('tuyos', 2), ('suyo', 2)]",True
+yourself,"[('mismo', 26), ('tú', 12), ('tú mismo', 8), ('tu', 7), ('tu mismo', 6)]",True
+Strategy - 2nd_person_start,,
+you,"[('te', 501), ('puedes', 217), ('podrías', 189), ('tú', 181), ('crees', 122)]",True
+your,"[('tu', 348), ('tus', 105), ('su', 77), ('sus', 13), ('vuestras', 6)]",True
+yours,"[('tuyo', 12), ('tuya', 11), ('tuyas', 6), ('tuyos', 2), ('suyo', 2)]",True
+yourself,"[('mismo', 26), ('tú', 12), ('tú mismo', 8), ('tu', 7), ('tu mismo', 6)]",True
+Strategy - Indirect_(greeting),,
+hi,"[('hola', 88), (',', 8), ('buenas', 6), ('hola ,', 4), ('¡', 2)]",True
+hello,"[('hola', 371), ('¡', 24), ('buenas', 5), (',', 4), ('ola', 2)]",True
+hey,"[('oye', 20), ('bueno', 13), ('hey', 4), ('eh', 2), ('va', 1)]",True
+Strategy - Direct_question,,
+what,"[('qué', 724), ('lo', 335), ('que', 288), ('¿', 238), ('cuál', 91)]",True
+why,"[('qué', 244), ('¿', 217), ('porque', 51), ('¿ _ qué', 40), ('por', 31)]",True
+who,"[('que', 240), ('quién', 85), ('quien', 49), ('quienes', 16), ('quiénes', 5)]",True
+how,"[('cómo', 339), ('¿', 167), ('como', 167), ('qué', 60), ('¿ cómo', 55)]",True
+Strategy - Direct_start,,
+so,"[('para', 130), ('así', 127), ('tan', 70), ('entonces', 64), ('por', 42)]",True
+then,"[('entonces', 93), ('luego', 55), ('después', 15), ('pues', 9), ('ahí', 1)]",True
+and,"[('y', 2262), ('e', 61), ('como', 18), ('and', 7), ('ni', 3)]",True
+but,"[('pero', 927), ('sino', 81), ('mas', 4), ('sinó', 3), ('que', 2)]",True
+or,"[('o', 878), ('ni', 54), ('u', 19), ('ó', 2), ('¿', 2)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,"[('abundan', 1)]",True
+abounds,[],False
+abundance,[],False
+abundant,"[('abundante', 1), ('abundantes', 1)]",True
+accessable,[],False
+accessible,[],False
+acclaim,[],False
+acclaimed,[],False
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,"[('logró', 3), ('logre', 1)]",True
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,"[('exactos', 1), ('preciso', 1)]",True
+accurately,"[('fielmente', 2)]",True
+achievable,[],False
+achievement,[],True
+achievements,"[('logros', 3)]",True
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,"[('adecuada', 2), ('adecuado', 1)]",True
+adjustable,[],False
+admirable,[],False
+admirably,[],False
+admiration,"[('admiración', 2)]",True
+admire,"[('admiro', 1), ('admirar', 1)]",True
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,"[('adorable', 1)]",True
+adore,[],True
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,"[('avanzada', 1), ('avanzados', 1)]",True
+advantage,"[('ventaja', 3), ('aprovecha', 1), ('aprovechan', 1), ('aprovecharlo', 1), ('aprovechando', 1)]",True
+advantageous,[],False
+advantageously,[],False
+advantages,"[('ventajas', 1)]",True
+adventuresome,[],False
+adventurous,[],False
+advocate,"[('abogo', 1)]",True
+advocated,"[('que', 1)]",True
+advocates,[],False
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,"[('cariño', 1)]",True
+affectionate,[],False
+affinity,"[('afinidad', 1)]",True
+affirm,"[('afirmar', 3), ('afirman', 1)]",True
+affirmation,"[('afirmación', 1)]",True
+affirmative,[],False
+affluence,[],False
+affluent,[],False
+afford,[],False
+affordable,[],False
+affordably,[],False
+afordable,[],False
+agile,"[('ágil', 1)]",True
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],True
+altruistically,"[('altruista', 1)]",True
+amaze,[],False
+amazed,[],False
+amazement,[],False
+amazes,[],False
+amazing,"[('pasada', 1)]",True
+amazingly,[],False
+ambitious,[],False
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,"[('amigablemente', 1)]",True
+amity,[],False
+ample,"[('amplio', 1)]",True
+amply,[],False
+amuse,[],True
+amusing,[],False
+amusingly,[],False
+angel,"[('ángel', 1)]",True
+angelic,[],True
+apotheosis,[],False
+appeal,"[('llamamiento', 1), ('apelo', 1), ('apelarla', 1)]",True
+appealing,[],False
+applaud,[],False
+appreciable,[],False
+appreciate,"[('agradezco', 10), ('agradecería', 4), ('agradeceria', 2), ('aprecian', 1), ('agradecerías', 1)]",True
+appreciated,"[('agradezca', 1)]",True
+appreciates,[],False
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('adecuado', 9), ('apropiado', 8), ('oportuno', 6), ('corresponde', 3), ('indicado', 3)]",True
+approval,"[('aprobación', 2)]",True
+approve,"[('aprobar', 2), ('aprobarlo', 1), ('aprueba', 1), ('apruebe', 1), ('aprobarla', 1)]",True
+ardent,[],False
+ardently,[],False
+ardor,"[('ardor', 1)]",True
+articulate,[],False
+aspiration,[],False
+aspirations,[],False
+aspire,"[('aspiras', 1)]",True
+assurance,[],False
+assurances,[],False
+assure,"[('aseguro', 4), ('asegurar', 2)]",True
+assuredly,[],False
+assuring,[],False
+astonish,[],True
+astonished,"[('asombrados', 1)]",True
+astonishing,"[('pasmosa', 1)]",True
+astonishingly,[],False
+astonishment,[],False
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,"[('atenta', 1), ('atento', 1)]",True
+attraction,[],False
+attractive,"[('atractivo', 1)]",True
+attractively,[],False
+attune,[],False
+audible,[],False
+audibly,[],False
+auspicious,[],False
+authentic,"[('auténtico', 1)]",True
+authoritative,[],False
+autonomous,"[('autónomas', 2), ('comunidad', 1), ('autónoma', 1), ('comunidad autónoma', 1), ('autonómica', 1)]",True
+available,"[('disponible', 8), ('disponibles', 3), ('fiable', 1)]",True
+aver,[],True
+avid,[],True
+avidly,[],False
+award,"[('premio', 5)]",True
+awarded,"[('otorgado', 2), ('premiada', 1), ('otorgada', 1), ('entregar', 1), ('que', 1)]",True
+awards,"[('premios', 10), ('conceda', 1), ('premiaciones', 1), ('galardones', 1), ('reconocimientos', 1)]",True
+awe,[],True
+awed,[],False
+awesome,"[('impresionante', 1)]",True
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,"[('balanceado', 1), ('equilibrada', 1)]",True
+bargain,[],True
+beauteous,[],False
+beautiful,"[('bonita', 2), ('bonito', 2), ('bello', 1)]",True
+beautifullly,[],False
+beautifully,[],False
+beautify,[],False
+beauty,"[('durmiente', 1)]",True
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],False
+believeable,[],False
+beloved,[],False
+benefactor,[],False
+beneficent,[],False
+beneficial,"[('beneficiario', 1)]",True
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('beneficio', 3), ('beneficiarse', 1)]",True
+benefits,"[('beneficios', 1)]",True
+benevolence,[],False
+benevolent,"[('benévolos', 1)]",True
+benifits,[],False
+best,"[('mejor', 31), ('mejores', 7), ('saludo', 5), ('mais', 1), ('mas', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('mejor', 134), ('mejores', 4), ('bien', 3), ('más', 2)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,"[('bendecimos', 1)]",True
+blessing,"[('bendición', 1)]",True
+bliss,[],False
+blissful,[],False
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,[],False
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,[],False
+bonuses,[],False
+boom,[],False
+booming,[],False
+boost,[],False
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,"[('valiente', 3), ('brave', 1)]",True
+bravery,[],False
+bravo,"[('bravo', 2)]",True
+breakthrough,[],False
+breakthroughs,[],False
+breathlessness,[],False
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,[],False
+brighten,[],False
+brighter,[],False
+brightest,[],False
+brilliance,[],False
+brilliances,[],False
+brilliant,[],False
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,"[('tranquilo', 3), ('calma', 2), ('tranquilito', 1), ('hola', 1), ('tranquis', 1)]",True
+calming,[],False
+calmness,[],False
+capability,[],False
+capable,"[('capaz', 4), ('susceptibles', 1), ('capacitado', 1), ('capaces', 1)]",True
+capably,[],False
+captivate,[],False
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,"[('celebrar', 1)]",True
+celebrated,"[('celebro', 1)]",True
+celebration,"[('celebración', 1)]",True
+celebratory,[],False
+champ,[],True
+champion,"[('campeón', 3)]",True
+charisma,[],True
+charismatic,"[('carismática', 1)]",True
+charitable,[],False
+charm,[],False
+charming,[],False
+charmingly,[],False
+chaste,[],True
+cheaper,[],False
+cheapest,[],False
+cheer,"[('ánimo', 1)]",True
+cheerful,[],False
+cheery,[],False
+cherish,[],False
+cherished,[],False
+cherub,[],False
+chic,[],True
+chivalrous,"[('caballerosas', 1)]",True
+chivalry,[],False
+civility,"[('civismo', 1)]",True
+civilize,[],True
+clarity,"[('claridad', 2)]",True
+classic,[],True
+classy,[],False
+clean,"[('borrón', 2), ('limpia', 1), ('adecentarlo', 1), ('limpiar', 1)]",True
+cleaner,[],False
+cleanest,[],False
+cleanliness,[],False
+cleanly,[],False
+clear,"[('claro', 48), ('clara', 12), ('despejar', 1), ('claras', 1), ('tengoclaro', 1)]",True
+clear-cut,[],False
+cleared,"[('despejado', 1)]",True
+clearer,"[('claro', 3), ('más', 1), ('más claro', 1)]",True
+clearly,"[('claramente', 16), ('claridad', 3), ('claro', 2), ('clara', 1)]",True
+clears,[],False
+clever,"[('listo', 1)]",True
+cleverly,[],False
+cohere,[],True
+coherence,"[('coherencia', 1)]",True
+coherent,"[('coherentes', 1)]",True
+cohesive,[],False
+colorful,[],False
+comely,[],False
+comfort,[],True
+comfortable,"[('reconfortable', 1), ('cómodo', 1), ('desahogado', 1)]",True
+comfortably,"[('cómodamente', 1)]",True
+comforting,[],False
+comfy,[],False
+commend,[],True
+commendable,"[('loable', 2)]",True
+commendably,[],False
+commitment,"[('compromiso', 5)]",True
+commodious,[],False
+compact,[],False
+compactly,[],False
+compassion,[],False
+compassionate,[],False
+compatible,"[('compatible', 4), ('compatibles', 1)]",True
+competitive,"[('competitivo', 1)]",True
+complement,"[('complemento', 1)]",True
+complementary,[],False
+complemented,[],False
+complements,"[('complementos', 1)]",True
+compliant,"[('conforme', 1), ('cumplen', 1)]",True
+compliment,[],True
+complimentary,"[('elogioso', 1)]",True
+comprehensive,[],False
+conciliate,[],False
+conciliatory,[],False
+concise,"[('conciso', 1)]",True
+confidence,"[('confianza', 4)]",True
+confident,[],False
+congenial,[],False
+congratulate,"[('felicito', 1), ('felicitan', 1), ('felicitarme', 1)]",True
+congratulation,[],True
+congratulations,"[('felicitaciones', 2), ('felicitación', 2), ('recomensa', 1), ('enhorabuena', 1), ('recomensa _ enhorabuena', 1)]",True
+congratulatory,[],False
+conscientious,[],False
+considerate,[],True
+consistent,"[('consistente', 1), ('concuerdan', 1)]",True
+consistently,"[('flexible', 1)]",True
+constructive,"[('constructivo', 2), ('constructiva', 1), ('constructivas', 1)]",True
+consummate,[],False
+contentment,[],False
+continuity,"[('continuidad', 1)]",True
+contrasty,[],False
+contribution,"[('aporte', 8), ('aportación', 5), ('contribución', 4), ('colaborado', 1), ('contribucion', 1)]",True
+convenience,"[('conveniencia', 1)]",True
+convenient,"[('conveniente', 14), ('convendría', 2), ('convienen', 1), ('convenía', 1)]",True
+conveniently,"[('convenientemente', 1)]",True
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,"[('convincentes', 1), ('convencer', 1)]",True
+convincingly,[],False
+cool,"[('mola', 3), ('chulas', 1), ('chido', 1), ('dura', 1)]",True
+coolest,[],False
+cooperative,[],False
+cooperatively,[],False
+cornerstone,[],False
+correct,"[('correcto', 53), ('corregir', 23), ('correcta', 20), ('correctas', 6), ('corregirlo', 5)]",True
+correctly,"[('correctamente', 15), ('bien', 1), ('correcto', 1)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,"[('valiente', 1)]",True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,"[('cortés', 1)]",True
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('creative', 3)]",True
+credence,[],False
+credible,"[('creibles', 2), ('creíble', 1)]",True
+crisp,[],False
+crisper,[],False
+cure,[],True
+cure-all,[],False
+cushy,[],False
+cute,"[('lindo', 2)]",True
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,"[('atrevida', 1), ('temeridad', 1)]",True
+daringly,[],False
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,[],False
+dazzle,[],False
+dazzled,[],False
+dazzling,[],False
+dead-cheap,[],False
+dead-on,[],False
+decency,[],False
+decent,"[('decente', 3)]",True
+decisive,"[('decisiva', 1)]",True
+decisiveness,[],False
+dedicated,"[('dedicada', 6), ('dedica', 3), ('dedicados', 3), ('dedicado', 3), ('dedicadas', 2)]",True
+defeat,[],True
+defeated,"[('derrotados', 1), ('derrotó', 1)]",True
+defeating,[],False
+defeats,[],False
+defender,"[('defensa', 1)]",True
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,"[('delicado', 1)]",True
+delicious,[],False
+delight,"[('delicia', 1)]",True
+delighted,"[('encantado', 3), ('encantados', 1)]",True
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,[],False
+deserving,"[('merecer', 1)]",True
+desirable,"[('deseable', 2)]",True
+desiring,[],False
+desirous,[],False
+destiny,"[('destino', 1)]",True
+detachable,[],False
+devout,[],False
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,[],False
+dignify,[],False
+dignity,[],False
+diligence,[],False
+diligent,[],False
+diligently,[],False
+diplomatic,[],False
+dirt-cheap,[],False
+distinction,"[('distinción', 4)]",True
+distinctive,"[('distintiva', 1)]",True
+distinguished,[],False
+diversified,[],False
+divine,"[('divinas', 1)]",True
+divinely,[],False
+dominate,"[('dominas', 2)]",True
+dominated,"[('dominados', 1), ('dominado', 1)]",True
+dominates,[],False
+dote,[],True
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,"[('duradera', 2)]",True
+dynamic,"[('dinámicas', 1)]",True
+eager,[],True
+eagerly,[],False
+eagerness,"[('afán', 1)]",True
+earnest,[],False
+earnestly,[],False
+earnestness,[],False
+ease,"[('gusto', 1)]",True
+eased,"[('aliviniar _ despejado', 1), ('despejado', 1), ('aliviniar', 1)]",True
+eases,[],True
+easier,"[('fácil', 11), ('sencillo', 2), ('más', 2), ('mas', 1), ('facil', 1)]",True
+easiest,[],False
+easiness,[],False
+easing,[],True
+easy,"[('fácil', 12), ('facilita', 1), ('fáciles', 1), ('facil', 1)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,[],False
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,[],True
+effective,"[('efectiva', 2)]",True
+effectively,"[('efectivamente', 2), ('eficacia', 1)]",True
+effectiveness,[],False
+effectual,[],False
+efficacious,[],False
+efficient,"[('eficiente', 1)]",True
+efficiently,[],False
+effortless,[],False
+effortlessly,[],False
+effusion,"[('efusión', 1)]",True
+effusive,"[('efusiva', 1)]",True
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,[],False
+elegantly,[],False
+elevate,[],True
+elite,"[('elite', 1)]",True
+eloquence,[],False
+eloquent,"[('elocuente', 1)]",True
+eloquently,[],False
+embolden,[],False
+eminence,[],False
+eminent,"[('eminente', 1)]",True
+empathize,[],False
+empathy,"[('empatía', 1)]",True
+empower,[],False
+empowerment,[],False
+enchant,[],True
+enchanted,[],False
+enchanting,[],False
+enchantingly,[],False
+encourage,"[('animo', 1)]",True
+encouragement,"[('ánimos', 1)]",True
+encouraging,[],False
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,"[('promueven', 1), ('avalan', 1), ('avale', 1), ('avalar', 1), ('refrenda', 1)]",True
+endorsed,"[('avalado', 1), ('avaladas', 1)]",True
+endorsement,"[('refrendo', 1), ('avales', 1)]",True
+endorses,[],False
+endorsing,"[('avalandolo.solo', 1)]",True
+energetic,"[('energeticas', 1)]",True
+energize,[],False
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],True
+engrossing,[],False
+enhance,[],True
+enhanced,[],False
+enhancement,[],True
+enhances,[],False
+enjoy,"[('disfrutar', 2)]",True
+enjoyable,[],False
+enjoyably,[],False
+enjoyed,"[('disfrutado', 1), ('gozó', 1)]",True
+enjoying,"[('disfrutando', 1)]",True
+enjoyment,[],False
+enjoys,"[('goce', 1), ('goza', 1)]",True
+enlighten,"[('alumbrarme', 1)]",True
+enlightenment,[],False
+enliven,[],False
+ennoble,[],False
+enough,"[('suficiente', 29), ('suficientemente', 8), ('suficientes', 6), ('bastante', 5), ('alcanza', 4)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,"[('enrriquecerlo', 1)]",True
+enrichment,[],False
+enterprising,[],False
+entertain,"[('entreternos', 1)]",True
+entertaining,"[('entretenida', 1), ('entretenidos', 1)]",True
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,"[('entusiasmo', 1)]",True
+enthusiast,[],True
+enthusiastic,"[('entusiamadas', 1), ('entusiamadas _ fervorosas', 1), ('fervorosas', 1)]",True
+enthusiastically,[],False
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,[],False
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,"[('envidia', 4)]",True
+equitable,"[('equidad', 1), ('el', 1), ('el _ equidad', 1)]",True
+ergonomical,[],False
+err-free,[],False
+erudite,[],False
+ethical,[],True
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,[],False
+evenly,[],False
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],True
+exaltation,"[('exaltación', 1)]",True
+exalted,"[('exaltado', 1)]",True
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,"[('exceder', 2), ('sobrepasan', 1), ('superar', 1), ('rebasen', 1), ('excedí', 1)]",True
+exceeded,"[('superó', 1)]",True
+exceeding,[],False
+exceedingly,[],False
+exceeds,"[('pase', 1)]",True
+excel,"[('excel', 1)]",True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],True
+excellency,[],False
+excellent,"[('excelente', 10), ('excelentes', 1)]",True
+excellently,[],False
+excels,[],True
+exceptional,"[('excepcional', 2)]",True
+exceptionally,[],False
+excite,"[('entusiasmar', 1)]",True
+excited,"[('emocione', 1)]",True
+excitedly,[],False
+excitedness,[],False
+excitement,[],False
+excites,[],False
+exciting,"[('apasionante', 1), ('emocionante', 1)]",True
+excitingly,[],False
+exellent,[],False
+exemplar,[],False
+exemplary,[],False
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],False
+extoll,[],False
+extraordinarily,[],False
+extraordinary,"[('extraordinaria', 1), ('hecho', 1)]",True
+exuberance,[],False
+exuberant,[],False
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,"[('fabuloso', 1)]",True
+fabulously,[],False
+facilitate,"[('facilitas', 1), ('facilitar', 1)]",True
+fair,"[('justo', 5), ('fair', 3), ('favor', 1), ('favor _ justa', 1), ('justa', 1)]",True
+fairly,"[('bastante', 3)]",True
+fairness,[],False
+faith,"[('fe', 23), ('fé', 1)]",True
+faithful,"[('fiel', 2), ('fieles', 2)]",True
+faithfully,[],False
+faithfulness,[],False
+fame,"[('fame', 2), ('fama', 1)]",True
+famed,[],False
+famous,"[('famosa', 5), ('famoso', 5), ('famosos', 4), ('célebre', 2), ('famosas', 2)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],False
+fanfare,"[('platillo', 1)]",True
+fans,"[('fans', 2), ('hinchas', 2), ('admiradores', 1), ('fanáticos', 1)]",True
+fantastic,[],False
+fantastically,[],False
+fascinate,"[('fascinan', 1)]",True
+fascinating,"[('fascinante', 1)]",True
+fascinatingly,[],False
+fascination,[],False
+fashionable,"[('estila', 1)]",True
+fashionably,[],False
+fast,"[('rápido', 3), ('rapido', 1)]",True
+fast-growing,[],False
+fast-paced,[],False
+faster,"[('más', 2), ('rápido', 2), ('más rápido', 1), ('rápida', 1), ('más rápida', 1)]",True
+fastest,"[('rápido', 1)]",True
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('favor', 35), ('favorecen', 1), ('pro', 1), ('favorece', 1)]",True
+favorable,"[('favorable', 1)]",True
+favored,[],False
+favorite,"[('favoritos', 1), ('favorito', 1), ('favorita', 1)]",True
+favorited,[],False
+favour,[],False
+fearless,[],False
+fearlessly,[],False
+feasible,"[('factible', 1)]",True
+feasibly,[],False
+feat,[],True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,"[('felicity', 1)]",True
+fertile,[],False
+fervent,"[('fervorosas', 1)]",True
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,[],False
+fiery,[],False
+fine,"[('bien', 19), ('fino', 2), ('finas', 1)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],False
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,[],False
+flatter,[],False
+flattering,[],False
+flatteringly,[],False
+flawless,[],False
+flawlessly,[],False
+flexibility,[],False
+flexible,"[('flexible', 1), ('flexibles', 1)]",True
+flourish,[],True
+flourishing,[],False
+fluent,"[('domino', 1)]",True
+flutter,[],False
+fond,[],True
+fondly,"[('con', 1), ('con cariño', 1), ('cariño', 1)]",True
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,[],True
+fortunately,[],True
+fortune,[],True
+fragrant,[],False
+free,"[('libre', 14), ('libres', 3), ('gratuitamente', 1), ('gratuita', 1), ('libertad', 1)]",True
+freed,[],True
+freedom,"[('libertad', 5)]",True
+freedoms,[],False
+fresh,[],True
+fresher,[],False
+freshest,[],False
+friendliness,"[('simpatía', 1)]",True
+friendly,"[('amistosos', 2), ('amistoso', 1), ('amigable', 1)]",True
+frolic,[],False
+frugal,[],False
+fruitful,[],False
+ftw,[],True
+fulfillment,[],False
+fun,"[('divertido', 2), ('bastante', 1)]",True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('ganas', 1), ('ganar', 1)]",True
+gained,"[('ganaría', 1), ('ganada', 1), ('cojiste', 1)]",True
+gainful,[],False
+gainfully,[],False
+gaining,[],True
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],False
+geekier,[],False
+geeky,[],False
+gem,"[('joyita', 1)]",True
+gems,[],False
+generosity,[],False
+generous,[],False
+generously,[],False
+genial,[],False
+genius,"[('genio', 1)]",True
+gentle,"[('suave', 1)]",True
+gentlest,[],False
+genuine,"[('genuinos', 1)]",True
+gifted,"[('superdotados', 1)]",True
+glad,"[('alegro', 3), ('que', 2), ('alegra', 1), ('alegro que', 1)]",True
+gladden,[],False
+gladly,"[('gusto', 2), ('gustosamente', 1), ('grado', 1)]",True
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,[],False
+gloriously,[],False
+glory,[],False
+glow,[],False
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('oro', 1)]",True
+golden,"[('siglo', 1), ('golden', 1)]",True
+good,"[('buena', 62), ('buenas', 44), ('bueno', 34), ('bien', 32), ('buen', 27)]",True
+goodly,[],False
+goodness,[],False
+goodwill,"[('voluntad', 1), ('buena voluntad', 1), ('buena', 1)]",True
+goood,[],False
+gooood,[],False
+gorgeous,[],False
+gorgeously,[],False
+grace,[],False
+graceful,[],False
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,"[('gran', 2)]",True
+grandeur,[],False
+grateful,"[('agradecería', 2), ('agradecé', 1), ('agradecido', 1), ('agradezco mucho', 1), ('agradezco', 1)]",True
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,"[('agradecimiento', 2)]",True
+great,"[('gran', 18), ('grandes', 7), ('genial', 6), ('mucha', 3), ('grande', 2)]",True
+greatest,"[('mayor', 2)]",True
+greatness,[],False
+grin,[],True
+groundbreaking,[],False
+guarantee,"[('garantía', 1)]",True
+guidance,"[('directriz', 1), ('orientación', 1)]",True
+guiltless,[],False
+gumption,[],False
+gush,[],False
+gusto,[],True
+gutsy,[],False
+hail,"[('salve', 1)]",True
+halcyon,[],False
+hale,[],True
+hallmark,[],False
+hallmarks,[],False
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,[],False
+handsomely,[],False
+handy,"[('bien', 1)]",True
+happier,[],False
+happily,"[('felizmente', 1)]",True
+happiness,"[('felicidad', 1), ('dicha', 1)]",True
+happy,"[('feliz', 8), ('contento', 2), ('felices', 1), ('alegra', 1), ('contentos', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,[],False
+harmonious,[],False
+harmoniously,[],False
+harmonize,[],False
+harmony,[],False
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,"[('saludable', 1)]",True
+hearten,[],True
+heartening,[],True
+heartfelt,[],False
+heartily,[],False
+heartwarming,[],False
+heaven,"[('cielo', 3), ('cielos', 1)]",True
+heavenly,[],False
+helped,"[('ayudó', 2), ('ayudo', 1), ('servido', 1), ('ayudaste', 1), ('ayudado', 1)]",True
+helpful,"[('útiles', 2), ('ayuda', 1)]",True
+helping,"[('ayudar', 4), ('ayudando', 3), ('ayudas', 1), ('ayudarme', 1)]",True
+hero,[],True
+heroic,"[('heroico', 1), ('heroicos', 1)]",True
+heroically,[],False
+heroine,[],False
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,[],False
+holy,"[('semana', 1), ('sagrada', 1)]",True
+homage,[],False
+honest,"[('sincero', 3), ('honestos', 2), ('honesto', 1), ('expertos _ honestos', 1), ('expertos', 1)]",True
+honesty,"[('honestidad', 1)]",True
+honor,"[('honor', 5)]",True
+honorable,[],False
+honored,[],False
+honoring,[],False
+hooray,"[('hurra', 1)]",True
+hopeful,[],True
+hospitable,[],False
+hot,"[('caliente', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,"[('abrazo', 10)]",True
+humane,[],False
+humble,"[('humilde', 2)]",True
+humility,[],False
+humor,"[('humor', 2)]",True
+humorous,[],False
+humorously,[],False
+humour,[],True
+humourous,[],False
+ideal,"[('ideal', 4), ('idónea', 1)]",True
+idealize,[],False
+ideally,[],False
+idol,[],False
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],False
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,"[('ilustres', 3)]",True
+ilu,[],True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,"[('inmenso', 1)]",True
+impartial,"[('imparcial', 3), ('imparciales', 2), ('fiables _ imparciales', 1), ('fiables', 1)]",True
+impartiality,"[('imparcialidad', 2)]",True
+impartially,[],False
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('importante', 54), ('importantes', 17), ('importantísima', 1), ('trascendente', 1)]",True
+impress,[],True
+impressed,"[('impresionado', 1)]",True
+impresses,[],False
+impressive,"[('impresionante', 1)]",True
+impressively,[],False
+impressiveness,[],False
+improve,"[('mejorar', 31), ('mejorarlo', 9), ('mejore', 4), ('mejorándolo', 1), ('superación', 1)]",True
+improved,"[('mejorado', 7), ('mejorar', 2), ('mejorables', 2), ('mejorable', 1), ('mejoramos', 1)]",True
+improvement,"[('mejora', 5), ('mejorador', 1), ('evaluación', 1), ('mejorías', 1), ('improvement', 1)]",True
+improvements,"[('mejoras', 8), ('las mejoras', 1), ('las', 1)]",True
+improves,[],False
+improving,"[('mejorando', 3), ('mejorar', 2), ('mejora', 1), ('mejorandolo', 1)]",True
+incredible,"[('increíble', 3), ('una pasada', 1), ('pasada', 1), ('una', 1), ('increible', 1)]",True
+incredibly,"[('increiblemente', 1)]",True
+indebted,[],False
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,[],False
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,"[('infalibilidad', 1)]",True
+infallible,[],False
+infallibly,[],False
+influential,"[('influyente', 2), ('influyentes', 1)]",True
+ingenious,[],False
+ingeniously,[],False
+ingenuity,[],False
+ingenuous,[],False
+ingenuously,[],False
+innocuous,"[('inocuos', 1)]",True
+innovation,"[('innovación', 1)]",True
+innovative,"[('inovador', 1), ('innovadora', 1)]",True
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,"[('inspiración', 2)]",True
+inspirational,[],False
+inspire,[],True
+inspiring,[],False
+instantly,[],False
+instructive,[],False
+instrumental,"[('instrumental', 1)]",True
+integral,[],False
+integrated,"[('integraba', 1), ('integradas', 1)]",True
+intelligence,"[('intelligence', 1)]",True
+intelligent,[],False
+intelligible,[],False
+interesting,"[('interesante', 21), ('interesantes', 2), ('interesan', 1)]",True
+interests,"[('interesa', 1), ('intereses', 1), ('interesan', 1)]",True
+intimacy,[],False
+intimate,[],False
+intricate,[],False
+intrigue,[],True
+intriguing,[],False
+intriguingly,[],False
+intuitive,[],True
+invaluable,"[('inestimable', 1)]",True
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],False
+inviolable,[],False
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,[],False
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,"[('alegría', 3)]",True
+joyful,[],False
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,[],False
+jubilantly,[],False
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],False
+keen,"[('interés', 1)]",True
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,"[('amablemente', 3), ('de', 1)]",True
+kindness,"[('amabilidad', 4)]",True
+knowledgeable,"[('ducho _ entendidos', 1), ('ducho', 1), ('entendidos', 1), ('conocimiento', 1), ('duchos', 1)]",True
+kudos,[],False
+large-capacity,[],False
+laud,[],True
+laudable,[],False
+laudably,[],False
+lavish,[],False
+lavishly,[],False
+law-abiding,[],False
+lawful,"[('licito', 2)]",True
+lawfully,[],False
+lead,"[('llevar', 3), ('entradilla', 3), ('lleven', 2), ('conlleva', 1), ('dar lugar', 1)]",True
+leading,"[('protagonizando', 1)]",True
+leads,"[('conlleva', 1)]",True
+lean,[],True
+led,"[('llevó', 2), ('dirigía', 1), ('acarreó', 1), ('dirigió', 1), ('dado', 1)]",True
+legendary,[],False
+leverage,[],False
+levity,[],False
+liberate,[],True
+liberation,[],False
+liberty,[],False
+lifesaver,[],False
+light-hearted,[],False
+lighter,"[('light', 1)]",True
+likable,[],False
+like,"[('como', 120), ('gustaría', 72), ('gusta', 26), ('quisiera', 20), ('que', 12)]",True
+liked,"[('gustó', 3), ('escribí', 1), ('gustó _ escribí', 1), ('gustado', 1), ('caido', 1)]",True
+likes,"[('gusta', 1), ('guste', 1)]",True
+liking,"[('gusto', 2)]",True
+lionhearted,[],False
+lively,"[('animado', 1)]",True
+logical,"[('lógico', 9), ('lógica', 3), ('logico', 1)]",True
+long-lasting,[],False
+lovable,[],False
+lovably,[],False
+love,"[('encanta', 4), ('amor', 4), ('amar', 2), ('encantaría', 1), ('amas', 1)]",True
+loved,"[('encantaron', 1), ('encantado', 1), ('encantó', 1), ('amado', 1)]",True
+loveliness,[],False
+lovely,[],False
+lover,[],False
+loves,[],False
+loving,[],False
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,[],True
+loyalty,[],False
+lucid,"[('lucido', 1)]",True
+lucidly,[],False
+luck,"[('suerte', 7)]",True
+luckier,[],False
+luckiest,[],False
+luckiness,[],False
+lucky,"[('lucky', 1)]",True
+lucrative,[],False
+luminous,[],False
+lush,[],True
+luster,[],False
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,"[('lujo', 1)]",True
+luxuriously,[],False
+luxury,[],False
+lyrical,[],False
+magic,[],True
+magical,"[('magical', 1)]",True
+magnanimous,"[('magnánimo', 1)]",True
+magnanimously,[],False
+magnificence,[],False
+magnificent,"[('magnífico', 1)]",True
+magnificently,[],False
+majestic,"[('majestuoso', 1)]",True
+majesty,[],False
+manageable,[],False
+maneuverable,[],False
+marvel,"[('maravilla', 1)]",True
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,"[('maestro', 2), ('amo', 1), ('maestra', 1), ('domino', 1)]",True
+masterful,"[('magistral', 1)]",True
+masterfully,[],False
+masterpiece,[],False
+masterpieces,[],False
+masters,"[('masters', 1)]",True
+mastery,[],False
+matchless,[],False
+mature,"[('maduro', 2)]",True
+maturely,[],False
+maturity,[],False
+meaningful,[],False
+memorable,[],False
+merciful,[],False
+mercifully,[],False
+mercy,[],False
+merit,"[('merito', 1), ('mérito', 1)]",True
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,"[('feliz', 1)]",True
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,"[('meticulosa', 1)]",True
+meticulously,[],False
+mightily,[],False
+mighty,[],True
+mind-blowing,[],False
+miracle,[],False
+miracles,[],False
+miraculous,[],False
+miraculously,[],False
+miraculousness,[],False
+modern,"[('moderna', 4), ('moderno', 2), ('modernas', 1), ('modernos', 1), ('los', 1)]",True
+modest,"[('modesto', 1), ('modesta', 1)]",True
+modesty,[],False
+momentous,[],False
+monumental,"[('monumental', 1)]",True
+monumentally,[],False
+morality,[],False
+motivated,[],False
+multi-purpose,[],False
+navigable,[],False
+neat,[],False
+neatest,[],False
+neatly,[],False
+nice,"[('gusto', 3), ('lindo', 3), ('bonito', 2), ('bienchido', 1), ('bueno', 1)]",True
+nicely,[],False
+nicer,[],False
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,"[('noble', 2), ('nobles', 1)]",True
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,"[('notablemente', 1)]",True
+noteworthy,"[('reseñable', 1)]",True
+nourish,[],False
+nourishing,[],False
+nourishment,[],False
+novelty,[],False
+nurturing,[],False
+oasis,[],False
+obsession,[],False
+obsessions,[],False
+obtainable,[],False
+openly,"[('abiertamente', 2)]",True
+openness,[],False
+optimal,[],False
+optimism,[],False
+optimistic,[],False
+opulent,[],False
+orderly,"[('ordenado', 1)]",True
+originality,[],False
+outdo,[],False
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,"[('destacados', 4), ('destacado', 3)]",True
+outstandingly,[],False
+outstrip,[],False
+outwit,[],False
+ovation,[],True
+overjoyed,[],False
+overtake,[],False
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],False
+painlessly,[],False
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,"[('panorámica', 1)]",True
+paradise,"[('paraíso', 2)]",True
+paramount,[],False
+pardon,[],False
+passion,"[('pasión', 1)]",True
+passionate,"[('apasionan', 1)]",True
+passionately,[],False
+patience,"[('paciencia', 2)]",True
+patient,"[('paciente', 3)]",True
+patiently,[],False
+patriot,"[('patriota', 1)]",True
+patriotic,[],False
+peace,"[('paz', 5)]",True
+peaceable,[],False
+peaceful,[],False
+peacefully,[],False
+peacekeepers,[],False
+peach,"[('melocotón', 1)]",True
+peerless,[],False
+pep,"[('pep', 1)]",True
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,"[('perfecto', 16), ('perfeccionar', 1)]",True
+perfection,"[('perfección', 1)]",True
+perfectly,"[('perfectamente', 4)]",True
+permissible,"[('permisible', 1)]",True
+perseverance,[],False
+persevere,[],False
+personages,[],False
+personalized,"[('personalizado', 2), ('personalizada', 1)]",True
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,[],False
+pinnacle,[],False
+playful,[],False
+playfully,[],False
+pleasant,[],True
+pleasantly,[],False
+pleased,[],False
+pleases,[],False
+pleasing,[],False
+pleasingly,[],False
+pleasurable,[],False
+pleasurably,[],False
+pleasure,"[('placer', 3), ('gusto', 3)]",True
+plentiful,[],False
+pluses,[],False
+plush,[],False
+plusses,[],False
+poetic,[],False
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,"[('pulir', 1)]",True
+polite,"[('educado', 3), ('encanta', 1), ('educado _ encanta', 1)]",True
+politeness,[],False
+popular,"[('popular', 7), ('divulgativa', 1)]",True
+portable,[],False
+posh,[],False
+positive,"[('positivo', 3), ('positiva', 1), ('positivas', 1)]",True
+positively,"[('positivamente', 1)]",True
+positives,[],False
+powerful,[],True
+powerfully,[],False
+praise,"[('elogio', 2), ('elogios', 1)]",True
+praiseworthy,[],False
+praising,"[('ensalzando', 1)]",True
+pre-eminent,[],False
+precious,"[('preciosas', 1), ('precioso', 1)]",True
+precise,"[('preciso', 2), ('precisas', 1)]",True
+precisely,"[('precisamente', 15), ('justamente', 6), ('precísamente', 1), ('ello', 1), ('por ello', 1)]",True
+preeminent,[],False
+prefer,"[('prefiero', 5), ('preferiría', 4), ('prefieres', 4), ('preferís', 2), ('preferir', 1)]",True
+preferable,"[('preferible', 5)]",True
+preferably,"[('preferentemente', 3), ('preferible', 1)]",True
+prefered,[],False
+preferes,[],False
+preferring,[],False
+prefers,[],False
+premier,[],True
+prestige,"[('prestigio', 2)]",True
+prestigious,"[('prestigioso', 1), ('prestigiosos', 1), ('prestigio', 1), ('prestigiosa', 1)]",True
+prettily,[],False
+pretty,"[('bastante', 5), ('bonito', 1)]",True
+priceless,[],False
+pride,"[('orgullo', 1)]",True
+principled,[],False
+privilege,"[('privilegio', 1)]",True
+privileged,[],False
+prize,[],True
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,"[('productivas', 1)]",True
+productively,[],False
+proficient,[],False
+proficiently,[],False
+profound,[],True
+profoundly,"[('subnormal', 1)]",True
+profuse,[],False
+profusion,[],False
+progress,"[('progreso', 3), ('curso', 2), ('avanza', 1), ('avance', 1)]",True
+progressive,"[('progresista', 1)]",True
+prolific,[],False
+prominence,[],False
+prominent,"[('destacados', 2), ('destacado', 2), ('prominente', 1), ('destacadas', 1)]",True
+promise,"[('prometo', 3), ('compromete', 1), ('prometer', 1), ('promesa', 1)]",True
+promised,[],False
+promises,[],False
+promising,[],True
+promoter,"[('impulsora', 1)]",True
+prompt,"[('pronta', 1)]",True
+promptly,[],False
+proper,"[('la', 1), ('propios', 1)]",True
+properly,"[('adecuadamente', 3), ('debido', 1), ('correctamente', 1), ('como', 1)]",True
+propitious,[],False
+propitiously,[],False
+pros,[],True
+prosper,[],False
+prosperity,[],False
+prosperous,[],False
+prospros,[],False
+protect,"[('proteger', 4), ('semiproteger', 1), ('ampararía', 1), ('semiproteges', 1), ('protegemos', 1)]",True
+protection,"[('protección', 11), ('semiprotección', 4)]",True
+protective,[],False
+proud,"[('orgullosos', 1), ('orgulloso', 1)]",True
+proven,[],True
+proves,"[('demuestre', 2), ('prueba', 1), ('comprueba', 1)]",True
+providence,[],False
+proving,"[('probando', 1)]",True
+prowess,[],False
+prudence,"[('prudencia', 1)]",True
+prudent,"[('prudente', 3), ('prudentes', 1)]",True
+prudently,[],False
+punctual,[],False
+pure,"[('pura', 2), ('es', 1), ('puro', 1), ('es _ puro', 1)]",True
+purify,[],False
+purposeful,[],False
+quaint,[],True
+qualified,"[('matizarse', 1)]",True
+qualify,"[('requisitos', 1), ('califique', 1), ('califican', 1), ('cualifica', 1)]",True
+quicker,[],False
+quiet,[],False
+quieter,[],False
+radiance,[],False
+radiant,[],False
+rapid,[],False
+rapport,[],True
+rapt,[],False
+rapture,[],False
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,"[('racional', 17)]",True
+razor-sharp,[],False
+reachable,[],False
+readable,"[('legible', 1)]",True
+readily,[],False
+ready,"[('listo', 6), ('dispondré', 1), ('apto', 1), ('preparado', 1), ('dispuesta', 1)]",True
+reaffirm,"[('reafirmo', 1)]",True
+reaffirmation,[],False
+realistic,[],False
+realizable,[],False
+reasonable,"[('razonable', 2), ('prudencial', 1), ('razonables', 1)]",True
+reasonably,[],False
+reasoned,"[('razonada', 3), ('detenidamente _ razonada', 1), ('detenidamente', 1)]",True
+reassurance,[],False
+reassure,[],False
+receptive,[],False
+reclaim,[],False
+recomend,[],False
+recommend,"[('recomiendas', 9), ('recomiendo', 4), ('recomiendan', 1), ('recomendaría', 1), ('recomendarme', 1)]",True
+recommendation,"[('recomendación', 4)]",True
+recommendations,"[('recomendaciones', 4)]",True
+recommended,"[('recomendado', 3), ('recomendable', 1), ('recomendaste', 1), ('que', 1), ('recomendó', 1)]",True
+reconcile,[],False
+reconciliation,[],False
+record-setting,[],False
+recover,"[('recuperar', 7), ('recuperarlo', 2)]",True
+recovery,"[('recuperación', 1)]",True
+rectification,[],False
+rectify,"[('rectificar', 3), ('rectifica', 1)]",True
+rectifying,[],False
+redeem,[],True
+redeeming,[],False
+redemption,[],False
+refine,[],False
+refined,[],False
+refinement,[],False
+reform,[],True
+reformed,[],False
+reforming,[],False
+reforms,[],False
+refresh,[],True
+refreshed,"[('refrescado', 1), ('refresque', 1)]",True
+refreshing,[],False
+refund,[],False
+refunded,[],False
+regal,[],False
+regally,[],False
+regard,"[('respecto', 9), ('sentido', 1), ('respecta', 1)]",True
+rejoice,[],False
+rejoicing,[],False
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,"[('relajado', 2)]",True
+relent,[],False
+reliable,"[('fiable', 5), ('confiable', 3), ('fiables', 2), ('fidedignas', 1), ('confiables', 1)]",True
+reliably,"[('fiable', 1)]",True
+relief,"[('alivio', 1)]",True
+relish,[],False
+remarkable,"[('destacable', 4), ('destacables', 1)]",True
+remarkably,[],False
+remedy,"[('remediar', 1), ('subsanarlas', 1)]",True
+remission,[],False
+remunerate,[],False
+renaissance,[],False
+renewed,[],False
+renown,[],True
+renowned,"[('reconocidos', 1)]",True
+replaceable,[],False
+reputable,"[('acreditadas', 1)]",True
+reputation,"[('reputación', 1)]",True
+resilient,[],False
+resolute,[],False
+resound,[],True
+resounding,"[('rotundo', 1)]",True
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('respeto', 16), ('respetar', 3), ('respetaras', 2), ('respecto', 2), ('respete', 2)]",True
+respectable,"[('respetable', 1)]",True
+respectful,[],True
+respectfully,[],False
+respite,[],False
+resplendent,[],False
+responsibly,[],False
+responsive,[],False
+restful,[],False
+restored,"[('restaurada', 1), ('restaurar', 1), ('restaurará', 1), ('restauró', 1), ('restituirse', 1)]",True
+restructure,[],False
+restructured,[],False
+restructuring,"[('reestructurándolo', 1), ('reestructuración', 1)]",True
+retractable,[],False
+revel,[],False
+revelation,[],False
+revere,[],False
+reverence,[],False
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,[],False
+revive,[],True
+revives,[],False
+revolutionary,"[('revolucionario', 1), ('revolucionarios', 1)]",True
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,"[('recompensa', 1)]",True
+rewarding,[],False
+rewardingly,[],False
+rich,[],True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('¿', 92), ('no', 49), ('razón', 21), ('derecho', 19), ('bien', 10)]",True
+righten,[],False
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,[],False
+rightness,[],False
+risk-free,[],False
+robust,"[('robustas', 1)]",True
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,"[('románticos', 1)]",True
+romantically,[],False
+romanticize,[],False
+roomier,[],False
+roomy,[],False
+rosy,"[('rosy', 2)]",True
+safe,[],True
+safely,[],False
+sagacity,[],False
+sagely,[],False
+saint,"[('san', 4), ('santa', 2)]",True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,[],False
+sane,[],True
+satisfactorily,[],False
+satisfactory,[],False
+satisfied,"[('satisfecho', 2), ('conforme', 1)]",True
+satisfies,[],False
+satisfy,"[('satisfacer', 2)]",True
+satisfying,[],False
+satisified,[],False
+saver,[],False
+savings,"[('cajas', 1)]",True
+savior,[],False
+savvy,[],False
+scenic,[],False
+seamless,[],False
+seasoned,[],False
+secure,"[('seguros', 1)]",True
+securely,[],False
+selective,"[('selectivo', 1)]",True
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,[],True
+sensational,"[('sensacional', 1)]",True
+sensationally,[],False
+sensations,[],False
+sensible,"[('sensato', 2), ('sensatos', 1)]",True
+sensibly,[],False
+sensitive,"[('sensible', 2)]",True
+serene,[],False
+serenity,[],False
+sexy,[],False
+sharp,[],False
+sharper,[],False
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,[],False
+shiny,[],False
+significant,"[('significativo', 2), ('significativa', 1)]",True
+silent,"[('callo', 1), ('callaré', 1)]",True
+simpler,"[('más', 2), ('más sencilla', 2), ('sencilla', 2), ('simple', 1)]",True
+simplest,"[('más', 1), ('más simple', 1), ('simple', 1)]",True
+simplified,[],False
+simplifies,[],False
+simplify,[],False
+simplifying,[],False
+sincere,"[('sinceras', 1)]",True
+sincerely,"[('sinceramente', 2)]",True
+sincerity,[],False
+skill,[],True
+skilled,"[('hábil', 2), ('hábiles', 1)]",True
+skillful,[],False
+skillfully,[],False
+slammin,[],True
+sleek,[],False
+slick,[],False
+smart,[],True
+smarter,"[('inteligentes', 1)]",True
+smartest,[],False
+smartly,[],False
+smile,"[('sonreír', 1)]",True
+smiles,"[('sonrisas', 1)]",True
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,[],True
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,[],False
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,[],True
+softer,[],False
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,"[('sólido', 2), ('sólida', 1)]",True
+solidarity,"[('solidarice', 1)]",True
+soothe,[],False
+soothingly,[],False
+sophisticated,[],False
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,"[('espectacular', 1)]",True
+spectacularly,[],False
+speedily,[],False
+speedy,[],False
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,"[('espiritual', 3)]",True
+splendid,[],False
+splendidly,[],False
+splendor,"[('esplendor', 1)]",True
+spontaneous,[],False
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,[],False
+stabilize,[],True
+stable,[],False
+stainless,[],False
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],False
+steadfastly,[],False
+steadfastness,[],False
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,[],False
+stellarly,[],False
+stimulate,[],False
+stimulates,[],False
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],False
+straightforward,[],False
+streamlined,[],False
+striking,"[('porcentaje', 1)]",True
+strikingly,[],False
+striving,"[('esfuerza', 1)]",True
+strong,"[('fuerte', 5), ('fortísimos', 1)]",True
+stronger,"[('fuerte', 1)]",True
+strongest,[],False
+stunned,[],False
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,[],False
+stylishly,[],False
+stylized,[],False
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,"[('cuestiones', 1)]",True
+succeed,"[('exita', 1)]",True
+succeeded,"[('logrado', 1), ('sucedió', 1), ('conseguido', 1)]",True
+succeeding,[],False
+succeeds,[],False
+succes,[],True
+success,"[('éxito', 2), ('suceso', 1), ('triunfar', 1)]",True
+successes,"[('éxitos', 1)]",True
+successful,"[('acertado', 1)]",True
+successfully,"[('éxito', 2)]",True
+suffice,"[('baste', 1)]",True
+sufficed,[],False
+suffices,[],False
+sufficient,"[('suficiente', 4), ('suficientes', 1)]",True
+sufficiently,"[('suficientemente', 4)]",True
+suitable,"[('indicado', 1), ('adecuado', 1), ('adecuada', 1)]",True
+sumptuous,[],True
+sumptuously,[],False
+sumptuousness,[],False
+super,"[('superplantilla', 1), ('super', 1)]",True
+superb,[],False
+superbly,[],False
+superior,"[('superior', 1), ('superiores', 1)]",True
+superiority,[],False
+supple,[],True
+support,"[('apoyo', 9), ('sustentar', 2), ('respalden', 2), ('apoyos', 2), ('apoyar', 2)]",True
+supported,"[('sustentadas', 1), ('apoyado', 1), ('apoyaron', 1), ('sostiene', 1), ('admite', 1)]",True
+supporter,[],True
+supporting,"[('apoyándome', 1)]",True
+supportive,"[('apoyo', 1)]",True
+supports,"[('respalde', 2), ('sostiene', 1), ('avale', 1), ('sostenga', 1), ('sustenta', 1)]",True
+supremacy,[],False
+supreme,"[('supremo', 1), ('suprema', 1)]",True
+supremely,[],False
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,"[('superaras', 1)]",True
+surreal,"[('surrealistas', 1)]",True
+survival,"[('survival', 1)]",True
+survivor,[],True
+sustainability,[],False
+sustainable,"[('sustentable', 1)]",True
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,"[('barrer', 1)]",True
+sweet,[],True
+sweeten,[],False
+sweetheart,"[('cariño', 1)]",True
+sweetly,[],False
+sweetness,[],False
+swift,[],False
+swiftness,[],False
+talent,"[('talento', 2)]",True
+talented,"[('talentosa', 2)]",True
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,[],False
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,[],False
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('gracias', 22), ('agradezco', 5), ('muchas', 5), ('agradecerte', 3), ('agradecer', 2)]",True
+thankful,[],False
+thinner,[],False
+thoughtful,"[('meditada', 1)]",True
+thoughtfully,[],False
+thoughtfulness,[],False
+thrift,[],False
+thrifty,[],False
+thrill,[],False
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,[],False
+thriving,[],False
+thumb-up,[],False
+thumbs-up,[],False
+tickle,"[('buscándome', 1), ('cosquillas', 1), ('buscándome _ cosquillas', 1)]",True
+tidy,[],False
+time-honored,[],False
+timely,"[('oportuna', 1)]",True
+tingle,[],False
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,[],False
+tolerable,"[('tolerable', 1)]",True
+toll-free,[],False
+top,"[('superior', 5), ('arriba', 4), ('encima', 3), ('top', 2), ('alto', 1)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,[],True
+tough,"[('duro', 1)]",True
+tougher,[],False
+toughest,[],False
+traction,[],True
+tranquil,[],False
+tranquility,[],False
+transparent,[],False
+treasure,[],False
+tremendously,[],False
+trendy,[],False
+triumph,[],False
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,"[('trofeo', 1)]",True
+trouble-free,[],False
+trump,[],False
+trumpet,[],False
+trust,"[('confianza', 3), ('confía', 2), ('fío', 1), ('trust', 1), ('confiar', 1)]",True
+trusted,"[('confiar', 1)]",True
+trusting,"[('confiando', 1)]",True
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,"[('fiar', 1)]",True
+trusty,[],False
+truthful,"[('veraz', 3)]",True
+truthfully,[],False
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,[],False
+unassailable,[],False
+unbeatable,[],False
+unbiased,[],False
+unbound,[],False
+uncomplicated,[],False
+unconditional,[],False
+undamaged,[],False
+undaunted,[],False
+understandable,"[('comprensible', 2), ('entendible', 1)]",True
+undisputable,[],False
+undisputably,[],False
+undisputed,[],False
+unencumbered,[],False
+unequivocal,[],False
+unequivocally,[],False
+unfazed,[],False
+unfettered,[],False
+unforgettable,[],False
+unity,"[('unidad', 2)]",True
+unlimited,[],False
+unmatched,[],False
+unparalleled,[],True
+unquestionable,[],False
+unquestionably,[],False
+unreal,[],False
+unrestricted,[],True
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,[],False
+upheld,[],False
+uphold,[],False
+uplift,[],False
+uplifting,[],False
+upliftingly,[],False
+upliftment,[],False
+upscale,[],False
+usable,"[('usable', 1), ('utilizable', 1)]",True
+useable,[],False
+useful,"[('útil', 17), ('útiles', 5), ('utilidad', 3), ('sirve', 1), ('servir', 1)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,[],False
+valiantly,[],False
+valor,[],False
+valuable,"[('valiosos', 1), ('a', 1), ('valioso', 1)]",True
+variety,"[('variedad', 3)]",True
+venerate,[],False
+verifiable,"[('verificable', 5), ('verificables', 5), ('comprobables', 2), ('contrastable', 1)]",True
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,[],False
+victory,[],False
+viewable,[],False
+vigilance,[],False
+vigilant,[],False
+virtue,"[('virtud', 1)]",True
+virtuous,[],False
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],True
+vouchsafe,[],False
+warm,[],True
+warmer,[],False
+warmhearted,[],False
+warmly,[],False
+warmth,[],False
+wealthy,[],False
+welcome,"[('bienvenida', 13), ('bienvenido', 7), ('dar', 3), ('dar _ bienvenida', 3), ('plantilla', 2)]",True
+well,"[('bien', 110), ('pues', 56), ('bueno', 45), ('también', 18), ('además', 5)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,[],False
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,"[('dispuesto', 6), ('dispuestas', 1), ('dispuesta', 1)]",True
+willingly,[],False
+willingness,[],False
+win,"[('ganar', 2), ('gano', 1), ('goleada', 1), ('ganamos', 1)]",True
+windfall,[],False
+winnable,[],False
+winner,"[('ganador', 2)]",True
+winners,"[('ganadores', 1)]",True
+winning,"[('captando', 1), ('ganarla', 1)]",True
+wins,"[('victorias', 1)]",True
+wisdom,"[('sabiduría', 1)]",True
+wise,"[('prudente', 1), ('sabios', 1)]",True
+wisely,"[('sabiamente', 1)]",True
+witty,"[('ocurrente', 1), ('¿ ocurrente', 1), ('¿', 1)]",True
+won,"[('ganado', 4), ('ganó', 3), ('ganados', 1), ('ganaron', 1)]",True
+wonder,"[('pregunto', 16), ('extraña', 2), ('preguntas', 1), ('maravilla', 1), ('preguntaste', 1)]",True
+wonderful,"[('maravillosa', 2), ('maravilloso', 1)]",True
+wonderfully,[],False
+wonderous,[],False
+wonderously,[],False
+wonders,"[('maravilas', 1)]",True
+wondrous,[],False
+woo,[],True
+work,"[('trabajo', 63), ('obra', 25), ('trabajar', 20), ('labor', 8), ('funciona', 6)]",True
+workable,[],False
+worked,"[('trabajado', 8), ('trabajé', 2), ('trabajaban', 1), ('trabajndo', 1), ('esforzado', 1)]",True
+works,"[('obras', 21), ('funciona', 4), ('trabajos', 4), ('trabaja', 3), ('works', 1)]",True
+world-famous,[],False
+worth,"[('pena', 5), ('vale', 3), ('valen', 2), ('con', 1), ('valga', 1)]",True
+worth-while,[],False
+worthiness,[],False
+worthwhile,"[('pena', 1), ('valga', 1)]",True
+worthy,"[('merecedor', 2), ('merecedora', 1), ('dignos', 1), ('digno', 1)]",True
+wow,"[('vaya', 3)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],False
+youthful,[],False
+zeal,[],False
+zenith,[],False
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,[],False
+abolish,[],True
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],True
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,"[('brusca', 1)]",True
+abruptly,[],False
+abscond,[],False
+absence,"[('ausencia', 6), ('falta', 1)]",True
+absent-minded,[],False
+absentee,[],False
+absurd,"[('absurdo', 4), ('absurda', 3), ('absurdos', 2)]",True
+absurdity,"[('absurdo', 1)]",True
+absurdly,[],False
+absurdness,[],False
+abuse,"[('abuso', 6), ('abusa', 1), ('abusan', 1), ('insultos', 1), ('abuse', 1)]",True
+abused,"[('abusó', 1)]",True
+abuses,"[('abusos', 1)]",True
+abusive,[],False
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,[],True
+accost,[],False
+accursed,[],False
+accusation,"[('acusación', 2)]",True
+accusations,"[('acusaciones', 3)]",True
+accuse,"[('acusas', 3), ('acusarme', 2), ('acuses', 1), ('acusen', 1), ('acusa', 1)]",True
+accuses,"[('acusa', 3)]",True
+accusing,"[('acusarme', 2), ('acusar', 1), ('acusándome', 1), ('acusando', 1)]",True
+accusingly,[],False
+acerbate,[],False
+acerbic,[],False
+acerbically,[],False
+ache,[],True
+ached,[],True
+aches,[],True
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,[],True
+addicted,"[('adicto', 1)]",True
+addicting,[],False
+addicts,[],False
+admonish,"[('amonestarlo', 1)]",True
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,[],False
+adulterate,[],False
+adulterated,[],False
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,[],False
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,"[('que', 7), ('miedo', 2)]",True
+aggravate,[],False
+aggravating,[],False
+aggravation,"[('agravante', 1)]",True
+aggression,[],False
+aggressive,"[('agresivo', 2)]",True
+aggressiveness,[],False
+aggressor,[],False
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],False
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,[],False
+alarm,[],False
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,[],False
+alienated,[],False
+alienation,[],False
+allegation,"[('acusación', 1)]",True
+allegations,[],False
+allege,"[('alegas', 1)]",True
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,"[('ambigüedad', 4)]",True
+ambiguous,"[('ambiguo', 2), ('ambiguos', 2), ('ambigua', 2)]",True
+ambivalence,[],False
+ambivalent,[],False
+ambush,[],False
+amiss,[],False
+amputate,[],False
+anarchism,"[('anarquismo', 7)]",True
+anarchist,"[('anarquistas', 3), ('anarquista', 1)]",True
+anarchistic,[],False
+anarchy,[],False
+anemic,[],False
+anger,"[('enojo', 3), ('rabía', 1), ('rabia', 1), ('enfado', 1)]",True
+angrily,[],False
+angriness,[],False
+angry,"[('enojar', 2), ('cólera', 1), ('enojo', 1), ('angurrienta', 1), ('enfades', 1)]",True
+anguish,[],False
+animosity,"[('animadversión', 2)]",True
+annihilate,[],False
+annihilation,[],False
+annoy,"[('fastidiarme', 1), ('molestar', 1), ('molestarme', 1), ('fastidiar', 1)]",True
+annoyance,[],False
+annoyances,[],False
+annoyed,[],False
+annoying,"[('molesto', 2), ('fastidiar', 1)]",True
+annoyingly,[],False
+annoys,"[('mosquea', 1), ('molesta', 1)]",True
+anomalous,[],False
+anomaly,"[('anómalo', 1)]",True
+antagonism,[],False
+antagonist,[],False
+antagonistic,[],False
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,[],False
+antiquated,[],False
+antithetical,[],False
+anxieties,[],False
+anxiety,"[('ansiedad', 1)]",True
+anxious,[],False
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],False
+apocalypse,[],False
+apocalyptic,"[('infernalapocalíptica', 1), ('apocalípticas', 1)]",True
+apologist,[],False
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],False
+apprehensively,[],False
+arbitrary,"[('arbitrarias', 7), ('arbitraria', 6), ('arbitrario', 5), ('arbitrarios', 1), ('criterios', 1)]",True
+arcane,[],False
+archaic,[],False
+arduous,[],False
+arduously,[],False
+argumentative,[],True
+arrogance,"[('prepotencia', 2)]",True
+arrogant,"[('arrogante', 1)]",True
+arrogantly,"[('prepotentemente', 1)]",True
+ashamed,"[('vergüenza', 1)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],False
+assassinate,[],False
+assault,[],False
+assult,[],False
+astray,[],False
+asunder,[],False
+atrocious,[],False
+atrocities,"[('barbaridades', 1)]",True
+atrocity,[],False
+atrophy,[],False
+attack,"[('ataque', 4), ('atacar', 2), ('attack', 1), ('ataco', 1), ('atentado', 1)]",True
+attacks,"[('ataques', 4), ('atentados', 1), ('agrede', 1), ('ataca', 1)]",True
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,"[('atrevimiento', 2)]",True
+audiciously,[],False
+austere,"[('austera', 1)]",True
+authoritarian,"[('autoritarios', 1), ('autoritarias', 1)]",True
+autocrat,[],False
+autocratic,[],False
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],False
+averse,[],False
+aversion,[],False
+aweful,[],False
+awful,[],True
+awfully,[],False
+awfulness,[],False
+awkward,[],False
+awkwardness,[],False
+ax,"[('a x', 1), ('a', 1), ('x', 1), ('hachazos', 1)]",True
+babble,[],False
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,[],True
+backwardness,"[('atraso', 1)]",True
+backwood,[],False
+backwoods,[],False
+bad,"[('mala', 20), ('mal', 19), ('malo', 11), ('malos', 3), ('malas', 3)]",True
+badly,"[('mal', 8), ('pésimo', 1), ('malamente', 1)]",True
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],True
+banal,[],True
+banalize,[],False
+bane,[],False
+banish,[],False
+banishment,[],False
+bankrupt,[],False
+barbarian,"[('bárbaro', 1)]",True
+barbaric,[],False
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,[],False
+baseless,[],False
+bash,[],False
+bashed,[],False
+bashful,[],False
+bashing,[],False
+bastard,"[('canalla', 1)]",True
+bastards,[],False
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,"[('ruego', 4), ('ruego perdones', 1), ('perdones', 1), ('suplico', 1)]",True
+beggar,[],False
+beggarly,[],False
+begging,"[('limosnean', 1)]",True
+beguile,[],False
+belabor,[],False
+belated,[],False
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,"[('menospreciando', 1)]",True
+bellicose,"[('belicosa', 1)]",True
+belligerence,[],False
+belligerent,[],False
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,[],False
+berate,[],True
+bereave,[],False
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],True
+betray,[],False
+betrayal,[],False
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,"[('ojo', 1), ('cuidado', 1)]",True
+bewilder,[],False
+bewildered,[],False
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,[],False
+bewitch,[],False
+bias,"[('sesgo', 2), ('impositivo', 1), ('sesgo impositivo', 1), ('tendenciosidad', 1)]",True
+biased,"[('tendenciosa', 3), ('sesgadas', 1), ('tendenciosos', 1), ('sesgado', 1), ('sesgada', 1)]",True
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,[],False
+bitch,[],False
+bitchy,[],False
+biting,"[('mordiendo', 1)]",True
+bitingly,[],False
+bitter,"[('amargos', 1)]",True
+bitterly,[],False
+bitterness,[],False
+bizarre,[],False
+blab,[],True
+blabber,[],False
+blackmail,[],False
+blah,[],False
+blame,"[('culpes', 1), ('culpas', 1)]",True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,[],False
+blasted,[],False
+blatant,[],False
+blatantly,[],False
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],False
+bleeding,[],False
+bleeds,[],False
+blemish,[],False
+blind,"[('prácticamente', 1)]",True
+blinding,[],False
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,"[('bloqueo', 3)]",True
+blockhead,[],False
+bloodshed,[],False
+bloodthirsty,[],False
+bloody,"[('puñetera', 1)]",True
+blotchy,[],False
+blow,[],True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,"[('tajante', 1)]",True
+blur,[],True
+bluring,[],False
+blurred,"[('borrosas', 1)]",True
+blurring,[],False
+blurry,[],False
+blurs,[],False
+blurt,[],False
+boastful,[],False
+boggle,[],False
+bogus,[],False
+boil,[],False
+boiling,[],False
+boisterous,[],False
+bomb,"[('bomba', 1)]",True
+bombard,[],False
+bombardment,[],False
+bombastic,"[('rimbombante', 2)]",True
+bondage,[],False
+bonkers,[],False
+bore,"[('llevaba', 1), ('aburres', 1)]",True
+bored,"[('aburrirse', 1), ('hastío', 1)]",True
+boredom,[],False
+bores,[],False
+boring,"[('aburrido', 1)]",True
+botch,[],False
+bother,"[('moleste', 7), ('molesta', 5), ('molestar', 5), ('incomoda', 2), ('molestia', 2)]",True
+bothered,"[('molestado', 5), ('revertido', 1), ('molestado _ revertido', 1), ('molestó', 1), ('molestarle', 1)]",True
+bothering,[],False
+bothers,"[('molesta', 4), ('incomoda', 1)]",True
+bothersome,[],False
+bowdlerize,[],False
+boycott,[],False
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,[],False
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,[],False
+brazen,[],False
+brazenly,[],False
+brazenness,[],False
+breach,[],False
+break,"[('rompen', 2), ('terminar', 1), ('infringir', 1), ('respiro', 1), ('violar', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,[],False
+breaking,"[('romper', 2), ('noticia', 1), ('infringir', 1)]",True
+breaks,"[('irrumpe', 1), ('desempata', 1), ('rompe', 1), ('saltos', 1)]",True
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,"[('rompió', 1)]",True
+broken,"[('rompe', 2), ('roto', 2), ('rotas', 1), ('rotos', 1), ('infringido', 1)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,"[('brutales', 1)]",True
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,[],False
+brute,[],False
+brutish,[],False
+bs,[],True
+buckle,[],False
+bug,"[('error', 2), ('bug', 2)]",True
+bugging,[],False
+buggy,[],False
+bugs,"[('fallos', 2)]",True
+bulkier,[],False
+bulkiness,[],False
+bulky,[],False
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,"[('chorradas', 1)]",True
+bullshyt,[],False
+bully,[],True
+bullying,"[('acoso', 1), ('matoneo', 1)]",True
+bullyingly,[],False
+bum,[],True
+bump,[],False
+bumped,[],False
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,[],False
+bungle,[],False
+bungler,[],False
+bungling,[],False
+bunk,[],False
+burden,[],True
+burdensome,[],False
+burdensomely,[],False
+burn,"[('quemar', 1)]",True
+burned,[],False
+burning,"[('quema', 2), ('burning', 1)]",True
+burns,"[('quema', 1)]",True
+bust,"[('busto', 1)]",True
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,"[('bizantino', 1), ('bizantinos', 1)]",True
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],False
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,"[('cáncer', 1), ('cancer', 1)]",True
+cancerous,[],False
+cannibal,[],False
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,[],True
+carelessness,"[('descuido', 1)]",True
+caricature,[],False
+carnage,[],False
+carp,[],False
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,[],False
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,[],True
+censure,[],False
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,[],False
+chaos,"[('caos', 1), ('chaos', 1)]",True
+chaotic,"[('caótico', 1)]",True
+chasten,[],True
+chastise,[],False
+chastisement,[],False
+chatter,[],False
+chatterbox,[],False
+cheap,"[('baratas', 1)]",True
+cheapen,[],False
+cheaply,[],False
+cheat,[],False
+cheated,[],False
+cheater,[],False
+cheating,[],False
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,"[('cursi', 1)]",True
+chide,[],False
+childish,"[('infantil', 2)]",True
+chill,[],True
+chilly,[],False
+chintzy,[],False
+choke,[],False
+choleric,[],False
+choppy,[],False
+chore,[],False
+chronic,[],True
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,[],False
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,[],False
+clogged,[],False
+clogs,[],False
+cloud,"[('nube', 1)]",True
+clouding,[],False
+cloudy,[],False
+clueless,"[('despistado', 3), ('despistada', 1)]",True
+clumsy,[],False
+clunky,[],False
+coarse,[],False
+cocky,[],False
+coerce,[],False
+coercion,[],False
+coercive,[],False
+cold,"[('frío', 1)]",True
+coldly,[],False
+collapse,[],True
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],True
+comical,"[('cómico', 1)]",True
+commiserate,[],False
+commonplace,[],False
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('quejar', 1), ('quejarse', 1), ('se quejan', 1), ('quejan', 1), ('se', 1)]",True
+complained,"[('quejaste', 1), ('quejado', 1)]",True
+complaining,"[('quejando', 1)]",True
+complains,[],False
+complaint,"[('denuncia', 8), ('queja', 5), ('reclamo', 2), ('discusión', 2), ('queja _ discusión', 2)]",True
+complaints,"[('denuncias', 3), ('quejas', 1), ('reclamos', 1)]",True
+complex,"[('complejo', 3), ('conjunto', 1)]",True
+complicated,"[('complicado', 4), ('complica', 1)]",True
+complication,"[('complicación', 1)]",True
+complicit,[],False
+compulsion,[],False
+compulsive,[],False
+concede,[],False
+conceded,[],False
+conceit,[],False
+conceited,[],False
+concen,[],True
+concens,[],False
+concern,"[('preocupa', 1), ('inquietud', 1)]",True
+concerned,"[('ocecado', 1), ('preocupando', 1), ('preocupa', 1), ('preocupado', 1), ('respecta', 1)]",True
+concerns,"[('concierne', 1)]",True
+concession,"[('concesión', 1)]",True
+concessions,"[('concesiones', 1)]",True
+condemn,[],True
+condemnable,[],False
+condemnation,"[('condenación', 1)]",True
+condemned,"[('condenadas', 1), ('condenó', 1)]",True
+condemns,[],False
+condescend,[],False
+condescending,[],False
+condescendingly,[],False
+condescension,[],False
+confess,"[('confesarte', 1), ('confesar', 1)]",True
+confession,"[('confesión', 1)]",True
+confessions,"[('confessions', 1)]",True
+confined,[],False
+conflict,"[('conflicto', 17)]",True
+conflicted,[],False
+conflicting,[],False
+conflicts,"[('conflictos', 2)]",True
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],True
+confrontation,"[('enfrentamiento', 1)]",True
+confrontational,[],False
+confuse,"[('confundas', 1), ('confundes', 1)]",True
+confused,"[('confundido', 4), ('confundiera', 1), ('confundan', 1)]",True
+confuses,"[('confunde', 2)]",True
+confusing,"[('confusa', 3), ('confuso', 3), ('confusión', 1), ('confusas', 1), ('enredar', 1)]",True
+confusion,"[('confusión', 2), ('confusiones', 2)]",True
+confusions,[],False
+congested,[],False
+congestion,[],False
+cons,[],True
+conscons,[],False
+conservative,"[('conservador', 1)]",True
+conspicuous,[],False
+conspicuously,[],False
+conspiracies,"[('conspiraciones', 1)]",True
+conspiracy,[],True
+conspirator,[],False
+conspiratorial,[],False
+conspire,[],False
+consternation,[],False
+contagious,[],False
+contaminate,[],False
+contaminated,[],False
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,"[('menosprecio', 2)]",True
+contemptible,[],False
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,[],False
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,"[('contradice', 1), ('contradicen', 1), ('contradijesen', 1), ('llevo _ contraria', 1), ('contraria', 1)]",True
+contradiction,"[('contradicción', 2)]",True
+contradictory,"[('contradictorios', 3)]",True
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,"[('polémica', 1), ('controversial', 1), ('polémicos', 1), ('polémico', 1)]",True
+controversy,"[('controversia', 4), ('polémica', 2), ('polemica', 1)]",True
+convoluted,[],False
+corrode,[],False
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,[],False
+corrupted,[],False
+corrupting,[],False
+corruption,[],False
+corrupts,[],False
+corruptted,[],False
+costlier,[],False
+costly,[],False
+counter-productive,[],False
+counterproductive,[],False
+coupists,[],False
+covetous,[],False
+coward,"[('cobarda', 1)]",True
+cowardly,"[('cobardemente', 1)]",True
+crabby,[],False
+crack,[],False
+cracked,[],False
+cracks,[],False
+craftily,[],False
+craftly,[],False
+crafty,[],False
+cramp,[],False
+cramped,[],False
+cramping,[],False
+cranky,[],False
+crap,"[('porqueria', 1)]",True
+crappy,[],False
+craps,[],True
+crash,[],True
+crashed,"[('estrellé', 1)]",True
+crashes,"[('bloqueos', 1), ('fallas', 1)]",True
+crashing,[],False
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,"[('loco', 3), ('vándalos', 1), ('vándalos _ loco', 1), ('enloqueciendo', 1), ('locos', 1)]",True
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,[],True
+creeping,[],False
+creeps,"[('cuela', 1)]",True
+creepy,[],False
+crept,[],False
+crime,"[('crimen', 3), ('delito', 2), ('policiaco', 1)]",True
+criminal,"[('delictivos', 1), ('criminal', 1)]",True
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,[],False
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,[],False
+critic,"[('crítico', 2)]",True
+critical,"[('crítico', 4), ('crítica', 2), ('critica', 1), ('críticos', 1), ('caridad', 1)]",True
+criticism,"[('críticas', 6), ('crítica', 4), ('autocritica', 1), ('criticas', 1)]",True
+criticisms,"[('críticas', 4)]",True
+criticize,"[('criticar', 2), ('critican', 2), ('critica', 1), ('hacer', 1), ('hacer críticas', 1)]",True
+criticized,"[('critico', 1), ('criticar', 1)]",True
+criticizing,"[('criticando', 1)]",True
+critics,[],False
+cronyism,[],False
+crook,[],False
+crooked,[],False
+crooks,[],False
+crowded,[],False
+crowdedness,[],False
+crude,"[('burdo', 1), ('crudo', 1)]",True
+cruel,[],True
+crueler,[],False
+cruelest,[],False
+cruelly,[],False
+cruelness,[],False
+cruelties,[],False
+cruelty,"[('crueldad', 1), ('ensañamiento', 1)]",True
+crumble,[],False
+crumbling,[],False
+crummy,[],False
+crumple,[],False
+crumpled,[],False
+crumples,[],False
+crush,[],True
+crushed,[],False
+crushing,[],False
+cry,"[('grito', 2), ('lloro', 1)]",True
+culpable,[],False
+culprit,"[('culpable', 1)]",True
+cumbersome,"[('engorrosa', 1)]",True
+cunt,[],False
+cunts,[],False
+cuplrit,[],False
+curse,[],False
+cursed,[],False
+curses,[],False
+curt,[],True
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,[],False
+cynicism,[],False
+d*mn,[],False
+damage,"[('dañan', 1), ('daño', 1)]",True
+damaged,[],False
+damages,[],False
+damaging,"[('dañando', 1)]",True
+damn,"[('puñetero', 1)]",True
+damnable,"[('condenable', 1)]",True
+damnably,[],False
+damnation,[],False
+damned,[],False
+damning,[],False
+damper,[],False
+danger,"[('peligro', 2)]",True
+dangerous,[],True
+dangerousness,[],False
+dark,"[('la', 1), ('gris', 1)]",True
+darken,[],False
+darkened,[],False
+darker,"[('más', 1), ('más oscuro', 1), ('oscuro', 1)]",True
+darkness,"[('tinieblas', 1)]",True
+dastard,[],False
+dastardly,[],False
+daunt,[],False
+daunting,[],False
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('muerta', 1), ('muerto', 1)]",True
+deadbeat,[],False
+deadlock,[],False
+deadly,[],False
+deadweight,[],False
+deaf,"[('sordos', 1)]",True
+dearth,[],False
+death,"[('muerte', 5), ('fallecimiento', 4), ('nacimiento _ fallecimiento', 1), ('nacimiento', 1)]",True
+debacle,[],False
+debase,[],False
+debasement,[],False
+debaser,[],False
+debatable,"[('discutible', 3)]",True
+debauch,[],True
+debaucher,[],True
+debauchery,"[('despiporre', 1)]",True
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,[],False
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,[],False
+decayed,[],False
+deceit,[],False
+deceitful,[],False
+deceitfully,[],False
+deceitfulness,[],False
+deceive,"[('revirtieron', 1), ('revirtieron _ engañar', 1), ('engañar', 1)]",True
+deceiver,[],False
+deceivers,[],False
+deceiving,[],False
+deception,[],False
+deceptive,[],False
+deceptively,[],False
+declaim,[],False
+decline,[],False
+declines,[],False
+declining,[],False
+decrement,[],False
+decrepit,[],False
+decrepitude,[],False
+decry,[],False
+defamation,[],True
+defamations,"[('difamaciones', 1)]",True
+defamatory,"[('difamatorias', 1)]",True
+defame,[],False
+defect,"[('defecto', 1)]",True
+defective,[],False
+defects,"[('defectos', 2)]",True
+defensive,[],False
+defiance,[],False
+defiant,"[('desafiante', 1)]",True
+defiantly,[],False
+deficiencies,"[('deficiencias', 3), ('carencias', 2)]",True
+deficiency,"[('deficiencia', 1)]",True
+deficient,[],False
+defile,[],False
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,"[('extinta', 1)]",True
+defy,[],False
+degenerate,[],False
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,[],False
+degrading,[],False
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,[],True
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,"[('tardanza', 2), ('atraso', 1), ('retraso', 1)]",True
+delayed,[],False
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,[],False
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,[],False
+delusion,[],True
+delusional,"[('delirante', 1)]",True
+delusions,[],False
+demean,[],False
+demeaning,[],False
+demise,[],False
+demolish,[],False
+demolisher,[],False
+demon,"[('demonio', 1)]",True
+demonic,[],False
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,[],True
+denied,"[('negado', 1), ('denegado', 1)]",True
+denies,"[('desmienta', 1)]",True
+denigrate,[],False
+denounce,[],True
+dense,[],False
+dent,[],True
+dented,[],False
+dents,[],True
+denunciate,[],False
+denunciation,[],False
+denunciations,[],False
+deny,"[('niego', 3), ('niegas', 2), ('negar', 2), ('niegas _ quejaste', 1), ('quejaste', 1)]",True
+denying,"[('niegas', 1)]",True
+deplete,[],False
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],True
+depress,[],True
+depressed,[],False
+depressing,"[('deprimentes', 1)]",True
+depressingly,[],False
+depression,[],False
+depressions,[],False
+deprive,"[('privar', 1)]",True
+deprived,[],False
+deride,[],False
+derision,"[('escarnio', 1)]",True
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,[],False
+desecrate,[],False
+desert,[],False
+desertion,[],False
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],True
+despairing,"[('desesperar', 1)]",True
+despairingly,[],False
+desperate,"[('desesperante', 1)]",True
+desperately,[],False
+desperation,"[('desesperación', 1)]",True
+despicable,[],False
+despicably,[],False
+despise,"[('despreciarla', 1)]",True
+despised,"[('desprecia', 1)]",True
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],True
+despotic,[],False
+despotism,"[('despotismo', 1)]",True
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,"[('destruir', 17), ('destruiria', 1), ('dar', 1)]",True
+destroyer,[],False
+destruction,"[('destrucción', 3)]",True
+destructive,"[('destructivo', 1)]",True
+desultory,[],False
+deter,[],True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,[],False
+deterrent,[],False
+detest,[],False
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,[],True
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,[],False
+detrimental,[],False
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,[],False
+devastatingly,[],False
+devastation,[],False
+deviate,"[('desviarse', 1)]",True
+deviation,[],False
+devil,"[('diablo', 2)]",True
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,"[('diametralmente', 1)]",True
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],False
+dictator,"[('dictador', 2)]",True
+dictatorial,[],False
+die,"[('morir', 2), ('muera', 1), ('die', 1), ('morirse', 1)]",True
+die-hard,[],False
+died,"[('murió', 3), ('muerto', 2), ('falleció', 2), ('murieron', 1), ('fallecido', 1)]",True
+dies,"[('muere', 1)]",True
+difficult,"[('difícil', 17), ('dificil', 3), ('dificultoso', 1), ('difíciles', 1), ('dificultan', 1)]",True
+difficulties,"[('dificultades', 1)]",True
+difficulty,"[('dificultad', 2), ('dificultades', 1)]",True
+diffidence,[],False
+dilapidated,[],False
+dilemma,[],False
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,[],True
+ding,[],True
+dings,[],True
+dinky,[],False
+dire,[],True
+direly,[],False
+direness,[],False
+dirt,[],True
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,"[('embarre', 1), ('sucias', 1), ('sucio', 1), ('sucia', 1)]",True
+disable,[],True
+disabled,"[('deshabilitar', 1)]",True
+disaccord,[],False
+disadvantage,[],False
+disadvantaged,[],False
+disadvantageous,[],False
+disadvantages,[],False
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,"[('desacuerdo', 3), ('acuerdo', 2), ('discrepen', 1), ('discrepo', 1), ('discrepar', 1)]",True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,"[('puse _ desacuerdo', 1), ('puse', 1), ('desacuerdo', 1)]",True
+disagreeing,[],False
+disagreement,"[('desacuerdo', 1)]",True
+disagrees,"[('desacuerdo', 1), ('está _ desacuerdo', 1), ('está', 1)]",True
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,[],True
+disappointed,"[('defraudado', 1), ('desilusiona', 1)]",True
+disappointing,"[('decepcionante', 2)]",True
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,[],False
+disapprove,[],False
+disapproving,[],False
+disarm,"[('desarman', 1)]",True
+disarray,[],False
+disaster,"[('desastre', 3)]",True
+disasterous,[],False
+disastrous,"[('desastroso', 1)]",True
+disastrously,[],False
+disavow,[],False
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],False
+disbeliever,[],False
+disclaim,[],False
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,"[('malestar', 2)]",True
+discompose,[],False
+disconcert,[],False
+disconcerted,[],False
+disconcerting,[],False
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,"[('descontento', 1)]",True
+discontented,[],False
+discontentedly,[],False
+discontinued,[],False
+discontinuity,[],False
+discontinuous,[],False
+discord,"[('discordia', 1)]",True
+discordance,"[('discordancia', 1)]",True
+discordant,"[('discordantes', 1)]",True
+discountenance,[],False
+discourage,"[('desmotivemos', 1)]",True
+discouragement,[],False
+discouraging,"[('desaconsejar', 1)]",True
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,[],False
+discrepant,[],False
+discriminate,"[('discriminar', 1)]",True
+discrimination,"[('discriminación', 2)]",True
+discriminatory,[],False
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,[],False
+disgraced,[],False
+disgraceful,[],False
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,[],True
+disgusted,"[('asqueados', 1)]",True
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,[],True
+disgustingly,[],False
+dishearten,[],True
+disheartening,"[('descorazonados', 1)]",True
+dishearteningly,[],False
+dishonest,"[('deshonesto', 1)]",True
+dishonestly,[],False
+dishonesty,[],False
+dishonor,[],False
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,"[('tirria', 1)]",True
+disliked,[],False
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,[],False
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],False
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,"[('desobeceder', 1)]",True
+disoobedient,[],False
+disorder,[],True
+disordered,[],False
+disorderly,[],False
+disorganized,"[('desorganizo', 1)]",True
+disorient,[],False
+disoriented,[],False
+disown,[],False
+disparage,[],False
+disparaging,[],False
+disparagingly,[],False
+dispensable,[],True
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],True
+displaced,"[('desplazaron', 1)]",True
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,"[('disgusto', 1)]",True
+disproportionate,"[('desproporcionados', 1), ('desproporcionada', 1)]",True
+disprove,[],False
+disputable,[],True
+dispute,"[('disputa', 2), ('discuto', 1), ('dispute', 1)]",True
+disputed,"[('discutida', 1)]",True
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,[],False
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,"[('respeto', 2), ('faltar _ respeto', 1), ('faltar', 1)]",True
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,"[('falta', 1)]",True
+disrespectfully,[],False
+disrespectfulness,[],False
+disrespecting,"[('faltando', 1)]",True
+disrupt,[],True
+disruption,[],False
+disruptive,"[('disruptivos', 1)]",True
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,[],False
+dissatisfactory,[],False
+dissatisfied,[],False
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,[],False
+dissembler,[],False
+dissension,[],False
+dissent,[],False
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,[],False
+dissidents,[],False
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,"[('disolución', 1)]",True
+dissonance,[],False
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,"[('tergiversar', 1), ('desvirtuar', 1)]",True
+distorted,[],False
+distortion,[],False
+distorts,"[('desvirtua', 1)]",True
+distract,[],False
+distracting,[],False
+distraction,[],False
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,[],False
+distrustful,[],False
+distrusting,[],False
+disturb,[],True
+disturbance,[],False
+disturbed,"[('perturbado', 1)]",True
+disturbing,"[('molestar', 1)]",True
+disturbingly,[],False
+disunity,[],False
+disvalue,[],False
+divergent,[],False
+divisive,[],False
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,[],False
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,"[('dogmático', 1)]",True
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,[],False
+doomed,[],False
+doomsday,[],False
+dope,[],False
+doubt,"[('duda', 27), ('dudas', 5), ('dudes', 1), ('dude', 1), ('dudo', 1)]",True
+doubtful,"[('dudable', 1)]",True
+doubtfully,"[('dudosamente', 1)]",True
+doubts,"[('dudas', 19), ('duda', 2), ('duda de', 1), ('de', 1)]",True
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],True
+downfall,[],False
+downfallen,[],False
+downgrade,[],False
+downhearted,[],False
+downheartedly,[],False
+downhill,[],False
+downside,"[('malo', 1)]",True
+downsides,[],False
+downturn,"[('bajón', 1)]",True
+downturns,[],False
+drab,[],True
+draconian,[],False
+draconic,[],False
+drag,[],True
+dragged,"[('dragged', 1)]",True
+dragging,"[('arrastrar', 1)]",True
+dragoon,[],False
+drags,[],False
+drain,[],False
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,[],False
+drastically,[],False
+drawback,"[('inconveniente', 2)]",True
+drawbacks,"[('inconvenientes', 2)]",True
+dread,[],False
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,[],False
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,[],False
+dropouts,[],False
+drought,[],False
+drowning,[],False
+drunk,"[('emborrachar', 1)]",True
+drunkard,[],False
+drunken,[],False
+dubious,"[('dudosos', 1)]",True
+dubiously,[],False
+dubitable,[],False
+dud,[],False
+dull,[],False
+dullard,[],False
+dumb,"[('tonto', 1)]",True
+dumbfound,[],False
+dump,[],False
+dumped,[],False
+dumping,[],False
+dumps,[],False
+dunce,[],False
+dungeon,[],False
+dungeons,[],False
+dupe,[],False
+dust,[],True
+dusty,[],False
+dwindling,[],False
+dying,"[('morirse', 1), ('morir', 1), ('muriendo', 1)]",True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,"[('eliminación', 10), ('eliminaron', 1)]",True
+emaciated,[],False
+emasculate,[],False
+embarrass,[],True
+embarrassing,"[('avergonzarme', 1), ('bochornosa', 1)]",True
+embarrassingly,[],False
+embarrassment,[],False
+embattled,[],False
+embroil,[],False
+embroiled,[],False
+embroilment,[],False
+emergency,"[('emergencia', 1)]",True
+emphatic,"[('enfatico', 1)]",True
+emphatically,[],False
+emptiness,[],False
+encroach,[],False
+encroachment,[],False
+endanger,[],False
+enemies,"[('enemigos', 2)]",True
+enemy,"[('enemigas', 1), ('enemigo', 1)]",True
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,[],False
+enrage,[],False
+enraged,[],False
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,[],False
+equivocal,[],False
+erase,"[('borrar', 16), ('borrado', 3), ('borras', 1), ('borran', 1), ('borrabas', 1)]",True
+erode,[],False
+erodes,[],False
+erosion,[],False
+err,[],True
+errant,[],False
+erratic,[],False
+erratically,[],False
+erroneous,"[('errónea', 1), ('erróneas', 1), ('sutiles _ erroneas', 1), ('sutiles', 1), ('erroneas', 1)]",True
+erroneously,[],False
+error,"[('error', 30), ('fallo', 1)]",True
+errors,"[('errores', 30), ('error', 3), ('fallos', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,"[('evadir', 2), ('evadirme', 1)]",True
+evasion,[],False
+evasive,[],False
+evil,"[('mal', 4)]",True
+evildoer,[],False
+evils,"[('males', 1), ('males mayores', 1), ('mayores', 1)]",True
+eviscerate,[],False
+exacerbate,[],False
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,[],True
+exaggeration,[],False
+exasperate,[],False
+exasperated,[],False
+exasperating,"[('desesperante', 1)]",True
+exasperatingly,[],False
+exasperation,[],False
+excessive,"[('excesivo', 3), ('gerundio excesivo', 1), ('gerundio', 1), ('excesiva', 1)]",True
+excessively,"[('exceso', 1)]",True
+exclusion,[],False
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('disculpa', 9), ('excusa', 3), ('disculpe', 2), ('discúlpame', 1), ('perdonad', 1)]",True
+excuses,"[('disculpa', 1)]",True
+execrate,[],False
+exhaust,"[('agotar', 1)]",True
+exhausted,[],False
+exhaustion,[],False
+exhausts,[],False
+exhorbitant,[],False
+exhort,[],False
+exile,"[('exilio', 2)]",True
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,"[('expulsarme', 1)]",True
+expensive,"[('caro', 1), ('caros', 1)]",True
+expire,"[('caducara', 1)]",True
+expired,"[('vencido', 1)]",True
+explode,[],True
+exploit,[],True
+exploitation,"[('explotación', 1)]",True
+explosive,[],False
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,[],False
+extermination,[],False
+extinguish,[],False
+extort,[],False
+extortion,[],False
+extraneous,[],False
+extravagance,[],False
+extravagant,[],False
+extravagantly,[],False
+extremism,[],False
+extremist,[],False
+extremists,[],False
+eyesore,[],False
+f**k,[],False
+fabricate,[],False
+fabrication,[],False
+facetious,[],False
+facetiously,[],False
+fail,"[('fallar', 1), ('falle', 1), ('reprobar', 1), ('dejar', 1), ('falla', 1)]",True
+failed,"[('reprobado', 2), ('fallidas', 1)]",True
+failing,"[('fallando', 1)]",True
+fails,"[('falla', 4)]",True
+failure,"[('fracasar', 1)]",True
+failures,[],False
+faint,[],False
+fainthearted,[],False
+faithless,[],False
+fake,"[('falso', 2), ('falsas', 1), ('falsos', 1)]",True
+fall,"[('caer', 4), ('enamórate', 1)]",True
+fallacies,"[('falacias', 3)]",True
+fallacious,"[('falaz', 1)]",True
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,"[('falacia', 1)]",True
+fallen,"[('descabalado', 1), ('caído', 1)]",True
+falling,[],True
+fallout,[],False
+falls,"[('cae', 2)]",True
+false,"[('falsa', 8), ('falso', 5), ('falsos', 3)]",True
+falsehood,"[('falsedad', 1)]",True
+falsely,[],False
+falsify,"[('falsear', 2)]",True
+falter,[],False
+faltered,[],False
+famine,"[('hambruna', 1)]",True
+famished,[],False
+fanatic,[],False
+fanatical,[],False
+fanatically,[],False
+fanaticism,[],False
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,[],False
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,[],False
+fascist,"[('fascista', 1)]",True
+fastidious,[],False
+fastidiously,[],False
+fastuous,[],False
+fat,"[('gordo', 1)]",True
+fat-cat,[],False
+fat-cats,[],False
+fatal,"[('fatal', 1)]",True
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,[],False
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('culpa', 4), ('falta', 2)]",True
+faults,"[('faltas', 3), ('detectas', 1), ('fallos', 1), ('fallos detectas', 1)]",True
+faulty,"[('defectuosa', 1)]",True
+fawningly,[],False
+faze,[],False
+fear,"[('miedo', 2), ('temer', 2), ('temieran', 1), ('temor', 1), ('temo', 1)]",True
+fearful,[],False
+fearfully,[],False
+fears,[],False
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,[],True
+felon,[],True
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,[],False
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],False
+fibber,[],False
+fickle,[],False
+fiction,"[('ficción', 3), ('ficcion', 1)]",True
+fictional,[],True
+fictitious,[],False
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,[],True
+figurehead,[],False
+filth,[],False
+filthy,[],False
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,[],False
+flabbergast,[],False
+flabbergasted,[],False
+flagging,[],False
+flagrant,[],True
+flagrantly,"[('flagrantemente', 1)]",True
+flair,[],False
+flairs,[],False
+flak,[],True
+flake,[],True
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],False
+flaw,"[('fallo', 1)]",True
+flawed,[],False
+flaws,"[('defectos', 1), ('fallos', 1)]",True
+flee,[],False
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],False
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],False
+fool,"[('tonto', 3), ('bobo', 1)]",True
+fooled,[],False
+foolhardy,[],False
+foolish,[],True
+foolishly,[],False
+foolishness,"[('tontería', 1)]",True
+forbid,[],True
+forbidden,"[('prohibido', 3)]",True
+forbidding,"[('prohibir', 1)]",True
+forceful,"[('contundentes', 1)]",True
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,[],False
+forgetful,[],True
+forgetfully,[],False
+forgetfulness,"[('desmemoria', 1)]",True
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,[],True
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,[],False
+fragile,"[('frágil', 2)]",True
+fragmented,[],False
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,"[('fraude', 1)]",True
+fraudulent,"[('fraudulentos', 1)]",True
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],True
+freaking,"[('flipando', 1)]",True
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,"[('congele', 1)]",True
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,[],False
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,[],False
+frictions,[],False
+fried,"[('frito', 1)]",True
+friggin,[],False
+frigging,[],False
+fright,[],False
+frighten,[],False
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,"[('frost', 1)]",True
+frown,[],True
+froze,[],False
+frozen,[],False
+fruitless,[],False
+fruitlessly,[],False
+frustrate,[],True
+frustrated,"[('frustrarse', 1)]",True
+frustrates,[],False
+frustrating,"[('frustrante', 2)]",True
+frustratingly,[],False
+frustration,"[('frustración', 2)]",True
+frustrations,[],False
+fuck,"[('vete', 1), ('joder', 1)]",True
+fucking,"[('puto', 1)]",True
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],False
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,"[('gracioso', 6), ('curioso', 1), ('curiosa', 1), ('comico', 1)]",True
+furious,[],False
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,"[('perdiz', 1)]",True
+fussy,"[('quisquillosidades mías', 1), ('mías', 1), ('quisquillosidades', 1), ('tiquismiquis', 1)]",True
+fustigate,[],False
+fusty,[],False
+futile,[],False
+futilely,[],False
+futility,[],False
+fuzzy,[],False
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,[],False
+gape,[],False
+garbage,[],True
+garish,[],False
+gasp,[],False
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,[],False
+get-rich,[],False
+ghastly,[],False
+ghetto,[],False
+ghosting,[],False
+gibber,[],False
+gibberish,[],False
+gibe,[],False
+giddy,[],False
+gimmick,[],False
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,[],False
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,[],False
+glitches,[],False
+gloatingly,[],False
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],False
+gnawing,[],False
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],False
+goofy,[],False
+goon,[],False
+gossip,[],True
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],True
+grating,[],False
+gravely,[],False
+greasy,[],False
+greed,[],True
+greedy,[],False
+grief,"[('mía', 1)]",True
+grievance,[],False
+grievances,[],False
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],True
+grimace,[],False
+grind,[],False
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],False
+gross,[],True
+grossly,[],False
+grotesque,"[('esperpento', 1)]",True
+grouch,[],False
+grouchy,[],False
+groundless,[],False
+grouse,[],False
+growl,[],False
+grudge,[],False
+grudges,[],False
+grudging,[],False
+grudgingly,[],False
+gruesome,[],False
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,[],False
+guile,[],True
+guilt,[],False
+guiltily,[],False
+guilty,[],False
+gullible,[],False
+gutless,[],False
+gutter,[],False
+hack,"[('hackeara', 1)]",True
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],False
+halfheartedly,[],False
+hallucinate,[],False
+hallucination,[],False
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,"[('acabo', 1), ('colgar', 1)]",True
+hangs,[],False
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,"[('acosarme', 1)]",True
+harassed,"[('acosaron', 1)]",True
+harasses,[],False
+harassment,"[('acoso', 4)]",True
+harboring,[],False
+harbors,[],False
+hard,"[('duro', 3), ('cuesta', 2), ('difícil', 2), ('duros', 1), ('malas', 1)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,[],False
+hardened,[],False
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,[],False
+hardships,[],False
+harm,"[('perjudicarme', 1), ('mal', 1)]",True
+harmed,[],False
+harmful,[],False
+harms,[],False
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,"[('dura', 1)]",True
+harshly,[],False
+hasseling,[],False
+hassle,"[('molestia', 2), ('engorro', 1)]",True
+hassled,[],False
+hassles,[],False
+haste,"[('prisas', 2)]",True
+hastily,"[('precipitado', 1)]",True
+hasty,"[('apresurado', 2), ('injusto _ apresurado', 1), ('injusto', 1), ('precipité', 1), ('precipitado', 1)]",True
+hate,"[('diga', 1), ('detesto', 1), ('detesto _ diga', 1), ('odio', 1)]",True
+hated,[],False
+hateful,"[('odiosas', 1)]",True
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,"[('tenga', 1), ('tenga odio', 1), ('odio', 1)]",True
+hating,[],False
+hatred,"[('odios', 1)]",True
+haughtily,[],False
+haughty,[],False
+haunt,[],False
+haunting,[],False
+havoc,[],False
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,"[('jaqueca', 1)]",True
+headaches,[],False
+heartbreaker,[],False
+heartbreaking,[],False
+heartbreakingly,[],False
+heartless,[],False
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],False
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],False
+hedonistic,[],False
+heedless,[],False
+hefty,[],False
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,"[('atroces', 1)]",True
+hell,"[('infierno', 1)]",True
+hell-bent,[],False
+hellion,[],False
+hells,[],False
+helpless,[],False
+helplessly,[],False
+helplessness,[],False
+heresy,[],False
+heretic,[],False
+heretical,[],False
+hesitant,[],True
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,[],True
+hindrance,[],False
+hiss,[],False
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,"[('bulo', 2), ('hoax', 1)]",True
+hobble,[],False
+hogs,[],False
+hollow,[],False
+hoodium,[],False
+hoodwink,[],False
+hooligan,"[('vándalo', 1)]",True
+hopeless,[],False
+hopelessly,[],False
+hopelessness,[],False
+horde,"[('horda', 1)]",True
+horrendous,[],False
+horrendously,[],False
+horrible,"[('horrible', 2)]",True
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],False
+hostile,[],False
+hostilities,[],False
+hostility,"[('hostilidad', 1)]",True
+hotbeds,[],False
+hothead,"[('exaltado', 1)]",True
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,[],False
+humiliating,[],False
+humiliation,"[('humillación', 2)]",True
+humming,[],False
+hung,"[('colgados', 1)]",True
+hurt,"[('herir', 2), ('daño', 2), ('a', 1), ('a _ daño', 1), ('hacer', 1)]",True
+hurted,[],False
+hurtful,[],False
+hurting,[],False
+hurts,"[('jode', 1), ('viene', 1)]",True
+hustler,[],False
+hype,[],True
+hypocricy,[],False
+hypocrisy,[],False
+hypocrite,"[('hipócrita', 1)]",True
+hypocrites,[],False
+hypocritical,"[('hipócrita', 1)]",True
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],False
+hysterical,[],False
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,"[('idiota', 1)]",True
+idiotic,[],False
+idiotically,[],False
+idiots,[],False
+idle,[],False
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,"[('ignorancia', 9), ('desconocimiento', 2)]",True
+ignorant,"[('ignorante', 2)]",True
+ignore,"[('omiso', 2), ('ignoro', 2), ('ignorar', 2), ('hacer', 1), ('hacer _ omiso', 1)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('ilegales', 1)]",True
+illegally,[],False
+illegitimate,[],False
+illicit,[],False
+illiterate,"[('analfabeto', 1)]",True
+illness,[],False
+illogic,[],True
+illogical,"[('ilógico', 2), ('ilógica', 1)]",True
+illogically,[],False
+illusion,"[('ilusión', 2)]",True
+illusions,[],False
+illusory,[],False
+imaginary,[],False
+imbalance,[],False
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,[],False
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,[],False
+immorality,[],False
+immorally,[],False
+immovable,"[('inamovible', 1)]",True
+impair,[],False
+impaired,[],False
+impasse,"[('impase', 1)]",True
+impatience,[],False
+impatient,[],False
+impatiently,[],False
+impeach,[],False
+impedance,[],False
+impede,[],False
+impediment,"[('impedimento', 1)]",True
+impending,[],False
+impenitent,[],False
+imperfect,"[('imperfecto', 2)]",True
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,[],True
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,"[('impersonal', 1)]",True
+impertinent,[],False
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,[],False
+implausibly,[],False
+implicate,[],False
+implication,[],True
+implode,[],False
+impolite,[],False
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,"[('imponer', 3), ('imponemos', 1)]",True
+imposers,[],False
+imposing,"[('imponentes', 1), ('imponer', 1), ('imponiendo', 1)]",True
+imposition,"[('imposición', 1)]",True
+impossible,"[('imposible', 9)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],True
+impoverished,[],False
+impractical,[],False
+imprecate,[],False
+imprecise,"[('imprecisos', 2), ('imprecisa', 1)]",True
+imprecisely,[],False
+imprecision,[],False
+imprison,[],False
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,"[('indebida', 1)]",True
+improperly,"[('en _ indebida', 1), ('indebida', 1), ('en', 1)]",True
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,[],False
+impudent,[],False
+impudently,[],False
+impugn,[],False
+impulsive,"[('impulsivas', 1)]",True
+impulsively,[],False
+impunity,[],False
+impure,[],False
+impurity,[],False
+inability,[],False
+inaccuracies,"[('inexactitudes', 1), ('incorrecciones', 1)]",True
+inaccuracy,[],False
+inaccurate,"[('inexactos', 2)]",True
+inaccurately,[],False
+inaction,[],False
+inactive,"[('inactivo', 1)]",True
+inadequacy,[],False
+inadequate,[],False
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('inapropiado', 2), ('inadecuada', 2), ('apropiada', 1), ('improcedente', 1), ('inapropiadas', 1)]",True
+inappropriately,[],False
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,[],False
+inaudible,[],False
+incapable,[],False
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,"[('incesante', 1)]",True
+incessantly,"[('cesar', 1), ('sin', 1), ('sin cesar', 1)]",True
+incite,[],False
+incitement,[],False
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,"[('incoherencia', 1)]",True
+incoherent,[],False
+incoherently,[],False
+incommensurate,[],False
+incomparable,"[('incomparable', 3)]",True
+incomparably,[],False
+incompatability,[],False
+incompatibility,[],False
+incompatible,[],False
+incompetence,[],False
+incompetent,[],False
+incompetently,[],False
+incomplete,"[('incompleto', 1)]",True
+incompliant,[],False
+incomprehensible,"[('incomprensibles', 2), ('incomprensible', 1)]",True
+incomprehension,[],False
+inconceivable,[],False
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,"[('desconsiderado', 1)]",True
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,[],False
+inconsistency,"[('inconsistencia', 1)]",True
+inconsistent,"[('inconsistente', 1)]",True
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,"[('molestia', 1), ('inconveniente', 1)]",True
+inconveniently,[],False
+incorrect,"[('incorrecto', 10), ('incorrecta', 3), ('incorrectas', 2), ('incorrectos', 1)]",True
+incorrectly,"[('incorrectamente', 1)]",True
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,[],False
+indecent,[],False
+indecently,[],False
+indecision,[],False
+indecisive,[],False
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,"[('indiferencia', 2)]",True
+indifferent,"[('indiferente', 1)]",True
+indigent,[],False
+indignant,[],False
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,"[('indiscretas', 1), ('indiscreto', 1)]",True
+indiscreetly,[],False
+indiscretion,"[('indiscreción', 1)]",True
+indiscriminate,[],False
+indiscriminately,[],False
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,[],False
+ineffective,[],False
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,[],False
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,[],False
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,"[('desigualdades', 1)]",True
+inequality,[],False
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,[],False
+inevitably,"[('inevitablemente', 1)]",True
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,[],True
+inexperienced,"[('inexperto', 3)]",True
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,"[('inextricable', 1)]",True
+inextricably,[],False
+infamous,[],False
+infamously,[],False
+infamy,[],False
+infected,[],False
+infection,[],False
+infections,[],False
+inferior,"[('inferiores', 1), ('inferior', 1)]",True
+inferiority,[],False
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],False
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,[],False
+infraction,[],True
+infringe,[],True
+infringement,"[('violación', 3), ('infracción', 1)]",True
+infringements,[],False
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],True
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],False
+injurious,[],False
+injury,[],False
+injustice,"[('injusticia', 2)]",True
+injustices,[],False
+innuendo,[],False
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,"[('espiral', 1), ('espiral demencial', 1), ('demencial', 1)]",True
+insanely,[],False
+insanity,[],False
+insatiable,[],False
+insecure,[],False
+insecurity,"[('inseguridad', 1)]",True
+insensible,[],False
+insensitive,"[('insensitive', 1)]",True
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,[],False
+insignificant,[],False
+insignificantly,[],False
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],True
+insinuating,"[('insinuar', 1)]",True
+insinuation,[],True
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,[],False
+instable,[],False
+instigate,[],False
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,"[('insuficiente', 1)]",True
+insufficiently,[],False
+insular,"[('insular', 1)]",True
+insult,"[('insulto', 7), ('insultar', 1), ('insultan', 1)]",True
+insulted,"[('insultado', 2), ('insulte', 1)]",True
+insulting,"[('insultante', 2), ('insultar', 1), ('insulta', 1)]",True
+insultingly,[],False
+insults,"[('insultos', 5), ('insulta', 2), ('injuria', 1)]",True
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,[],False
+intefere,[],False
+inteferes,[],False
+intense,"[('intensa', 1)]",True
+interfere,[],True
+interference,[],True
+interferes,[],False
+intermittent,[],False
+interrupt,[],False
+interruption,[],False
+interruptions,[],False
+intimidate,[],True
+intimidating,[],False
+intimidatingly,[],False
+intimidation,"[('intimidación', 1)]",True
+intolerable,[],False
+intolerablely,[],False
+intolerance,[],False
+intoxicate,[],False
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],False
+intrusion,"[('intromisión', 1)]",True
+intrusive,"[('intrusivo', 1)]",True
+inundate,[],False
+inundated,[],False
+invader,[],True
+invalid,"[('inválida', 2), ('invalid', 2), ('inválido', 2), ('válida', 2), ('inválidos', 1)]",True
+invalidate,[],False
+invalidity,[],False
+invasive,[],False
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,[],False
+involuntarily,[],False
+involuntary,"[('involuntaria', 1)]",True
+irascible,[],False
+irate,[],True
+irately,[],False
+ire,[],True
+irk,[],False
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,[],True
+ironical,[],True
+ironically,"[('irónicamente', 1)]",True
+ironies,[],False
+irony,"[('ironía', 3), ('ironizar', 1)]",True
+irragularity,[],False
+irrational,"[('irracional', 1)]",True
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,"[('irregular', 1)]",True
+irregularity,"[('irregularidad', 1)]",True
+irrelevance,[],False
+irrelevant,"[('irrelevante', 19), ('irrelevantes', 4), ('relevancia', 3), ('sin', 2), ('sin relevancia', 2)]",True
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,[],False
+irresponsibly,[],False
+irretating,[],False
+irretrievable,[],False
+irreversible,[],False
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],False
+irritated,[],False
+irritating,[],False
+irritation,[],False
+irritations,[],False
+isolate,[],True
+isolated,"[('aislado', 2), ('aislada', 1)]",True
+isolation,[],False
+issue,"[('tema', 16), ('asunto', 6), ('edición', 3), ('cuestión', 1)]",True
+issues,"[('temas', 10), ('ediciones', 5), ('cuestiones', 4), ('asuntos', 2)]",True
+itch,[],True
+itching,[],False
+itchy,[],False
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,"[('celoso', 1)]",True
+jealously,[],False
+jealousness,[],False
+jealousy,"[('celos', 2)]",True
+jeer,[],False
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,[],False
+jeopardy,[],False
+jerk,[],True
+jerky,[],False
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,[],False
+joke,"[('broma', 8), ('chiste', 2), ('coña', 1), ('cachondeo', 1)]",True
+joker,[],False
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,[],False
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,"[('matan', 1)]",True
+killed,"[('matado', 2), ('asesinado', 1), ('abatido', 1), ('asesinada', 1)]",True
+killer,[],False
+killing,"[('matar', 1)]",True
+killjoy,[],False
+kills,[],True
+knave,[],False
+knife,[],False
+knock,[],False
+knotted,[],False
+kook,[],False
+kooky,[],False
+lack,"[('falta', 23), ('carecen', 2), ('faltas', 1), ('carencia', 1), ('carece', 1)]",True
+lackadaisical,[],False
+lacked,"[('carecía', 2)]",True
+lackey,[],False
+lackeys,[],False
+lacking,"[('flojas', 1), ('carece', 1)]",True
+lackluster,[],False
+lacks,"[('carece', 5), ('falte', 1), ('falta', 1)]",True
+laconic,[],False
+lag,[],True
+lagged,[],True
+lagging,[],False
+laggy,[],False
+lags,[],True
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,"[('coja', 2)]",True
+lame-duck,[],False
+lament,[],True
+lamentable,"[('lamentables', 1)]",True
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],True
+lapsed,[],True
+lapses,[],True
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,[],False
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],False
+lawlessness,[],False
+layoff,[],True
+layoff-happy,[],False
+lazy,"[('deditos', 1), ('pereza', 1), ('holgando', 1)]",True
+leak,[],True
+leakage,[],False
+leakages,[],False
+leaking,[],False
+leaks,"[('filtraciones', 2)]",True
+leaky,[],False
+lech,[],False
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,[],False
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,[],True
+lengthy,[],False
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,[],True
+liable,[],True
+liar,"[('mentiroso', 4)]",True
+liars,[],False
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('mentira', 7), ('mentir', 2), ('mentí', 1), ('radica', 1), ('acostar', 1)]",True
+lied,[],True
+lier,[],True
+lies,"[('mentiras', 4), ('miente', 2)]",True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('límite', 5), ('limitar', 3), ('limitarse', 1), ('autolimitamos', 1), ('limitan', 1)]",True
+limitation,"[('limitación', 2)]",True
+limitations,[],False
+limited,"[('limitado', 4), ('limité', 1), ('limite', 1), ('limitada', 1), ('limitaban', 1)]",True
+limits,"[('límites', 3)]",True
+limp,[],True
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,"[('solitario', 1)]",True
+loner,[],True
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,[],True
+longingly,[],False
+loophole,[],False
+loopholes,[],False
+loose,"[('suelto', 1)]",True
+loot,[],False
+lorn,[],False
+lose,"[('perder', 4), ('perdería', 2), ('pierda', 1), ('pierden', 1), ('perdamos', 1)]",True
+loser,[],True
+losers,[],False
+loses,"[('pierde', 1), ('pierda', 1)]",True
+losing,"[('perdiendo', 1), ('perdedores', 1), ('perdernos', 1), ('perder', 1)]",True
+loss,"[('pérdida', 2)]",True
+losses,"[('perdidas', 1)]",True
+lost,"[('perdido', 14), ('perdida', 3), ('pierdo', 1), ('perdieron', 1), ('desubicó', 1)]",True
+loud,[],True
+louder,[],False
+lousy,[],True
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,[],True
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,[],False
+lunaticism,[],False
+lurch,[],False
+lure,[],True
+lurid,[],False
+lurk,[],False
+lurking,[],False
+lying,"[('mentir', 1)]",True
+macabre,"[('macabros', 1)]",True
+mad,"[('conmigo', 1)]",True
+madden,[],True
+maddening,"[('desesperante', 1)]",True
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,"[('madman', 1)]",True
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,[],False
+malicious,[],True
+maliciously,"[('maliciosamente', 1)]",True
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,"[('manía', 2)]",True
+maniac,[],False
+maniacal,[],False
+manic,"[('maníacos', 1)]",True
+manipulate,"[('manipularlo', 1)]",True
+manipulation,"[('manipulación', 1)]",True
+manipulative,"[('manipulador', 1)]",True
+manipulators,[],False
+mar,"[('mar', 5)]",True
+marginal,"[('marginal', 2), ('marginales', 1)]",True
+marginally,[],False
+martyrdom,[],False
+martyrdom-seeking,[],False
+mashed,[],False
+massacre,"[('masacre', 1)]",True
+massacres,[],False
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,[],False
+meaningless,"[('sin sentido', 1), ('sentido', 1), ('sin', 1)]",True
+meanness,[],False
+measly,[],False
+meddle,[],False
+meddlesome,[],False
+mediocre,"[('mediocre', 1)]",True
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,"[('inmisericorde', 1)]",True
+mercilessly,[],False
+mess,"[('lío', 3), ('entuerto', 2), ('para', 1), ('para _ liarla', 1), ('liarla', 1)]",True
+messed,"[('metiese', 1), ('metan', 1)]",True
+messes,[],False
+messing,[],False
+messy,"[('desordenado', 1), ('desordenada', 1)]",True
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],True
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,"[('miscellaneous', 1)]",True
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,[],False
+misconceptions,[],False
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],True
+miserable,"[('míseros', 1), ('mísero', 1), ('desdichada', 1)]",True
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,"[('desgracia', 1)]",True
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],True
+misinform,"[('desinformar', 1)]",True
+misinformed,[],False
+misinterpret,"[('interpretar', 1)]",True
+misjudge,[],False
+misjudgment,[],False
+mislead,"[('a', 1), ('a _ desconoces', 1), ('desconoces', 1)]",True
+misleading,[],False
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],False
+mispronounced,[],False
+mispronounces,[],False
+misread,[],False
+misreading,[],False
+misrepresent,"[('tergiverses', 1), ('tergiverso', 1)]",True
+misrepresentation,[],False
+miss,"[('miss', 2), ('señorita', 2), ('escape', 1), ('echo', 1), ('falta', 1)]",True
+missed,[],True
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('error', 35), ('despiste', 2), ('disculpas', 1), ('errado', 1), ('equivocar', 1)]",True
+mistaken,"[('equivoco', 2), ('confundió', 1), ('podido', 1), ('confundirle', 1), ('podido confundirle', 1)]",True
+mistakenly,"[('equivocadamente', 1), ('erróneamente', 1)]",True
+mistakes,"[('errores', 9), ('faltas', 3), ('fallos', 1), ('equivocándome', 1), ('ortográficas', 1)]",True
+mistified,[],False
+mistress,[],False
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],True
+misunderstand,[],True
+misunderstanding,"[('entendimiento', 1), ('mal entendimiento', 1), ('mal', 1)]",True
+misunderstandings,"[('malos', 2), ('entendidos', 2), ('malos entendidos', 2)]",True
+misunderstood,"[('coimprendido', 1), ('entendieron mal', 1), ('mal', 1), ('entendieron', 1), ('entendí', 1)]",True
+misuse,[],True
+moan,[],False
+mobster,[],False
+mock,[],True
+mocked,[],False
+mockeries,[],False
+mockery,"[('burla', 2)]",True
+mocking,[],False
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,[],False
+monotony,[],False
+monster,"[('monstruo', 1)]",True
+monstrosities,[],False
+monstrosity,[],False
+monstrous,[],False
+monstrously,[],False
+moody,[],False
+moot,[],True
+mope,[],False
+morbid,"[('morbo', 1), ('morboso', 1)]",True
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,"[('tarado', 1)]",True
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,"[('asesinato', 2)]",True
+murderer,"[('asesino', 1)]",True
+murderous,"[('asesinos', 1)]",True
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,[],False
+mysteriously,[],False
+mystery,"[('misterio', 1)]",True
+mystify,[],False
+myth,"[('mito', 3)]",True
+nag,"[('darte', 1)]",True
+nagging,[],False
+naive,[],False
+naively,[],False
+narrower,[],False
+nastily,[],False
+nastiness,[],False
+nasty,[],True
+naughty,[],False
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,"[('sobra', 1), ('ni', 1)]",True
+needlessly,[],False
+needy,"[('necesitados', 1)]",True
+nefarious,[],False
+nefariously,[],False
+negate,[],False
+negation,[],False
+negative,"[('negativo', 1), ('negativa', 1), ('negativas', 1)]",True
+negatives,[],False
+negativity,[],False
+neglect,[],False
+neglected,[],False
+negligence,"[('negligenicas', 1)]",True
+negligent,[],False
+nemesis,[],False
+nepotism,[],False
+nervous,"[('nervioso', 1)]",True
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,"[('pesadilla', 1)]",True
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,"[('ruido', 1)]",True
+noises,[],False
+noisier,[],False
+noisy,[],False
+non-confidence,[],False
+nonexistent,[],False
+nonresponsive,[],False
+nonsense,"[('tonterías', 5), ('disparate', 3), ('sin', 2), ('tonterias', 1), ('tonteria', 1)]",True
+nosey,[],False
+notoriety,[],False
+notorious,"[('notorio', 1)]",True
+notoriously,[],False
+noxious,[],False
+nuisance,[],False
+numb,[],True
+obese,[],False
+object,"[('objeto', 3), ('oponerse', 1), ('objetara', 1), ('opones', 1)]",True
+objection,"[('inconveniente', 2), ('objeción', 1)]",True
+objectionable,[],False
+objections,"[('objecciones', 1), ('objeciones', 1)]",True
+oblique,[],False
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,[],False
+obnoxiously,[],False
+obscene,[],False
+obscenely,[],False
+obscenity,[],False
+obscure,[],False
+obscured,[],False
+obscures,[],False
+obscurity,[],False
+obsess,[],False
+obsessive,[],False
+obsessively,[],False
+obsessiveness,[],False
+obsolete,"[('obsoleto', 1), ('obsoletos', 1), ('desuso', 1)]",True
+obstacle,[],False
+obstinate,[],False
+obstinately,[],False
+obstruct,[],True
+obstructed,[],False
+obstructing,"[('obstruye', 1)]",True
+obstruction,[],False
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,"[('de', 1)]",True
+odder,[],False
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,[],False
+odor,[],True
+offence,[],False
+offend,"[('a', 2), ('ofenda a', 1), ('ofenda', 1), ('ofender', 1)]",True
+offender,[],True
+offending,"[('ofender', 1)]",True
+offenses,[],False
+offensive,"[('ofensivo', 3), ('ofensivas', 1), ('ofensiva', 1)]",True
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,[],False
+ominously,[],False
+omission,[],True
+omit,"[('omites', 1), ('omitir', 1)]",True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,[],False
+opponent,"[('oponente', 1)]",True
+opportunistic,[],False
+oppose,[],True
+opposition,"[('oposición', 3), ('opositor', 1), ('opositoras', 1), ('opositora', 1)]",True
+oppositions,[],False
+oppress,[],True
+oppression,"[('opresion', 1)]",True
+oppressive,"[('opresor', 1)]",True
+oppressively,[],False
+oppressiveness,[],False
+oppressors,[],False
+ordeal,[],False
+orphan,"[('huérfanas', 1), ('huérfana', 1)]",True
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,[],False
+outcry,[],False
+outlaw,[],True
+outmoded,[],False
+outrage,[],True
+outraged,[],False
+outrageous,"[('indignante', 1), ('barbaridad', 1)]",True
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,[],True
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,[],True
+overdone,"[('excedido', 1)]",True
+overdue,[],False
+overemphasize,[],False
+overheat,[],False
+overkill,[],False
+overloaded,[],False
+overlook,[],False
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],True
+oversight,[],False
+oversights,[],False
+oversimplification,[],False
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],False
+overstate,[],False
+overstated,[],False
+overstatement,[],False
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,[],False
+overthrows,[],False
+overturn,[],False
+overweight,[],False
+overwhelm,[],True
+overwhelmed,"[('sobresatures', 1), ('agobiados', 1), ('agobiamos', 1)]",True
+overwhelming,"[('abruma', 1), ('abrumadora', 1)]",True
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,[],False
+overzealously,[],False
+overzelous,[],False
+pain,"[('dolor', 1)]",True
+painful,[],False
+painfull,[],False
+painfully,[],False
+pains,"[('apena', 1)]",True
+pale,[],True
+pales,[],False
+paltry,[],False
+pan,"[('panhispánico', 2), ('sartén', 1)]",True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,[],True
+panick,[],False
+panicked,[],False
+panicking,[],False
+panicky,[],False
+paradoxical,[],False
+paradoxically,[],False
+paralize,[],False
+paralyzed,[],False
+paranoia,"[('paranoia', 2)]",True
+paranoid,"[('paranoico subjetivo', 1), ('subjetivo', 1), ('paranoico', 1)]",True
+parasite,[],False
+pariah,[],False
+parody,[],False
+partiality,[],True
+partisan,"[('partidista', 1)]",True
+partisans,[],False
+passe,[],True
+passive,[],False
+passiveness,[],False
+pathetic,[],True
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,[],False
+peculiarly,[],False
+pedantic,"[('pedante', 2), ('catedrático', 1), ('catedrático pedante', 1)]",True
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],False
+penalty,"[('penalty', 1)]",True
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],False
+pernicious,[],False
+perplex,[],True
+perplexed,"[('perplejo', 1)]",True
+perplexing,[],False
+perplexity,[],False
+persecute,[],True
+persecution,"[('persecución', 1)]",True
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,[],True
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,[],False
+phobia,[],False
+phobic,[],False
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,"[('quisquillosos', 1)]",True
+pig,[],True
+pigs,"[('cerdos', 1)]",True
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,[],False
+pique,[],False
+pitiable,[],False
+pitiful,[],False
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,"[('pena', 2)]",True
+plagiarize,[],True
+plague,[],True
+plasticky,[],False
+plaything,[],False
+plea,[],True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,"[('trama', 3), ('argumento', 1), ('complot', 1)]",True
+plotters,[],False
+ploy,[],True
+plunder,[],False
+plunderer,[],False
+pointless,"[('ocioso', 1)]",True
+pointlessly,[],False
+poison,"[('veneno', 1)]",True
+poisonous,[],False
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,[],False
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('pobre', 5), ('mala', 2), ('deficiente', 1), ('pobrecito', 1), ('poca', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,"[('mal', 2), ('poco', 1)]",True
+posturing,[],False
+pout,[],False
+poverty,"[('pobreza', 1)]",True
+powerless,[],False
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,"[('perjuicio', 1), ('prejuicio', 1)]",True
+prejudices,"[('prejuicios', 2)]",True
+prejudicial,[],False
+premeditated,"[('premeditado', 1)]",True
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,"[('presuntuoso', 1)]",True
+presumptuously,[],False
+pretence,[],False
+pretend,"[('pretender debatir', 1), ('pretender', 1), ('debatir', 1), ('pretendes', 1), ('pretendo', 1)]",True
+pretense,[],False
+pretentious,[],False
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],False
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,[],False
+prison,[],True
+prisoner,[],True
+problem,"[('problema', 132), ('problemas', 3)]",True
+problematic,"[('problemático', 2)]",True
+problems,"[('problemas', 25), ('problema', 1)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,[],False
+prohibit,[],True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,"[('propaganda', 3), ('propagandísticos', 1), ('propagandísticas', 1)]",True
+propagandize,[],False
+proprietary,[],False
+prosecute,[],True
+protest,"[('protesta', 2), ('protestar', 1)]",True
+protested,"[('protesto', 1)]",True
+protesting,[],False
+protests,"[('protesta', 2)]",True
+protracted,[],False
+provocation,"[('provocación', 2), ('provocacion', 1)]",True
+provocative,"[('provocación', 1), ('provocadores', 1)]",True
+provoke,"[('provocándome', 1), ('provoque', 1)]",True
+pry,[],False
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,[],False
+punish,[],True
+punishable,"[('sancionable', 1)]",True
+punitive,[],False
+punk,[],False
+puny,[],False
+puppet,"[('títere', 8), ('titere', 2), ('puppet', 1)]",True
+puppets,"[('títeres', 6), ('categoría:títeres', 1), ('titeres', 1), ('títere', 1)]",True
+puzzled,"[('desconcertado', 1)]",True
+puzzlement,[],False
+puzzling,[],False
+quack,[],False
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,[],False
+quarrellous,[],False
+quarrellously,[],False
+quarrels,[],False
+quarrelsome,[],False
+quash,[],False
+queer,[],False
+questionable,"[('discutible', 1)]",True
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,[],False
+racism,"[('racismo', 1)]",True
+racist,"[('racista', 1)]",True
+racists,[],False
+racy,[],True
+radical,"[('radical', 1)]",True
+radicalization,[],False
+radically,"[('radicalmente', 1)]",True
+radicals,[],False
+rage,"[('rage', 4)]",True
+ragged,[],True
+raging,[],True
+rail,[],True
+raked,[],False
+rampage,[],False
+rampant,[],False
+ramshackle,[],False
+rancor,[],False
+randomly,[],False
+rankle,[],False
+rant,[],True
+ranted,[],True
+ranting,[],False
+rantingly,[],False
+rants,[],True
+rape,"[('violen', 1)]",True
+raped,"[('violaste', 1)]",True
+raping,"[('violando', 2)]",True
+rascal,"[('pillín', 1)]",True
+rascals,[],False
+rash,[],True
+rattle,[],False
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],False
+reactionary,[],False
+rebellious,[],False
+rebuff,[],False
+rebuke,[],False
+recalcitrant,[],False
+recant,[],False
+recession,[],False
+recessionary,[],False
+reckless,[],True
+recklessly,[],False
+recklessness,"[('temeridad', 1)]",True
+recoil,[],False
+recourses,[],False
+redundancy,"[('redundancia', 2)]",True
+redundant,"[('redundante', 7)]",True
+refusal,"[('negativa', 1)]",True
+refuse,"[('rehuso', 1), ('niego', 1), ('niegan', 1)]",True
+refused,"[('negó', 1)]",True
+refuses,[],False
+refusing,[],False
+refutation,"[('refutación', 1)]",True
+refute,"[('refutes', 1)]",True
+refuted,[],False
+refutes,[],False
+refuting,[],False
+regress,[],False
+regression,[],False
+regressive,[],False
+regret,"[('lamento', 4), ('arrepintieron', 1), ('arrepiento', 1), ('lamentar', 1)]",True
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,"[('remordimientos', 1)]",True
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,[],True
+rejected,"[('rechazaste', 1)]",True
+rejecting,[],False
+rejection,"[('rechazo', 1)]",True
+rejects,"[('rechaza', 1)]",True
+relapse,[],False
+relentless,[],False
+relentlessly,[],False
+relentlessness,[],False
+reluctance,[],False
+reluctant,[],False
+reluctantly,[],False
+remorse,"[('remordimientos', 1)]",True
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,"[('abjurar', 1)]",True
+renunciation,[],False
+repel,[],False
+repetitive,"[('reiterativo', 1), ('repetitivo', 1)]",True
+reprehensible,[],False
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],True
+repression,"[('represión', 2)]",True
+repressive,[],False
+reprimand,"[('reprimenda', 1)]",True
+reproach,[],False
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,"[('repudio', 1)]",True
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],False
+repulsed,[],False
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,"[('enviar', 1), ('resientes', 1)]",True
+resentful,[],False
+resentment,[],False
+resignation,[],False
+resigned,[],False
+resistance,"[('resistencia', 1)]",True
+restless,[],False
+restlessness,[],False
+restrict,[],True
+restricted,[],True
+restriction,"[('restricción', 1)]",True
+restrictive,[],False
+resurgent,[],False
+retaliate,"[('represalias', 1), ('desquítense', 1), ('desquitar', 1)]",True
+retaliatory,[],False
+retard,[],True
+retarded,"[('retrazado', 1)]",True
+retardedness,[],False
+retards,[],False
+reticent,[],False
+retract,"[('retractar', 1)]",True
+retreat,"[('retiro', 1)]",True
+retreated,[],False
+revenge,"[('venganza', 1)]",True
+revengeful,[],False
+revengefully,[],False
+revert,"[('revertir', 5), ('reviertes', 4), ('revierto', 3), ('reviertas', 2), ('revierten', 1)]",True
+revile,[],False
+reviled,[],False
+revoke,[],True
+revolt,"[('revuelta', 1)]",True
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,[],False
+rhetorical,[],False
+ricer,[],False
+ridicule,[],False
+ridicules,[],False
+ridiculous,"[('ridículo', 3), ('ridículas', 1), ('ridícula', 1), ('ridiculez', 1), ('ridiculas', 1)]",True
+ridiculously,"[('ridículamente', 1)]",True
+rife,[],True
+rift,[],True
+rifts,[],False
+rigid,"[('rígida', 2)]",True
+rigidity,[],False
+rigidness,[],False
+rile,[],True
+riled,[],False
+rip,[],True
+rip-off,[],False
+ripoff,[],False
+ripped,[],True
+risk,"[('riesgo', 4)]",True
+risks,"[('riesgos', 1)]",True
+risky,[],False
+rival,"[('rival', 1)]",True
+rivalry,[],False
+roadblocks,[],False
+rocky,[],False
+rogue,[],False
+rollercoaster,[],False
+rot,[],True
+rotten,[],False
+rough,"[('rudo', 1)]",True
+rremediable,[],False
+rubbish,[],False
+rude,"[('rude', 2), ('soez', 1), ('maleducado', 1)]",True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,"[('arruinar', 1)]",True
+ruined,[],False
+ruining,[],False
+ruinous,[],False
+ruins,[],False
+rumbling,[],False
+rumor,[],False
+rumors,[],False
+rumours,[],False
+rumple,[],False
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,[],True
+rusts,[],False
+rusty,[],False
+rut,[],True
+ruthless,[],True
+ruthlessly,"[('despiadadamente', 1)]",True
+ruthlessness,[],False
+ruts,[],False
+sabotage,"[('sabotaje', 7), ('sabotearán', 1), ('sabotear', 1)]",True
+sack,[],False
+sacrificed,"[('sacrificar', 1)]",True
+sad,"[('triste', 2)]",True
+sadden,[],False
+sadly,"[('lamentablemente', 1)]",True
+sadness,"[('tristeza', 1)]",True
+sag,[],True
+sagged,[],False
+sagging,[],False
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,"[('sap', 1)]",True
+sarcasm,"[('sarcasmos', 1)]",True
+sarcastic,[],False
+sarcastically,[],False
+sardonic,[],False
+sardonically,[],False
+sass,[],True
+satirical,[],False
+satirize,[],False
+savage,[],False
+savaged,[],False
+savagery,[],False
+savages,[],False
+scaly,[],False
+scam,"[('maestra', 1), ('estafa maestra', 1), ('estafa', 1)]",True
+scams,[],False
+scandal,[],True
+scandalize,[],False
+scandalized,[],False
+scandalous,"[('escandalosos', 2)]",True
+scandalously,[],False
+scandals,[],False
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,[],False
+scar,[],True
+scarce,"[('escaso', 1)]",True
+scarcely,[],False
+scarcity,[],False
+scare,"[('susto', 1)]",True
+scared,"[('asustes', 1), ('asustado', 1), ('asustaste', 1), ('asustamos', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,[],False
+scars,[],False
+scary,"[('atemorizante', 1), ('temible', 1)]",True
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,[],False
+scolded,[],False
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],True
+scornful,[],False
+scornfully,[],False
+scoundrel,[],False
+scourge,[],False
+scowl,[],False
+scramble,[],False
+scrambled,[],False
+scrambles,[],False
+scrambling,[],False
+scrap,[],True
+scratch,"[('cero', 5)]",True
+scratched,[],False
+scratches,[],False
+scratchy,[],False
+scream,[],False
+screech,[],False
+screw-up,[],False
+screwed,"[('dificil', 1), ('metido', 1)]",True
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,[],False
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,[],False
+selfishly,[],False
+selfishness,[],False
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,[],False
+senselessly,[],False
+seriousness,[],False
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],True
+setbacks,"[('contrariedades', 1)]",True
+sever,[],True
+severe,"[('severos', 1)]",True
+severity,"[('gravedad', 1)]",True
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,[],False
+shake,[],False
+shaky,[],False
+shallow,[],False
+sham,[],True
+shambles,[],False
+shame,"[('vergüenza', 3), ('atraso', 1), ('vergüenza _ atraso', 1), ('verguenza', 1), ('lástima', 1)]",True
+shameful,[],False
+shamefully,[],False
+shamefulness,[],False
+shameless,"[('desvergonzado', 1), ('apátrida', 1), ('apátrida desvergonzado', 1), ('impúdica', 1)]",True
+shamelessly,[],False
+shamelessness,[],False
+shark,[],False
+sharply,[],False
+shatter,[],False
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,[],False
+shirker,[],False
+shit,"[('mierda', 1), ('cagar', 1)]",True
+shiver,[],False
+shock,[],True
+shocked,[],False
+shocking,[],False
+shockingly,[],False
+shoddy,[],False
+short-lived,[],False
+shortage,[],False
+shortchange,[],False
+shortcoming,[],True
+shortcomings,"[('carencias', 2), ('deficiencias', 1)]",True
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,[],False
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,[],False
+shunned,[],False
+sick,"[('harto', 1), ('harté', 1), ('hartos', 1)]",True
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],False
+sidetracked,[],False
+siege,[],False
+sillily,[],False
+silly,"[('tonto', 2), ('tontería', 2), ('tonta', 1), ('bobo', 1)]",True
+simplistic,"[('simplistas', 1)]",True
+simplistically,[],False
+sin,"[('peco', 1)]",True
+sinful,[],False
+sinfully,[],False
+sinister,[],False
+sinisterly,[],False
+sink,[],False
+sinking,[],False
+skeletons,"[('esqueletos', 1)]",True
+skeptic,[],False
+skeptical,[],False
+skeptically,[],False
+skepticism,[],False
+sketchy,[],False
+skimpy,[],False
+skinny,[],False
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,"[('calumnias', 1)]",True
+slanderer,[],False
+slanderous,[],False
+slanderously,[],False
+slanders,"[('calumnia', 1)]",True
+slap,"[('bofetadas', 1)]",True
+slashing,[],False
+slaughter,[],False
+slaughtered,[],False
+slave,[],True
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],True
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,"[('desprolijo', 1), ('desavisado', 1)]",True
+sloth,[],False
+slothful,[],False
+slow,"[('lento', 3), ('lenta', 1)]",True
+slow-moving,[],False
+slowed,"[('ralentizado', 1)]",True
+slower,[],False
+slowest,[],False
+slowly,"[('despacio', 1)]",True
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],False
+sluggish,[],False
+slump,[],False
+slumping,[],False
+slumpping,[],False
+slur,[],False
+slut,[],False
+sluts,[],False
+sly,[],True
+smack,"[('de listillo', 1), ('listillo', 1), ('de', 1)]",True
+smallish,[],False
+smash,[],False
+smear,[],False
+smell,"[('huelo', 1)]",True
+smelled,[],False
+smelling,[],False
+smells,"[('huele', 1)]",True
+smelly,[],False
+smelt,[],False
+smoke,"[('humo', 1)]",True
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,[],False
+smugly,[],False
+smut,[],False
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,"[('snare', 2)]",True
+snarky,[],False
+snarl,[],False
+sneak,[],True
+sneakily,"[('furtivamente', 1)]",True
+sneaky,[],False
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,[],False
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,[],False
+so-cal,[],False
+soapy,[],False
+sob,[],True
+sober,[],False
+sobering,[],False
+solemn,"[('solemne', 1)]",True
+solicitude,[],False
+somber,[],False
+sore,[],True
+sorely,[],False
+soreness,[],False
+sorrow,[],False
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('disculpa', 14), ('perdón', 11), ('siento', 10), ('perdona', 9), ('lamento', 2)]",True
+sour,[],True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],False
+spewed,[],False
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,"[('pesar', 1)]",True
+spiteful,[],False
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,"[('partido', 1)]",True
+splitting,[],False
+spoil,"[('echan', 1)]",True
+spoilage,[],False
+spoilages,[],False
+spoiled,"[('estropean', 1), ('estropeaste', 1)]",True
+spoilled,[],False
+spoils,[],False
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,"[('esporádico', 2)]",True
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],False
+squabbling,[],False
+squander,[],False
+squash,[],False
+squeak,[],True
+squeaks,"[('chirría', 1)]",True
+squeaky,[],False
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,[],False
+stab,[],True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,"[('manchará', 1)]",True
+stains,[],False
+stale,[],False
+stalemate,[],False
+stall,[],True
+stalls,[],False
+stammer,[],False
+stampede,[],False
+standstill,[],False
+stark,[],False
+starkly,[],False
+startle,[],False
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,[],False
+static,[],False
+steal,[],True
+stealing,"[('roba', 1)]",True
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],False
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,[],False
+sticky,[],False
+stiff,[],False
+stiffness,[],False
+stifle,"[('ahogar', 1)]",True
+stifling,[],False
+stiflingly,[],False
+stigma,"[('estigma', 1)]",True
+stigmatize,[],False
+sting,[],True
+stinging,[],False
+stingingly,[],False
+stingy,[],False
+stink,[],False
+stinks,[],False
+stodgy,[],False
+stole,[],True
+stolen,"[('robaron', 1)]",True
+stooge,[],False
+stooges,[],False
+stormy,[],False
+straggle,[],False
+straggler,[],False
+strain,"[('colar', 1)]",True
+strained,[],True
+straining,[],False
+strange,"[('extraño', 10), ('raro', 6), ('extraña', 3), ('raras', 3), ('rara', 2)]",True
+strangely,[],False
+stranger,"[('desconocido', 1), ('extraño', 1)]",True
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,[],True
+stresses,[],False
+stressful,[],False
+stressfully,[],False
+stricken,[],False
+strict,"[('estricto', 1)]",True
+strictly,"[('estrictamente', 4)]",True
+strident,[],False
+stridently,[],False
+strife,[],False
+strike,[],True
+stringent,[],False
+stringently,[],False
+struck,"[('asaltó', 1)]",True
+struggle,"[('lucha', 2)]",True
+struggled,"[('batallé', 1)]",True
+struggles,[],False
+struggling,[],False
+strut,[],False
+stubborn,"[('obstinado', 1), ('cabezota', 1)]",True
+stubbornly,[],False
+stubbornness,[],False
+stuck,"[('estancado', 1), ('atasco', 1)]",True
+stuffy,[],False
+stumble,[],False
+stumbled,[],False
+stumbles,[],False
+stump,[],False
+stumped,[],False
+stumps,[],False
+stun,[],False
+stunt,[],False
+stunted,[],False
+stupid,"[('tontería', 1), ('estupideces', 1), ('burradas', 1), ('tonto', 1)]",True
+stupidest,[],False
+stupidity,"[('estupidez', 2)]",True
+stupidly,[],False
+stupified,[],False
+stupify,[],False
+stupor,[],False
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,[],False
+subjected,[],False
+subjection,[],False
+subjugate,[],True
+subjugation,[],False
+submissive,[],False
+subordinate,[],False
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,[],False
+subtract,[],False
+subversion,[],False
+subversive,[],False
+subversively,[],False
+subvert,[],False
+succumb,[],False
+suck,[],True
+sucked,[],False
+sucker,[],False
+sucks,[],False
+sucky,[],False
+sue,"[('demandar', 1)]",True
+sued,[],True
+sueing,[],False
+sues,[],True
+suffer,"[('sufren', 1)]",True
+suffered,"[('sufrió', 1), ('sufrieron', 1)]",True
+sufferer,[],False
+sufferers,[],False
+suffering,"[('sufriendo', 2)]",True
+suffers,"[('adolece', 1)]",True
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,[],False
+suicide,[],False
+sulk,[],True
+sullen,[],False
+sully,[],False
+sunder,[],True
+sunk,[],False
+sunken,[],False
+superficial,[],False
+superficiality,[],False
+superficially,[],False
+superfluous,"[('superfluo', 1), ('superflua', 1)]",True
+superstition,[],False
+superstitious,[],False
+suppress,[],True
+suppression,[],False
+surrender,[],False
+susceptible,"[('susceptible', 1)]",True
+suspect,"[('sospechar', 2)]",True
+suspicion,"[('sospecha', 1), ('suspicacia', 1)]",True
+suspicions,"[('sospechas', 1)]",True
+suspicious,"[('sospechoso', 2), ('sospechosos', 1), ('sospechaba', 1)]",True
+suspiciously,[],False
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],False
+swelling,[],False
+swindle,[],False
+swipe,[],False
+swollen,[],False
+symptom,[],True
+symptoms,"[('síntomas', 1)]",True
+syndrome,[],True
+taboo,[],False
+tacky,[],False
+taint,[],True
+tainted,[],False
+tamper,[],False
+tangle,[],True
+tangled,"[('enredé', 1)]",True
+tangles,[],False
+tank,[],False
+tanked,[],False
+tanks,[],False
+tantrum,[],False
+tardy,[],False
+tarnish,"[('empañar', 1)]",True
+tarnished,[],False
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],False
+taunting,[],False
+tauntingly,[],False
+taunts,[],False
+taut,[],False
+tawdry,[],False
+taxing,[],False
+tease,[],False
+teasingly,[],False
+tedious,[],False
+tediously,[],False
+temerity,[],False
+temper,"[('leche', 1)]",True
+tempest,[],False
+temptation,[],False
+tenderness,[],False
+tense,[],True
+tension,[],True
+tentative,"[('provisional', 1)]",True
+tentatively,[],False
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,"[('terrible', 1)]",True
+terribleness,[],False
+terribly,[],False
+terror,"[('terror', 1)]",True
+terror-genic,[],False
+terrorism,[],False
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,[],False
+thirst,[],False
+thorny,"[('espinosos', 1)]",True
+thoughtless,[],False
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,"[('amenaza', 8)]",True
+threaten,"[('amenazo', 2), ('amenazar', 1)]",True
+threatening,"[('amenazar', 1)]",True
+threats,"[('amenazas', 1)]",True
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,[],False
+thumb-down,[],False
+thumbs-down,[],False
+thwart,[],False
+time-consuming,[],False
+timid,[],True
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('cansado', 2), ('programar', 1), ('cansas', 1), ('canso', 1)]",True
+tiresome,[],False
+tiring,[],False
+tiringly,[],False
+toil,[],False
+toll,[],False
+top-heavy,[],False
+topple,[],False
+torment,[],False
+tormented,[],False
+torrent,[],False
+tortuous,[],False
+torture,"[('torturas', 1)]",True
+tortured,[],False
+tortures,[],False
+torturing,[],False
+torturous,[],False
+torturously,[],False
+totalitarian,[],False
+touchy,"[('susceptible', 1)]",True
+toughness,[],False
+tout,[],False
+touted,[],False
+touts,[],False
+toxic,[],False
+traduce,[],False
+tragedy,[],False
+tragic,[],False
+tragically,[],False
+traitor,[],False
+traitorous,[],False
+traitorously,[],False
+tramp,[],True
+trample,"[('pisotearme', 1), ('pisotear', 1)]",True
+transgress,[],False
+transgression,[],False
+trap,[],False
+traped,[],False
+trapped,[],False
+trash,"[('basura', 1)]",True
+trashed,[],False
+trashy,[],False
+trauma,"[('trauma', 1)]",True
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,"[('traición', 1)]",True
+treasonous,[],False
+trick,"[('truco', 3), ('truquillo', 1)]",True
+tricked,[],False
+trickery,[],False
+tricky,[],False
+trivial,"[('nimios', 1)]",True
+trivialize,[],False
+trouble,"[('molestia', 3), ('problemas', 2), ('trabajo', 1), ('líos', 1), ('apuro', 1)]",True
+troubled,[],False
+troublemaker,[],False
+troubles,[],False
+troublesome,[],False
+troublesomely,[],False
+troubling,[],False
+troublingly,[],False
+truant,[],False
+tumble,[],False
+tumbled,[],False
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,[],False
+twist,[],True
+twisted,[],False
+twists,[],False
+two-faced,[],False
+two-faces,[],False
+tyrannical,[],False
+tyrannically,[],False
+tyranny,"[('tiranía', 4)]",True
+tyrant,[],True
+ugh,"[('ugh', 1)]",True
+uglier,[],False
+ugliest,[],False
+ugliness,[],False
+ugly,"[('fea', 3), ('patito', 1), ('casi _ patito', 1), ('casi', 1), ('feísssimo', 1)]",True
+ulterior,[],False
+ultimatum,[],False
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,"[('incapaz', 3), ('incapaces', 1), ('no', 1)]",True
+unacceptable,"[('inaceptable', 4)]",True
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,"[('acostumbrada', 1)]",True
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,[],False
+unauthentic,[],False
+unavailable,"[('no', 1), ('diponible', 1), ('no _ diponible', 1)]",True
+unavoidably,[],False
+unbearable,"[('insoportable', 1)]",True
+unbearablely,[],False
+unbelievable,[],False
+unbelievably,[],False
+uncaring,[],False
+uncertain,[],True
+uncivil,[],False
+uncivilized,[],False
+unclean,[],False
+unclear,"[('poco', 1), ('no', 1)]",True
+uncollectible,[],False
+uncomfortable,"[('incómoda', 2), ('incomodo', 1)]",True
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,"[('intransigente', 1)]",True
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,[],False
+uncontrolled,[],False
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,[],False
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,"[('indefinido', 1)]",True
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,[],False
+underestimate,[],False
+underlings,[],False
+undermine,[],False
+undermined,[],False
+undermines,[],False
+undermining,[],False
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,[],False
+undetermined,[],False
+undid,"[('deshizo', 2)]",True
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,"[('deshecho', 3), ('deshacer', 2), ('deshaciendo', 1), ('deshecha', 1), ('vuelto deshacer', 1)]",True
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,"[('inquieto', 1)]",True
+uneconomical,[],False
+unemployed,[],False
+unequal,[],False
+unethical,[],False
+uneven,[],False
+uneventful,[],False
+unexpected,[],True
+unexpectedly,"[('improviso', 1)]",True
+unexplained,[],False
+unfairly,"[('injustamente', 1)]",True
+unfaithful,[],False
+unfaithfully,[],False
+unfamiliar,[],False
+unfavorable,"[('desfavorables', 1), ('desfavorable', 1)]",True
+unfeeling,[],False
+unfinished,[],False
+unfit,[],False
+unforeseen,"[('imprevistos', 1)]",True
+unforgiving,[],False
+unfortunate,"[('desafortunada', 1), ('desafortunado', 1), ('lamentable', 1)]",True
+unfortunately,"[('lamentablemente', 7), ('desgraciadamente', 2), ('desgracia', 1), ('lamentablemetne', 1)]",True
+unfounded,"[('infundado', 1), ('infundado _ inexistente', 1), ('inexistente', 1)]",True
+unfriendly,[],False
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,[],False
+unhealthy,[],False
+unhelpful,[],False
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,[],True
+uninformed,[],False
+uninsured,[],False
+unintelligible,[],False
+unintelligile,[],False
+unipolar,[],False
+unjust,[],True
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,"[('injustificado', 1), ('injustificada', 1)]",True
+unjustly,[],False
+unkind,[],False
+unkindly,[],False
+unknown,"[('desconocidas', 2), ('desconoce', 2), ('desconocida', 2), ('ignorado', 1), ('ignota', 1)]",True
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,[],True
+unlicensed,[],False
+unlikely,[],False
+unlucky,[],False
+unmoved,[],False
+unnatural,"[('no', 1), ('no natural', 1), ('natural', 1)]",True
+unnaturally,[],False
+unnecessary,"[('innecesario', 9), ('innecesaria', 5), ('innecesarias', 3), ('innecesarios', 2)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,[],False
+unobserved,[],False
+unorthodox,"[('ortodoxo', 1)]",True
+unorthodoxy,[],False
+unpleasant,"[('desagradables', 2), ('desenlaces desagradables', 2), ('desenlaces', 2), ('desagradable', 1), ('antipático', 1)]",True
+unpleasantries,[],False
+unpopular,[],False
+unpredictable,[],False
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],False
+unproved,[],False
+unproven,[],False
+unproves,[],False
+unproving,[],False
+unqualified,[],False
+unravel,[],False
+unraveled,[],False
+unreachable,[],False
+unreadable,[],False
+unrealistic,[],False
+unreasonable,[],False
+unreasonably,[],False
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,[],False
+unreliable,"[('escasa', 1)]",True
+unresolved,"[('incógnita planteada', 1), ('planteada', 1), ('incógnita', 1)]",True
+unresponsive,[],False
+unrest,[],True
+unruly,[],False
+unsafe,[],False
+unsatisfactory,[],False
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,[],False
+unsettle,[],False
+unsettled,[],False
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,[],False
+unspeakablely,[],False
+unspecified,[],False
+unstable,[],False
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,"[('éxito', 1), ('infructuosos', 1)]",True
+unsuccessfully,[],False
+unsupported,"[('sustento', 1)]",True
+unsupportive,[],False
+unsure,[],False
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,"[('intempestivo', 1), ('extemporáneo', 1), ('intempestiva', 1)]",True
+untouched,[],False
+untrue,[],False
+untrustworthy,"[('no', 1)]",True
+untruthful,[],False
+unusable,"[('inutilizada', 1)]",True
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,"[('habitual', 1)]",True
+unusually,[],False
+unviewable,[],False
+unwanted,"[('no deseado', 1), ('no', 1), ('deseado', 1)]",True
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,[],False
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,[],False
+unyielding,[],False
+upbraid,[],False
+upheaval,[],False
+uprising,"[('alzamiento', 1)]",True
+uproar,[],False
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,[],False
+upset,"[('molesto', 1), ('contrariado', 1)]",True
+upseting,[],False
+upsets,[],False
+upsetting,[],False
+upsettingly,[],False
+urgent,"[('urgente', 1), ('urgentes', 1)]",True
+useless,"[('inútil', 2)]",True
+usurp,[],False
+usurper,[],False
+utterly,[],False
+vagrant,[],False
+vague,"[('vaga', 1), ('vago', 1)]",True
+vagueness,[],False
+vain,"[('vano', 2), ('vanidosos', 1)]",True
+vainly,[],False
+vanity,[],False
+vehement,"[('vehemente', 1)]",True
+vehemently,[],False
+vengeance,[],False
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],True
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,[],False
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,[],False
+vice,"[('vicecancilleres', 1), ('viceversa', 1)]",True
+vicious,[],True
+viciously,[],False
+viciousness,"[('saña', 1)]",True
+victimize,[],True
+vile,"[('vil', 1)]",True
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],True
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,"[('violar', 2), ('incumplir', 1), ('con', 1), ('incumple', 1), ('incumple con', 1)]",True
+violation,"[('violación', 10), ('violaciónd', 1), ('infracción', 1)]",True
+violator,[],False
+violators,[],False
+violent,"[('violentas', 1), ('violenta', 1)]",True
+violently,[],False
+viper,[],False
+virulence,[],False
+virulent,"[('virulentas', 1)]",True
+virulently,[],False
+virus,[],True
+vociferous,[],False
+vociferously,[],False
+volatile,[],False
+volatility,[],False
+vomit,[],False
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,[],False
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],True
+wane,[],False
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,"[('advertido', 4), ('avisé', 3), ('avisaba', 2), ('amonesta', 1), ('avisa', 1)]",True
+warning,"[('aviso', 7), ('advertencia', 5), ('advertírtelo', 1)]",True
+warp,[],False
+warped,[],False
+wary,[],False
+washed-out,[],False
+waste,"[('perder', 2), ('pierdes', 2), ('residuos', 1), ('perdemos', 1), ('pierde', 1)]",True
+wasted,[],False
+wasteful,[],False
+wastefulness,[],False
+wasting,"[('perder', 3), ('hastío _ perder', 1), ('hastío', 1), ('desperdicio', 1), ('pierdes', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,"[('flojos', 1)]",True
+weaken,[],False
+weakening,[],False
+weaker,[],False
+weakness,[],False
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,[],False
+weed,[],True
+weep,[],True
+weird,"[('raro', 4), ('¿', 1), ('¿ raro', 1), ('weird', 1), ('raros', 1)]",True
+weirdly,[],False
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,[],False
+whiny,[],False
+whips,[],False
+whore,[],False
+whores,[],False
+wicked,[],False
+wickedly,[],False
+wickedness,[],False
+wild,[],False
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,[],False
+wobbled,[],False
+wobbles,[],False
+woe,[],False
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,[],False
+worried,"[('preocupa', 1), ('preocupó', 1)]",True
+worriedly,[],False
+worrier,[],False
+worries,[],False
+worrisome,[],False
+worry,"[('preocupes', 6), ('preocupe', 2), ('preocupa', 1), ('preocupen', 1), ('preocuparse', 1)]",True
+worrying,"[('preocupante', 2)]",True
+worryingly,[],False
+worse,"[('peor', 8), ('mal', 2), ('peores', 1), ('aun', 1), ('para', 1)]",True
+worsen,"[('empeoran', 1)]",True
+worsening,"[('empeoramiento', 1)]",True
+worst,"[('peor', 1)]",True
+worthless,[],False
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,[],False
+wreaked,[],False
+wreaks,[],False
+wreck,"[('destrozo', 1)]",True
+wrest,[],True
+wrestle,[],True
+wretch,[],False
+wretched,[],False
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,[],False
+wrinkled,[],False
+wrinkles,[],False
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('mal', 53), ('equivocado', 10), ('incorrecto', 6), ('equivoco', 4), ('malo', 4)]",True
+wrongful,[],False
+wrongly,"[('mal', 5), ('equivocadamente', 1), ('mal mal', 1), ('se', 1), ('erroneamente', 1)]",True
+wrought,[],False
+yawn,[],False
+zap,[],True
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,[],False
+zealously,[],False

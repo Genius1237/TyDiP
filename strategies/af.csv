@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('jy', 38), ('asseblief', 34), ('asb', 28), ('kyk', 5), ('jy asseblief', 4)]",True
+Strategy - Please_start,,
+please,"[('jy', 38), ('asseblief', 34), ('asb', 28), ('kyk', 5), ('jy asseblief', 4)]",True
+Strategy - HASHEDGE,,
+think,"[('dink', 80), ('jy', 44), ('dink jy', 6), ('mening', 3), ('dat', 3)]",True
+thought,"[('dog', 4), ('het', 3), ('gedagte', 2), ('gedink', 2), ('dat', 1)]",True
+thinking,"[('aan', 1), ('dink', 1), ('dat', 1), ('gedink', 1), ('dat _ gedink _ dat', 1)]",True
+almost,"[('amper', 9), ('byna', 3)]",True
+apparent,[],True
+apparently,"[('blykbaar', 5), ('klaarblyklik', 2), ('het', 1)]",True
+appear,"[('verskyn', 5), ('vertoon', 3), ('kom', 2), ('blyk', 1), ('bloot', 1)]",True
+appeared,"[('verskyn', 2)]",True
+appears,"[('verskyn', 3), ('voorkom', 3), ('duik', 1), ('blyk', 1), ('kom', 1)]",True
+approximately,[],False
+around,"[('rondom', 9), ('rond', 6), ('om', 4), ('rondgekyk', 1), ('al', 1)]",True
+assume,"[('neem', 22), ('veronderstel', 2), ('dat', 1), ('aan', 1)]",True
+assumed,"[('het', 1)]",True
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('aanspraak', 2), ('aanspraak _ maak', 1), ('maak', 1), ('beweer', 1), ('bewering', 1)]",True
+claimed,"[('beweer', 4)]",True
+doubt,"[('twyfel', 3), ('betwyfel', 1)]",True
+doubtful,[],False
+essentially,[],True
+estimate,[],True
+estimated,"[('geraamde', 1), ('geschatte', 1), ('beraamde', 1)]",True
+feel,"[('voel', 19), ('jy', 4), ('dich', 1), ('lus', 1), ('skuldig voel', 1)]",True
+felt,"[('voel', 2), ('het', 1), ('gevoel', 1)]",True
+frequently,[],False
+from our perspective,[],False
+generally,"[('algemeen', 1)]",True
+guess,"[('raai', 2)]",True
+in general,[],True
+in most cases,[],False
+in most instances,[],False
+in our view,[],False
+indicate,"[('aandui', 3), ('dui', 3), ('aan', 1), ('aangee', 1), ('beduie', 1)]",True
+indicated,"[('aangedui', 1)]",True
+largely,"[('grootliks', 1)]",True
+likely,"[('geneig', 1), ('waarskynlik', 1)]",True
+mainly,"[('hoofsaaklik', 3), ('veral', 1), ('vernaamlik', 1)]",True
+may,"[('mag', 46), ('kan', 11), ('mei', 3), ('is', 2), ('moet', 2)]",True
+maybe,"[('miskien', 66), ('dalk', 63), ('kan', 27), ('het', 9), ('moet', 8)]",True
+might,"[('kan', 10), ('sal', 5), ('mag', 4), ('wil', 3), ('wou', 2)]",True
+mostly,"[('meestal', 6), ('mostly', 1)]",True
+often,"[('dikwels', 8), ('gereeld', 2), ('baie', 1), ('gereeld _ nie', 1), ('nie', 1)]",True
+on the whole,[],False
+ought,[],True
+perhaps,"[('dalk', 22), ('miskien', 19), ('jy', 2), ('nog', 1), ('sou', 1)]",True
+plausible,[],False
+plausibly,[],False
+possible,"[('moontlik', 35), ('moontlike', 4)]",True
+possibly,"[('moontlik', 20)]",True
+postulate,[],False
+postulated,[],False
+presumable,[],False
+probable,[],False
+probably,"[('seker', 10), ('waarskynlik', 7), ('ook', 2), ('seker maar', 1), ('maar', 1)]",True
+relatively,"[('verhoudingsgewys', 1)]",True
+roughly,[],True
+seems,"[('lyk', 31), ('wil', 4), ('blyk', 1)]",True
+should,"[('moet', 158), ('moes', 5), ('sou', 3), ('mag', 3), ('dalk', 3)]",True
+sometimes,"[('soms', 16)]",True
+somewhat,[],False
+suggest,"[('voor', 6), ('stel', 2), ('raai', 1), ('bo', 1)]",True
+suggested,"[('voorgestelde', 2)]",True
+suppose,"[('gestel', 3), ('veronderstel', 1)]",True
+suspect,"[('vermoed', 18), (',', 1)]",True
+tend to,[],True
+tends to,[],True
+typical,"[('tipiese', 1), ('tipies', 1)]",True
+typically,[],False
+uncertain,"[('onsekere', 1)]",True
+uncertainly,[],False
+unclear,[],False
+unclearly,[],False
+unlikely,"[('onwaarskynlik', 2)]",True
+usually,"[('gewoonlik', 6), ('meestal', 1)]",True
+broadly,[],False
+tended to,[],False
+presumably,[],False
+suggests,[],False
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],False
+in this view,[],False
+in our opinion,[],False
+in my opinion,[],True
+to my knowledge,[],False
+fairly,"[('regverdig', 1)]",True
+quite,"[('nogal', 17), ('heeltemal', 5), ('heel', 4), ('heelwat', 1), ('seker', 1)]",True
+rather,"[('eerder', 51), ('rather', 2), ('nogal', 2), ('maar', 2), ('miskien', 1)]",True
+argue,[],False
+argues,[],False
+argued,[],False
+claims,"[('beweer', 2)]",True
+feels,"[('voel', 2)]",True
+indicates,"[('aandui', 2), ('dui', 1)]",True
+supposed,"[('veronderstel', 5)]",True
+supposes,[],False
+suspects,[],False
+postulates,[],False
+Strategy - Deference,,
+great,"[('groot', 6), ('goeie', 4), ('baie', 2), ('grootbrittanje', 1), ('puik', 1)]",True
+good,"[('goeie', 42), ('goed', 28), ('goeienaand', 14), ('goeiemore', 3), ('lekker', 2)]",True
+nice,"[('lekker', 11), ('mooi', 2), ('gaaf', 1), ('gawe anonieme', 1), ('gawe', 1)]",True
+good,"[('goeie', 42), ('goed', 28), ('goeienaand', 14), ('goeiemore', 3), ('lekker', 2)]",True
+interesting,"[('interessante', 7), ('interessant', 5), ('interessants', 1)]",True
+cool,"[('cool', 1)]",True
+excellent,"[('uitstekende', 3), ('uitstekend', 2), ('uitmuntende', 1)]",True
+awesome,[],False
+Strategy - 1st_person_pl.,,
+we,"[('ons', 298), ('hoe', 1)]",True
+our,"[('ons', 89), ('onse', 2), ('our', 1)]",True
+us,"[('ons', 45), ('amerikaanse', 1), ('vsa', 1)]",True
+ourselves,"[('ons', 1), ('ons ons', 1)]",True
+Strategy - 1st_person,,
+i,"[('ek', 1145), ('jy', 11), ('i', 9), ('my', 6), ('ik', 5)]",True
+my,"[('my', 218), ('myns', 8), ('ek', 1), ('myself', 1)]",True
+mine,"[('myne', 2), ('my', 1)]",True
+myself,"[('my', 7), ('self', 7), ('myself', 5)]",True
+Strategy - 1st_person_start,,
+i,"[('ek', 1145), ('jy', 11), ('i', 9), ('my', 6), ('ik', 5)]",True
+my,"[('my', 218), ('myns', 8), ('ek', 1), ('myself', 1)]",True
+mine,"[('myne', 2), ('my', 1)]",True
+myself,"[('my', 7), ('self', 7), ('myself', 5)]",True
+Strategy - 2nd_person,,
+you,"[('jy', 1068), ('jou', 107), ('dankie', 48), ('u', 34), ('ek', 19)]",True
+your,"[('jou', 292), ('u', 10), ('julle', 6), ('die', 4), ('your', 3)]",True
+yours,"[('joune', 4), ('jou', 1)]",True
+yourself,"[('self', 19), ('jou', 4), ('jy', 3), ('yourself', 3), ('doenditselfboeke', 1)]",True
+Strategy - 2nd_person_start,,
+you,"[('jy', 1068), ('jou', 107), ('dankie', 48), ('u', 34), ('ek', 19)]",True
+your,"[('jou', 292), ('u', 10), ('julle', 6), ('die', 4), ('your', 3)]",True
+yours,"[('joune', 4), ('jou', 1)]",True
+yourself,"[('self', 19), ('jou', 4), ('jy', 3), ('yourself', 3), ('doenditselfboeke', 1)]",True
+Strategy - Indirect_(greeting),,
+hi,"[('hi', 35), ('haai', 13), ('hallo', 10), ('hé', 1), ('hoi', 1)]",True
+hello,"[('hallo', 47), ('hello', 1), ('dagsê', 1), ('nuuskierig', 1), ('nuuskierig _ jy', 1)]",True
+hey,"[('haai', 5), ('hey', 2)]",True
+Strategy - Direct_question,,
+what,"[('wat', 448), ('watter', 73), ('hoe', 29), ('watse', 5), ('waarna', 5)]",True
+why,"[('waarom', 134), ('hoekom', 122), ('nie', 5), ('hoekom nie', 2), ('hoekoem', 1)]",True
+who,"[('wat', 85), ('wie', 71), ('almal', 1), ('almal wat', 1), (""wie't"", 1)]",True
+how,"[('hoe', 291), ('hoeveel', 39), ('wat', 2), ('how', 1), ('hoeso', 1)]",True
+Strategy - Direct_start,,
+so,"[('so', 143), ('dus', 36), ('sodat', 23), ('wel', 16), ('soveel', 10)]",True
+then,"[('dan', 162), ('toe', 19), ('daarna', 4), ('vervolgens', 2), ('waarom', 2)]",True
+and,"[('en', 901), ('and', 4), ('én', 4), ('op', 1), ('as', 1)]",True
+but,"[('maar', 431), ('niks', 1), ('but', 1)]",True
+or,"[('of', 498), ('óf', 3), ('or', 3), ('naastenby', 1), ('of _ of', 1)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,[],False
+abounds,[],False
+abundance,[],False
+abundant,"[('oorvloedige', 1)]",True
+accessable,[],False
+accessible,"[('toeganklik', 2)]",True
+acclaim,[],False
+acclaimed,[],False
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,[],False
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,"[('korrek', 1), ('akkuraat', 1)]",True
+accurately,[],False
+achievable,[],False
+achievement,[],True
+achievements,"[('prestasies', 1)]",True
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,"[('voldoende', 2)]",True
+adjustable,[],False
+admirable,[],False
+admirably,[],False
+admiration,[],False
+admire,[],False
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,[],False
+adore,[],False
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,"[('gevorderde', 2), ('gevorderd', 1)]",True
+advantage,"[('voordeel', 1)]",True
+advantageous,[],False
+advantageously,[],False
+advantages,[],False
+adventuresome,[],False
+adventurous,[],False
+advocate,[],False
+advocated,[],False
+advocates,[],False
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,[],False
+affectionate,[],False
+affinity,[],False
+affirm,[],True
+affirmation,[],False
+affirmative,"[('regstellende', 1)]",True
+affluence,[],False
+affluent,[],True
+afford,"[('bekostig', 1)]",True
+affordable,[],False
+affordably,[],False
+afordable,[],False
+agile,[],False
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],False
+altruistically,[],False
+amaze,[],True
+amazed,"[('telken', 1), ('telken verbaas', 1), ('verbaas', 1)]",True
+amazement,[],False
+amazes,[],False
+amazing,"[('ongelooflik', 1), ('verstommend', 1)]",True
+amazingly,[],False
+ambitious,[],False
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,[],False
+amity,[],False
+ample,[],True
+amply,[],False
+amuse,[],False
+amusing,[],False
+amusingly,[],False
+angel,[],True
+angelic,[],False
+apotheosis,[],False
+appeal,"[('appelleer', 1)]",True
+appealing,[],False
+applaud,[],False
+appreciable,[],False
+appreciate,"[('waardeer', 4)]",True
+appreciated,"[('waardeer', 3)]",True
+appreciates,[],False
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('gepaste', 1), ('passend', 1)]",True
+approval,"[('goedkeuring', 1)]",True
+approve,[],False
+ardent,[],False
+ardently,[],False
+ardor,[],False
+articulate,[],True
+aspiration,[],False
+aspirations,[],False
+aspire,[],False
+assurance,[],False
+assurances,[],False
+assure,[],False
+assuredly,[],False
+assuring,[],False
+astonish,[],False
+astonished,[],False
+astonishing,[],False
+astonishingly,[],False
+astonishment,[],False
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,[],False
+attraction,"[('toerismetrekpleister', 1), ('attraction', 1)]",True
+attractive,"[('aantreklik', 1), ('aantreklike', 1)]",True
+attractively,[],False
+attune,[],False
+audible,[],False
+audibly,[],False
+auspicious,[],False
+authentic,[],False
+authoritative,[],False
+autonomous,[],False
+available,"[('beskikbaar', 15), ('verkrygbaar', 1), ('beskikbare', 1), ('word', 1), ('beskikbaar word', 1)]",True
+aver,[],True
+avid,[],False
+avidly,[],False
+award,[],True
+awarded,"[('toegeken', 1)]",True
+awards,[],False
+awe,[],True
+awed,[],False
+awesome,[],False
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,[],False
+bargain,[],False
+beauteous,[],False
+beautiful,"[('mooi', 4), ('pragtige', 3), ('beeldskoon', 1)]",True
+beautifullly,[],False
+beautifully,[],False
+beautify,[],False
+beauty,[],False
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],False
+believeable,[],False
+beloved,[],False
+benefactor,[],False
+beneficent,[],False
+beneficial,[],False
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('voordeel', 3), ('gebaat', 1)]",True
+benefits,[],False
+benevolence,[],False
+benevolent,[],False
+benifits,[],False
+best,"[('beste', 12), ('slegste', 1), ('hartelijke', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('beter', 56), ('beters', 2), ('besser', 1)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,[],True
+blessing,[],False
+bliss,[],True
+blissful,"[('salige', 2), ('salige niksdoen', 1), ('niksdoen', 1)]",True
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,[],False
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,[],False
+bonuses,[],False
+boom,"[('opbloei', 1), ('boem', 1)]",True
+booming,[],False
+boost,[],False
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,[],False
+bravery,[],False
+bravo,[],False
+breakthrough,[],False
+breakthroughs,[],False
+breathlessness,[],False
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,[],False
+brighten,[],False
+brighter,[],False
+brightest,[],False
+brilliance,[],False
+brilliances,[],False
+brilliant,"[('blink', 1), ('brilliant', 1)]",True
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,[],True
+calming,[],False
+calmness,[],False
+capability,[],False
+capable,"[('staat', 1), ('bekwaam', 1), ('opgewasse', 1)]",True
+capably,[],False
+captivate,[],False
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,"[('vier', 2)]",True
+celebrated,"[('gevier', 1)]",True
+celebration,[],True
+celebratory,[],False
+champ,[],True
+champion,"[('wêreldkampioen', 1)]",True
+charisma,"[('charisma', 1)]",True
+charismatic,"[('charismatiese', 1)]",True
+charitable,[],False
+charm,"[('beskoers', 1)]",True
+charming,[],False
+charmingly,[],False
+chaste,[],False
+cheaper,[],False
+cheapest,[],False
+cheer,[],True
+cheerful,"[('vrolike', 1)]",True
+cheery,[],False
+cherish,[],False
+cherished,[],False
+cherub,[],False
+chic,[],True
+chivalrous,[],False
+chivalry,[],False
+civility,[],False
+civilize,[],False
+clarity,"[('duidelikheid', 1)]",True
+classic,[],True
+classy,[],False
+clean,"[('clean', 1)]",True
+cleaner,[],False
+cleanest,[],False
+cleanliness,[],False
+cleanly,[],False
+clear,"[('duidelik', 11), ('duidelike', 3), ('duidelik gewees', 1), ('gewees', 1), ('maak', 1)]",True
+clear-cut,[],False
+cleared,[],False
+clearer,[],False
+clearly,"[('duidelik', 2)]",True
+clears,[],False
+clever,"[('knap', 1)]",True
+cleverly,[],False
+cohere,[],False
+coherence,[],False
+coherent,[],False
+cohesive,[],False
+colorful,[],False
+comely,[],False
+comfort,[],False
+comfortable,[],False
+comfortably,[],False
+comforting,[],False
+comfy,[],False
+commend,[],True
+commendable,[],False
+commendably,[],False
+commitment,[],False
+commodious,[],False
+compact,[],False
+compactly,[],False
+compassion,[],False
+compassionate,[],False
+compatible,[],False
+competitive,[],False
+complement,[],False
+complementary,[],False
+complemented,[],False
+complements,[],False
+compliant,[],False
+compliment,[],False
+complimentary,[],False
+comprehensive,"[('omvattende', 2), ('omvattend', 1)]",True
+conciliate,[],False
+conciliatory,[],False
+concise,"[('beknopte', 1)]",True
+confidence,[],False
+confident,[],True
+congenial,[],False
+congratulate,[],False
+congratulation,[],True
+congratulations,"[('geluk', 3), ('baie', 1), ('baie geluk', 1)]",True
+congratulatory,[],False
+conscientious,[],False
+considerate,[],False
+consistent,[],True
+consistently,[],False
+constructive,"[('konstruktiewe', 2)]",True
+consummate,[],False
+contentment,[],False
+continuity,[],False
+contrasty,[],False
+contribution,"[('bydrae', 11), ('bydra', 1), ('bydraegeskiedenis', 1)]",True
+convenience,[],False
+convenient,"[('gerieflik', 2)]",True
+conveniently,[],False
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,[],False
+convincingly,[],False
+cool,"[('cool', 1)]",True
+coolest,[],False
+cooperative,[],False
+cooperatively,[],False
+cornerstone,[],False
+correct,"[('korrekte', 21), ('korrek', 20), ('regte', 4), ('reg', 3), ('taalgewys korrek', 1)]",True
+correctly,"[('reg', 3), ('onthou', 2), ('korrek', 2), ('weergegee', 1), ('correctly', 1)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,"[('moed', 2)]",True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,[],False
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('creative', 2), ('skeppende', 1), ('kreatief', 1)]",True
+credence,[],False
+credible,[],False
+crisp,[],False
+crisper,[],False
+cure,"[('genees', 1), ('enigsins', 1), ('enigsins _ genees', 1)]",True
+cure-all,[],False
+cushy,[],False
+cute,"[('oulik', 1)]",True
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,[],True
+daringly,[],False
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,[],False
+dazzle,[],False
+dazzled,[],False
+dazzling,[],False
+dead-cheap,[],False
+dead-on,[],False
+decency,[],False
+decent,"[('ordentlik', 2), ('ordentlike', 1), ('skafliker', 1)]",True
+decisive,[],False
+decisiveness,[],False
+dedicated,[],False
+defeat,"[('nederlaag', 1)]",True
+defeated,[],False
+defeating,[],False
+defeats,[],False
+defender,[],False
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,[],False
+delicious,[],False
+delight,[],False
+delighted,[],False
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,[],False
+deserving,[],False
+desirable,"[('wenslik', 2)]",True
+desiring,[],False
+desirous,[],False
+destiny,[],False
+detachable,[],False
+devout,[],False
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,[],False
+dignify,[],False
+dignity,"[('waardigheid', 1), ('menswaardigheid', 1)]",True
+diligence,[],False
+diligent,[],False
+diligently,[],False
+diplomatic,"[('diplomatieke', 2)]",True
+dirt-cheap,[],False
+distinction,"[('onderskeid', 2), ('onderskeiding', 1)]",True
+distinctive,[],False
+distinguished,[],False
+diversified,[],False
+divine,[],False
+divinely,[],False
+dominate,[],False
+dominated,[],False
+dominates,[],False
+dote,[],True
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,[],False
+dynamic,"[('dinamiese', 1), ('dynamic', 1)]",True
+eager,"[('gretig', 1)]",True
+eagerly,[],False
+eagerness,[],False
+earnest,[],False
+earnestly,[],False
+earnestness,[],False
+ease,[],True
+eased,[],True
+eases,[],True
+easier,"[('makliker', 13), ('vergemaklik', 1), ('moontlik', 1)]",True
+easiest,"[('maklikste', 1)]",True
+easiness,[],False
+easing,[],False
+easy,"[('maklik', 7), ('maklike', 3)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,"[('ekonomies', 2)]",True
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,[],False
+effective,"[('doeltreffend', 1)]",True
+effectively,"[('effektief', 1), ('effektiewelik', 1)]",True
+effectiveness,[],False
+effectual,[],False
+efficacious,[],False
+efficient,[],False
+efficiently,[],False
+effortless,[],True
+effortlessly,"[('sonder', 1)]",True
+effusion,[],False
+effusive,[],False
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,[],False
+elegantly,[],False
+elevate,[],True
+elite,"[('eliteafrikatale', 1), ('elite', 1)]",True
+eloquence,[],False
+eloquent,[],False
+eloquently,[],False
+embolden,[],False
+eminence,[],False
+eminent,[],False
+empathize,[],False
+empathy,[],False
+empower,[],False
+empowerment,[],False
+enchant,[],False
+enchanted,[],False
+enchanting,[],False
+enchantingly,[],False
+encourage,[],True
+encouragement,[],False
+encouraging,[],False
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,[],False
+endorsed,[],False
+endorsement,[],False
+endorses,[],False
+endorsing,[],False
+energetic,[],False
+energize,[],False
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],False
+engrossing,[],False
+enhance,[],False
+enhanced,[],False
+enhancement,[],False
+enhances,[],False
+enjoy,"[('geniet', 6), ('jy', 1)]",True
+enjoyable,[],False
+enjoyably,[],False
+enjoyed,"[('het', 1)]",True
+enjoying,"[('vakansie geniet', 1), ('geniet', 1), ('vakansie', 1)]",True
+enjoyment,[],False
+enjoys,[],False
+enlighten,[],False
+enlightenment,[],False
+enliven,[],False
+ennoble,[],False
+enough,"[('genoeg', 17)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,"[('verryk', 2)]",True
+enrichment,[],False
+enterprising,[],False
+entertain,[],True
+entertaining,[],False
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,[],False
+enthusiast,[],True
+enthusiastic,"[('entoesiastiese', 1)]",True
+enthusiastically,[],False
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,[],False
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,[],False
+equitable,[],False
+ergonomical,[],False
+err-free,[],False
+erudite,[],False
+ethical,[],False
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,[],False
+evenly,[],False
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],False
+exaltation,[],False
+exalted,[],False
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,"[('uitstyg', 1)]",True
+exceeded,[],False
+exceeding,[],False
+exceedingly,[],False
+exceeds,[],False
+excel,[],True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],False
+excellency,[],False
+excellent,"[('uitstekende', 3), ('uitstekend', 2), ('uitmuntende', 1)]",True
+excellently,[],False
+excels,[],False
+exceptional,"[('uitsonderlik', 2), ('uitsonderlike', 1)]",True
+exceptionally,"[('uitsonderlik', 1)]",True
+excite,[],True
+excited,"[('opgewonde', 1)]",True
+excitedly,[],False
+excitedness,[],False
+excitement,[],False
+excites,[],False
+exciting,[],False
+excitingly,[],False
+exellent,[],False
+exemplar,[],False
+exemplary,[],False
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],False
+extoll,[],False
+extraordinarily,[],False
+extraordinary,[],False
+exuberance,[],False
+exuberant,"[('uitgelate', 1), ('meevoerende uitgelate', 1), ('meevoerende', 1)]",True
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,[],False
+fabulously,[],False
+facilitate,"[('vergemaklik', 1)]",True
+fair,"[('fair', 1), ('billike', 1)]",True
+fairly,"[('regverdig', 1)]",True
+fairness,[],False
+faith,"[('geloof', 2), ('gemeen', 1)]",True
+faithful,[],True
+faithfully,"[('telkens', 1)]",True
+faithfulness,[],False
+fame,[],False
+famed,[],False
+famous,"[('bekend', 2), ('bekendste', 1), ('bekende', 1), ('wêreldbekend', 1)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],False
+fanfare,[],False
+fans,"[('aanhangers', 2), ('ondersteuners', 1)]",True
+fantastic,"[('fantasties', 3)]",True
+fantastically,[],False
+fascinate,[],False
+fascinating,"[('gunstelingnavorsingsvelde', 1)]",True
+fascinatingly,[],False
+fascination,[],False
+fashionable,[],False
+fashionably,[],False
+fast,"[('vinnig', 5)]",True
+fast-growing,[],False
+fast-paced,[],False
+faster,[],False
+fastest,[],False
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('guns', 5), ('gunste', 2)]",True
+favorable,[],True
+favored,"[('gevind', 1)]",True
+favorite,"[('gunsteling', 3), ('gunstelingnavorsingsvelde', 1), ('gunstelingplekke', 1), ('gunstelingparty', 1), ('gunstelingsnitte', 1)]",True
+favorited,[],False
+favour,[],False
+fearless,[],False
+fearlessly,[],False
+feasible,[],False
+feasibly,[],False
+feat,[],True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,[],False
+fertile,[],False
+fervent,[],False
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,[],False
+fiery,[],False
+fine,"[('piekfyn', 2), ('prima', 2), ('goed', 1), ('mooi', 1), ('lekker', 1)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],False
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,[],False
+flatter,"[('vlei', 1)]",True
+flattering,[],False
+flatteringly,[],False
+flawless,[],False
+flawlessly,[],False
+flexibility,[],False
+flexible,[],False
+flourish,"[('opbloei', 1)]",True
+flourishing,[],False
+fluent,"[('magtig', 2)]",True
+flutter,[],False
+fond,[],False
+fondly,[],False
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,[],True
+fortunately,"[('gelukkig', 1)]",True
+fortune,"[('fortuin', 1), ('fortuinsoekers', 1)]",True
+fragrant,[],False
+free,"[('gratis', 9), ('vrye', 3), ('vrystaatse', 1), ('kan', 1), ('gerus', 1)]",True
+freed,[],True
+freedom,[],True
+freedoms,"[('vryhede', 1)]",True
+fresh,[],True
+fresher,[],False
+freshest,[],False
+friendliness,[],False
+friendly,"[('ekovriendelikste', 1)]",True
+frolic,[],False
+frugal,[],True
+fruitful,[],False
+ftw,[],True
+fulfillment,[],False
+fun,"[('wikipret', 1), ('karnavalpret', 1), ('interessantheid', 1), ('pret', 1), ('lekkerte', 1)]",True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('gewigstoename', 1)]",True
+gained,"[('gewin', 1)]",True
+gainful,[],False
+gainfully,[],False
+gaining,[],False
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],False
+geekier,[],False
+geeky,[],False
+gem,[],True
+gems,[],False
+generosity,[],False
+generous,"[('ruim', 2), ('ruime', 1)]",True
+generously,[],False
+genial,[],False
+genius,"[('génial', 1)]",True
+gentle,[],True
+gentlest,[],False
+genuine,[],True
+gifted,[],False
+glad,"[('bly', 2), ('dat', 1), ('bly dat', 1)]",True
+gladden,[],False
+gladly,[],False
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,[],False
+gloriously,[],False
+glory,[],False
+glow,[],False
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('goud', 2), ('goudstandaard', 1), ('goudstawe', 1)]",True
+golden,"[('goue', 1)]",True
+good,"[('goeie', 42), ('goed', 28), ('goeienaand', 14), ('goeiemore', 3), ('lekker', 2)]",True
+goodly,[],False
+goodness,[],False
+goodwill,[],False
+goood,[],False
+gooood,[],False
+gorgeous,[],False
+gorgeously,[],False
+grace,"[('genade', 1)]",True
+graceful,[],False
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,"[('grand', 2)]",True
+grandeur,[],False
+grateful,"[('dankbaar', 1)]",True
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,[],False
+great,"[('groot', 6), ('goeie', 4), ('baie', 2), ('grootbrittanje', 1), ('puik', 1)]",True
+greatest,"[('grootste', 2)]",True
+greatness,"[('greatness', 1)]",True
+grin,[],False
+groundbreaking,[],False
+guarantee,"[('waarborg', 1)]",True
+guidance,[],False
+guiltless,[],False
+gumption,[],False
+gush,[],True
+gusto,[],False
+gutsy,[],False
+hail,[],False
+halcyon,[],False
+hale,[],True
+hallmark,[],False
+hallmarks,[],False
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,"[('knapsekêrel', 1)]",True
+handsomely,[],False
+handy,"[('handig', 1)]",True
+happier,[],False
+happily,"[('lustig', 1)]",True
+happiness,[],False
+happy,"[('bly', 3), ('gelukkig', 2), ('tevrede', 1), ('happy', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,[],False
+harmonious,[],False
+harmoniously,[],False
+harmonize,[],False
+harmony,[],False
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,"[('gesond', 1)]",True
+hearten,[],False
+heartening,[],False
+heartfelt,[],False
+heartily,"[('hartgrondig', 1)]",True
+heartwarming,[],False
+heaven,"[('heaven', 1)]",True
+heavenly,[],False
+helped,"[('gehelp', 1)]",True
+helpful,"[('behulpsaam', 3), ('nuttig', 2), ('nuttiger', 1), ('nuttige', 1)]",True
+helping,"[('help', 3)]",True
+hero,"[('held', 1)]",True
+heroic,[],False
+heroically,[],False
+heroine,[],False
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,"[('skreeusnaaks', 2)]",True
+holy,"[('heilige', 1)]",True
+homage,[],False
+honest,"[('eerlik', 2)]",True
+honesty,[],False
+honor,"[('eer', 1)]",True
+honorable,[],False
+honored,[],False
+honoring,[],False
+hooray,[],False
+hopeful,[],True
+hospitable,[],False
+hot,"[('warm', 2), ('hot', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,[],True
+humane,[],False
+humble,"[('nederig', 1)]",True
+humility,[],False
+humor,[],False
+humorous,[],False
+humorously,[],False
+humour,[],False
+humourous,[],False
+ideal,"[('ideaal', 3)]",True
+idealize,[],False
+ideally,[],False
+idol,[],False
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],False
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,[],False
+ilu,[],True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,[],False
+impartial,"[('noodwendig', 1), ('onpartydig', 1), ('noodwendig onpartydig', 1)]",True
+impartiality,[],False
+impartially,[],False
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('belangrik', 12), ('belangrike', 5), ('belang', 1)]",True
+impress,"[('indruk', 1)]",True
+impressed,[],False
+impresses,[],False
+impressive,"[('indrukwekende', 1), ('indrukwekkend', 1)]",True
+impressively,[],False
+impressiveness,[],False
+improve,"[('verbeter', 12)]",True
+improved,"[('verbeter', 3)]",True
+improvement,"[('verbetering', 3)]",True
+improvements,"[('verbeteringe', 3)]",True
+improves,[],False
+improving,"[('verbetering', 1)]",True
+incredible,[],False
+incredibly,"[('ongelooflike', 2)]",True
+indebted,[],False
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,"[('industrious', 1)]",True
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,[],False
+infallible,[],False
+infallibly,[],False
+influential,"[('invloedrykste', 1)]",True
+ingenious,[],False
+ingeniously,[],False
+ingenuity,[],False
+ingenuous,[],False
+ingenuously,[],False
+innocuous,[],False
+innovation,[],False
+innovative,"[('innoverende', 1)]",True
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,[],False
+inspirational,[],False
+inspire,[],True
+inspiring,[],False
+instantly,[],False
+instructive,[],False
+instrumental,[],False
+integral,[],False
+integrated,"[('geïntegreer', 1)]",True
+intelligence,[],False
+intelligent,"[('intelligente', 1)]",True
+intelligible,"[('verstaanbaar', 1)]",True
+interesting,"[('interessante', 7), ('interessant', 5), ('interessants', 1)]",True
+interests,"[('belangstellings', 2), ('belange', 2), ('interesseer', 1)]",True
+intimacy,[],False
+intimate,[],False
+intricate,[],False
+intrigue,[],False
+intriguing,[],False
+intriguingly,[],False
+intuitive,[],False
+invaluable,[],False
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],False
+inviolable,"[('onaantasbares', 2)]",True
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,[],False
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,[],True
+joyful,[],False
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,[],False
+jubilantly,[],False
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],False
+keen,[],False
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,[],False
+kindness,[],False
+knowledgeable,"[('kundig', 1)]",True
+kudos,[],False
+large-capacity,[],False
+laud,[],False
+laudable,[],False
+laudably,[],False
+lavish,[],False
+lavishly,[],False
+law-abiding,[],False
+lawful,"[('wet', 1), ('reg', 1), ('wet _ reg', 1)]",True
+lawfully,[],False
+lead,"[('lei', 5), ('voortou', 1)]",True
+leading,"[('toonaangewende', 2), ('vooraanstaande', 1)]",True
+leads,"[('bring', 1), ('lei', 1)]",True
+lean,[],True
+led,[],True
+legendary,[],False
+leverage,[],False
+levity,[],False
+liberate,[],True
+liberation,[],False
+liberty,[],False
+lifesaver,[],False
+light-hearted,[],False
+lighter,[],False
+likable,[],False
+like,"[('soos', 138), ('hou', 15), ('so', 6), ('asof', 5), ('na', 5)]",True
+liked,[],False
+likes,"[('van', 1)]",True
+liking,[],False
+lionhearted,[],False
+lively,[],False
+logical,"[('logiese', 2)]",True
+long-lasting,[],False
+lovable,[],False
+lovably,[],False
+love,"[('liefde', 3), ('love', 2), ('is', 1), ('wou', 1), ('graag', 1)]",True
+loved,[],False
+loveliness,[],False
+lovely,[],False
+lover,[],True
+loves,[],True
+loving,"[('vredeliewende', 1)]",True
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,[],True
+loyalty,[],False
+lucid,[],False
+lucidly,[],False
+luck,[],True
+luckier,[],False
+luckiest,[],False
+luckiness,[],False
+lucky,[],False
+lucrative,[],False
+luminous,[],False
+lush,[],True
+luster,[],False
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,[],False
+luxuriously,[],False
+luxury,[],False
+lyrical,[],False
+magic,[],False
+magical,[],False
+magnanimous,[],False
+magnanimously,[],False
+magnificence,[],False
+magnificent,[],False
+magnificently,[],False
+majestic,[],False
+majesty,[],False
+manageable,[],False
+maneuverable,[],False
+marvel,[],False
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,"[('bobaasmeestermultiakademikus', 1), ('baasraak', 1)]",True
+masterful,"[('meesterlike', 1)]",True
+masterfully,[],False
+masterpiece,"[('meesterwerk', 1)]",True
+masterpieces,[],False
+masters,[],False
+mastery,[],False
+matchless,[],False
+mature,[],False
+maturely,[],False
+maturity,[],False
+meaningful,"[('sinvolle', 1)]",True
+memorable,[],False
+merciful,[],False
+mercifully,[],False
+mercy,"[('genade', 1)]",True
+merit,[],False
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,"[('vrolike', 1)]",True
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,[],False
+meticulously,[],False
+mightily,[],False
+mighty,"[('magtig', 3), ('magtige', 1)]",True
+mind-blowing,[],False
+miracle,"[('wonderwerk', 1)]",True
+miracles,[],False
+miraculous,[],False
+miraculously,[],False
+miraculousness,[],False
+modern,"[('moderne', 4), ('modern', 1)]",True
+modest,"[('piepklein', 1)]",True
+modesty,[],False
+momentous,[],False
+monumental,[],False
+monumentally,[],False
+morality,[],False
+motivated,[],False
+multi-purpose,[],False
+navigable,[],False
+neat,"[('netjies', 2)]",True
+neatest,[],False
+neatly,[],False
+nice,"[('lekker', 11), ('mooi', 2), ('gaaf', 1), ('gawe anonieme', 1), ('gawe', 1)]",True
+nicely,"[('mooi', 5), ('lekker', 2)]",True
+nicer,"[('mooier', 1)]",True
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,[],False
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,[],False
+noteworthy,[],False
+nourish,[],False
+nourishing,[],False
+nourishment,[],False
+novelty,[],False
+nurturing,[],False
+oasis,[],False
+obsession,[],False
+obsessions,[],False
+obtainable,[],False
+openly,"[('openlik', 1)]",True
+openness,"[('openlikheid', 1)]",True
+optimal,[],False
+optimism,[],False
+optimistic,[],False
+opulent,[],False
+orderly,[],False
+originality,"[('oorspronklikheid', 1)]",True
+outdo,[],False
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,[],False
+outstandingly,[],False
+outstrip,[],False
+outwit,[],False
+ovation,[],False
+overjoyed,[],False
+overtake,[],False
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],False
+painlessly,[],False
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,[],False
+paradise,"[('paradys', 4)]",True
+paramount,[],False
+pardon,[],False
+passion,[],False
+passionate,[],False
+passionately,[],False
+patience,"[('geduld', 1)]",True
+patient,[],True
+patiently,[],False
+patriot,[],False
+patriotic,[],False
+peace,"[('vrede', 3), ('vredeliewende', 1)]",True
+peaceable,[],False
+peaceful,"[('vreedsame', 1)]",True
+peacefully,[],False
+peacekeepers,[],False
+peach,[],False
+peerless,[],False
+pep,[],False
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,"[('perfect', 1)]",True
+perfection,[],False
+perfectly,"[('piekfyn', 1), ('perfek', 1)]",True
+permissible,[],False
+perseverance,[],False
+persevere,[],False
+personages,[],False
+personalized,[],False
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,[],False
+pinnacle,[],False
+playful,[],False
+playfully,[],False
+pleasant,"[('aangename', 1)]",True
+pleasantly,"[('aangenaam', 1)]",True
+pleased,[],False
+pleases,[],False
+pleasing,[],False
+pleasingly,[],False
+pleasurable,[],False
+pleasurably,[],False
+pleasure,"[('plesier', 4), ('aangenaamheid', 1), ('plesierbootvaarte', 1)]",True
+plentiful,[],False
+pluses,[],False
+plush,[],False
+plusses,[],False
+poetic,[],False
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,[],False
+polite,[],True
+politeness,"[('beleefdheid', 2), ('wikietiket', 1), ('wikietiket _ beleefdheid', 1)]",True
+popular,"[('gewild', 1), ('popular', 1), ('populêre', 1), ('gewilde', 1), ('volksvaste', 1)]",True
+portable,[],False
+posh,[],False
+positive,[],True
+positively,"[('positief', 1)]",True
+positives,[],False
+powerful,"[('kragtige', 1), ('magtige', 1)]",True
+powerfully,"[('kragtig', 1)]",True
+praise,[],False
+praiseworthy,[],False
+praising,[],False
+pre-eminent,[],False
+precious,"[('kosbare', 1)]",True
+precise,"[('presieser', 1)]",True
+precisely,"[('juis', 7), ('genoeg', 1), ('genoeg juis', 1)]",True
+preeminent,[],False
+prefer,"[('verkies', 13), ('verkies jy', 2), ('jy', 2), ('aan', 2), ('voorkeur', 2)]",True
+preferable,[],False
+preferably,"[('verkieslik', 3)]",True
+prefered,[],False
+preferes,[],False
+preferring,[],False
+prefers,"[('presies _ verkies', 1), ('presies', 1), ('verkies', 1)]",True
+premier,"[('premiersokkerliga', 1)]",True
+prestige,[],False
+prestigious,[],False
+prettily,[],False
+pretty,"[('redelik', 2), ('nogal', 1), ('glad', 1), ('maklik', 1), ('redelik maklik', 1)]",True
+priceless,[],False
+pride,"[('trots', 1)]",True
+principled,[],False
+privilege,"[('voorreg', 1)]",True
+privileged,[],False
+prize,[],True
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,[],False
+productively,[],False
+proficient,[],True
+proficiently,[],False
+profound,[],False
+profoundly,[],False
+profuse,[],False
+profusion,[],False
+progress,"[('vordering', 2), ('vooruitgang', 1)]",True
+progressive,[],False
+prolific,[],False
+prominence,[],False
+prominent,[],False
+promise,[],True
+promised,"[('beloof', 1)]",True
+promises,[],False
+promising,[],False
+promoter,[],False
+prompt,[],False
+promptly,[],False
+proper,"[('eienaam', 2), ('behoorlike', 1), ('eiename', 1)]",True
+properly,[],True
+propitious,[],False
+propitiously,[],False
+pros,[],True
+prosper,[],True
+prosperity,[],False
+prosperous,"[('voorspoedige', 1)]",True
+prospros,[],False
+protect,"[('beskerm', 3)]",True
+protection,"[('kopieregbeskerming', 1)]",True
+protective,[],False
+proud,"[('trotse', 1)]",True
+proven,[],False
+proves,[],False
+providence,[],False
+proving,[],True
+prowess,[],False
+prudence,[],False
+prudent,[],False
+prudently,[],False
+punctual,[],False
+pure,"[('suiwer', 3), ('pure', 2), ('net', 1), ('hou', 1), ('suiwer _ hou', 1)]",True
+purify,[],False
+purposeful,[],False
+quaint,[],True
+qualified,"[('gekwalifiseerde', 1)]",True
+qualify,"[('kwalifiseer', 1)]",True
+quicker,[],False
+quiet,"[('stil', 4)]",True
+quieter,[],False
+radiance,[],False
+radiant,[],True
+rapid,[],False
+rapport,"[('rapport', 2)]",True
+rapt,[],True
+rapture,"[('vervoering', 1)]",True
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,[],True
+razor-sharp,[],False
+reachable,[],False
+readable,"[('leesbaarder', 1), ('leeswaardig', 1)]",True
+readily,[],False
+ready,"[('gereed', 3), ('gereed maak', 1), ('maak', 1), ('parate', 1), ('reg', 1)]",True
+reaffirm,[],False
+reaffirmation,[],False
+realistic,[],False
+realizable,[],False
+reasonable,"[('redelike', 1), ('redelik', 1)]",True
+reasonably,[],False
+reasoned,[],False
+reassurance,[],False
+reassure,[],False
+receptive,[],False
+reclaim,[],False
+recomend,[],False
+recommend,"[('aanraai', 2), ('aanbeveel', 1)]",True
+recommendation,"[('aanbeveling', 2)]",True
+recommendations,[],False
+recommended,"[('het', 2), ('aanbeveel het', 1), ('aanbeveel', 1)]",True
+reconcile,[],True
+reconciliation,"[('versoening', 1)]",True
+record-setting,[],False
+recover,[],False
+recovery,[],False
+rectification,[],False
+rectify,[],False
+rectifying,[],False
+redeem,[],False
+redeeming,[],False
+redemption,[],False
+refine,[],True
+refined,[],False
+refinement,"[('verfyning', 1)]",True
+reform,[],True
+reformed,"[('gereformeerde', 2), ('hervormde', 1), ('kategorie:nederduitse gereformeerde', 1), ('kategorie:nederduitse', 1)]",True
+reforming,[],False
+reforms,[],False
+refresh,[],True
+refreshed,"[('verfris', 1)]",True
+refreshing,[],False
+refund,[],False
+refunded,[],False
+regal,[],False
+regally,[],False
+regard,"[('verband', 1), ('opsig', 1)]",True
+rejoice,[],False
+rejoicing,[],False
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,[],False
+relent,[],False
+reliable,"[('betroubare', 2), ('betroubaarder', 1)]",True
+reliably,[],False
+relief,"[('verligting', 1)]",True
+relish,[],False
+remarkable,[],False
+remarkably,[],False
+remedy,[],False
+remission,[],False
+remunerate,[],False
+renaissance,"[('renaissance', 2)]",True
+renewed,[],False
+renown,[],True
+renowned,"[('wêreldbekende', 1)]",True
+replaceable,[],False
+reputable,"[('gesiene', 1)]",True
+reputation,[],False
+resilient,[],False
+resolute,[],False
+resound,[],False
+resounding,[],False
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('respekteer', 2), ('respek', 2), ('opsig', 1), ('betrekking', 1)]",True
+respectable,[],False
+respectful,"[('respekvol', 1)]",True
+respectfully,[],False
+respite,[],False
+resplendent,[],False
+responsibly,[],False
+responsive,[],False
+restful,[],False
+restored,[],False
+restructure,[],False
+restructured,[],False
+restructuring,[],False
+retractable,[],False
+revel,[],False
+revelation,[],False
+revere,[],True
+reverence,"[('vereers', 1)]",True
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,[],False
+revive,"[('herleef', 2)]",True
+revives,[],False
+revolutionary,"[('rewolusionêre', 1)]",True
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,[],True
+rewarding,"[('lonend', 1)]",True
+rewardingly,[],False
+rich,[],True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('reg', 45), ('hoe', 16), ('regte', 16), ('nè', 10), ('kry', 3)]",True
+righten,[],False
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,"[('tereg', 1)]",True
+rightness,[],False
+risk-free,[],False
+robust,[],False
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,"[('romantiese', 1)]",True
+romantically,[],False
+romanticize,"[('romantiseer', 1)]",True
+roomier,[],False
+roomy,[],False
+rosy,[],False
+safe,"[('veilig', 3), ('safe', 1)]",True
+safely,[],False
+sagacity,[],False
+sagely,[],False
+saint,[],True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,[],False
+sane,[],False
+satisfactorily,[],False
+satisfactory,[],False
+satisfied,"[('tevrede', 1)]",True
+satisfies,[],False
+satisfy,[],False
+satisfying,[],False
+satisified,[],False
+saver,"[('bespaarder', 1)]",True
+savings,"[('waterbesparing', 1), ('spaarartikel', 1)]",True
+savior,[],False
+savvy,[],False
+scenic,[],False
+seamless,[],False
+seasoned,"[('gesoute', 1)]",True
+secure,[],False
+securely,[],False
+selective,[],False
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,"[('sensasiestorie', 1)]",True
+sensational,"[('opspraakwekkend', 1)]",True
+sensationally,[],False
+sensations,[],False
+sensible,[],False
+sensibly,[],False
+sensitive,[],True
+serene,[],False
+serenity,[],False
+sexy,[],False
+sharp,[],True
+sharper,[],False
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,[],True
+shiny,[],False
+significant,"[('aansienlike', 3), ('wesenlike', 2)]",True
+silent,"[('stil', 1)]",True
+simpler,"[('eenvoudiger', 1)]",True
+simplest,[],False
+simplified,"[('vereenvoudigde', 2)]",True
+simplifies,[],False
+simplify,[],False
+simplifying,[],False
+sincere,[],False
+sincerely,[],False
+sincerity,[],False
+skill,[],True
+skilled,"[('kundige', 1), ('bedrewe', 1)]",True
+skillful,[],False
+skillfully,[],False
+slammin,[],False
+sleek,[],False
+slick,[],False
+smart,[],True
+smarter,[],False
+smartest,"[('slimste', 1)]",True
+smartly,[],False
+smile,[],False
+smiles,[],False
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,[],True
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,"[('seepglad', 1)]",True
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,[],True
+softer,[],False
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,[],False
+solidarity,[],False
+soothe,[],False
+soothingly,[],False
+sophisticated,[],False
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,[],False
+spectacularly,[],False
+speedily,[],False
+speedy,"[('spoedige', 1)]",True
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,"[('geestelike', 1)]",True
+splendid,[],False
+splendidly,[],False
+splendor,[],False
+spontaneous,[],False
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,[],False
+stabilize,[],False
+stable,[],False
+stainless,[],False
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],True
+steadfastly,[],False
+steadfastness,"[('onwrikbaarheid', 1)]",True
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,[],False
+stellarly,[],False
+stimulate,[],False
+stimulates,[],False
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],True
+straightforward,"[('moeilike', 1), ('reguit', 1), ('reguit _ moeilike', 1)]",True
+streamlined,[],False
+striking,[],False
+strikingly,[],False
+striving,[],False
+strong,"[('sterk', 2), ('sterke', 1)]",True
+stronger,"[('sterker', 2)]",True
+strongest,[],False
+stunned,[],False
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,[],False
+stylishly,[],False
+stylized,[],False
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,[],False
+succeed,[],False
+succeeded,[],False
+succeeding,[],False
+succeeds,[],False
+succes,[],True
+success,"[('sukses', 3), ('suksesstorie', 1)]",True
+successes,[],False
+successful,"[('suksesvol', 1)]",True
+successfully,[],False
+suffice,[],False
+sufficed,[],False
+suffices,[],False
+sufficient,"[('voldoende', 2)]",True
+sufficiently,[],False
+suitable,"[('geskik', 3)]",True
+sumptuous,[],False
+sumptuously,[],False
+sumptuousness,[],False
+super,[],True
+superb,[],False
+superbly,[],False
+superior,[],False
+superiority,[],False
+supple,[],True
+support,"[('ondersteun', 3), ('steun', 3), ('ondersteuning', 1)]",True
+supported,"[('gesteun', 1), ('het', 1)]",True
+supporter,[],True
+supporting,[],False
+supportive,[],False
+supports,"[('ondersteun', 1)]",True
+supremacy,[],False
+supreme,"[('opperste leier', 1), ('opperste', 1), ('leier', 1)]",True
+supremely,[],False
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,[],False
+surreal,[],True
+survival,"[('routinesurvival', 2)]",True
+survivor,[],False
+sustainability,[],False
+sustainable,[],False
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,"[('lekker', 1), ('veës', 1), ('lekker _ veës', 1)]",True
+sweet,[],False
+sweeten,[],False
+sweetheart,[],False
+sweetly,[],False
+sweetness,[],False
+swift,[],True
+swiftness,[],False
+talent,[],False
+talented,[],False
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,[],False
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,"[('teer', 1)]",True
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('dankie', 44), ('baie', 7), ('bedank', 2), ('merci', 1), ('needankie', 1)]",True
+thankful,[],False
+thinner,[],False
+thoughtful,[],False
+thoughtfully,[],False
+thoughtfulness,[],False
+thrift,[],False
+thrifty,[],False
+thrill,[],False
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,[],False
+thriving,"[('florerende', 1)]",True
+thumb-up,[],False
+thumbs-up,[],False
+tickle,[],False
+tidy,[],False
+time-honored,[],False
+timely,[],False
+tingle,[],False
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,[],False
+tolerable,[],False
+toll-free,[],False
+top,"[('top', 3), ('bo', 2), ('bobaasvlieënier', 1), ('boaan', 1), ('boonste', 1)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,[],True
+tough,[],False
+tougher,[],False
+toughest,[],False
+traction,[],True
+tranquil,[],False
+tranquility,[],False
+transparent,[],False
+treasure,[],True
+tremendously,[],False
+trendy,[],False
+triumph,[],False
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,[],False
+trouble-free,[],False
+trump,"[('trump', 2)]",True
+trumpet,[],True
+trust,"[('vertrou', 19), ('dat', 1), ('vertrou dat', 1), ('trust', 1)]",True
+trusted,"[('betroubare', 1)]",True
+trusting,[],False
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,[],False
+trusty,[],False
+truthful,[],False
+truthfully,[],False
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,[],False
+unassailable,[],False
+unbeatable,[],False
+unbiased,[],False
+unbound,[],False
+uncomplicated,[],False
+unconditional,[],False
+undamaged,[],False
+undaunted,[],False
+understandable,"[('verstaanbaar', 2), ('verstaanbare', 1)]",True
+undisputable,[],False
+undisputably,[],False
+undisputed,[],False
+unencumbered,[],False
+unequivocal,[],False
+unequivocally,[],False
+unfazed,[],False
+unfettered,[],False
+unforgettable,[],False
+unity,[],True
+unlimited,[],False
+unmatched,[],False
+unparalleled,[],False
+unquestionable,[],False
+unquestionably,[],False
+unreal,[],False
+unrestricted,[],False
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,"[('opgegradeer', 1)]",True
+upheld,[],False
+uphold,"[('handhaaf', 1)]",True
+uplift,[],False
+uplifting,[],False
+upliftingly,[],False
+upliftment,[],False
+upscale,[],False
+usable,[],False
+useable,[],False
+useful,"[('nuttig', 9), ('bruikbaar', 5), ('nuttige', 4), ('handig', 2), ('nut', 1)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,[],False
+valiantly,[],False
+valor,[],False
+valuable,"[('waardevolle', 1)]",True
+variety,"[('afwisseling', 1), ('verskeidenheid', 1)]",True
+venerate,[],False
+verifiable,[],False
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,[],False
+victory,[],False
+viewable,[],False
+vigilance,[],False
+vigilant,[],False
+virtue,"[('deug', 1)]",True
+virtuous,[],False
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],True
+vouchsafe,[],False
+warm,"[('hartlike', 1)]",True
+warmer,[],False
+warmhearted,[],False
+warmly,[],False
+warmth,[],False
+wealthy,[],False
+welcome,"[('welkom', 23), ('verwelkom', 2), ('verwelkoming', 2), ('heet _ welkom', 1), ('heet', 1)]",True
+well,"[('goed', 33), ('ook', 17), ('wel', 11), ('asook', 4), ('netsowel', 3)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,"[('heelhartig', 1)]",True
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,"[('bereid', 3), ('gewillige', 1), ('graag', 1)]",True
+willingly,[],False
+willingness,[],False
+win,"[('wen', 3)]",True
+windfall,[],False
+winnable,[],False
+winner,"[('oorwinnaar', 1)]",True
+winners,"[('wenners', 1)]",True
+winning,"[('wenstoel', 1), ('wenwensituasie', 1), ('gewen', 1)]",True
+wins,[],True
+wisdom,[],False
+wise,"[('wyse', 1), ('wise', 1), ('wys', 1)]",True
+wisely,[],False
+witty,[],False
+won,[],True
+wonder,"[('wonder', 43), ('vra', 1)]",True
+wonderful,"[('wonderlik', 2), ('wonderlike', 2)]",True
+wonderfully,[],False
+wonderous,[],False
+wonderously,[],False
+wonders,"[('wonder', 5), ('hoekom', 2), ('vra', 1)]",True
+wondrous,[],False
+woo,[],True
+work,"[('werk', 86), ('hardewerk', 1), ('stelwerk', 1), ('watersuiweringswerk', 1), ('weer', 1)]",True
+workable,[],False
+worked,"[('gewerk', 9), ('deurgewerk', 2), ('het', 1)]",True
+works,"[('werke', 13), ('werk', 11), ('niefiksiewerke', 1)]",True
+world-famous,[],False
+worth,"[('toe', 1), ('moeite', 1)]",True
+worth-while,[],False
+worthiness,[],True
+worthwhile,[],False
+worthy,[],False
+wow,"[('sjoe', 6), ('wow', 1)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],False
+youthful,[],False
+zeal,[],True
+zenith,[],False
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,[],False
+abolish,[],True
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],False
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,[],False
+abruptly,[],False
+abscond,[],False
+absence,[],False
+absent-minded,[],False
+absentee,[],False
+absurd,[],False
+absurdity,[],False
+absurdly,[],False
+absurdness,[],False
+abuse,"[('misbruik', 1)]",True
+abused,[],False
+abuses,[],False
+abusive,[],False
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,[],True
+accost,[],False
+accursed,[],False
+accusation,"[('aantyging', 1), ('aanklag', 1)]",True
+accusations,[],False
+accuse,[],False
+accuses,[],False
+accusing,[],False
+accusingly,[],False
+acerbate,[],False
+acerbic,[],False
+acerbically,[],False
+ache,[],True
+ached,[],True
+aches,[],True
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,[],False
+addicted,[],False
+addicting,[],False
+addicts,[],False
+admonish,[],False
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,[],False
+adulterate,[],False
+adulterated,[],False
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,"[('nadelige', 1)]",True
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,"[('bang', 2), ('bevrees', 1)]",True
+aggravate,[],False
+aggravating,[],False
+aggravation,[],False
+aggression,[],False
+aggressive,[],False
+aggressiveness,[],False
+aggressor,[],False
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],False
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,[],False
+alarm,[],False
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,[],False
+alienated,[],False
+alienation,"[('gemeenskapsvervreemding', 1)]",True
+allegation,"[('bewering', 1)]",True
+allegations,"[('aantygings', 1)]",True
+allege,[],True
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,"[('dubbelsinnigheid', 3)]",True
+ambiguous,[],False
+ambivalence,[],False
+ambivalent,[],False
+ambush,[],False
+amiss,[],False
+amputate,[],False
+anarchism,[],False
+anarchist,[],False
+anarchistic,[],False
+anarchy,[],False
+anemic,[],False
+anger,"[('woede', 1)]",True
+angrily,[],False
+angriness,[],False
+angry,"[('kwaad', 3)]",True
+anguish,[],False
+animosity,[],False
+annihilate,[],False
+annihilation,[],False
+annoy,[],True
+annoyance,[],False
+annoyances,[],False
+annoyed,[],False
+annoying,"[('irriterendste', 1), ('irriterend', 1), ('irriterende', 1)]",True
+annoyingly,[],False
+annoys,[],False
+anomalous,[],False
+anomaly,[],False
+antagonism,[],False
+antagonist,[],True
+antagonistic,"[('antagonisties', 1)]",True
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,[],False
+antiquated,[],False
+antithetical,[],False
+anxieties,[],False
+anxiety,[],False
+anxious,[],False
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],False
+apocalypse,[],False
+apocalyptic,[],False
+apologist,[],False
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],False
+apprehensively,[],False
+arbitrary,"[('arbitrêr', 1)]",True
+arcane,[],False
+archaic,[],False
+arduous,[],False
+arduously,[],False
+argumentative,[],False
+arrogance,[],False
+arrogant,[],False
+arrogantly,[],False
+ashamed,"[('lekker', 1), ('skaamkry', 1), ('lekker skaamkry', 1)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],False
+assassinate,[],False
+assault,[],False
+assult,[],False
+astray,[],False
+asunder,[],False
+atrocious,[],False
+atrocities,[],False
+atrocity,[],False
+atrophy,[],False
+attack,"[('aanval', 1), ('aanslag', 1)]",True
+attacks,"[('aanvalle', 2)]",True
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,[],False
+audiciously,[],False
+austere,[],False
+authoritarian,[],False
+autocrat,[],False
+autocratic,[],False
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],False
+averse,[],True
+aversion,"[('afkeer', 1)]",True
+aweful,[],False
+awful,"[('vreeslik', 2), ('verskriklik', 1)]",True
+awfully,[],False
+awfulness,[],False
+awkward,[],False
+awkwardness,[],False
+ax,[],True
+babble,[],False
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,[],True
+backwardness,"[('agterlikheid', 1)]",True
+backwood,[],False
+backwoods,[],False
+bad,"[('erg', 4), ('sleg', 2), ('jammer', 1)]",True
+badly,[],False
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],False
+banal,[],False
+banalize,[],False
+bane,[],False
+banish,[],False
+banishment,[],False
+bankrupt,[],False
+barbarian,[],True
+barbaric,"[('barbaar', 1)]",True
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,[],False
+baseless,[],False
+bash,[],False
+bashed,[],False
+bashful,[],False
+bashing,[],False
+bastard,[],False
+bastards,[],False
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,[],True
+beggar,[],False
+beggarly,[],False
+begging,[],False
+beguile,[],False
+belabor,[],False
+belated,[],False
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,[],False
+bellicose,[],False
+belligerence,[],False
+belligerent,[],False
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,[],False
+berate,[],True
+bereave,[],False
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],False
+betray,"[('verraai', 2)]",True
+betrayal,[],False
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,"[('let', 1)]",True
+bewilder,[],False
+bewildered,[],False
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,[],False
+bewitch,[],False
+bias,[],False
+biased,[],False
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,[],False
+bitch,[],True
+bitchy,[],False
+biting,[],True
+bitingly,[],False
+bitter,[],False
+bitterly,[],False
+bitterness,[],False
+bizarre,[],False
+blab,[],True
+blabber,[],False
+blackmail,[],False
+blah,[],False
+blame,"[('uitkryt', 1)]",True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,[],False
+blasted,[],False
+blatant,"[('blatante', 2), ('blantante', 1)]",True
+blatantly,[],False
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],False
+bleeding,[],False
+bleeds,[],False
+blemish,[],False
+blind,"[('blind', 2)]",True
+blinding,[],False
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,"[('blokkering', 1)]",True
+blockhead,[],False
+bloodshed,[],False
+bloodthirsty,[],False
+bloody,[],False
+blotchy,[],False
+blow,[],True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,[],True
+blur,[],False
+bluring,[],False
+blurred,[],False
+blurring,[],False
+blurry,[],False
+blurs,[],False
+blurt,[],False
+boastful,[],False
+boggle,[],False
+bogus,[],False
+boil,[],True
+boiling,"[('kokende', 1)]",True
+boisterous,[],False
+bomb,"[('bom', 1)]",True
+bombard,[],False
+bombardment,[],False
+bombastic,[],False
+bondage,[],False
+bonkers,[],False
+bore,[],False
+bored,[],False
+boredom,[],False
+bores,[],False
+boring,"[('vervelig', 1), ('om', 1)]",True
+botch,[],False
+bother,"[('pla', 3), ('probeer', 1), ('schelen', 1), ('hinder', 1)]",True
+bothered,"[('het', 2), ('gehinder het', 2), ('gehinder', 2), ('moeite', 1)]",True
+bothering,"[('lastig', 1), ('pla', 1)]",True
+bothers,"[('pla', 2)]",True
+bothersome,[],False
+bowdlerize,[],False
+boycott,"[('boikot', 1)]",True
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,[],False
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,[],False
+brazen,[],False
+brazenly,[],False
+brazenness,[],False
+breach,[],False
+break,"[('blaaskans', 1), ('breek', 1), ('pouse', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,"[('afbreek', 1)]",True
+breaking,"[('breek', 1), ('oortree', 1)]",True
+breaks,[],False
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,[],True
+broken,"[('gebreekte', 2)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,[],False
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,[],False
+brute,[],False
+brutish,[],False
+bs,[],True
+buckle,[],False
+bug,"[('gogga', 2), ('bôggerôp', 1), ('bug', 1)]",True
+bugging,[],False
+buggy,[],False
+bugs,[],False
+bulkier,[],False
+bulkiness,[],False
+bulky,[],False
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,[],False
+bullshyt,[],False
+bully,"[('boelie', 1)]",True
+bullying,[],False
+bullyingly,[],False
+bum,[],False
+bump,[],False
+bumped,[],False
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,[],False
+bungle,[],False
+bungler,[],False
+bungling,[],False
+bunk,[],False
+burden,"[('las', 1)]",True
+burdensome,[],False
+burdensomely,[],False
+burn,"[('verbrand', 1), ('gestook', 1), ('tref', 1), ('voorbrand', 1), ('tref _ voorbrand maak', 1)]",True
+burned,[],False
+burning,[],False
+burns,"[('brand', 2)]",True
+bust,[],True
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,[],False
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],False
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,"[('kankerpasiënte', 1)]",True
+cancerous,[],False
+cannibal,[],False
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,[],False
+carelessness,[],False
+caricature,[],False
+carnage,[],False
+carp,[],False
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,[],False
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,[],False
+censure,[],False
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,"[('uitdaag', 1), ('uitdagende', 1)]",True
+chaos,[],False
+chaotic,"[('chaoties', 1)]",True
+chasten,[],False
+chastise,[],False
+chastisement,[],False
+chatter,[],False
+chatterbox,[],False
+cheap,"[('goedkoop', 4)]",True
+cheapen,[],False
+cheaply,"[('goedkoop', 1)]",True
+cheat,[],False
+cheated,[],False
+cheater,[],False
+cheating,[],False
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,[],False
+chide,[],False
+childish,[],False
+chill,[],True
+chilly,[],False
+chintzy,[],False
+choke,[],False
+choleric,[],False
+choppy,[],False
+chore,"[('tammeletjie', 1)]",True
+chronic,[],False
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,"[('clash', 1), ('bots', 1)]",True
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,[],False
+clogged,[],False
+clogs,[],False
+cloud,[],False
+clouding,[],False
+cloudy,[],False
+clueless,[],False
+clumsy,"[('lomp', 2)]",True
+clunky,[],False
+coarse,[],False
+cocky,[],False
+coerce,[],False
+coercion,[],False
+coercive,[],False
+cold,"[('koud', 4)]",True
+coldly,[],False
+collapse,"[('ineenstort', 2)]",True
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],True
+comical,[],False
+commiserate,[],False
+commonplace,[],False
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('kla', 3), ('kla altyd', 2), ('altyd', 2)]",True
+complained,"[('gekla', 1)]",True
+complaining,"[('en', 1)]",True
+complains,"[('kla', 1)]",True
+complaint,[],False
+complaints,[],False
+complex,"[('minderwaardigheidskompleks', 3), ('ingewikkelder', 1), ('verbakomplex', 1)]",True
+complicated,"[('ingewikkelde', 1)]",True
+complication,[],False
+complicit,[],False
+compulsion,"[('twang', 1)]",True
+compulsive,[],False
+concede,[],False
+conceded,[],False
+conceit,[],False
+conceited,[],False
+concen,[],False
+concens,[],False
+concern,[],True
+concerned,"[('betref', 2), ('sprake', 1)]",True
+concerns,"[('betref', 1)]",True
+concession,[],True
+concessions,"[('privaatkonsessies', 1)]",True
+condemn,[],False
+condemnable,[],False
+condemnation,[],False
+condemned,[],False
+condemns,[],False
+condescend,[],False
+condescending,[],False
+condescendingly,[],False
+condescension,[],False
+confess,[],False
+confession,[],False
+confessions,[],False
+confined,"[('beperk', 1)]",True
+conflict,"[('konflik', 2), ('wysigingskonflik', 1)]",True
+conflicted,[],False
+conflicting,[],False
+conflicts,[],False
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],False
+confrontation,[],False
+confrontational,[],False
+confuse,[],True
+confused,"[('geraak', 1), ('verward', 1)]",True
+confuses,[],False
+confusing,[],False
+confusion,"[('verwarring', 1)]",True
+confusions,[],False
+congested,[],False
+congestion,"[('opeenhoping', 1)]",True
+cons,[],True
+conscons,[],False
+conservative,"[('konserwatiewe', 2)]",True
+conspicuous,[],False
+conspicuously,[],False
+conspiracies,[],False
+conspiracy,"[('samesweringsteorieë', 1)]",True
+conspirator,[],False
+conspiratorial,[],False
+conspire,[],False
+consternation,[],False
+contagious,[],False
+contaminate,[],False
+contaminated,[],False
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,[],False
+contemptible,[],False
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,[],False
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,"[('weerspreek', 1)]",True
+contradiction,[],False
+contradictory,"[('teenstrydig', 1)]",True
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,[],False
+controversy,[],False
+convoluted,[],False
+corrode,[],False
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,[],False
+corrupted,[],False
+corrupting,[],False
+corruption,[],False
+corrupts,[],False
+corruptted,[],False
+costlier,[],False
+costly,"[('kostelik', 1)]",True
+counter-productive,[],False
+counterproductive,[],False
+coupists,[],False
+covetous,[],False
+coward,[],False
+cowardly,[],False
+crabby,[],False
+crack,[],True
+cracked,[],False
+cracks,"[('krakies', 1)]",True
+craftily,[],False
+craftly,[],False
+crafty,[],False
+cramp,[],True
+cramped,"[('beknop', 1)]",True
+cramping,[],False
+cranky,[],False
+crap,[],True
+crappy,[],False
+craps,[],False
+crash,[],False
+crashed,[],False
+crashes,[],False
+crashing,[],False
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,[],False
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,[],True
+creeping,"[('kruipende', 1)]",True
+creeps,[],False
+creepy,[],False
+crept,[],False
+crime,"[('misdaad', 2), ('misdaadgeteisterde', 1), ('misdaadfiksie', 1)]",True
+criminal,[],False
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,[],False
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,"[('gemeenskapskrisis', 1)]",True
+critic,[],True
+critical,"[('kritiek', 1), ('kritiek teenoor', 1), ('teenoor', 1)]",True
+criticism,"[('kritiek', 6)]",True
+criticisms,"[('wat', 1), ('kritiek wat', 1), ('kritiek', 1)]",True
+criticize,"[('lewer', 1), ('kritiek lewer', 1), ('kritiek', 1)]",True
+criticized,[],False
+criticizing,[],False
+critics,[],False
+cronyism,[],False
+crook,"[('skelm', 1)]",True
+crooked,"[('krom', 1)]",True
+crooks,[],False
+crowded,[],False
+crowdedness,[],False
+crude,[],False
+cruel,"[('wreed', 1)]",True
+crueler,[],False
+cruelest,[],False
+cruelly,[],False
+cruelness,[],False
+cruelties,[],False
+cruelty,[],False
+crumble,"[('klakkeloos', 1), ('verkrummel', 1), ('klakkeloos _ verkrummel', 1)]",True
+crumbling,[],False
+crummy,[],False
+crumple,[],False
+crumpled,[],False
+crumples,[],False
+crush,"[('vermorsel', 1)]",True
+crushed,[],False
+crushing,[],False
+cry,[],True
+culpable,[],False
+culprit,[],False
+cumbersome,[],False
+cunt,[],False
+cunts,[],False
+cuplrit,[],False
+curse,"[('vloekskoot', 1)]",True
+cursed,[],False
+curses,[],False
+curt,[],True
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,"[('geweldig', 1), ('sinies', 1), ('geweldig sinies', 1)]",True
+cynicism,[],False
+d*mn,[],False
+damage,"[('skade', 1)]",True
+damaged,[],False
+damages,[],False
+damaging,[],False
+damn,"[('donnerse', 3), ('verdomp', 3), ('verdomde', 1), ('vrek', 1)]",True
+damnable,[],False
+damnably,[],False
+damnation,[],False
+damned,[],False
+damning,[],False
+damper,[],False
+danger,[],True
+dangerous,"[('gevaarlik', 1)]",True
+dangerousness,[],False
+dark,[],False
+darken,[],False
+darkened,[],False
+darker,[],False
+darkness,[],False
+dastard,[],False
+dastardly,[],False
+daunt,[],False
+daunting,[],False
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('dooie', 5), ('doodrustig', 1), ('lyk', 1), ('dood', 1), ('dead', 1)]",True
+deadbeat,[],False
+deadlock,[],False
+deadly,[],False
+deadweight,[],False
+deaf,[],False
+dearth,[],False
+death,"[('dood', 4), ('sterftedatum', 1), ('sterfte', 1), ('afsterwe', 1), ('sterftedatums', 1)]",True
+debacle,[],False
+debase,[],False
+debasement,[],False
+debaser,[],False
+debatable,[],False
+debauch,[],False
+debaucher,[],False
+debauchery,[],False
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,[],True
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,[],False
+decayed,[],False
+deceit,[],False
+deceitful,[],False
+deceitfully,[],False
+deceitfulness,[],False
+deceive,[],False
+deceiver,[],False
+deceivers,[],False
+deceiving,[],False
+deception,[],False
+deceptive,[],False
+deceptively,[],False
+declaim,[],False
+decline,[],False
+declines,[],False
+declining,"[('daal', 2)]",True
+decrement,[],False
+decrepit,[],False
+decrepitude,[],False
+decry,[],True
+defamation,[],False
+defamations,[],False
+defamatory,[],False
+defame,[],False
+defect,[],False
+defective,[],False
+defects,[],False
+defensive,[],False
+defiance,[],False
+defiant,[],False
+defiantly,[],False
+deficiencies,[],False
+deficiency,[],False
+deficient,"[('deficient', 1)]",True
+defile,[],False
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,[],False
+defy,[],False
+degenerate,[],False
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,[],False
+degrading,[],False
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,[],False
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,"[('vertraging', 1)]",True
+delayed,[],False
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,[],False
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,[],False
+delusion,[],False
+delusional,[],False
+delusions,[],False
+demean,[],False
+demeaning,[],False
+demise,[],False
+demolish,[],False
+demolisher,[],False
+demon,[],True
+demonic,[],False
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,[],False
+denied,"[('ontsê', 2)]",True
+denies,[],False
+denigrate,[],False
+denounce,[],False
+dense,"[('dig', 1)]",True
+dent,"[('duik', 1)]",True
+dented,[],True
+dents,[],True
+denunciate,[],False
+denunciation,[],False
+denunciations,[],False
+deny,[],False
+denying,[],False
+deplete,[],False
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],False
+depress,[],True
+depressed,[],False
+depressing,"[('neerdrukkende', 1)]",True
+depressingly,[],False
+depression,[],False
+depressions,[],False
+deprive,[],False
+deprived,[],False
+deride,[],False
+derision,[],False
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,[],False
+desecrate,[],False
+desert,"[('woestynsand', 1)]",True
+desertion,[],False
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],False
+despairing,[],False
+despairingly,[],False
+desperate,[],False
+desperately,[],False
+desperation,[],False
+despicable,[],False
+despicably,[],False
+despise,[],False
+despised,[],False
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],False
+despotic,[],False
+despotism,[],False
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,[],False
+destroyer,[],False
+destruction,[],False
+destructive,[],False
+desultory,[],False
+deter,[],True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,[],False
+deterrent,[],False
+detest,[],False
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,"[('doen', 1), ('afbreuk doen', 1), ('afbreuk', 1)]",True
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,"[('nadeel', 1)]",True
+detrimental,[],False
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,[],False
+devastatingly,[],False
+devastation,[],False
+deviate,[],False
+deviation,[],False
+devil,"[('duiwel', 1)]",True
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,[],False
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],False
+dictator,"[('diktator', 2)]",True
+dictatorial,[],False
+die,"[('die', 6), ('sterf', 2)]",True
+die-hard,[],False
+died,"[('oorlede', 2), ('dood', 1), ('doodgeloop', 1)]",True
+dies,[],True
+difficult,"[('moeilik', 8), ('moeilike', 4), ('moeiliker', 2), ('moeilik toeganklik', 1), ('toeganklik', 1)]",True
+difficulties,[],False
+difficulty,"[('moeite', 1)]",True
+diffidence,[],False
+dilapidated,[],False
+dilemma,"[('verknorsing', 1)]",True
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,[],True
+ding,[],True
+dings,[],True
+dinky,[],False
+dire,"[('insiens', 1)]",True
+direly,[],False
+direness,[],False
+dirt,[],False
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,[],False
+disable,[],False
+disabled,[],False
+disaccord,[],False
+disadvantage,[],False
+disadvantaged,[],False
+disadvantageous,[],False
+disadvantages,[],False
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,"[('saam nie', 1), ('saam', 1), ('nie', 1), ('verskil', 1)]",True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,[],False
+disagreeing,[],False
+disagreement,[],False
+disagrees,[],False
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,[],True
+disappointed,"[('teleurgesteld', 2)]",True
+disappointing,"[('teleurstellend', 1)]",True
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,[],False
+disapprove,[],False
+disapproving,[],False
+disarm,[],False
+disarray,[],False
+disaster,"[('ramp', 1)]",True
+disasterous,[],False
+disastrous,[],False
+disastrously,[],False
+disavow,[],False
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],False
+disbeliever,[],False
+disclaim,[],False
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,[],False
+discompose,[],False
+disconcert,[],False
+disconcerted,[],False
+disconcerting,[],False
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,[],False
+discontented,[],False
+discontentedly,[],False
+discontinued,[],False
+discontinuity,[],False
+discontinuous,[],False
+discord,[],False
+discordance,[],False
+discordant,[],False
+discountenance,[],False
+discourage,[],True
+discouragement,[],False
+discouraging,"[('ontmoedig', 2), ('spulsheid', 1), ('spulsheid _ ontmoedig', 1), ('ontmoedigend', 1)]",True
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,[],False
+discrepant,[],False
+discriminate,[],True
+discrimination,"[('diskriminasie', 1)]",True
+discriminatory,[],False
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,[],False
+disgraced,[],False
+disgraceful,[],False
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,[],False
+disgusted,[],False
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,[],False
+disgustingly,[],False
+dishearten,[],False
+disheartening,[],False
+dishearteningly,[],False
+dishonest,[],False
+dishonestly,[],False
+dishonesty,[],False
+dishonor,"[('oneer', 1)]",True
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,[],False
+disliked,[],False
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,"[('dislojale', 1)]",True
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],False
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,[],False
+disoobedient,[],False
+disorder,"[('versteuring', 2)]",True
+disordered,[],False
+disorderly,[],False
+disorganized,[],False
+disorient,[],False
+disoriented,[],False
+disown,[],False
+disparage,[],False
+disparaging,[],False
+disparagingly,[],False
+dispensable,[],False
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],False
+displaced,[],False
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,[],False
+disproportionate,[],False
+disprove,[],False
+disputable,[],True
+dispute,[],True
+disputed,[],False
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,[],False
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,[],True
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,"[('disrepekvolle', 1)]",True
+disrespectfully,[],False
+disrespectfulness,[],False
+disrespecting,[],False
+disrupt,[],False
+disruption,[],False
+disruptive,[],False
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,[],False
+dissatisfactory,[],False
+dissatisfied,[],False
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,[],False
+dissembler,[],False
+dissension,[],False
+dissent,[],False
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,[],False
+dissidents,[],False
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,[],False
+dissonance,[],False
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,[],True
+distorted,"[('verdraaide', 1)]",True
+distortion,[],False
+distorts,[],False
+distract,[],False
+distracting,[],False
+distraction,[],False
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,[],False
+distrustful,[],False
+distrusting,[],False
+disturb,[],False
+disturbance,[],False
+disturbed,[],False
+disturbing,[],False
+disturbingly,[],False
+disunity,[],False
+disvalue,[],False
+divergent,[],False
+divisive,[],False
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,[],False
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,[],False
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,[],False
+doomed,[],False
+doomsday,[],False
+dope,[],False
+doubt,"[('twyfel', 3), ('betwyfel', 1)]",True
+doubtful,[],False
+doubtfully,[],False
+doubts,[],False
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],False
+downfall,[],False
+downfallen,[],False
+downgrade,[],False
+downhearted,[],False
+downheartedly,[],False
+downhill,"[('afdraend', 1)]",True
+downside,[],False
+downsides,[],False
+downturn,[],False
+downturns,[],False
+drab,[],False
+draconian,[],False
+draconic,[],False
+drag,[],False
+dragged,[],False
+dragging,[],False
+dragoon,[],False
+drags,[],False
+drain,[],True
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,"[('drastiese', 2)]",True
+drastically,[],False
+drawback,[],False
+drawbacks,[],False
+dread,[],True
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,[],False
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,[],False
+dropouts,[],False
+drought,[],False
+drowning,[],False
+drunk,"[('slaan _ dronk', 1), ('slaan', 1), ('dronk', 1)]",True
+drunkard,[],False
+drunken,"[('dronkgattifushondmaatjie', 1)]",True
+dubious,"[('twyfelagtige', 1)]",True
+dubiously,[],False
+dubitable,[],False
+dud,[],True
+dull,[],False
+dullard,[],False
+dumb,[],False
+dumbfound,[],False
+dump,[],False
+dumped,[],False
+dumping,[],False
+dumps,[],False
+dunce,[],False
+dungeon,[],False
+dungeons,[],False
+dupe,[],False
+dust,"[('stof', 1)]",True
+dusty,[],False
+dwindling,[],False
+dying,"[('sterf', 1), ('uitsterf', 1)]",True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,[],False
+emaciated,[],False
+emasculate,[],False
+embarrass,[],False
+embarrassing,[],False
+embarrassingly,[],False
+embarrassment,[],False
+embattled,[],False
+embroil,[],False
+embroiled,[],False
+embroilment,[],False
+emergency,"[('noodgeld', 1)]",True
+emphatic,[],False
+emphatically,[],False
+emptiness,"[('leemtegevoel', 2)]",True
+encroach,[],False
+encroachment,[],False
+endanger,[],False
+enemies,[],False
+enemy,[],False
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,[],False
+enrage,[],False
+enraged,[],False
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,[],False
+equivocal,[],False
+erase,[],False
+erode,[],False
+erodes,[],False
+erosion,[],False
+err,[],True
+errant,[],False
+erratic,"[('wisselvallige', 1)]",True
+erratically,[],False
+erroneous,[],False
+erroneously,[],False
+error,"[('fout', 6), ('raakgesien', 1), ('error', 1), ('spelfout', 1)]",True
+errors,"[('stylfoute', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,[],False
+evasion,[],False
+evasive,[],False
+evil,"[('bose', 1)]",True
+evildoer,[],False
+evils,[],False
+eviscerate,[],False
+exacerbate,[],False
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,[],True
+exaggeration,"[('verduitsing', 1), ('oordrywing', 1)]",True
+exasperate,[],False
+exasperated,[],False
+exasperating,[],False
+exasperatingly,[],False
+exasperation,[],False
+excessive,[],False
+excessively,[],False
+exclusion,[],False
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('verskoon', 5), ('ekskuus', 1), ('verskoning', 1)]",True
+excuses,[],False
+execrate,[],False
+exhaust,[],False
+exhausted,[],False
+exhaustion,[],False
+exhausts,[],False
+exhorbitant,[],False
+exhort,[],False
+exile,"[('ballingskap', 3)]",True
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,[],False
+expensive,"[('duur', 4), ('peperduur', 2)]",True
+expire,[],True
+expired,"[('afgeloop', 1)]",True
+explode,[],False
+exploit,[],False
+exploitation,[],False
+explosive,"[('explosive', 1)]",True
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,[],False
+extermination,[],False
+extinguish,[],True
+extort,[],False
+extortion,[],False
+extraneous,[],False
+extravagance,[],False
+extravagant,"[('buitenissig', 2)]",True
+extravagantly,[],False
+extremism,[],False
+extremist,[],False
+extremists,[],False
+eyesore,[],False
+f**k,[],False
+fabricate,[],False
+fabrication,[],False
+facetious,[],False
+facetiously,[],False
+fail,[],True
+failed,[],False
+failing,[],False
+fails,[],False
+failure,"[('mislukking', 2), ('reekstoring', 1)]",True
+failures,"[('mislukkings', 1)]",True
+faint,[],True
+fainthearted,[],False
+faithless,[],False
+fake,"[('valse', 3), ('foppenis', 1), ('kamstig', 1)]",True
+fall,"[('wegval', 1), ('val', 1), ('lê', 1), ('fall', 1)]",True
+fallacies,[],False
+fallacious,[],False
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,[],False
+fallen,"[('geval', 1), ('uitmekaargeval', 1)]",True
+falling,"[('val', 1)]",True
+fallout,"[('uitvaltyd', 1)]",True
+falls,"[('val', 2), ('lisbonwaterval', 1)]",True
+false,[],True
+falsehood,[],False
+falsely,[],False
+falsify,[],False
+falter,[],False
+faltered,[],False
+famine,[],False
+famished,[],False
+fanatic,[],False
+fanatical,[],False
+fanatically,[],False
+fanaticism,[],False
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,[],False
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,[],False
+fascist,"[('fascistiese', 1)]",True
+fastidious,[],False
+fastidiously,[],False
+fastuous,[],False
+fat,"[('vetseun', 1)]",True
+fat-cat,[],False
+fat-cats,[],False
+fatal,[],False
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,[],False
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('skuld', 1)]",True
+faults,[],False
+faulty,[],False
+fawningly,[],False
+faze,[],False
+fear,[],True
+fearful,[],False
+fearfully,[],False
+fears,"[('vrese', 2)]",True
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,[],True
+felon,[],False
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,[],False
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],True
+fibber,[],False
+fickle,[],False
+fiction,"[('fiksie', 3), ('niefiksie', 2), ('vakliteratuur', 1), ('niefiksieboeke', 1), ('wetenskapsfiksieboeke', 1)]",True
+fictional,"[('fiktiewe', 1)]",True
+fictitious,[],False
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,[],False
+figurehead,[],False
+filth,[],False
+filthy,[],False
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,[],False
+flabbergast,[],False
+flabbergasted,[],False
+flagging,[],False
+flagrant,[],False
+flagrantly,[],False
+flair,[],False
+flairs,[],False
+flak,"[('flak', 1)]",True
+flake,[],False
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],False
+flaw,[],False
+flawed,[],False
+flaws,[],False
+flee,[],False
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],False
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],True
+fool,[],False
+fooled,[],False
+foolhardy,[],False
+foolish,[],False
+foolishly,[],False
+foolishness,[],False
+forbid,[],True
+forbidden,"[('verbod', 1), ('verbode', 1)]",True
+forbidding,[],False
+forceful,[],False
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,[],False
+forgetful,[],False
+forgetfully,[],False
+forgetfulness,[],False
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,[],False
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,[],False
+fragile,[],False
+fragmented,[],False
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,[],True
+fraudulent,[],True
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],False
+freaking,[],False
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,[],False
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,[],False
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,"[('wrywing', 1)]",True
+frictions,[],False
+fried,"[('gebraaide', 1)]",True
+friggin,[],False
+frigging,[],False
+fright,[],False
+frighten,[],False
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,[],False
+frown,[],False
+froze,[],False
+frozen,[],False
+fruitless,[],False
+fruitlessly,[],False
+frustrate,[],True
+frustrated,"[('frustreerd', 1)]",True
+frustrates,[],False
+frustrating,"[('frustrerend', 1)]",True
+frustratingly,[],False
+frustration,[],False
+frustrations,[],False
+fuck,[],True
+fucking,"[('foken', 1), ('mierenneukery', 1)]",True
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],False
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,"[('snaaks', 2), ('snaakse', 1)]",True
+furious,[],False
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,[],False
+fussy,[],False
+fustigate,[],False
+fusty,[],False
+futile,[],False
+futilely,[],False
+futility,[],False
+fuzzy,[],False
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,[],False
+gape,[],False
+garbage,"[('vullisverwydering', 1)]",True
+garish,[],False
+gasp,[],False
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,[],False
+get-rich,[],False
+ghastly,[],False
+ghetto,[],False
+ghosting,[],False
+gibber,[],False
+gibberish,[],False
+gibe,[],False
+giddy,[],False
+gimmick,[],False
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,[],False
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,[],False
+glitches,[],False
+gloatingly,[],False
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],False
+gnawing,"[('knaag', 2)]",True
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],False
+goofy,[],False
+goon,[],False
+gossip,"[('skinderhoekie', 1)]",True
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],True
+grating,[],False
+gravely,[],False
+greasy,[],False
+greed,[],False
+greedy,[],False
+grief,[],False
+grievance,[],False
+grievances,[],False
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],False
+grimace,[],False
+grind,[],False
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],False
+gross,"[('growwe', 1)]",True
+grossly,[],False
+grotesque,[],False
+grouch,[],False
+grouchy,[],False
+groundless,[],False
+grouse,[],False
+growl,[],False
+grudge,[],False
+grudges,[],False
+grudging,[],False
+grudgingly,[],False
+gruesome,[],False
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,[],False
+guile,[],False
+guilt,[],True
+guiltily,[],False
+guilty,"[('skuldig', 3)]",True
+gullible,"[('liggelowig', 1)]",True
+gutless,[],False
+gutter,[],False
+hack,[],True
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],False
+halfheartedly,[],False
+hallucinate,[],False
+hallucination,[],True
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,"[('hang', 1)]",True
+hangs,[],False
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,[],False
+harassed,[],False
+harasses,[],False
+harassment,[],False
+harboring,[],False
+harbors,[],False
+hard,"[('hard', 5), ('harde', 3), ('moeilik', 2), ('hardewerk', 1), ('hardekwas', 1)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,[],False
+hardened,[],False
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,[],False
+hardships,[],False
+harm,[],True
+harmed,[],False
+harmful,[],False
+harms,[],False
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,[],False
+harshly,[],False
+hasseling,[],False
+hassle,"[('gedoe', 1)]",True
+hassled,[],False
+hassles,[],False
+haste,[],False
+hastily,[],False
+hasty,"[('haastig', 1)]",True
+hate,"[('haat', 2), ('hate', 1)]",True
+hated,[],False
+hateful,[],False
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,"[('haat', 1)]",True
+hating,[],False
+hatred,[],False
+haughtily,[],False
+haughty,[],False
+haunt,[],False
+haunting,[],False
+havoc,[],False
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,[],False
+headaches,[],False
+heartbreaker,[],False
+heartbreaking,[],False
+heartbreakingly,[],False
+heartless,[],False
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],False
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],False
+hedonistic,[],False
+heedless,[],False
+hefty,[],False
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,[],False
+hell,"[('hel', 4), ('kak', 1), ('duiwel', 1)]",True
+hell-bent,[],False
+hellion,[],False
+hells,[],False
+helpless,[],False
+helplessly,[],False
+helplessness,[],False
+heresy,[],False
+heretic,[],False
+heretical,[],False
+hesitant,[],False
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,[],False
+hindrance,[],False
+hiss,[],False
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,[],False
+hobble,[],False
+hogs,[],False
+hollow,[],True
+hoodium,[],False
+hoodwink,[],False
+hooligan,[],False
+hopeless,[],True
+hopelessly,"[('hopeloos', 2), ('natuurlik', 1), ('natuurlik hopeloos', 1)]",True
+hopelessness,[],False
+horde,[],True
+horrendous,[],False
+horrendously,[],False
+horrible,"[('horrible', 1)]",True
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],False
+hostile,[],False
+hostilities,[],False
+hostility,[],False
+hotbeds,[],False
+hothead,[],False
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,[],False
+humiliating,[],False
+humiliation,[],False
+humming,[],False
+hung,[],True
+hurt,"[('skade', 1), ('seer', 1)]",True
+hurted,[],False
+hurtful,[],False
+hurting,[],False
+hurts,"[('seermaak', 1)]",True
+hustler,[],False
+hype,[],True
+hypocricy,[],False
+hypocrisy,[],False
+hypocrite,[],False
+hypocrites,[],False
+hypocritical,[],False
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],False
+hysterical,[],False
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,"[('idioot', 1)]",True
+idiotic,[],False
+idiotically,[],False
+idiots,[],False
+idle,[],False
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,"[('onwetendheid', 1), ('oningeligtheid', 1), ('ignorance', 1), ('onkunde', 1)]",True
+ignorant,"[('onkundige', 2), ('onwetende', 1)]",True
+ignore,"[('ignoreer', 4)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('onwettig', 3)]",True
+illegally,[],False
+illegitimate,[],False
+illicit,[],False
+illiterate,[],False
+illness,[],False
+illogic,[],False
+illogical,[],False
+illogically,[],False
+illusion,[],False
+illusions,[],False
+illusory,[],False
+imaginary,[],False
+imbalance,[],False
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,[],False
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,"[('immoreel', 1)]",True
+immorality,[],False
+immorally,[],False
+immovable,[],False
+impair,[],False
+impaired,[],False
+impasse,[],False
+impatience,[],False
+impatient,[],False
+impatiently,[],False
+impeach,[],False
+impedance,[],False
+impede,[],False
+impediment,[],False
+impending,[],False
+impenitent,[],False
+imperfect,[],False
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,"[('imperialistiese', 1)]",True
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,[],False
+impertinent,[],False
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,[],False
+implausibly,[],False
+implicate,[],False
+implication,[],True
+implode,[],False
+impolite,[],False
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,[],False
+imposers,[],False
+imposing,[],False
+imposition,[],False
+impossible,"[('onmoontlik', 5)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],False
+impoverished,[],False
+impractical,"[('onprakties', 2)]",True
+imprecate,[],False
+imprecise,[],False
+imprecisely,[],False
+imprecision,[],False
+imprison,[],False
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,[],False
+improperly,[],False
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,[],False
+impudent,[],False
+impudently,[],False
+impugn,[],False
+impulsive,[],False
+impulsively,[],False
+impunity,[],False
+impure,"[('onsuiwer', 1)]",True
+impurity,[],False
+inability,[],False
+inaccuracies,[],False
+inaccuracy,[],False
+inaccurate,[],False
+inaccurately,[],False
+inaction,[],False
+inactive,[],False
+inadequacy,[],False
+inadequate,[],False
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('onvanpas', 1)]",True
+inappropriately,[],False
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,[],False
+inaudible,[],False
+incapable,"[('in staat', 1), ('staat', 1), ('in', 1)]",True
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,[],False
+incessantly,[],False
+incite,[],False
+incitement,[],False
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,[],False
+incoherent,[],False
+incoherently,[],False
+incommensurate,[],False
+incomparable,[],False
+incomparably,[],False
+incompatability,[],False
+incompatibility,[],False
+incompatible,[],False
+incompetence,[],False
+incompetent,[],False
+incompetently,[],False
+incomplete,"[('onvolledige', 1)]",True
+incompliant,[],False
+incomprehensible,"[('onverstaanbaar', 1)]",True
+incomprehension,[],False
+inconceivable,[],False
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,[],False
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,[],False
+inconsistency,[],False
+inconsistent,[],False
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,[],False
+inconveniently,[],False
+incorrect,"[('foutief', 2), ('verkeerde', 1), ('onkorrek', 1), ('verkeerd', 1)]",True
+incorrectly,"[('verkeerd', 3)]",True
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,[],False
+indecent,[],False
+indecently,[],False
+indecision,[],False
+indecisive,[],False
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,[],False
+indifferent,"[('indifferent', 1)]",True
+indigent,[],False
+indignant,[],False
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,[],False
+indiscreetly,[],False
+indiscretion,[],False
+indiscriminate,[],False
+indiscriminately,[],False
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,[],False
+ineffective,[],False
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,[],False
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,[],False
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,[],False
+inequality,[],False
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,[],False
+inevitably,"[('onvermydelik', 1)]",True
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,[],False
+inexperienced,[],False
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,[],False
+inextricably,[],False
+infamous,[],False
+infamously,[],False
+infamy,[],False
+infected,[],False
+infection,[],False
+infections,[],False
+inferior,[],True
+inferiority,"[('minderwaardigheidskompleks', 3)]",True
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],False
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,[],False
+infraction,[],False
+infringe,"[('skend', 1)]",True
+infringement,"[('kopieregskending', 1), ('skending', 1)]",True
+infringements,[],False
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],True
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],True
+injurious,[],False
+injury,[],False
+injustice,[],False
+injustices,[],False
+innuendo,"[(""innuendo's"", 1)]",True
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,[],False
+insanely,[],False
+insanity,[],False
+insatiable,[],False
+insecure,[],False
+insecurity,[],False
+insensible,[],False
+insensitive,[],False
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,[],False
+insignificant,[],False
+insignificantly,[],False
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],False
+insinuating,[],False
+insinuation,[],False
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,[],False
+instable,[],False
+instigate,[],False
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,[],False
+insufficiently,[],False
+insular,[],False
+insult,"[('belediging', 1)]",True
+insulted,[],False
+insulting,[],False
+insultingly,[],False
+insults,[],False
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,[],False
+intefere,[],False
+inteferes,[],False
+intense,[],False
+interfere,[],False
+interference,[],False
+interferes,[],False
+intermittent,[],False
+interrupt,[],True
+interruption,[],False
+interruptions,[],False
+intimidate,[],False
+intimidating,[],False
+intimidatingly,[],False
+intimidation,[],False
+intolerable,[],False
+intolerablely,[],False
+intolerance,"[('onverdraagsaamheid', 1)]",True
+intoxicate,[],False
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],True
+intrusion,[],False
+intrusive,[],False
+inundate,[],False
+inundated,[],False
+invader,[],True
+invalid,"[('ongeldig', 1)]",True
+invalidate,[],False
+invalidity,[],False
+invasive,"[('indringerplante', 2), ('indringerplante _ uitheemse', 1), ('uitheemse', 1)]",True
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,[],False
+involuntarily,[],False
+involuntary,[],False
+irascible,[],False
+irate,[],True
+irately,[],False
+ire,[],True
+irk,[],False
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,[],True
+ironical,[],True
+ironically,"[('ironies', 3)]",True
+ironies,[],False
+irony,[],False
+irragularity,[],False
+irrational,[],False
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,[],False
+irregularity,[],False
+irrelevance,[],False
+irrelevant,[],False
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,[],False
+irresponsibly,[],False
+irretating,[],False
+irretrievable,[],False
+irreversible,[],False
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],True
+irritated,[],False
+irritating,[],False
+irritation,[],False
+irritations,[],False
+isolate,[],False
+isolated,[],False
+isolation,[],False
+issue,"[('uitgawe', 2), ('probleem', 1), ('taalkwessie', 1), ('vraagstuk', 1), ('kopieregprobleem', 1)]",True
+issues,"[('probleme', 2), ('hardewareprobleme', 1), ('karakterprobleme', 1), ('grammatikakwessies', 1)]",True
+itch,[],True
+itching,[],True
+itchy,[],False
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,"[('jaloerse', 1)]",True
+jealously,[],False
+jealousness,[],False
+jealousy,[],False
+jeer,[],False
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,"[('oortree', 1), ('gedrang _ oortree', 1), ('gedrang', 1)]",True
+jeopardy,[],False
+jerk,[],False
+jerky,[],False
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,[],False
+joke,"[('grappie', 1)]",True
+joker,[],False
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,[],False
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,"[('doodmaak', 2), ('doodgemaak', 1)]",True
+killed,"[('vermoor', 1)]",True
+killer,"[('moordenaar', 1)]",True
+killing,[],False
+killjoy,[],False
+kills,[],False
+knave,[],False
+knife,[],False
+knock,"[('klop', 2)]",True
+knotted,[],False
+kook,[],False
+kooky,[],False
+lack,"[('gebrek', 4)]",True
+lackadaisical,[],False
+lacked,[],False
+lackey,[],False
+lackeys,[],False
+lacking,"[('ontbreek', 1)]",True
+lackluster,[],False
+lacks,"[('kort', 2), ('skort', 1)]",True
+laconic,[],False
+lag,[],True
+lagged,[],False
+lagging,[],False
+laggy,[],False
+lags,[],True
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,"[('lamsakkige', 2)]",True
+lame-duck,[],False
+lament,[],False
+lamentable,[],False
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],True
+lapsed,[],True
+lapses,[],True
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,"[('lagwekkend', 3), ('skreeusnaaks', 2), ('lagwekkend _ skreeusnaaks', 2)]",True
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],False
+lawlessness,[],False
+layoff,[],False
+layoff-happy,[],False
+lazy,"[('lui', 2)]",True
+leak,[],False
+leakage,[],False
+leakages,[],False
+leaking,[],False
+leaks,[],False
+leaky,[],False
+lech,[],False
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,[],False
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,[],False
+lengthy,[],False
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,[],True
+liable,[],True
+liar,[],True
+liars,[],False
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('lê', 2)]",True
+lied,[],True
+lier,[],True
+lies,"[('lê', 2)]",True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('grens', 1)]",True
+limitation,[],False
+limitations,[],False
+limited,"[('beperkte', 2), ('slegs', 1)]",True
+limits,"[('beperkinge', 1)]",True
+limp,[],True
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,[],False
+loner,[],False
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,"[('terughunkering', 2)]",True
+longingly,[],False
+loophole,[],False
+loopholes,[],False
+loose,"[('los', 3)]",True
+loot,[],True
+lorn,[],False
+lose,"[('verloor', 3), ('lose', 1)]",True
+loser,[],True
+losers,[],False
+loses,"[('verloor', 1), ('kwyt', 1), ('kwyt raak', 1), ('raak', 1)]",True
+losing,[],False
+loss,"[('kwartierverlies', 1), ('verlies', 1)]",True
+losses,[],False
+lost,"[('verlore', 3), ('verloor', 2), ('het', 1)]",True
+loud,[],True
+louder,[],False
+lousy,[],False
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,[],False
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,[],False
+lunaticism,[],False
+lurch,[],False
+lure,"[('lokartikel', 1)]",True
+lurid,[],False
+lurk,[],False
+lurking,[],False
+lying,[],True
+macabre,[],False
+mad,[],True
+madden,[],False
+maddening,[],False
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,[],False
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,[],False
+malicious,[],False
+maliciously,[],False
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,"[('manie', 1)]",True
+maniac,[],False
+maniacal,[],False
+manic,[],True
+manipulate,"[('manipuleer', 2)]",True
+manipulation,"[('manipulasie', 1)]",True
+manipulative,[],False
+manipulators,[],False
+mar,[],True
+marginal,[],False
+marginally,[],False
+martyrdom,[],False
+martyrdom-seeking,[],False
+mashed,[],False
+massacre,[],False
+massacres,[],False
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,"[('skamele', 2), ('besittinkies', 1), ('karige besittinkies', 1), ('karige', 1)]",True
+meaningless,"[('niksseggend', 1)]",True
+meanness,[],False
+measly,[],False
+meddle,[],False
+meddlesome,[],False
+mediocre,"[('middelmatig', 1)]",True
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,[],False
+mercilessly,[],False
+mess,"[('gemors', 2), ('wat', 1), ('gemors wat', 1)]",True
+messed,"[('het', 1)]",True
+messes,[],False
+messing,[],False
+messy,[],False
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],False
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,[],False
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,[],False
+misconceptions,[],False
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],False
+miserable,[],False
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,[],False
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],False
+misinform,[],False
+misinformed,[],False
+misinterpret,[],False
+misjudge,[],False
+misjudgment,[],False
+mislead,[],False
+misleading,[],False
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],False
+mispronounced,[],False
+mispronounces,[],False
+misread,"[('lees', 1)]",True
+misreading,[],False
+misrepresent,[],False
+misrepresentation,[],False
+miss,"[('mis', 4), ('miskyk', 1), ('vir', 1)]",True
+missed,"[('gemis', 2)]",True
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('fout', 4), ('spelfout', 2), ('foute', 2), ('perongeluk', 1), ('perongeluk _ spelfout', 1)]",True
+mistaken,[],False
+mistakenly,[],False
+mistakes,"[('spelfoute', 2), ('foute', 2)]",True
+mistified,[],False
+mistress,[],True
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],False
+misunderstand,"[('verstaan', 2)]",True
+misunderstanding,"[('misverstand', 3)]",True
+misunderstandings,[],False
+misunderstood,[],False
+misuse,[],False
+moan,[],True
+mobster,[],False
+mock,[],False
+mocked,[],False
+mockeries,[],False
+mockery,[],False
+mocking,[],False
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,[],False
+monotony,[],False
+monster,[],False
+monstrosities,[],False
+monstrosity,[],False
+monstrous,[],False
+monstrously,[],False
+moody,[],False
+moot,[],True
+mope,[],False
+morbid,[],False
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,[],False
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,[],True
+murderer,[],False
+murderous,"[('moordend', 1)]",True
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,[],False
+mysteriously,[],False
+mystery,[],False
+mystify,[],False
+myth,[],True
+nag,"[('nag', 1)]",True
+nagging,[],False
+naive,"[('naïef', 2)]",True
+naively,[],False
+narrower,"[('nouer', 2)]",True
+nastily,[],False
+nastiness,[],False
+nasty,[],False
+naughty,"[('stout', 1)]",True
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,"[('nodeloos', 1)]",True
+needlessly,[],False
+needy,[],False
+nefarious,[],False
+nefariously,[],False
+negate,[],False
+negation,[],False
+negative,"[('negatief', 1)]",True
+negatives,[],False
+negativity,"[('negatiwiteit', 1)]",True
+neglect,[],True
+neglected,"[('afgeskeep', 1), ('verwaarloosde', 1)]",True
+negligence,[],False
+negligent,[],False
+nemesis,[],False
+nepotism,[],False
+nervous,[],False
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,[],False
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,"[('geraasvlakke', 1)]",True
+noises,[],False
+noisier,[],False
+noisy,[],False
+non-confidence,[],False
+nonexistent,[],False
+nonresponsive,[],False
+nonsense,"[('twak', 4), ('snert', 3), ('spulsheid', 2), ('sulke twak kwyt', 2), ('kwyt', 2)]",True
+nosey,[],False
+notoriety,"[('noemenswaardigheid', 1)]",True
+notorious,[],False
+notoriously,[],False
+noxious,"[('noxious', 1)]",True
+nuisance,[],False
+numb,[],True
+obese,[],False
+object,"[('voorwerp', 2)]",True
+objection,[],True
+objectionable,[],False
+objections,"[('besware', 1)]",True
+oblique,"[('skuins', 1)]",True
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,[],False
+obnoxiously,[],False
+obscene,[],False
+obscenely,[],False
+obscenity,[],False
+obscure,"[('duistere', 1), ('duister', 1)]",True
+obscured,[],False
+obscures,[],False
+obscurity,[],False
+obsess,[],True
+obsessive,[],False
+obsessively,[],False
+obsessiveness,[],False
+obsolete,"[('verouderd', 1), ('uitgedien', 1)]",True
+obstacle,[],False
+obstinate,[],False
+obstinately,[],False
+obstruct,[],False
+obstructed,[],False
+obstructing,[],False
+obstruction,[],False
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,[],True
+odder,[],False
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,"[('vreemd', 2)]",True
+odor,[],False
+offence,[],False
+offend,"[('gee', 1), ('aanstoot vir _ gee', 1), ('vir', 1), ('aanstoot', 1)]",True
+offender,[],False
+offending,[],False
+offenses,[],False
+offensive,[],False
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,[],False
+ominously,[],False
+omission,[],False
+omit,[],True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,[],False
+opponent,[],False
+opportunistic,[],False
+oppose,"[('tot', 1)]",True
+opposition,[],False
+oppositions,[],False
+oppress,[],False
+oppression,[],False
+oppressive,[],False
+oppressively,[],False
+oppressiveness,[],False
+oppressors,[],False
+ordeal,[],False
+orphan,[],True
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,[],False
+outcry,[],False
+outlaw,[],False
+outmoded,[],False
+outrage,[],False
+outraged,[],False
+outrageous,[],False
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,"[('buitestander', 1)]",True
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,[],False
+overdone,[],False
+overdue,[],False
+overemphasize,[],False
+overheat,[],False
+overkill,[],False
+overloaded,[],False
+overlook,[],True
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],False
+oversight,[],False
+oversights,[],False
+oversimplification,"[('oorvereenvoudiging', 1)]",True
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],False
+overstate,[],False
+overstated,[],False
+overstatement,[],False
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,"[('werp', 1)]",True
+overthrows,[],False
+overturn,[],False
+overweight,[],False
+overwhelm,[],True
+overwhelmed,"[('toegegooi', 1)]",True
+overwhelming,[],False
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,"[('oorywerig', 1)]",True
+overzealously,[],False
+overzelous,[],False
+pain,[],True
+painful,[],True
+painfull,[],True
+painfully,"[('pynlik', 1)]",True
+pains,[],False
+pale,[],False
+pales,[],False
+paltry,[],False
+pan,"[('panafrikanisme', 1)]",True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,[],False
+panick,[],False
+panicked,[],False
+panicking,[],False
+panicky,[],False
+paradoxical,[],False
+paradoxically,[],False
+paralize,[],False
+paralyzed,[],False
+paranoia,[],False
+paranoid,[],False
+parasite,[],False
+pariah,[],False
+parody,[],False
+partiality,[],False
+partisan,[],False
+partisans,[],False
+passe,[],True
+passive,"[('passief', 1), ('passiewe', 1)]",True
+passiveness,[],False
+pathetic,"[('pateties', 1)]",True
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,"[('eienaardig', 1)]",True
+peculiarly,[],False
+pedantic,[],False
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],False
+penalty,[],False
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],False
+pernicious,[],False
+perplex,[],False
+perplexed,[],False
+perplexing,[],False
+perplexity,[],False
+persecute,[],False
+persecution,[],False
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,"[('pes', 1)]",True
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,"[('kleinlike', 1)]",True
+phobia,[],False
+phobic,[],False
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,[],False
+pig,[],False
+pigs,[],False
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,[],False
+pique,[],False
+pitiable,[],False
+pitiful,[],False
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,"[('jammer', 2)]",True
+plagiarize,[],True
+plague,"[('pes', 1), ('plaag', 1)]",True
+plasticky,[],False
+plaything,[],False
+plea,"[('pleidooi', 1), ('plehouer', 1)]",True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,"[('intrige', 1)]",True
+plotters,[],False
+ploy,[],True
+plunder,"[('plunder', 1)]",True
+plunderer,[],False
+pointless,[],False
+pointlessly,[],False
+poison,[],False
+poisonous,[],False
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,[],False
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('swak', 3), ('arm', 2), ('arme', 2), ('armes', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,[],False
+posturing,[],False
+pout,[],False
+poverty,"[('poverty', 1)]",True
+powerless,[],False
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,[],True
+prejudices,"[('vooroordele', 1)]",True
+prejudicial,[],False
+premeditated,[],False
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,[],False
+presumptuously,[],False
+pretence,[],False
+pretend,[],False
+pretense,[],False
+pretentious,[],False
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],True
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,[],False
+prison,[],False
+prisoner,[],False
+problem,"[('probleem', 53), ('voedselprobleem', 1)]",True
+problematic,"[('problematies', 1)]",True
+problems,"[('probleme', 9), ('taalprobleme', 1), ('kleurprobleme', 1)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,"[('profaniteit', 1)]",True
+prohibit,[],True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,"[('propaganda', 2)]",True
+propagandize,[],False
+proprietary,[],False
+prosecute,[],False
+protest,[],True
+protested,[],False
+protesting,[],False
+protests,[],False
+protracted,[],False
+provocation,[],False
+provocative,[],False
+provoke,[],False
+pry,[],True
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,"[('pons', 1)]",True
+punish,"[('straf', 1)]",True
+punishable,"[('straf', 1)]",True
+punitive,[],False
+punk,[],False
+puny,[],False
+puppet,[],True
+puppets,"[('wetenskaplikes', 1), ('prikkelpoppe _ wetenskaplikes', 1), ('prikkelpoppe', 1)]",True
+puzzled,[],False
+puzzlement,[],False
+puzzling,[],False
+quack,[],False
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,[],False
+quarrellous,[],False
+quarrellously,[],False
+quarrels,[],False
+quarrelsome,[],False
+quash,[],False
+queer,"[('queer', 1)]",True
+questionable,[],False
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,[],False
+racism,[],False
+racist,"[('rassisties', 1)]",True
+racists,[],False
+racy,[],True
+radical,[],False
+radicalization,[],False
+radically,[],False
+radicals,[],False
+rage,[],True
+ragged,[],False
+raging,[],True
+rail,[],True
+raked,[],False
+rampage,[],False
+rampant,[],False
+ramshackle,[],False
+rancor,[],False
+randomly,[],False
+rankle,[],False
+rant,[],True
+ranted,[],True
+ranting,[],False
+rantingly,[],False
+rants,[],True
+rape,[],True
+raped,[],True
+raping,[],False
+rascal,[],False
+rascals,[],False
+rash,[],False
+rattle,[],False
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],False
+reactionary,[],False
+rebellious,[],False
+rebuff,[],False
+rebuke,[],False
+recalcitrant,[],False
+recant,[],False
+recession,[],False
+recessionary,[],False
+reckless,[],False
+recklessly,[],False
+recklessness,[],False
+recoil,[],False
+recourses,[],False
+redundancy,"[('oortolligheid', 1)]",True
+redundant,"[('oorbodig', 2)]",True
+refusal,[],False
+refuse,"[('weier', 2)]",True
+refused,[],False
+refuses,[],False
+refusing,[],False
+refutation,[],False
+refute,[],False
+refuted,[],False
+refutes,[],False
+refuting,[],False
+regress,[],False
+regression,[],False
+regressive,[],False
+regret,[],False
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,[],False
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,[],True
+rejected,"[('verwerp', 2)]",True
+rejecting,[],False
+rejection,[],False
+rejects,[],False
+relapse,[],False
+relentless,[],False
+relentlessly,[],False
+relentlessness,[],False
+reluctance,[],False
+reluctant,[],False
+reluctantly,[],False
+remorse,[],False
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,[],False
+renunciation,[],False
+repel,[],True
+repetitive,[],False
+reprehensible,[],False
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],False
+repression,[],False
+repressive,[],False
+reprimand,[],False
+reproach,[],False
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,[],False
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],False
+repulsed,[],False
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,[],True
+resentful,[],False
+resentment,[],False
+resignation,[],False
+resigned,"[('afgestig', 1)]",True
+resistance,"[('weerstand', 3)]",True
+restless,[],False
+restlessness,[],False
+restrict,[],True
+restricted,"[('beperk', 1)]",True
+restriction,[],True
+restrictive,[],False
+resurgent,[],False
+retaliate,[],False
+retaliatory,[],False
+retard,[],False
+retarded,[],False
+retardedness,[],False
+retards,[],False
+reticent,[],False
+retract,[],False
+retreat,[],False
+retreated,[],False
+revenge,[],False
+revengeful,[],False
+revengefully,[],False
+revert,"[('revert', 2)]",True
+revile,[],False
+reviled,[],False
+revoke,[],False
+revolt,[],False
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,[],False
+rhetorical,[],False
+ricer,[],False
+ridicule,[],False
+ridicules,[],False
+ridiculous,"[('belaglike', 1), ('lagwekkend', 1), ('effens belaglik', 1), ('effens', 1), ('belaglik', 1)]",True
+ridiculously,[],False
+rife,[],False
+rift,[],True
+rifts,[],False
+rigid,[],True
+rigidity,"[('rigiditeit', 1)]",True
+rigidness,[],False
+rile,[],False
+riled,[],False
+rip,"[('r.i.p', 1)]",True
+rip-off,[],False
+ripoff,[],False
+ripped,[],False
+risk,"[('risiko', 1)]",True
+risks,[],False
+risky,"[('riskante', 1)]",True
+rival,[],True
+rivalry,[],False
+roadblocks,[],False
+rocky,[],False
+rogue,[],False
+rollercoaster,[],False
+rot,"[('skakelrot', 1)]",True
+rotten,[],False
+rough,[],True
+rremediable,[],False
+rubbish,[],False
+rude,"[('rude', 1)]",True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,[],False
+ruined,[],False
+ruining,[],False
+ruinous,[],False
+ruins,[],False
+rumbling,[],False
+rumor,[],False
+rumors,[],False
+rumours,[],False
+rumple,[],False
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,"[('roes', 1), ('rust', 1)]",True
+rusts,[],False
+rusty,"[('verroes', 2)]",True
+rut,[],True
+ruthless,[],False
+ruthlessly,[],False
+ruthlessness,[],False
+ruts,[],False
+sabotage,[],False
+sack,[],False
+sacrificed,[],False
+sad,[],True
+sadden,[],False
+sadly,[],False
+sadness,"[('sadness', 1)]",True
+sag,[],True
+sagged,[],False
+sagging,[],False
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,[],True
+sarcasm,[],False
+sarcastic,[],False
+sarcastically,[],False
+sardonic,[],False
+sardonically,[],False
+sass,[],False
+satirical,[],False
+satirize,[],False
+savage,[],False
+savaged,[],False
+savagery,[],False
+savages,[],False
+scaly,[],False
+scam,"[('skarminkel', 1), ('swendelaar', 1)]",True
+scams,[],False
+scandal,[],True
+scandalize,[],False
+scandalized,[],False
+scandalous,[],False
+scandalously,[],False
+scandals,[],False
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,[],False
+scar,[],True
+scarce,[],False
+scarcely,[],False
+scarcity,[],False
+scare,"[('skrik', 1)]",True
+scared,"[('het', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,[],False
+scars,[],False
+scary,[],False
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,[],False
+scolded,[],False
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],False
+scornful,[],False
+scornfully,[],False
+scoundrel,[],True
+scourge,[],False
+scowl,[],False
+scramble,[],False
+scrambled,[],False
+scrambles,[],False
+scrambling,[],False
+scrap,"[('skroot', 1)]",True
+scratch,"[('gekrap', 1), ('skakel', 1), ('rondkrap', 1), ('skakel _ rondkrap _ spoor', 1), ('spoor', 1)]",True
+scratched,[],False
+scratches,[],False
+scratchy,[],False
+scream,[],False
+screech,[],False
+screw-up,[],False
+screwed,[],False
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,[],False
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,[],False
+selfishly,[],False
+selfishness,[],False
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,[],False
+senselessly,[],False
+seriousness,[],False
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],False
+setbacks,[],False
+sever,[],True
+severe,"[('erge', 1)]",True
+severity,[],False
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,[],False
+shake,"[('binnebrandenjin', 1)]",True
+shaky,[],False
+shallow,[],False
+sham,"[('skynindruk', 1)]",True
+shambles,[],False
+shame,"[('jammer', 2)]",True
+shameful,[],False
+shamefully,[],False
+shamefulness,[],False
+shameless,[],True
+shamelessly,"[('skaamteloos', 1)]",True
+shamelessness,[],False
+shark,"[('haai', 2)]",True
+sharply,[],True
+shatter,[],False
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,[],False
+shirker,[],False
+shit,"[('shit', 1)]",True
+shiver,[],True
+shock,"[('skok', 2)]",True
+shocked,"[('geskok', 1)]",True
+shocking,[],False
+shockingly,[],False
+shoddy,[],False
+short-lived,[],False
+shortage,"[('tekort', 4)]",True
+shortchange,[],False
+shortcoming,[],True
+shortcomings,"[('tekortkomeninge', 1), ('gebreke', 1)]",True
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,[],False
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,[],False
+shunned,[],False
+sick,"[('siek', 2)]",True
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],False
+sidetracked,[],False
+siege,[],False
+sillily,[],False
+silly,"[('simpel', 3)]",True
+simplistic,[],False
+simplistically,[],False
+sin,[],True
+sinful,[],False
+sinfully,[],False
+sinister,[],False
+sinisterly,[],False
+sink,[],False
+sinking,[],False
+skeletons,[],False
+skeptic,[],False
+skeptical,[],False
+skeptically,[],False
+skepticism,[],False
+sketchy,[],False
+skimpy,[],False
+skinny,[],False
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,[],False
+slanderer,[],False
+slanderous,[],False
+slanderously,[],False
+slanders,[],False
+slap,[],False
+slashing,[],False
+slaughter,[],False
+slaughtered,[],False
+slave,[],False
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],True
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,"[('slonsig', 1)]",True
+sloth,[],False
+slothful,[],False
+slow,"[('maak', 1)]",True
+slow-moving,[],False
+slowed,[],False
+slower,[],False
+slowest,[],False
+slowly,[],False
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],False
+sluggish,[],False
+slump,[],False
+slumping,[],False
+slumpping,[],False
+slur,[],False
+slut,[],False
+sluts,[],False
+sly,"[('buitekurrikulêre', 1)]",True
+smack,[],False
+smallish,[],False
+smash,[],False
+smear,[],False
+smell,"[('ruik', 1)]",True
+smelled,[],False
+smelling,[],False
+smells,[],False
+smelly,[],False
+smelt,[],False
+smoke,"[('dalk', 1), ('roeks', 1), ('rook', 1)]",True
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,[],False
+smugly,[],False
+smut,[],True
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,[],False
+snarky,[],False
+snarl,[],False
+sneak,[],False
+sneakily,[],False
+sneaky,[],False
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,[],True
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,[],False
+so-cal,[],False
+soapy,[],False
+sob,[],True
+sober,"[('nugter', 1)]",True
+sobering,[],False
+solemn,[],False
+solicitude,[],False
+somber,[],False
+sore,[],True
+sorely,[],False
+soreness,[],False
+sorrow,[],False
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('jammer', 17), ('skuus', 3), ('ekskuus', 1), ('sorry', 1), ('sweerlik', 1)]",True
+sour,[],True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],False
+spewed,[],False
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,[],True
+spiteful,[],False
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,"[('oorverdeel', 1)]",True
+splitting,[],False
+spoil,[],True
+spoilage,[],False
+spoilages,[],False
+spoiled,"[('verrkyt', 1)]",True
+spoilled,[],False
+spoils,[],False
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,[],False
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],False
+squabbling,[],False
+squander,[],False
+squash,[],False
+squeak,[],False
+squeaks,[],False
+squeaky,[],False
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,[],False
+stab,[],True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,[],False
+stains,[],False
+stale,[],False
+stalemate,[],False
+stall,[],True
+stalls,[],False
+stammer,[],False
+stampede,[],False
+standstill,"[('stilstand', 3)]",True
+stark,[],False
+starkly,[],False
+startle,[],True
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,[],False
+static,[],True
+steal,[],False
+stealing,[],False
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],False
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,[],True
+sticky,[],False
+stiff,[],True
+stiffness,"[('stewigheid', 1)]",True
+stifle,[],False
+stifling,[],False
+stiflingly,[],False
+stigma,[],False
+stigmatize,[],False
+sting,[],True
+stinging,[],False
+stingingly,[],False
+stingy,[],False
+stink,[],True
+stinks,[],False
+stodgy,[],False
+stole,[],False
+stolen,[],False
+stooge,[],False
+stooges,[],False
+stormy,[],False
+straggle,[],False
+straggler,[],False
+strain,[],False
+strained,[],False
+straining,[],False
+strange,"[('vreemd', 5), ('vreemde', 2), ('eienaardig', 1), ('vreemds', 1)]",True
+strangely,"[('vreemd', 1)]",True
+stranger,[],False
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,"[('stress', 1)]",True
+stresses,[],True
+stressful,[],False
+stressfully,[],False
+stricken,[],False
+strict,[],True
+strictly,[],False
+strident,[],False
+stridently,[],False
+strife,[],False
+strike,"[('staking', 1)]",True
+stringent,[],False
+stringently,[],False
+struck,[],False
+struggle,"[('sukkel', 5), ('worstel', 2), ('spartel', 2), ('gesukkel', 1)]",True
+struggled,[],False
+struggles,[],False
+struggling,"[('sukkel', 6)]",True
+strut,[],False
+stubborn,[],False
+stubbornly,[],False
+stubbornness,[],False
+stuck,"[('vashaak', 1)]",True
+stuffy,[],False
+stumble,"[('strompel', 1)]",True
+stumbled,[],False
+stumbles,[],False
+stump,[],False
+stumped,[],False
+stumps,[],False
+stun,[],False
+stunt,[],False
+stunted,[],False
+stupid,"[('dom', 8), ('simpel', 1), ('seker _ dom', 1), ('seker', 1), ('geskep', 1)]",True
+stupidest,[],False
+stupidity,[],False
+stupidly,[],False
+stupified,[],False
+stupify,[],False
+stupor,[],False
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,[],False
+subjected,[],False
+subjection,[],False
+subjugate,[],False
+subjugation,[],False
+submissive,[],False
+subordinate,[],True
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,"[('substandaard', 1)]",True
+subtract,[],False
+subversion,[],False
+subversive,[],False
+subversively,[],False
+subvert,[],False
+succumb,"[('swik', 1)]",True
+suck,"[('suig', 1)]",True
+sucked,[],False
+sucker,[],False
+sucks,"[('suig', 1)]",True
+sucky,[],False
+sue,[],True
+sued,[],False
+sueing,[],False
+sues,[],True
+suffer,[],True
+suffered,[],False
+sufferer,[],False
+sufferers,[],False
+suffering,"[('lydende', 1)]",True
+suffers,[],False
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,[],False
+suicide,"[('selfmoord', 1)]",True
+sulk,[],False
+sullen,[],False
+sully,[],False
+sunder,[],True
+sunk,[],False
+sunken,[],False
+superficial,[],False
+superficiality,[],False
+superficially,[],False
+superfluous,[],False
+superstition,[],True
+superstitious,[],False
+suppress,[],False
+suppression,[],False
+surrender,[],False
+susceptible,[],False
+suspect,"[('vermoed', 18), (',', 1)]",True
+suspicion,"[('vermoede', 1), ('verdenking', 1)]",True
+suspicions,[],False
+suspicious,[],False
+suspiciously,[],False
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],False
+swelling,[],False
+swindle,[],False
+swipe,[],False
+swollen,[],False
+symptom,[],False
+symptoms,[],False
+syndrome,[],False
+taboo,[],False
+tacky,[],False
+taint,[],False
+tainted,[],False
+tamper,[],True
+tangle,[],False
+tangled,[],False
+tangles,[],False
+tank,"[('tenk', 1)]",True
+tanked,[],False
+tanks,"[('tenks', 2), ('vegvliegtuie', 1)]",True
+tantrum,[],False
+tardy,[],False
+tarnish,[],False
+tarnished,[],False
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],False
+taunting,[],False
+tauntingly,[],False
+taunts,[],False
+taut,[],True
+tawdry,[],False
+taxing,[],False
+tease,"[('terg', 1)]",True
+teasingly,[],False
+tedious,[],False
+tediously,[],False
+temerity,[],False
+temper,[],False
+tempest,[],False
+temptation,[],False
+tenderness,[],False
+tense,"[('tense', 1), ('toekomende', 1)]",True
+tension,[],True
+tentative,[],False
+tentatively,[],False
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,"[('vreeslike', 1), ('verskriklik', 1)]",True
+terribleness,[],False
+terribly,[],False
+terror,[],False
+terror-genic,[],False
+terrorism,[],False
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,[],False
+thirst,"[('dors', 1)]",True
+thorny,[],False
+thoughtless,[],False
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,"[('bedreiging', 1)]",True
+threaten,[],False
+threatening,[],False
+threats,[],False
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,[],False
+thumb-down,[],False
+thumbs-down,[],False
+thwart,[],False
+time-consuming,[],False
+timid,[],False
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('aardigheid', 1)]",True
+tiresome,[],False
+tiring,[],False
+tiringly,[],False
+toil,[],True
+toll,[],False
+top-heavy,[],False
+topple,[],False
+torment,[],False
+tormented,[],False
+torrent,[],False
+tortuous,[],False
+torture,[],False
+tortured,[],False
+tortures,[],False
+torturing,[],False
+torturous,[],False
+torturously,[],False
+totalitarian,[],False
+touchy,[],False
+toughness,[],False
+tout,[],True
+touted,"[('geteken', 1)]",True
+touts,[],False
+toxic,[],True
+traduce,[],False
+tragedy,[],False
+tragic,[],False
+tragically,[],False
+traitor,[],False
+traitorous,[],False
+traitorously,[],False
+tramp,[],True
+trample,"[('vertrap', 1)]",True
+transgress,[],False
+transgression,[],False
+trap,[],False
+traped,[],False
+trapped,[],False
+trash,[],False
+trashed,[],False
+trashy,[],False
+trauma,[],False
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,[],False
+treasonous,[],False
+trick,"[('truuk', 1)]",True
+tricked,[],False
+trickery,[],False
+tricky,[],False
+trivial,[],True
+trivialize,[],False
+trouble,"[('moeite', 3), ('probleme', 1)]",True
+troubled,[],False
+troublemaker,[],True
+troubles,"[('spoorwegrelikte', 1)]",True
+troublesome,"[('lastig', 1)]",True
+troublesomely,[],False
+troubling,[],False
+troublingly,[],False
+truant,[],False
+tumble,[],True
+tumbled,[],False
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,[],False
+twist,"[('inslag', 1)]",True
+twisted,"[('twisted', 1)]",True
+twists,[],False
+two-faced,[],False
+two-faces,[],False
+tyrannical,[],False
+tyrannically,[],False
+tyranny,[],False
+tyrant,[],False
+ugh,[],True
+uglier,[],False
+ugliest,[],False
+ugliness,[],False
+ugly,"[('lelik', 1)]",True
+ulterior,[],False
+ultimatum,[],False
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,[],False
+unacceptable,"[('onaanvaarbaar', 2)]",True
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,[],False
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,[],False
+unauthentic,[],False
+unavailable,"[('onbeskikbaar', 1)]",True
+unavoidably,[],False
+unbearable,[],False
+unbearablely,[],False
+unbelievable,[],False
+unbelievably,[],False
+uncaring,[],False
+uncertain,"[('onsekere', 1)]",True
+uncivil,[],False
+uncivilized,[],False
+unclean,[],False
+unclear,[],False
+uncollectible,[],False
+uncomfortable,[],False
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,[],False
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,[],False
+uncontrolled,[],False
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,[],False
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,[],False
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,[],False
+underestimate,[],False
+underlings,[],False
+undermine,"[('ondermyn', 1)]",True
+undermined,"[('ondermyn', 1)]",True
+undermines,[],False
+undermining,"[('ondermyning', 1)]",True
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,[],False
+undetermined,[],False
+undid,[],False
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,[],False
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,[],False
+uneconomical,[],False
+unemployed,"[('werklose', 2)]",True
+unequal,[],False
+unethical,[],False
+uneven,[],False
+uneventful,[],False
+unexpected,[],True
+unexpectedly,"[('onverwags', 1)]",True
+unexplained,[],False
+unfairly,[],False
+unfaithful,[],False
+unfaithfully,[],False
+unfamiliar,[],False
+unfavorable,"[('ongunstig', 1)]",True
+unfeeling,[],False
+unfinished,"[('onafgehandel', 1)]",True
+unfit,[],False
+unforeseen,[],False
+unforgiving,[],False
+unfortunate,"[('ongelukikig', 1)]",True
+unfortunately,"[('ongelukkig', 12), ('helaas', 2), ('genoeg', 1), ('jammerlik', 1), ('jammerlik genoeg', 1)]",True
+unfounded,"[('ongegrond', 1), ('onverdraagsaamheid', 1), ('onverdraagsaamheid _ ongegronde', 1), ('ongegronde', 1)]",True
+unfriendly,[],False
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,"[('ongelukkig', 1)]",True
+unhealthy,[],False
+unhelpful,[],False
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,[],False
+uninformed,"[('oningeligte', 1), ('oningelig', 1)]",True
+uninsured,[],False
+unintelligible,[],False
+unintelligile,[],False
+unipolar,[],False
+unjust,"[('onreg', 1)]",True
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,[],False
+unjustly,[],False
+unkind,[],False
+unkindly,[],False
+unknown,[],False
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,[],False
+unlicensed,[],False
+unlikely,"[('onwaarskynlik', 2)]",True
+unlucky,[],False
+unmoved,[],False
+unnatural,"[('onnatuurlik', 1)]",True
+unnaturally,[],False
+unnecessary,"[('onnodig', 4), ('onnodige', 3)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,[],False
+unobserved,[],False
+unorthodox,"[('onortodoks', 1)]",True
+unorthodoxy,[],False
+unpleasant,[],False
+unpleasantries,[],False
+unpopular,[],False
+unpredictable,"[('onvoorspelbaar', 2), ('onvoorspelbare', 1)]",True
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],False
+unproved,[],False
+unproven,[],False
+unproves,[],False
+unproving,[],False
+unqualified,[],False
+unravel,[],False
+unraveled,[],False
+unreachable,[],False
+unreadable,[],False
+unrealistic,[],False
+unreasonable,[],False
+unreasonably,[],False
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,[],False
+unreliable,[],False
+unresolved,[],False
+unresponsive,[],False
+unrest,[],False
+unruly,[],False
+unsafe,[],False
+unsatisfactory,[],False
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,[],False
+unsettle,[],False
+unsettled,[],False
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,[],False
+unspeakablely,[],False
+unspecified,[],False
+unstable,[],False
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,"[('onsuksesvol', 1)]",True
+unsuccessfully,[],False
+unsupported,[],False
+unsupportive,[],False
+unsure,"[('onseker', 1)]",True
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,[],False
+untouched,[],False
+untrue,[],False
+untrustworthy,[],False
+untruthful,[],False
+unusable,[],False
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,"[('ongewoon', 1)]",True
+unusually,[],False
+unviewable,[],False
+unwanted,[],False
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,[],False
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,[],False
+unyielding,[],False
+upbraid,[],False
+upheaval,[],True
+uprising,[],False
+uproar,[],False
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,[],False
+upset,"[('ontsteltenis', 1), ('ontsteld', 1)]",True
+upseting,[],False
+upsets,[],False
+upsetting,[],False
+upsettingly,[],False
+urgent,[],False
+useless,"[('onbruikbaar', 1)]",True
+usurp,[],False
+usurper,[],False
+utterly,[],False
+vagrant,[],False
+vague,"[('vaag', 3), ('vae', 1)]",True
+vagueness,[],False
+vain,[],True
+vainly,[],False
+vanity,"[('sjirurgie', 1)]",True
+vehement,[],False
+vehemently,[],False
+vengeance,[],False
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],False
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,[],False
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,[],False
+vice,"[('viseadmiraal', 1)]",True
+vicious,[],False
+viciously,[],False
+viciousness,[],False
+victimize,[],False
+vile,[],True
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],False
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,[],True
+violation,[],False
+violator,[],False
+violators,[],False
+violent,[],False
+violently,[],False
+viper,[],False
+virulence,[],False
+virulent,[],False
+virulently,[],False
+virus,[],False
+vociferous,[],False
+vociferously,[],False
+volatile,[],False
+volatility,[],False
+vomit,[],False
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,[],False
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],True
+wane,[],False
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,[],False
+warning,"[('waarskuwing', 1), ('waarskuwingsjabloon', 1)]",True
+warp,[],False
+warped,[],False
+wary,[],False
+washed-out,[],False
+waste,"[('waarom', 2), ('maar', 1), ('verkwisting', 1)]",True
+wasted,"[('gemors', 2), ('seker _ gemors', 1), ('seker', 1)]",True
+wasteful,[],False
+wastefulness,[],False
+wasting,"[('mors', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,"[('swak', 3)]",True
+weaken,"[('verswak', 1)]",True
+weakening,[],False
+weaker,[],False
+weakness,[],False
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,[],False
+weed,[],False
+weep,[],True
+weird,"[('vreemd', 1), ('vreemde', 1)]",True
+weirdly,[],False
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,[],False
+whiny,[],False
+whips,[],False
+whore,"[('hoerboer', 1)]",True
+whores,[],False
+wicked,[],False
+wickedly,[],False
+wickedness,[],False
+wild,"[('wilde', 1), ('wildwagters', 1), ('verwilder', 1)]",True
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,"[('wankelsiklus', 2)]",True
+wobbled,[],False
+wobbles,[],False
+woe,[],True
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,[],True
+worried,"[('bekommerd', 2)]",True
+worriedly,[],False
+worrier,[],False
+worries,[],False
+worrisome,[],False
+worry,"[('bekommerd', 2), ('bekommer', 1)]",True
+worrying,[],False
+worryingly,[],False
+worse,"[('erger', 2)]",True
+worsen,[],False
+worsening,[],False
+worst,"[('ergste', 2)]",True
+worthless,[],False
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,[],False
+wreaked,[],False
+wreaks,[],False
+wreck,[],False
+wrest,[],True
+wrestle,"[('aanworstel', 1)]",True
+wretch,[],False
+wretched,[],False
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,[],True
+wrinkled,[],False
+wrinkles,"[('plooie', 1)]",True
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('verkeerd', 18), ('fout', 10), ('verkeerde', 5), ('gegaan', 1), ('nie', 1)]",True
+wrongful,[],False
+wrongly,"[('verkeerdelik', 2)]",True
+wrought,[],False
+yawn,[],False
+zap,[],False
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,[],True
+zealously,[],False

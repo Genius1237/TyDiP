@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('कृपया', 43), ('करें', 8), ('मदद', 7), ('मुझे', 7), ('करूँ', 6)]",True
+Strategy - Please_start,,
+please,"[('कृपया', 43), ('करें', 8), ('मदद', 7), ('मुझे', 7), ('करूँ', 6)]",True
+Strategy - HASHEDGE,,
+think,"[('लगता', 30), ('विचार', 15), ('है', 10), ('कि', 9), ('सोचते', 8)]",True
+thought,"[('सोचा', 8), ('विचार', 6), ('आपने', 3), ('था', 2), ('मैंने', 2)]",True
+thinking,"[('सोच', 5), ('विचार', 4), ('सोचकर', 2), ('समझ', 1), ('समझता', 1)]",True
+almost,"[('लगभग', 7)]",True
+apparent,[],False
+apparently,[],False
+appear,"[('आते', 2), ('नही', 1), ('दिखाई', 1), ('देने', 1)]",True
+appeared,"[('आ', 1), ('हुआ', 1), ('इधर', 1)]",True
+appears,"[('प्रकट', 2), ('होता', 1), ('दिखतअ', 1), ('प्रकट होती', 1), ('होती', 1)]",True
+approximately,[],False
+around,"[('ओर', 3), ('के', 1), ('around', 1), ('में', 1), ('फेरती', 1)]",True
+assume,"[('मान', 2)]",True
+assumed,"[('मानकर', 3), ('मानभी', 3), ('मान', 1)]",True
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('दावे', 1)]",True
+claimed,[],True
+doubt,"[('शंका', 2), ('संशय', 1), ('नहीं', 1), ('नहीं कहीं', 1), ('कहीं', 1)]",True
+doubtful,[],False
+essentially,[],False
+estimate,"[('अनुमान', 1)]",True
+estimated,"[('अनुमानित', 1)]",True
+feel,"[('मन', 8), ('लगता', 4), ('अनुभव', 2), ('है', 2), ('यह', 2)]",True
+felt,"[('लगा', 6), ('लगाया', 2)]",True
+frequently,[],False
+from our perspective,[],False
+generally,"[('सामान्यतः', 2)]",True
+guess,[],True
+in general,[],False
+in most cases,[],False
+in most instances,[],False
+in our view,[],False
+indicate,"[('प्रतीत', 1)]",True
+indicated,[],False
+largely,[],False
+likely,[],False
+mainly,"[('मुख्यतः', 1)]",True
+may,"[('सकता', 8), ('शायद', 6), ('मई', 3), ('क्या', 3), ('हैं', 3)]",True
+maybe,"[('शायद', 28), ('सकता', 3), ('सकता है', 2), ('है', 2), ('क्योकि', 2)]",True
+might,"[('सकता', 3), ('हो', 2), ('शायद', 1)]",True
+mostly,[],False
+often,"[('अक्सर', 4), ('बहुधा', 1)]",True
+on the whole,[],False
+ought,[],True
+perhaps,"[('शायद', 9)]",True
+plausible,[],False
+plausibly,[],False
+possible,"[('संभव', 13), ('सम्भव', 7), ('सकता', 4), ('बार', 1)]",True
+possibly,[],False
+postulate,[],False
+postulated,[],False
+presumable,[],False
+probable,[],False
+probably,"[('शायद', 17), ('संभवतः', 3), ('आपने शायद', 1), ('आपने', 1), ('ही', 1)]",True
+relatively,[],False
+roughly,[],False
+seems,"[('है', 11), ('लगता', 2), ('हैं', 1)]",True
+should,"[('चाहिए', 63), ('क्या', 34), ('चाहिये', 20), ('जाए', 10), ('जाय', 9)]",True
+sometimes,"[('कभी', 3), ('कभी कभी', 1), ('कभी _ कभी', 1)]",True
+somewhat,[],False
+suggest,"[('सुझाई', 2), ('सुझाएँगे', 2), ('सुझाव', 1), ('सुझाव देने', 1), ('देने', 1)]",True
+suggested,"[('द्वारा', 1)]",True
+suppose,"[('माना', 1)]",True
+suspect,"[('है', 1)]",True
+tend to,[],False
+tends to,[],False
+typical,"[('ठेठ', 1)]",True
+typically,[],False
+uncertain,[],False
+uncertainly,[],False
+unclear,"[('अस्पष्ट', 1)]",True
+unclearly,[],False
+unlikely,[],False
+usually,"[('सामान्यतः', 2)]",True
+broadly,[],False
+tended to,[],True
+presumably,[],False
+suggests,[],False
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],True
+in this view,[],False
+in our opinion,[],False
+in my opinion,[],True
+to my knowledge,[],False
+fairly,[],False
+quite,"[('काफी', 2), ('काफ़ी', 1)]",True
+rather,"[('बल्कि', 2), ('बजाय', 1)]",True
+argue,"[('तर्क', 2), ('बैचैन', 1)]",True
+argues,[],False
+argued,[],False
+claims,"[('claims', 1)]",True
+feels,"[('भी', 1), ('मुश्कित', 1), ('भी मुश्कित लगती', 1), ('लगती', 1), ('लगता', 1)]",True
+indicates,[],False
+supposed,[],True
+supposes,[],False
+suspects,[],False
+postulates,[],False
+Strategy - Deference,,
+great,"[('महान्', 5), ('महान', 5), ('बड़े', 2), ('बड़ा', 2), ('महाप्रवीण', 1)]",True
+good,"[('अच्छा', 25), ('अच्छे', 8), ('अच्छी', 7), ('सति', 2), ('अच्चे', 1)]",True
+nice,"[('अच्छा', 3), ('सुन्दर', 1)]",True
+good,"[('अच्छा', 25), ('अच्छे', 8), ('अच्छी', 7), ('सति', 2), ('अच्चे', 1)]",True
+interesting,"[('दिलचस्प', 2), ('है', 1)]",True
+cool,[],True
+excellent,"[('श्रेष्ठ', 1), ('बढ़िया', 1)]",True
+awesome,"[('शानदार', 1)]",True
+Strategy - 1st_person_pl.,,
+we,"[('हम', 129), ('हमें', 16), ('हमने', 16), ('हमे', 12), ('हमारे', 7)]",True
+our,"[('हमारे', 22), ('हमारी', 16), ('हमारा', 8), ('अपनी', 4), ('हाथ', 2)]",True
+us,"[('हमें', 15), ('हमारे', 10), ('हमारी', 6), ('हम', 5), ('हमारा', 4)]",True
+ourselves,"[('आपस', 2), ('आपस में', 2), ('में', 2), ('आपको', 1)]",True
+Strategy - 1st_person,,
+i,"[('मैं', 317), ('मैंने', 211), ('मुझे', 207), ('मै', 35), ('मैने', 30)]",True
+my,"[('मेरे', 109), ('मेरी', 45), ('मेरा', 45), ('अपने', 16), ('अपनी', 11)]",True
+mine,"[('मेरी', 4), ('मेरे', 3), ('मेरा', 1), ('mine', 1)]",True
+myself,"[('स्वयं', 8), ('अपने', 6), ('अपने स्वयं', 3), ('मेरे', 2), ('ही', 2)]",True
+Strategy - 1st_person_start,,
+i,"[('मैं', 317), ('मैंने', 211), ('मुझे', 207), ('मै', 35), ('मैने', 30)]",True
+my,"[('मेरे', 109), ('मेरी', 45), ('मेरा', 45), ('अपने', 16), ('अपनी', 11)]",True
+mine,"[('मेरी', 4), ('मेरे', 3), ('मेरा', 1), ('mine', 1)]",True
+myself,"[('स्वयं', 8), ('अपने', 6), ('अपने स्वयं', 3), ('मेरे', 2), ('ही', 2)]",True
+Strategy - 2nd_person,,
+you,"[('आप', 751), ('आपने', 249), ('आपको', 223), ('आपके', 75), ('आपका', 45)]",True
+your,"[('आपकी', 66), ('आपके', 62), ('आपका', 50), ('अपने', 42), ('अपनी', 20)]",True
+yours,"[('ही', 1), ('अपनी', 1), ('ना', 1), ('ना _ अपनी', 1), ('मुझे', 1)]",True
+yourself,"[('अपने', 9), ('आप', 6), ('स्वयं', 5), ('ही', 2), ('को', 2)]",True
+Strategy - 2nd_person_start,,
+you,"[('आप', 751), ('आपने', 249), ('आपको', 223), ('आपके', 75), ('आपका', 45)]",True
+your,"[('आपकी', 66), ('आपके', 62), ('आपका', 50), ('अपने', 42), ('अपनी', 20)]",True
+yours,"[('ही', 1), ('अपनी', 1), ('ना', 1), ('ना _ अपनी', 1), ('मुझे', 1)]",True
+yourself,"[('अपने', 9), ('आप', 6), ('स्वयं', 5), ('ही', 2), ('को', 2)]",True
+Strategy - Indirect_(greeting),,
+hi,"[('नमस्ते', 17), ('हाय', 3), ('हेलो', 1), ('नमस्कार', 1), ('जी', 1)]",True
+hello,"[('नमस्ते', 44), ('नमस्कार', 23), ('जी', 4), ('हेलो', 3), ('नमस्कार्', 2)]",True
+hey,"[('अरे', 15), ('ऐ', 1)]",True
+Strategy - Direct_question,,
+what,"[('क्या', 585), ('किस', 54), ('जो', 25), ('कि', 17), ('कौन', 16)]",True
+why,"[('क्यों', 198), ('क्यो', 25), ('कि', 15), ('क्या', 12), ('आप', 7)]",True
+who,"[('किसने', 97), ('कौन', 81), ('जो', 73), ('क्या', 7), ('किसे', 7)]",True
+how,"[('कैसे', 218), ('क्या', 27), ('कितने', 24), ('कितना', 19), ('कैसा', 18)]",True
+Strategy - Direct_start,,
+so,"[('तो', 128), ('अतः', 33), ('इतना', 28), ('इसलिए', 20), ('इतनी', 18)]",True
+then,"[('तो', 205), ('फिर', 75), ('तब', 56), ('तभी', 7), ('तो _ तो', 4)]",True
+and,"[('और', 755), ('व', 42), ('तथा', 36), ('एवं', 32), ('कर', 26)]",True
+but,"[('लेकिन', 198), ('पर', 122), ('परन्तु', 48), ('किन्तु', 27), ('परंतु', 18)]",True
+or,"[('या', 329), ('अथवा', 44), ('कि', 5), ('एकदो', 4), ('वा', 2)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,[],False
+abounds,[],False
+abundance,[],False
+abundant,[],False
+accessable,[],False
+accessible,[],False
+acclaim,[],True
+acclaimed,"[('प्रशंसित', 1)]",True
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,[],False
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,[],False
+accurately,[],False
+achievable,[],False
+achievement,[],False
+achievements,[],False
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,"[('पर्याप्त', 2)]",True
+adjustable,[],False
+admirable,[],False
+admirably,[],False
+admiration,[],False
+admire,"[('प्रंसन्सा', 1)]",True
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,[],False
+adore,[],False
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,[],False
+advantage,[],False
+advantageous,[],False
+advantageously,[],False
+advantages,[],False
+adventuresome,[],False
+adventurous,[],False
+advocate,[],True
+advocated,[],False
+advocates,[],False
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,"[('स्नेह', 6)]",True
+affectionate,[],False
+affinity,"[('लगाव', 1)]",True
+affirm,[],True
+affirmation,[],True
+affirmative,[],False
+affluence,[],False
+affluent,[],False
+afford,[],True
+affordable,"[('प्रोत्साहित _ गुणवत्ता', 1), ('प्रोत्साहित', 1), ('गुणवत्ता', 1)]",True
+affordably,[],False
+afordable,[],False
+agile,[],False
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],False
+altruistically,[],False
+amaze,[],False
+amazed,[],False
+amazement,[],False
+amazes,[],False
+amazing,"[('गजब', 2), ('पहचानते', 1), ('पहचानते _ गजब', 1), ('कमाल', 1), ('कमाल _ रहा', 1)]",True
+amazingly,[],False
+ambitious,[],False
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,[],False
+amity,[],True
+ample,[],True
+amply,[],False
+amuse,[],False
+amusing,[],False
+amusingly,[],False
+angel,[],False
+angelic,[],False
+apotheosis,[],False
+appeal,[],False
+appealing,[],False
+applaud,[],False
+appreciable,[],False
+appreciate,[],False
+appreciated,[],False
+appreciates,[],False
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('उचित', 30), ('उपयुक्त', 6), ('होगा', 3), ('ठीक', 2), ('उचित होगा', 1)]",True
+approval,[],False
+approve,[],True
+ardent,[],False
+ardently,[],False
+ardor,[],False
+articulate,[],False
+aspiration,[],False
+aspirations,[],False
+aspire,[],False
+assurance,[],False
+assurances,[],False
+assure,[],False
+assuredly,[],False
+assuring,[],False
+astonish,[],True
+astonished,"[('चकित', 2), ('आश्चर्यचकित', 1), ('विवेकपूर्ण', 1), ('विवेकपूर्ण _ आश्चर्यचकित', 1)]",True
+astonishing,[],False
+astonishingly,[],False
+astonishment,[],False
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,[],False
+attraction,[],True
+attractive,[],True
+attractively,[],False
+attune,[],False
+audible,[],False
+audibly,[],False
+auspicious,[],False
+authentic,"[('प्रामाणिक', 5), ('प्रमाणिक', 2)]",True
+authoritative,[],False
+autonomous,[],False
+available,"[('उपलब्ध', 25), ('मिलेगी', 2), ('है', 2), ('मिलेंगे', 1), ('उपलब्\u200dध', 1)]",True
+aver,[],True
+avid,[],False
+avidly,[],False
+award,"[('पुरस्कार', 3)]",True
+awarded,"[('सम्मनित', 1), ('सम्मानित', 1)]",True
+awards,"[('अवार्ड', 1)]",True
+awe,[],True
+awed,[],False
+awesome,"[('शानदार', 1)]",True
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,[],True
+bargain,[],False
+beauteous,[],False
+beautiful,"[('सुन्दर', 4), ('खूबसूरत', 1), ('सुंदर', 1)]",True
+beautifullly,[],False
+beautifully,[],False
+beautify,[],False
+beauty,"[('सौंदर्य', 1), ('सुंदरता', 1)]",True
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],False
+believeable,[],False
+beloved,"[('प्रिय', 1)]",True
+benefactor,"[('कल्याणकारी', 1)]",True
+beneficent,[],False
+beneficial,"[('लाभदायक', 1), ('लाभ', 1)]",True
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('लाभ', 9), ('फायदा', 1), ('इंसान', 1), ('स्मार्ट _ इंसान', 1), ('स्मार्ट', 1)]",True
+benefits,"[('लाभ', 6), ('फायदे', 1)]",True
+benevolence,[],False
+benevolent,[],False
+benifits,[],False
+best,"[('श्रेष्ठ', 2), ('शुभकामनाएं', 1), ('उत्तम', 1), ('सबसे', 1), ('best', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('अच्छा', 12), ('बेहतर', 8), ('होगा', 5), ('ज्यादा', 3), ('अच्छी', 2)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,[],True
+blessing,[],False
+bliss,[],False
+blissful,[],False
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,[],False
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,[],False
+bonuses,[],False
+boom,[],False
+booming,[],False
+boost,[],False
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,"[('बहादुर', 1)]",True
+bravery,[],False
+bravo,[],False
+breakthrough,[],False
+breakthroughs,[],False
+breathlessness,[],False
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,[],True
+brighten,[],False
+brighter,[],False
+brightest,[],False
+brilliance,[],False
+brilliances,[],False
+brilliant,[],False
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,[],True
+calming,[],False
+calmness,"[('निश्च्छलता', 2)]",True
+capability,[],False
+capable,"[('सक्षम', 9), ('सक्षम बना', 2), ('बना', 2), ('योग्य', 2), ('योग्य जाना', 1)]",True
+capably,[],False
+captivate,[],False
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,[],True
+celebrated,"[('मनाये', 1), ('मनाया', 1)]",True
+celebration,[],False
+celebratory,[],False
+champ,[],False
+champion,[],False
+charisma,[],False
+charismatic,[],False
+charitable,[],False
+charm,"[('आकर्षण', 2), ('जादुई', 1), ('जादुई आकर्षण', 1)]",True
+charming,[],False
+charmingly,[],False
+chaste,[],False
+cheaper,[],False
+cheapest,[],False
+cheer,[],False
+cheerful,[],False
+cheery,[],False
+cherish,[],False
+cherished,[],False
+cherub,[],False
+chic,[],True
+chivalrous,[],False
+chivalry,[],False
+civility,[],False
+civilize,[],False
+clarity,[],False
+classic,[],True
+classy,[],False
+clean,"[('साफ', 3), ('पाकसाफ', 2), ('सफ़ाई', 1)]",True
+cleaner,[],False
+cleanest,[],False
+cleanliness,"[('स्वच्छता', 1)]",True
+cleanly,[],False
+clear,"[('स्पष्ट', 15), ('हो', 1), ('पता', 1), ('कर', 1)]",True
+clear-cut,[],False
+cleared,[],False
+clearer,[],False
+clearly,"[('स्पष्ट', 4), ('दिखाई', 1), ('स्पष्टता', 1), ('से _ तो', 1), ('से', 1)]",True
+clears,[],False
+clever,[],True
+cleverly,[],False
+cohere,[],False
+coherence,[],False
+coherent,[],False
+cohesive,[],False
+colorful,"[('रंग', 1), ('बिरंगी', 1), ('रंग बिरंगी', 1), ('रंगारंग', 1)]",True
+comely,[],False
+comfort,[],True
+comfortable,"[('आरामदायक', 1), ('सहज', 1)]",True
+comfortably,"[('से', 2), ('ज़रूर _ से', 1), ('ज़रूर', 1), ('आराम', 1), ('आराम से', 1)]",True
+comforting,[],False
+comfy,[],False
+commend,[],True
+commendable,"[('सराहनीय', 2)]",True
+commendably,[],False
+commitment,[],False
+commodious,[],False
+compact,[],False
+compactly,[],False
+compassion,[],True
+compassionate,"[('करूणा', 1), ('कमजोर _ करूणा', 1), ('कमजोर', 1)]",True
+compatible,[],False
+competitive,[],False
+complement,[],False
+complementary,[],False
+complemented,[],False
+complements,[],False
+compliant,[],False
+compliment,[],False
+complimentary,[],False
+comprehensive,"[('व्यापक', 2)]",True
+conciliate,[],False
+conciliatory,[],False
+concise,"[('सारस्वरूप _ संक्षिप्त', 1), ('संक्षिप्त', 1), ('सारस्वरूप', 1)]",True
+confidence,[],False
+confident,[],True
+congenial,[],False
+congratulate,[],False
+congratulation,[],True
+congratulations,"[('बधाई', 3), ('बटेर _ खिंचवा', 1), ('खिंचवा', 1), ('बटेर', 1), ('सुन्दर', 1)]",True
+congratulatory,[],False
+conscientious,[],False
+considerate,[],False
+consistent,[],True
+consistently,[],False
+constructive,"[('रचनात्मक', 83)]",True
+consummate,[],False
+contentment,[],False
+continuity,[],False
+contrasty,[],False
+contribution,"[('योगदान', 13)]",True
+convenience,"[('सुविधा', 7), ('सहूलियत', 2), ('सुबिधा', 1)]",True
+convenient,"[('सुविधापूर्ण', 1)]",True
+conveniently,[],False
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,[],False
+convincingly,[],False
+cool,[],True
+coolest,[],False
+cooperative,[],False
+cooperatively,[],False
+cornerstone,[],False
+correct,"[('सही', 54), ('ठीक', 6), ('कारण', 2), ('सही _ लगता', 2), ('लगता', 2)]",True
+correctly,"[('ठीक से', 2), ('से', 2), ('ठीक', 2)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,"[('कमी', 1), ('हिमत', 1), ('हिम्मत', 1)]",True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,[],False
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('रचनात्मक', 83)]",True
+credence,[],False
+credible,"[('विश्वसनीय', 3), ('विश्वसनीय सन्दर्भों', 2), ('सन्दर्भों', 2), ('सन्दर्भ', 2), ('विश्वश्नीय', 1)]",True
+crisp,[],False
+crisper,[],False
+cure,[],True
+cure-all,[],False
+cushy,[],False
+cute,[],False
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,[],False
+daringly,[],False
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,[],False
+dazzle,[],False
+dazzled,[],False
+dazzling,"[('चकाचौंध', 1)]",True
+dead-cheap,[],False
+dead-on,[],False
+decency,"[('नाश', 1), ('शालीनता', 1), ('शालीनता _ नाश', 1)]",True
+decent,"[('सभ्य', 2)]",True
+decisive,[],False
+decisiveness,[],False
+dedicated,"[('समर्पित', 2)]",True
+defeat,"[('हार', 3)]",True
+defeated,[],False
+defeating,[],False
+defeats,[],False
+defender,[],False
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,"[('गुलाबी', 3), ('नाजुकसी', 1)]",True
+delicious,[],False
+delight,[],False
+delighted,[],False
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,[],False
+deserving,[],False
+desirable,[],False
+desiring,[],False
+desirous,[],False
+destiny,[],False
+detachable,[],False
+devout,"[('प्रभु', 2)]",True
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,[],False
+dignify,[],False
+dignity,"[('खातिर', 1), ('गरिमा _ खातिर', 1), ('गरिमा', 1)]",True
+diligence,"[('परिश्रम', 1)]",True
+diligent,[],False
+diligently,[],False
+diplomatic,[],False
+dirt-cheap,[],False
+distinction,"[('विभेद', 2), ('गौरव', 1)]",True
+distinctive,[],False
+distinguished,[],False
+diversified,[],False
+divine,[],True
+divinely,[],False
+dominate,[],False
+dominated,[],False
+dominates,[],False
+dote,[],False
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,[],False
+dynamic,[],True
+eager,"[('उत्सुक', 2)]",True
+eagerly,[],False
+eagerness,[],False
+earnest,[],False
+earnestly,[],False
+earnestness,[],False
+ease,[],True
+eased,[],True
+eases,[],True
+easier,"[('सुविधा', 1), ('आसान', 1)]",True
+easiest,"[('कौनसा', 1), ('टैम _ सुगम _ कौनसा', 1), ('सुगम', 1), ('टैम', 1), ('कौनसा सुगम', 1)]",True
+easiness,[],False
+easing,[],True
+easy,"[('सहज', 3), ('आसान', 1)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,[],False
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,"[('शिक्षितों', 1)]",True
+effective,"[('प्रभावकारी', 4)]",True
+effectively,[],False
+effectiveness,[],False
+effectual,[],False
+efficacious,[],False
+efficient,"[('कुशल', 1)]",True
+efficiently,[],False
+effortless,[],False
+effortlessly,[],False
+effusion,[],False
+effusive,[],False
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,[],False
+elegantly,[],False
+elevate,"[('उन्नत', 2)]",True
+elite,[],False
+eloquence,[],False
+eloquent,[],False
+eloquently,[],False
+embolden,[],False
+eminence,[],False
+eminent,"[('उद्भट', 1)]",True
+empathize,[],False
+empathy,[],False
+empower,"[('महसूस _ सशक्त', 1), ('सशक्त', 1), ('महसूस', 1)]",True
+empowerment,[],False
+enchant,[],False
+enchanted,[],False
+enchanting,[],False
+enchantingly,[],False
+encourage,[],True
+encouragement,"[('प्रोत्साहन', 2)]",True
+encouraging,"[('वर्धन', 1), ('उत्साह', 1), ('उत्साह वर्धन', 1)]",True
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,[],False
+endorsed,[],False
+endorsement,[],False
+endorses,[],False
+endorsing,[],False
+energetic,"[('ऊर्जावान', 1)]",True
+energize,[],False
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],False
+engrossing,[],False
+enhance,"[('बढ़ाने', 3)]",True
+enhanced,[],False
+enhancement,[],False
+enhances,[],False
+enjoy,"[('लें', 1)]",True
+enjoyable,"[('सुखद', 1)]",True
+enjoyably,[],False
+enjoyed,[],False
+enjoying,"[('मुझे', 1)]",True
+enjoyment,[],False
+enjoys,[],False
+enlighten,[],False
+enlightenment,[],False
+enliven,[],False
+ennoble,[],False
+enough,"[('पर्याप्त', 5), ('इतने', 2), ('काफ़ी', 2), ('कोई', 1), ('काफी', 1)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,[],False
+enrichment,[],False
+enterprising,[],False
+entertain,[],False
+entertaining,[],False
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,"[('उत्साह', 1)]",True
+enthusiast,[],False
+enthusiastic,[],False
+enthusiastically,[],False
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,[],False
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,[],False
+equitable,[],False
+ergonomical,[],False
+err-free,[],False
+erudite,"[('पुरायठ', 1)]",True
+ethical,[],False
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,[],False
+evenly,[],False
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],False
+exaltation,[],False
+exalted,[],False
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,"[('से _ अधिक', 1), ('अधिक', 1), ('से', 1)]",True
+exceeded,[],False
+exceeding,[],False
+exceedingly,[],False
+exceeds,[],False
+excel,"[('माइक्रोसफ्ट', 1)]",True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],False
+excellency,[],False
+excellent,"[('श्रेष्ठ', 1), ('बढ़िया', 1)]",True
+excellently,[],False
+excels,[],False
+exceptional,[],False
+exceptionally,[],False
+excite,[],False
+excited,[],False
+excitedly,[],False
+excitedness,[],False
+excitement,[],False
+excites,[],False
+exciting,[],False
+excitingly,[],False
+exellent,[],False
+exemplar,[],False
+exemplary,[],False
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],False
+extoll,[],False
+extraordinarily,[],False
+extraordinary,[],False
+exuberance,[],False
+exuberant,[],False
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,[],False
+fabulously,[],False
+facilitate,[],True
+fair,"[('उचित', 5), ('उचित _ पोलिसि', 1), ('पोलिसि', 1), ('fair', 1)]",True
+fairly,[],False
+fairness,[],False
+faith,"[('अंधविश्वास', 2), ('ईमान', 1)]",True
+faithful,[],False
+faithfully,[],False
+faithfulness,[],False
+fame,[],True
+famed,[],False
+famous,"[('प्रसिद्ध', 13), ('पूरी', 1), ('मशहूर _ गये _ पूरी', 1), ('गये', 1), ('मशहूर', 1)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],False
+fanfare,[],False
+fans,[],False
+fantastic,[],False
+fantastically,[],False
+fascinate,[],True
+fascinating,[],False
+fascinatingly,[],False
+fascination,[],False
+fashionable,[],False
+fashionably,[],False
+fast,"[('व्रत', 2)]",True
+fast-growing,[],False
+fast-paced,[],False
+faster,"[('रास्ता', 1)]",True
+fastest,"[('शीघ्रता', 3), ('सबसे', 2)]",True
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('पक्ष', 3), ('उपकार', 1), ('अहसान', 1)]",True
+favorable,"[('अनुकूल', 1)]",True
+favored,[],False
+favorite,"[('प्रिय', 3)]",True
+favorited,[],False
+favour,"[('पक्ष', 1)]",True
+fearless,[],True
+fearlessly,"[('से', 1), ('कैसे', 1)]",True
+feasible,[],False
+feasibly,[],False
+feat,[],True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,[],False
+fertile,[],False
+fervent,"[('अनूठी', 1)]",True
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,[],False
+fiery,[],False
+fine,"[('ठीक', 7)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],False
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,[],False
+flatter,[],True
+flattering,"[('चापलूसी', 2)]",True
+flatteringly,[],False
+flawless,[],False
+flawlessly,[],False
+flexibility,[],False
+flexible,[],False
+flourish,[],False
+flourishing,[],False
+fluent,[],False
+flutter,[],False
+fond,"[('शौक', 1)]",True
+fondly,[],False
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,[],False
+fortunately,[],False
+fortune,[],False
+fragrant,[],False
+free,"[('मुक्त', 13), ('आजाद', 4), ('स्वतंत्र', 3), ('फ्री', 1), ('रहित', 1)]",True
+freed,"[('मुक्त', 1)]",True
+freedom,"[('स्वतन्त्रता', 2), ('स्वतंत्रता', 2), ('स्वातंत्र्य', 1)]",True
+freedoms,[],False
+fresh,"[('ताज़ी', 1)]",True
+fresher,[],False
+freshest,[],False
+friendliness,[],False
+friendly,[],False
+frolic,[],False
+frugal,[],False
+fruitful,[],False
+ftw,[],True
+fulfillment,[],False
+fun,"[('मजा', 1)]",True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('लेंगे', 2), ('पा लेंगे', 2), ('पा', 2), ('हासिल', 2)]",True
+gained,[],False
+gainful,[],False
+gainfully,[],False
+gaining,[],True
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],True
+geekier,[],False
+geeky,[],False
+gem,[],True
+gems,[],False
+generosity,"[('उदारता', 6)]",True
+generous,[],False
+generously,[],False
+genial,[],False
+genius,[],False
+gentle,[],True
+gentlest,[],False
+genuine,[],False
+gifted,[],False
+glad,"[('खुशी', 3)]",True
+gladden,[],False
+gladly,[],False
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,[],False
+gloriously,[],False
+glory,"[('महिमा', 1), ('हानि', 1), ('महिमालाभ', 1), ('हानि _ महिमालाभ', 1)]",True
+glow,[],False
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('स्वर्ण', 6), ('सुवर्ण', 1)]",True
+golden,"[('स्वर्णिम', 1), ('स्वर्ण', 1)]",True
+good,"[('अच्छा', 25), ('अच्छे', 8), ('अच्छी', 7), ('सति', 2), ('अच्चे', 1)]",True
+goodly,[],False
+goodness,"[('अच्छाई', 1)]",True
+goodwill,[],False
+goood,[],False
+gooood,[],False
+gorgeous,[],False
+gorgeously,[],False
+grace,"[('नौकरी', 1)]",True
+graceful,[],False
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,[],True
+grandeur,[],False
+grateful,[],False
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,"[('आभार', 1)]",True
+great,"[('महान्', 5), ('महान', 5), ('बड़े', 2), ('बड़ा', 2), ('महाप्रवीण', 1)]",True
+greatest,"[('सबसे', 2), ('महान', 1), ('सबसे महान', 1)]",True
+greatness,[],False
+grin,[],True
+groundbreaking,[],False
+guarantee,"[('गेरेंटी', 1)]",True
+guidance,[],False
+guiltless,[],False
+gumption,[],False
+gush,[],False
+gusto,[],False
+gutsy,[],False
+hail,[],False
+halcyon,[],False
+hale,[],True
+hallmark,[],False
+hallmarks,[],False
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,[],False
+handsomely,[],False
+handy,[],True
+happier,[],False
+happily,[],False
+happiness,"[('दुःख सुख', 2), ('दुःख', 2), ('सुख', 2), ('मुझे', 1)]",True
+happy,"[('खुश', 2), ('ज्यादा', 1), ('खुशी', 1), ('हैं', 1), ('प्रसन्न', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,[],False
+harmonious,"[('पूर्ण', 1)]",True
+harmoniously,[],False
+harmonize,[],False
+harmony,"[('सौहार्द', 1), ('सौहार्द _ मानवता', 1), ('मानवता', 1)]",True
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,[],False
+hearten,[],False
+heartening,[],False
+heartfelt,"[('हार्दिक', 1)]",True
+heartily,[],False
+heartwarming,[],False
+heaven,"[('स्वर्ग', 1)]",True
+heavenly,[],False
+helped,"[('सहायता', 1), ('ने', 1)]",True
+helpful,"[('सहायक', 4), ('उचित _ मददगार', 1), ('मददगार', 1), ('उचित', 1)]",True
+helping,"[('साथ', 1), ('मदद', 1)]",True
+hero,"[('नायक', 1)]",True
+heroic,[],False
+heroically,[],False
+heroine,[],False
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,[],False
+holy,"[('पवित्र', 1)]",True
+homage,[],False
+honest,"[('ईमानदार', 1), ('कहूँ', 1)]",True
+honesty,[],False
+honor,"[('मान', 1), ('सम्मान', 1)]",True
+honorable,"[('माननीय', 10)]",True
+honored,[],False
+honoring,[],False
+hooray,[],False
+hopeful,[],False
+hospitable,[],False
+hot,"[('गरम', 1), ('हॉट', 1), ('ज्वलित', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,"[('गले', 2), ('पैदा', 1), ('पैदा _ गले', 1), ('गले _ लगाना', 1), ('लगाना', 1)]",True
+humane,[],False
+humble,[],False
+humility,[],False
+humor,"[('हास्य', 1)]",True
+humorous,[],False
+humorously,[],False
+humour,[],False
+humourous,[],False
+ideal,"[('आर्य', 1)]",True
+idealize,[],False
+ideally,[],False
+idol,"[('मूर्ति', 2)]",True
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],False
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,[],False
+ilu,[],True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,[],False
+impartial,"[('निष्पक्ष', 3)]",True
+impartiality,"[('निष्पक्षता', 1)]",True
+impartially,[],False
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('महत्वपूर्ण', 10), ('जरूरी', 7), ('महत्त्वपूर्ण', 6), ('अहम', 3), ('सवाल', 1)]",True
+impress,[],True
+impressed,"[('ने', 2), ('प्रभावित', 1)]",True
+impresses,[],False
+impressive,[],False
+impressively,[],False
+impressiveness,[],False
+improve,"[('सुधार', 13), ('सुधारने', 5), ('बनाने', 2), ('सुधारना', 2), ('बताएंगी', 1)]",True
+improved,"[('सुधार', 5), ('सुधारा', 1), ('सुधारना', 1)]",True
+improvement,"[('सुधार', 3)]",True
+improvements,"[('सुधार', 6)]",True
+improves,[],False
+improving,"[('सुधार', 4), ('सुधारने', 1), ('सुधारते', 1)]",True
+incredible,[],False
+incredibly,[],False
+indebted,[],False
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,[],False
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,[],False
+infallible,[],False
+infallibly,[],False
+influential,[],False
+ingenious,[],False
+ingeniously,[],False
+ingenuity,[],False
+ingenuous,[],False
+ingenuously,[],False
+innocuous,[],False
+innovation,[],False
+innovative,[],True
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,"[('प्रेरक', 1), ('प्रेरणा', 1)]",True
+inspirational,[],False
+inspire,"[('प्रेरणा देते', 1), ('प्रेरणा', 1), ('देते', 1)]",True
+inspiring,"[('प्रेरणास्पद', 1)]",True
+instantly,[],False
+instructive,[],False
+instrumental,[],False
+integral,"[('अभिन्न', 1)]",True
+integrated,[],False
+intelligence,"[('बुद्धिमत्ता', 1)]",True
+intelligent,[],False
+intelligible,[],False
+interesting,"[('दिलचस्प', 2), ('है', 1)]",True
+interests,[],True
+intimacy,[],False
+intimate,[],False
+intricate,[],False
+intrigue,[],False
+intriguing,[],False
+intriguingly,[],False
+intuitive,[],True
+invaluable,"[('अमूल्य', 3)]",True
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],False
+inviolable,[],False
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,[],False
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,[],True
+joyful,[],False
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,[],False
+jubilantly,[],False
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],False
+keen,[],True
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,"[('कृपया', 1), ('स्वीकार _ कृपया', 1), ('स्वीकार', 1)]",True
+kindness,[],False
+knowledgeable,"[('जानकार', 2), ('सकते', 1), ('सकते _ जानकार', 1), ('ज्ञाता', 1), ('समझता', 1)]",True
+kudos,[],False
+large-capacity,[],False
+laud,[],False
+laudable,[],False
+laudably,[],False
+lavish,[],False
+lavishly,[],False
+law-abiding,[],False
+lawful,[],False
+lawfully,[],False
+lead,"[('lead', 1), ('जीने', 1)]",True
+leading,"[('अमुख', 3), ('नेतृत्व', 1)]",True
+leads,[],True
+lean,[],True
+led,[],True
+legendary,[],False
+leverage,[],False
+levity,[],False
+liberate,[],True
+liberation,[],False
+liberty,[],False
+lifesaver,[],False
+light-hearted,[],False
+lighter,[],False
+likable,[],False
+like,"[('जैसे', 49), ('तरह', 17), ('किसी', 3), ('चाहेंगे', 3), ('ही', 3)]",True
+liked,"[('अच्छा लगा', 3), ('अच्छा', 3), ('लगा', 3), ('पसंद', 2), ('करता', 1)]",True
+likes,[],False
+liking,"[('चाहने', 1)]",True
+lionhearted,[],False
+lively,[],False
+logical,"[('तार्किक', 1), ('तर्कपूर्ण', 1)]",True
+long-lasting,[],False
+lovable,[],False
+lovably,[],False
+love,"[('प्रेम', 14), ('प्यार', 13), ('लव', 1)]",True
+loved,"[('जिसने', 1)]",True
+loveliness,[],False
+lovely,"[('प्यारे', 1)]",True
+lover,[],False
+loves,"[('देखते', 1), ('करते _ देखते', 1), ('करते', 1)]",True
+loving,[],True
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,"[('वफादार', 1)]",True
+loyalty,[],False
+lucid,[],False
+lucidly,[],False
+luck,"[('किस्मत', 2), ('सौभाग्य', 2), ('भग्य', 1), ('भाग्य', 1)]",True
+luckier,[],False
+luckiest,[],False
+luckiness,[],False
+lucky,"[('भाग्यशाली', 2), ('भाग्यवती', 1)]",True
+lucrative,[],False
+luminous,[],False
+lush,[],True
+luster,[],False
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,[],False
+luxuriously,[],False
+luxury,[],False
+lyrical,[],False
+magic,[],True
+magical,"[('जादुई', 2)]",True
+magnanimous,[],False
+magnanimously,[],False
+magnificence,[],False
+magnificent,[],False
+magnificently,[],False
+majestic,[],False
+majesty,"[('महाराज', 1)]",True
+manageable,[],False
+maneuverable,[],False
+marvel,[],False
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,"[('सिद्धहस्त', 1), ('गुरु', 1), ('गुरुवर', 1), ('मार्तंड', 1)]",True
+masterful,[],False
+masterfully,[],False
+masterpiece,[],False
+masterpieces,[],False
+masters,[],True
+mastery,[],False
+matchless,[],False
+mature,[],False
+maturely,[],False
+maturity,[],False
+meaningful,"[('सार्थक', 1)]",True
+memorable,[],False
+merciful,[],False
+mercifully,[],False
+mercy,[],False
+merit,"[('योग्यता', 1)]",True
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,[],False
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,[],False
+meticulously,[],False
+mightily,[],False
+mighty,[],False
+mind-blowing,[],False
+miracle,[],False
+miracles,[],False
+miraculous,"[('चमत्कारिक', 2), ('चमत्कारी', 1)]",True
+miraculously,[],False
+miraculousness,[],False
+modern,"[('आधुनिक', 5)]",True
+modest,[],False
+modesty,[],False
+momentous,[],False
+monumental,[],False
+monumentally,[],False
+morality,"[('नैतिकता', 10), ('व्यक्तिवादिता', 2), ('व्यक्तिवादिता _ नैतिकता', 2), ('नेतिकता', 1)]",True
+motivated,[],False
+multi-purpose,[],False
+navigable,[],False
+neat,[],True
+neatest,[],False
+neatly,"[('निराली', 1)]",True
+nice,"[('अच्छा', 3), ('सुन्दर', 1)]",True
+nicely,[],False
+nicer,[],False
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,"[('नेक', 2), ('आर्य', 1), ('श्रेष्ठ', 1)]",True
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,[],False
+noteworthy,"[('उल्लेखनीय', 3), ('अनुल्लेखनीय', 3)]",True
+nourish,[],True
+nourishing,[],False
+nourishment,[],False
+novelty,[],False
+nurturing,[],False
+oasis,[],False
+obsession,[],False
+obsessions,[],False
+obtainable,[],False
+openly,[],True
+openness,[],False
+optimal,[],False
+optimism,[],False
+optimistic,[],False
+opulent,[],False
+orderly,[],False
+originality,[],False
+outdo,[],False
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,[],False
+outstandingly,[],False
+outstrip,[],False
+outwit,[],False
+ovation,[],False
+overjoyed,[],False
+overtake,[],False
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],False
+painlessly,[],False
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,[],False
+paradise,[],True
+paramount,[],False
+pardon,[],False
+passion,"[('जुनून', 1)]",True
+passionate,[],True
+passionately,[],False
+patience,[],False
+patient,"[('रोगी', 3)]",True
+patiently,[],False
+patriot,[],True
+patriotic,[],False
+peace,"[('शांति', 2)]",True
+peaceable,[],False
+peaceful,"[('वेज्ञानिक', 1)]",True
+peacefully,"[('से', 1)]",True
+peacekeepers,[],False
+peach,[],False
+peerless,[],False
+pep,[],False
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,"[('पूर्ण', 1)]",True
+perfection,[],False
+perfectly,[],False
+permissible,[],False
+perseverance,[],False
+persevere,[],False
+personages,[],False
+personalized,[],False
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,"[('भजन', 1)]",True
+pinnacle,[],False
+playful,[],False
+playfully,[],False
+pleasant,"[('सुखद', 2), ('तन्खाह', 1), ('साध्य', 1), ('मोटी', 1), ('साध्य _ मोटी तन्खाह _ सुखद', 1)]",True
+pleasantly,[],False
+pleased,"[('कृपा', 1)]",True
+pleases,[],False
+pleasing,[],False
+pleasingly,[],False
+pleasurable,[],False
+pleasurably,[],False
+pleasure,"[('हर्ष', 1), ('हर्ष _ सूचित', 1), ('सूचित', 1)]",True
+plentiful,[],False
+pluses,[],False
+plush,[],False
+plusses,[],False
+poetic,"[('काव्यगत', 1)]",True
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,[],False
+polite,[],False
+politeness,[],False
+popular,"[('प्रचलित', 6), ('लोकप्रिय', 3)]",True
+portable,[],False
+posh,[],False
+positive,"[('सकारात्मक', 4), ('सकारात्मक होगा', 1), ('होगा', 1)]",True
+positively,[],True
+positives,[],False
+powerful,"[('शक्तिशाली', 1), ('हुए', 1), ('पावरफूल', 1), ('हुए पावरफूल', 1)]",True
+powerfully,[],False
+praise,"[('प्रशंसा', 1)]",True
+praiseworthy,[],False
+praising,[],False
+pre-eminent,[],False
+precious,"[('अनमोल', 2), ('सिर्फ _ अनमोल', 1), ('सिर्फ', 1)]",True
+precise,[],False
+precisely,[],False
+preeminent,[],False
+prefer,[],True
+preferable,"[('बेहतर', 1)]",True
+preferably,[],False
+prefered,[],False
+preferes,[],False
+preferring,[],False
+prefers,[],False
+premier,[],False
+prestige,"[('दौलत', 1)]",True
+prestigious,[],False
+prettily,[],False
+pretty,[],False
+priceless,"[('अमूल्य', 3)]",True
+pride,"[('नशा', 1), ('लालच', 1)]",True
+principled,[],False
+privilege,[],False
+privileged,[],False
+prize,"[('पुरस्कार', 5)]",True
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,[],False
+productively,[],False
+proficient,"[('निपुण', 1)]",True
+proficiently,[],False
+profound,[],False
+profoundly,[],False
+profuse,[],False
+profusion,[],False
+progress,"[('प्रगति', 4), ('जारी', 1), ('आगे', 1)]",True
+progressive,[],False
+prolific,[],False
+prominence,[],False
+prominent,[],False
+promise,"[('वादा', 1), ('हैं', 1), ('प्रतिज्ञा', 1)]",True
+promised,[],False
+promises,"[('वादा', 1)]",True
+promising,[],False
+promoter,[],False
+prompt,"[('prompt', 1), ('प्रॉम्प्ट', 1)]",True
+promptly,[],False
+proper,"[('उचित', 4), ('समुचित', 2), ('उपयुक्त', 1)]",True
+properly,"[('ठीक', 3), ('सही', 2), ('से', 2), ('ही', 1), ('ठीक _ ही', 1)]",True
+propitious,[],False
+propitiously,[],False
+pros,[],True
+prosper,[],False
+prosperity,[],False
+prosperous,[],False
+prospros,[],False
+protect,"[('प्रोटेक्ट', 3), ('करे', 3), ('बचाती', 3), ('राईट', 2), ('प्रोटेक्ट राईट', 2)]",True
+protection,"[('संरक्षण', 2), ('protection', 1)]",True
+protective,[],False
+proud,"[('गर्व', 1)]",True
+proven,"[('सिद्ध', 1)]",True
+proves,"[('होता', 2), ('करे', 1)]",True
+providence,[],False
+proving,[],True
+prowess,[],False
+prudence,[],False
+prudent,[],False
+prudently,[],False
+punctual,[],False
+pure,"[('शुद्ध', 10), ('साफ़प्रचार', 1)]",True
+purify,"[('पवित्र', 2), ('करने', 2), ('स्नान', 1), ('पवित्र करने _ स्नान', 1), ('पवित्र करने', 1)]",True
+purposeful,[],False
+quaint,[],True
+qualified,[],False
+qualify,[],False
+quicker,[],False
+quiet,[],False
+quieter,[],False
+radiance,[],False
+radiant,[],False
+rapid,[],True
+rapport,[],False
+rapt,[],False
+rapture,[],False
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,[],True
+razor-sharp,[],False
+reachable,[],False
+readable,"[('पठनीय', 1)]",True
+readily,[],False
+ready,"[('तैयार', 6), ('वासी', 2), ('अभी', 1), ('प्रतीक्षा', 1)]",True
+reaffirm,[],True
+reaffirmation,"[('रीओफेन्दिग', 1)]",True
+realistic,[],False
+realizable,[],False
+reasonable,[],True
+reasonably,[],False
+reasoned,"[('तार्किक', 1)]",True
+reassurance,[],False
+reassure,[],False
+receptive,[],False
+reclaim,[],False
+recomend,[],False
+recommend,"[('सलाह', 15), ('सुधार', 1), ('सुझाव', 1)]",True
+recommendation,"[('समर्थन _ रिकमण्डेशन', 1), ('रिकमण्डेशन', 1), ('समर्थन', 1)]",True
+recommendations,"[('सिफारिशों', 1)]",True
+recommended,[],True
+reconcile,[],False
+reconciliation,[],False
+record-setting,[],False
+recover,"[('हो', 1)]",True
+recovery,[],False
+rectification,"[('सुधार', 1)]",True
+rectify,"[('सुधारने', 1), ('सुधारा', 1), ('सुधारना', 1), ('सुधार', 1), ('कर', 1)]",True
+rectifying,[],False
+redeem,[],False
+redeeming,[],False
+redemption,[],False
+refine,"[('करना', 1)]",True
+refined,[],False
+refinement,[],False
+reform,"[('सुधार', 3)]",True
+reformed,[],False
+reforming,[],False
+reforms,[],False
+refresh,"[('ब्राउजर', 1), ('रिफ्रेस', 1), ('कीजिए', 1), ('ब्राउजर _ रिफ्रेस कीजिए', 1)]",True
+refreshed,[],False
+refreshing,[],False
+refund,[],False
+refunded,[],False
+regal,[],False
+regally,[],False
+regard,"[('सम्बंध', 2), ('सन्दर्भ', 1), ('विषय', 1)]",True
+rejoice,[],False
+rejoicing,"[('रमण करने', 1), ('रमण', 1), ('करने', 1)]",True
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,"[('दी', 2), ('दी _ नियमों', 2), ('नियमों', 2)]",True
+relent,[],False
+reliable,"[('विश्वसनीय', 12), ('संदर्भ', 1), ('विश्वस्त संदर्भ', 1), ('विश्वस्त', 1), ('भरोसेमंद', 1)]",True
+reliably,[],False
+relief,"[('उपाय', 1)]",True
+relish,[],False
+remarkable,"[('उल्लेखनीय', 11), ('अनुल्लेखनीय', 1)]",True
+remarkably,[],False
+remedy,[],False
+remission,[],False
+remunerate,[],False
+renaissance,"[('नवजागरण', 3)]",True
+renewed,[],False
+renown,[],False
+renowned,[],False
+replaceable,[],False
+reputable,[],False
+reputation,[],True
+resilient,[],False
+resolute,[],False
+resound,[],False
+resounding,[],False
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('सम्मान', 7), ('करते', 1), ('सम्मान _ धन्यवाद', 1), ('धन्यवाद', 1)]",True
+respectable,"[('सम्मानजनक', 1)]",True
+respectful,[],False
+respectfully,[],False
+respite,[],False
+resplendent,[],False
+responsibly,[],False
+responsive,[],False
+restful,[],False
+restored,[],False
+restructure,[],False
+restructured,[],False
+restructuring,[],False
+retractable,[],False
+revel,[],False
+revelation,[],False
+revere,[],True
+reverence,[],False
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,[],False
+revive,[],False
+revives,[],False
+revolutionary,[],False
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,[],False
+rewarding,[],False
+rewardingly,[],False
+rich,"[('अमीरों', 2)]",True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('सही', 23), ('अधिकार', 19), ('ठीक', 7), ('अभी', 3), ('right', 3)]",True
+righten,[],True
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,"[('ही', 2), ('सच', 2), ('सच ही', 2)]",True
+rightness,[],False
+risk-free,[],False
+robust,[],False
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,[],False
+romantically,[],False
+romanticize,[],False
+roomier,[],False
+roomy,[],False
+rosy,"[('गुलाबी', 3)]",True
+safe,"[('सुरक्षित', 3)]",True
+safely,[],False
+sagacity,[],False
+sagely,[],False
+saint,"[('संत', 1)]",True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,[],False
+sane,[],False
+satisfactorily,[],False
+satisfactory,"[('सारी', 1), ('सहमति', 1), ('अच्छी', 1), ('सारी _ अच्छी _ सहमति _ संतोषजनक', 1), ('संतोषजनक', 1)]",True
+satisfied,"[('संतुष्ट', 3), ('चाहते', 1), ('चाहते _ संतुष्ट', 1), ('संतोष', 1)]",True
+satisfies,"[('धर्मपरायणता', 1)]",True
+satisfy,"[('तुष्टि', 2)]",True
+satisfying,[],False
+satisified,[],False
+saver,[],False
+savings,[],False
+savior,[],False
+savvy,"[('सेवी', 1)]",True
+scenic,[],False
+seamless,[],False
+seasoned,[],False
+secure,"[('अर्धसुरक्षित', 1), ('सुरक्षित', 1)]",True
+securely,[],False
+selective,"[('selective', 1)]",True
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,[],False
+sensational,[],False
+sensationally,[],False
+sensations,[],False
+sensible,"[('सुलझी', 1), ('विवेकपूर्ण', 1)]",True
+sensibly,[],False
+sensitive,"[('संवेदनशील', 4), ('सवेदनशील', 2)]",True
+serene,[],False
+serenity,[],False
+sexy,[],False
+sharp,"[('खूंखार', 1)]",True
+sharper,"[('असफल _ जायेगे', 1), ('जायेगे', 1), ('असफल', 1)]",True
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,[],False
+shiny,[],False
+significant,[],False
+silent,"[('कर', 1), ('मौन', 1)]",True
+simpler,[],False
+simplest,[],False
+simplified,[],False
+simplifies,[],False
+simplify,[],False
+simplifying,[],False
+sincere,"[('आपका', 3), ('सच्चे ह्रदय', 1), ('ह्रदय', 1), ('सच्चे', 1)]",True
+sincerely,[],False
+sincerity,[],False
+skill,[],True
+skilled,"[('कुशल', 3)]",True
+skillful,[],False
+skillfully,[],False
+slammin,[],False
+sleek,[],False
+slick,[],False
+smart,"[('गलत', 1)]",True
+smarter,"[('ज्यादा', 1)]",True
+smartest,[],False
+smartly,[],False
+smile,[],True
+smiles,[],False
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,[],False
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,[],False
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,"[('दबे', 1), ('कोमल', 1)]",True
+softer,[],False
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,"[('ठोस', 1), ('पुख्ता', 1)]",True
+solidarity,[],False
+soothe,[],False
+soothingly,[],False
+sophisticated,[],False
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,[],False
+spectacularly,[],False
+speedily,[],False
+speedy,[],False
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,[],False
+splendid,[],False
+splendidly,[],False
+splendor,[],False
+spontaneous,"[('अनायास', 1)]",True
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,[],False
+stabilize,[],False
+stable,"[('स्टेबल', 2)]",True
+stainless,[],False
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],False
+steadfastly,[],False
+steadfastness,[],False
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,[],False
+stellarly,[],False
+stimulate,[],False
+stimulates,[],False
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],False
+straightforward,[],False
+streamlined,[],False
+striking,[],False
+strikingly,[],False
+striving,[],False
+strong,"[('सशक्त', 2), ('घोर', 1), ('पुख्ता', 1)]",True
+stronger,[],False
+strongest,[],False
+stunned,"[('रह', 1)]",True
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,[],False
+stylishly,[],False
+stylized,[],False
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,[],False
+succeed,[],True
+succeeded,"[('सफल', 1), ('हुए', 1), ('कामयाब हुए', 1), ('कामयाब', 1)]",True
+succeeding,[],False
+succeeds,[],False
+succes,[],True
+success,"[('सफलता', 3)]",True
+successes,[],False
+successful,"[('सफल', 3)]",True
+successfully,[],False
+suffice,[],False
+sufficed,[],False
+suffices,[],False
+sufficient,"[('पर्याप्त', 2)]",True
+sufficiently,"[('पर्याप्त', 1)]",True
+suitable,"[('उपयुक्त', 4), ('ठीक _ रहा', 1), ('ठीक', 1), ('रहा', 1)]",True
+sumptuous,[],False
+sumptuously,[],False
+sumptuousness,[],False
+super,[],True
+superb,[],False
+superbly,[],False
+superior,"[('श्रेष्ठ', 2)]",True
+superiority,[],False
+supple,[],False
+support,"[('समर्थन', 7), ('साथ', 1)]",True
+supported,"[('समर्थन', 1)]",True
+supporter,[],True
+supporting,"[('सहायक', 2), ('साथ', 1)]",True
+supportive,[],False
+supports,[],True
+supremacy,"[('वर्चस्व', 1)]",True
+supreme,"[('पक्ष', 1), ('सर्वोच्च', 1)]",True
+supremely,"[('महामानव', 2)]",True
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,[],False
+surreal,[],False
+survival,[],False
+survivor,[],False
+sustainability,"[('सततता', 1)]",True
+sustainable,[],True
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,"[('झाड़ू _ रही', 1), ('रही', 1), ('झाड़ू', 1)]",True
+sweet,[],True
+sweeten,[],False
+sweetheart,[],False
+sweetly,[],False
+sweetness,[],False
+swift,[],False
+swiftness,[],False
+talent,"[('प्रतिभा', 1)]",True
+talented,[],False
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,[],False
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,"[('कोमलस्वप्न', 2)]",True
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('धन्यवाद', 7), ('आपके', 2), ('संपर्क', 1), ('?', 1), ('धन्यवाद _ ?', 1)]",True
+thankful,[],True
+thinner,[],False
+thoughtful,[],True
+thoughtfully,"[('सोच समझकर', 1), ('समझकर', 1), ('सोच', 1)]",True
+thoughtfulness,[],False
+thrift,[],False
+thrifty,[],False
+thrill,[],False
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,[],False
+thriving,[],False
+thumb-up,[],False
+thumbs-up,[],False
+tickle,[],False
+tidy,[],False
+time-honored,[],False
+timely,[],True
+tingle,[],False
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,[],False
+tolerable,[],False
+toll-free,[],False
+top,"[('ऊपर', 2), ('आला', 1), ('नामांकित', 1)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,[],False
+tough,[],False
+tougher,[],False
+toughest,[],False
+traction,[],True
+tranquil,[],False
+tranquility,[],False
+transparent,[],False
+treasure,[],False
+tremendously,[],False
+trendy,[],False
+triumph,[],False
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,[],False
+trouble-free,[],False
+trump,[],False
+trumpet,[],False
+trust,[],True
+trusted,[],False
+trusting,[],False
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,"[('सम्मानित', 1)]",True
+trusty,[],False
+truthful,"[('इमानदार', 1)]",True
+truthfully,[],False
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,[],False
+unassailable,[],False
+unbeatable,[],False
+unbiased,[],False
+unbound,[],False
+uncomplicated,[],False
+unconditional,[],False
+undamaged,[],False
+undaunted,[],False
+understandable,"[('उचित', 1)]",True
+undisputable,[],False
+undisputably,[],False
+undisputed,[],False
+unencumbered,[],False
+unequivocal,[],False
+unequivocally,[],False
+unfazed,[],False
+unfettered,[],False
+unforgettable,[],False
+unity,"[('एकता', 3)]",True
+unlimited,"[('बेहद', 1)]",True
+unmatched,[],False
+unparalleled,[],False
+unquestionable,[],False
+unquestionably,[],False
+unreal,[],False
+unrestricted,[],False
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,[],False
+upheld,[],False
+uphold,[],False
+uplift,[],True
+uplifting,[],False
+upliftingly,[],False
+upliftment,"[('उत्थान', 1)]",True
+upscale,[],False
+usable,"[('उपयोग', 1), ('उपयोग _ लायक', 1), ('लायक', 1)]",True
+useable,[],False
+useful,"[('काम', 3), ('उपयोगी', 2)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,[],False
+valiantly,[],False
+valor,[],False
+valuable,"[('अमूल्य', 1), ('बहुमूल्य', 1)]",True
+variety,[],True
+venerate,[],False
+verifiable,"[('सत्यापनीय', 1), ('verifiability _ सत्यापनीय', 1), ('verifiability', 1)]",True
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,"[('विजयी', 1), ('वाले', 1), ('विन _ वाले विजयी', 1), ('विन', 1)]",True
+victory,"[('विजय', 3)]",True
+viewable,[],False
+vigilance,[],False
+vigilant,[],False
+virtue,[],False
+virtuous,"[('सदाचारी', 4), ('सदाचारी _ कुशल', 2), ('कुशल', 2), ('पतिव्रता', 1)]",True
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],False
+vouchsafe,[],False
+warm,[],True
+warmer,[],False
+warmhearted,[],False
+warmly,"[('हार्दिक', 1)]",True
+warmth,[],False
+wealthy,"[('मोटी', 1)]",True
+welcome,"[('स्वागत', 14), ('वापसी', 2), ('आपका', 1), ('विकिपीडिया', 1), ('स्वागतम', 1)]",True
+well,"[('भी', 19), ('वैसे', 13), ('खैर', 8), ('साथ', 8), ('अच्छा', 6)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,[],False
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,[],False
+willingly,[],False
+willingness,[],False
+win,"[('जीतने', 2), ('जीता', 2)]",True
+windfall,[],False
+winnable,[],False
+winner,[],False
+winners,[],False
+winning,"[('जीतने', 1)]",True
+wins,"[('जीतती', 1)]",True
+wisdom,"[('समझ', 1), ('गंभीरता', 1), ('अक्ल', 1), ('इतनी', 1), ('गंभीरता _ इतनी _ अक्ल', 1)]",True
+wise,"[('थोड़ा', 1), ('ज्ञानीध्यानी', 1), ('समयवार', 1)]",True
+wisely,[],False
+witty,[],False
+won,"[('जीता', 1), ('जीतने', 1)]",True
+wonder,[],True
+wonderful,"[('शानदार', 1), ('विलक्षण', 1)]",True
+wonderfully,[],False
+wonderous,[],False
+wonderously,[],False
+wonders,"[('आश्चर्यों', 1)]",True
+wondrous,[],False
+woo,"[('रिझाना', 1)]",True
+work,"[('कार्य', 121), ('काम', 51), ('मेहनत', 5), ('कार्यों', 2), ('कृति', 2)]",True
+workable,[],False
+worked,"[('मिलकर _ काम', 1), ('मिलकर', 1), ('काम', 1), ('लगाये', 1)]",True
+works,"[('कृतियों', 3), ('काम', 3), ('कार्य', 2), ('कार्यो', 1), ('करता', 1)]",True
+world-famous,[],False
+worth,"[('तय', 1)]",True
+worth-while,[],False
+worthiness,[],False
+worthwhile,"[('सार्थक', 1)]",True
+worthy,"[('योग्य', 5), ('कर्म', 1), ('कर्म _ योग्य', 1)]",True
+wow,"[('वाह', 2)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],True
+youthful,[],False
+zeal,[],False
+zenith,[],False
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,[],False
+abolish,[],False
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],True
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,[],False
+abruptly,[],False
+abscond,[],True
+absence,"[('अभाव', 1)]",True
+absent-minded,[],False
+absentee,[],False
+absurd,[],False
+absurdity,[],False
+absurdly,[],False
+absurdness,[],False
+abuse,"[('दुरूपयोग', 1), ('गालियाँ', 1), ('कहने', 1), ('गाली', 1)]",True
+abused,"[('गालियाँ', 1), ('दी', 1), ('गालियाँ दी', 1)]",True
+abuses,"[('गालियाँ', 4), ('गालियों', 1), ('गालियों _ गालियों', 1), ('सुखसुविधाओं', 1), ('गालियाँ _ सम्पादनों', 1)]",True
+abusive,[],False
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,[],True
+accost,[],False
+accursed,[],False
+accusation,[],False
+accusations,[],False
+accuse,"[('कहा', 1), ('आरोप', 1), ('आरोप _ कहा', 1)]",True
+accuses,[],False
+accusing,[],False
+accusingly,[],False
+acerbate,[],False
+acerbic,[],False
+acerbically,[],False
+ache,[],True
+ached,[],True
+aches,[],False
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,[],True
+addicted,[],False
+addicting,[],False
+addicts,[],False
+admonish,[],False
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,[],False
+adulterate,[],False
+adulterated,[],False
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,"[('विपरीत', 1)]",True
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,"[('प्रबन्धक', 1), ('भय', 1), ('डर', 1)]",True
+aggravate,[],False
+aggravating,[],False
+aggravation,[],False
+aggression,[],False
+aggressive,[],False
+aggressiveness,[],False
+aggressor,[],False
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],False
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,"[('वायवीय', 1), ('निरुद्देश्य', 1), ('वायवीय _ निरुद्देश्य', 1)]",True
+alarm,[],False
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,[],False
+alienated,[],False
+alienation,[],False
+allegation,"[('आरोप', 8), ('लाभ', 2), ('आरोप _ लाभ', 2), ('एलेगेशन्ज़', 1)]",True
+allegations,"[('आरोप', 5), ('आरोपों', 1)]",True
+allege,[],True
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,[],False
+ambiguous,[],False
+ambivalence,[],False
+ambivalent,[],False
+ambush,[],False
+amiss,[],False
+amputate,[],False
+anarchism,[],False
+anarchist,[],False
+anarchistic,[],False
+anarchy,[],False
+anemic,[],False
+anger,"[('क्रोध', 3), ('रोब', 1), ('गुस्से', 1), ('झेल', 1)]",True
+angrily,"[('क्रोध से', 1), ('से', 1), ('क्रोध', 1)]",True
+angriness,[],False
+angry,"[('नाराज़', 3), ('क्यों', 3), ('गुस्सा', 2), ('पूछा', 2), ('पूछा _ क्यों नाराज़', 2)]",True
+anguish,"[('वेदना', 6)]",True
+animosity,[],False
+annihilate,[],False
+annihilation,[],False
+annoy,[],True
+annoyance,[],False
+annoyances,[],False
+annoyed,[],False
+annoying,"[('करूँ', 1), ('ठीक', 1)]",True
+annoyingly,[],False
+annoys,[],False
+anomalous,[],False
+anomaly,[],False
+antagonism,[],False
+antagonist,[],False
+antagonistic,[],False
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,[],False
+antiquated,[],False
+antithetical,[],False
+anxieties,[],False
+anxiety,[],False
+anxious,"[('क्यों', 1)]",True
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],False
+apocalypse,[],False
+apocalyptic,[],False
+apologist,"[('माफी', 1)]",True
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],True
+apprehensively,[],False
+arbitrary,[],False
+arcane,[],False
+archaic,[],False
+arduous,[],False
+arduously,[],False
+argumentative,[],False
+arrogance,[],False
+arrogant,"[('हिंसक', 1), ('क्रूर हिंसक', 1), ('क्रूर', 1)]",True
+arrogantly,[],False
+ashamed,"[('शर्म', 2), ('शर्मशार', 1), ('बर्बरता', 1), ('शर्मिंदा', 1), ('बर्बरता _ शर्मिंदा', 1)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],True
+assassinate,[],True
+assault,[],False
+assult,[],False
+astray,"[('प्रतीत', 2), ('भटक', 1), ('है', 1), ('प्रतीत _ भटक _ है', 1)]",True
+asunder,[],False
+atrocious,[],False
+atrocities,"[('अत्याचारों', 1)]",True
+atrocity,[],False
+atrophy,[],False
+attack,"[('हमले', 2)]",True
+attacks,"[('हमले', 2), ('हमलों', 1)]",True
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,[],False
+audiciously,[],False
+austere,[],False
+authoritarian,[],False
+autocrat,[],False
+autocratic,[],False
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],False
+averse,[],False
+aversion,[],False
+aweful,[],False
+awful,[],False
+awfully,[],False
+awfulness,[],False
+awkward,[],False
+awkwardness,[],False
+ax,[],True
+babble,"[('प्रलाप', 1)]",True
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,"[('पिछड़े', 1)]",True
+backwardness,[],False
+backwood,[],False
+backwoods,[],False
+bad,"[('खराब', 1), ('बुरों', 1), ('सकता', 1), ('लग सकता', 1), ('लग', 1)]",True
+badly,"[('हो', 1)]",True
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],False
+banal,[],False
+banalize,[],False
+bane,"[('बनाए', 2)]",True
+banish,[],False
+banishment,[],False
+bankrupt,[],False
+barbarian,[],False
+barbaric,[],False
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,[],False
+baseless,"[('बेबुनियाद', 1), ('बेबुनियादी', 1), ('बारबार', 1), ('बारबार बेबुनियादी', 1)]",True
+bash,[],True
+bashed,[],False
+bashful,[],False
+bashing,[],False
+bastard,[],False
+bastards,[],False
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,"[('जानने _ विनती', 1), ('जानने', 1), ('विनती', 1)]",True
+beggar,[],False
+beggarly,[],False
+begging,[],False
+beguile,[],False
+belabor,[],False
+belated,[],False
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,[],False
+bellicose,[],False
+belligerence,[],False
+belligerent,[],False
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,"[('ओछि', 1)]",True
+berate,[],True
+bereave,[],False
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],False
+betray,[],False
+betrayal,[],False
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,[],False
+bewilder,[],True
+bewildered,"[('हूँ', 1), ('हूँ _ अचानक', 1), ('अचानक', 1)]",True
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,[],False
+bewitch,[],False
+bias,"[('पूर्वाग्रह', 2)]",True
+biased,"[('पक्षपाती', 2), ('उपयुक्त', 1), ('उपयुक्त पक्षपाती', 1), ('बायस्ड', 1), ('पक्षपाती _ ग़ैरक़ानूनी', 1)]",True
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,[],False
+bitch,[],False
+bitchy,[],False
+biting,[],False
+bitingly,[],False
+bitter,"[('कड़वाहट', 1)]",True
+bitterly,[],False
+bitterness,[],False
+bizarre,[],False
+blab,[],False
+blabber,[],False
+blackmail,[],False
+blah,[],False
+blame,"[('दोष', 3), ('बताते', 2), ('कहें', 1), ('ठहरा', 1)]",True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,[],False
+blasted,[],False
+blatant,"[('घनघोर', 1), ('बर्बरता', 1), ('साफ़', 1), ('साफ़ बर्बरता', 1)]",True
+blatantly,[],False
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],True
+bleeding,"[('लहुलूहान', 1)]",True
+bleeds,[],False
+blemish,[],True
+blind,"[('अंधविश्वास', 2), ('नेत्रहीन', 1)]",True
+blinding,[],False
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,[],False
+blockhead,[],False
+bloodshed,"[('रक्तपात', 2)]",True
+bloodthirsty,[],False
+bloody,[],False
+blotchy,[],False
+blow,"[('उड़ाने', 1)]",True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,[],False
+blur,[],False
+bluring,[],False
+blurred,[],False
+blurring,[],False
+blurry,[],False
+blurs,[],False
+blurt,[],False
+boastful,[],False
+boggle,[],False
+bogus,[],False
+boil,"[('उबाती', 1)]",True
+boiling,[],False
+boisterous,[],False
+bomb,"[('बम', 2)]",True
+bombard,[],False
+bombardment,[],False
+bombastic,[],False
+bondage,"[('बंधन', 1)]",True
+bonkers,[],False
+bore,[],True
+bored,[],False
+boredom,[],False
+bores,[],False
+boring,"[('सा', 1)]",True
+botch,[],False
+bother,"[('कष्ट करेंगे', 1), ('कष्ट', 1), ('करेंगे', 1)]",True
+bothered,[],False
+bothering,"[('कर', 1), ('परेशान', 1)]",True
+bothers,"[('परेशान', 1)]",True
+bothersome,[],False
+bowdlerize,[],False
+boycott,[],False
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,[],False
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,[],False
+brazen,[],False
+brazenly,[],False
+brazenness,[],False
+breach,[],False
+break,"[('टूट', 1), ('विराम', 1), ('ब्रेक', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,[],False
+breaking,"[('टूटने', 1)]",True
+breaks,[],False
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,"[('तोड़े', 1), ('मैंने', 1), ('मैंने _ किया', 1), ('किया', 1)]",True
+broken,"[('टूट', 1), ('टूट्ता', 1), ('तोडा', 1)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,[],False
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,[],False
+brute,[],False
+brutish,[],False
+bs,[],True
+buckle,[],False
+bug,[],True
+bugging,[],False
+buggy,[],False
+bugs,[],False
+bulkier,[],False
+bulkiness,[],False
+bulky,[],False
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,[],False
+bullshyt,[],False
+bully,[],False
+bullying,[],False
+bullyingly,[],False
+bum,[],False
+bump,[],False
+bumped,[],False
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,[],False
+bungle,[],False
+bungler,[],False
+bungling,[],False
+bunk,[],False
+burden,"[('कोशिश', 1)]",True
+burdensome,[],False
+burdensomely,[],False
+burn,[],True
+burned,[],False
+burning,"[('रहा', 1), ('जलती', 1), ('जलती हुई', 1), ('हुई', 1)]",True
+burns,[],False
+bust,[],False
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,[],False
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],True
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,[],False
+cancerous,[],False
+cannibal,[],False
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,[],False
+carelessness,[],False
+caricature,[],False
+carnage,[],False
+carp,[],False
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,[],False
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,"[('गुफा', 1)]",True
+censure,[],False
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,[],False
+chaos,[],False
+chaotic,"[('समस्याजनक', 2), ('अराजक', 1)]",True
+chasten,[],False
+chastise,[],False
+chastisement,[],False
+chatter,[],False
+chatterbox,[],False
+cheap,[],False
+cheapen,[],False
+cheaply,[],False
+cheat,[],True
+cheated,"[('ठगे', 3), ('ठगे _ लुटे', 2), ('लुटे', 2)]",True
+cheater,[],False
+cheating,[],False
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,[],False
+chide,[],False
+childish,"[('पूर्ववत', 1)]",True
+chill,[],False
+chilly,[],False
+chintzy,[],False
+choke,[],False
+choleric,[],False
+choppy,[],False
+chore,[],True
+chronic,[],False
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,[],False
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,[],False
+clogged,[],False
+clogs,[],False
+cloud,[],False
+clouding,[],False
+cloudy,[],False
+clueless,[],False
+clumsy,"[('फूहड़', 1)]",True
+clunky,[],False
+coarse,[],False
+cocky,[],False
+coerce,[],False
+coercion,"[('जबरजस्ती', 2)]",True
+coercive,[],False
+cold,[],True
+coldly,[],False
+collapse,[],False
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],False
+comical,[],False
+commiserate,[],False
+commonplace,[],False
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('शिकायत', 1)]",True
+complained,[],False
+complaining,"[('शिकायत', 1), ('शिकायत क्यों', 1), ('क्यों', 1)]",True
+complains,[],False
+complaint,"[('टीचर', 1), ('टीचर _ कम्पलेन्ट', 1), ('कम्पलेन्ट', 1)]",True
+complaints,[],False
+complex,"[('जटिल', 1)]",True
+complicated,"[('लगा', 2), ('जटिल', 2)]",True
+complication,[],False
+complicit,[],False
+compulsion,"[('बाध्यता', 1)]",True
+compulsive,[],False
+concede,[],False
+conceded,[],False
+conceit,[],False
+conceited,[],False
+concen,[],False
+concens,[],False
+concern,"[('चिंता', 3), ('चिंता _ विषय', 1), ('विषय', 1)]",True
+concerned,"[('प्रश्न', 1), ('सम्बंधित', 1), ('concerned', 1), ('सवाल', 1)]",True
+concerns,[],False
+concession,[],False
+concessions,[],False
+condemn,[],True
+condemnable,[],False
+condemnation,"[('हिंसक', 1), ('आनुभव _ हिंसक _ समर्थक _ समझ', 1), ('समर्थक', 1), ('आनुभव', 1), ('समझ', 1)]",True
+condemned,[],False
+condemns,[],False
+condescend,[],False
+condescending,[],False
+condescendingly,[],False
+condescension,[],False
+confess,[],False
+confession,[],False
+confessions,[],False
+confined,[],False
+conflict,[],False
+conflicted,[],False
+conflicting,[],False
+conflicts,[],False
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],False
+confrontation,[],False
+confrontational,[],False
+confuse,[],True
+confused,"[('भ्रमित', 2), ('हुई _ ने', 1), ('ने', 1), ('हुई', 1), ('हुये', 1)]",True
+confuses,[],False
+confusing,[],False
+confusion,"[('है', 1), ('दूर', 1)]",True
+confusions,[],False
+congested,[],False
+congestion,[],False
+cons,[],True
+conscons,[],False
+conservative,[],False
+conspicuous,[],False
+conspicuously,[],False
+conspiracies,[],False
+conspiracy,"[('साजिश', 1), ('सडयंत्र', 1)]",True
+conspirator,[],False
+conspiratorial,[],False
+conspire,[],False
+consternation,[],False
+contagious,[],False
+contaminate,[],True
+contaminated,"[('तकदूषित', 1)]",True
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,"[('आखिर', 2)]",True
+contemptible,[],False
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,[],False
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,[],False
+contradiction,[],False
+contradictory,[],False
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,"[('controversial', 2), ('विवादित', 2), ('विवादास्पद', 2)]",True
+controversy,"[('विवाद', 9)]",True
+convoluted,[],False
+corrode,[],False
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,[],True
+corrupted,"[('भ्रष्ट', 1)]",True
+corrupting,[],False
+corruption,"[('भ्रष्टाचार', 2)]",True
+corrupts,[],False
+corruptted,[],False
+costlier,[],False
+costly,[],False
+counter-productive,[],False
+counterproductive,[],False
+coupists,[],False
+covetous,[],False
+coward,[],False
+cowardly,[],False
+crabby,[],False
+crack,[],False
+cracked,[],False
+cracks,[],False
+craftily,[],False
+craftly,[],False
+crafty,[],False
+cramp,[],False
+cramped,[],False
+cramping,[],False
+cranky,[],False
+crap,[],False
+crappy,[],False
+craps,[],False
+crash,[],False
+crashed,[],False
+crashes,[],False
+crashing,[],False
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,"[('पागल', 1)]",True
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,[],False
+creeping,[],False
+creeps,[],False
+creepy,[],False
+crept,[],False
+crime,"[('अपराध', 4), ('गुनाह', 1)]",True
+criminal,"[('अपराधी', 2), ('अपराधिक', 1)]",True
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,[],False
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,[],True
+critic,"[('आलोचक', 1)]",True
+critical,"[('विवेचनात्मक', 1)]",True
+criticism,"[('आलोचना', 2)]",True
+criticisms,[],False
+criticize,"[('करते', 2)]",True
+criticized,[],False
+criticizing,[],False
+critics,[],False
+cronyism,[],False
+crook,[],False
+crooked,[],False
+crooks,[],False
+crowded,[],False
+crowdedness,[],False
+crude,[],False
+cruel,"[('लाख', 1)]",True
+crueler,[],False
+cruelest,[],False
+cruelly,[],False
+cruelness,[],False
+cruelties,[],False
+cruelty,[],False
+crumble,[],False
+crumbling,[],False
+crummy,[],False
+crumple,[],False
+crumpled,[],False
+crumples,[],False
+crush,[],False
+crushed,[],False
+crushing,[],False
+cry,"[('रोता', 1), ('रोयेंगे', 1)]",True
+culpable,[],False
+culprit,"[('कौन', 1), ('मुज़रिम', 1), ('मुज़रिम कौन', 1)]",True
+cumbersome,[],False
+cunt,[],True
+cunts,"[('वास्तव', 1), ('भद्र _ योनी _ वास्तव', 1), ('भद्र', 1), ('योनी', 1)]",True
+cuplrit,[],False
+curse,[],False
+cursed,[],False
+curses,[],False
+curt,[],False
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,[],False
+cynicism,[],False
+d*mn,[],False
+damage,[],False
+damaged,[],False
+damages,[],False
+damaging,[],False
+damn,[],False
+damnable,[],False
+damnably,[],False
+damnation,[],False
+damned,[],False
+damning,[],False
+damper,[],False
+danger,[],True
+dangerous,[],False
+dangerousness,[],False
+dark,[],True
+darken,[],True
+darkened,[],False
+darker,[],False
+darkness,"[('जिंदगी', 1)]",True
+dastard,[],False
+dastardly,[],False
+daunt,[],False
+daunting,[],False
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('मरने', 1), ('मरता', 1), ('मरवाता', 1), ('मरवाता _ मरता', 1), ('मुर्द', 1)]",True
+deadbeat,[],False
+deadlock,[],False
+deadly,[],False
+deadweight,[],False
+deaf,[],False
+dearth,"[('कमी', 1), ('आभाव', 1)]",True
+death,"[('मृत्यु', 2), ('मौत', 1), ('पुण्यतिथि', 1)]",True
+debacle,[],False
+debase,[],False
+debasement,[],False
+debaser,[],False
+debatable,[],False
+debauch,[],False
+debaucher,[],False
+debauchery,[],False
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,"[('ऋण', 1)]",True
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,[],False
+decayed,[],False
+deceit,"[('मुद्राएं _ गुस्सा', 1), ('मुद्राएं', 1), ('गुस्सा', 1)]",True
+deceitful,[],False
+deceitfully,[],False
+deceitfulness,[],False
+deceive,[],False
+deceiver,[],False
+deceivers,[],False
+deceiving,[],False
+deception,"[('धोखा', 2)]",True
+deceptive,[],False
+deceptively,[],False
+declaim,[],False
+decline,[],False
+declines,[],False
+declining,[],False
+decrement,[],False
+decrepit,[],False
+decrepitude,[],False
+decry,[],False
+defamation,[],False
+defamations,[],False
+defamatory,"[('मानहानिकारक', 2)]",True
+defame,[],False
+defect,"[('दोष', 1)]",True
+defective,[],False
+defects,[],False
+defensive,[],False
+defiance,[],False
+defiant,[],False
+defiantly,[],False
+deficiencies,[],False
+deficiency,"[('कमी', 1)]",True
+deficient,[],False
+defile,[],False
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,[],False
+defy,[],False
+degenerate,[],False
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,[],False
+degrading,[],False
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,[],False
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,"[('देर', 1), ('विलम्ब', 1), ('बिलम्ब', 1)]",True
+delayed,[],False
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,[],False
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,[],False
+delusion,[],False
+delusional,[],False
+delusions,[],False
+demean,[],True
+demeaning,[],False
+demise,[],False
+demolish,[],False
+demolisher,[],False
+demon,"[('पिशाच', 1)]",True
+demonic,[],False
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,[],False
+denied,[],True
+denies,[],False
+denigrate,[],False
+denounce,[],False
+dense,"[('घना', 2)]",True
+dent,[],True
+dented,[],False
+dents,[],True
+denunciate,[],False
+denunciation,[],False
+denunciations,[],False
+deny,"[('नकारने', 2)]",True
+denying,"[('नकार', 2), ('रहे', 1), ('नकार रहे', 1)]",True
+deplete,[],False
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],False
+depress,[],False
+depressed,[],False
+depressing,[],False
+depressingly,[],False
+depression,[],False
+depressions,[],False
+deprive,[],True
+deprived,"[('वंचित', 2)]",True
+deride,[],False
+derision,[],False
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,"[('अपमानजनक', 2)]",True
+desecrate,[],False
+desert,[],False
+desertion,[],False
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],False
+despairing,[],False
+despairingly,[],False
+desperate,"[('बेताब', 1)]",True
+desperately,[],False
+desperation,[],False
+despicable,[],False
+despicably,[],False
+despise,[],False
+despised,[],False
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],False
+despotic,[],False
+despotism,[],False
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,[],True
+destroyer,[],False
+destruction,"[('सदुपयोग', 1)]",True
+destructive,[],False
+desultory,[],False
+deter,[],True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,[],False
+deterrent,[],False
+detest,[],False
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,[],False
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,[],False
+detrimental,[],False
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,[],False
+devastatingly,[],False
+devastation,[],False
+deviate,[],False
+deviation,[],False
+devil,"[('शैतान', 1)]",True
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,[],False
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],False
+dictator,"[('तानाशाह', 1)]",True
+dictatorial,[],False
+die,"[('मर', 2), ('मृत्यु', 1)]",True
+die-hard,[],False
+died,"[('मरे', 1), ('मर', 1), ('गयी', 1)]",True
+dies,[],True
+difficult,"[('मुश्किल', 4), ('कठिन', 4), ('टायप', 1), ('मुफसिल', 1), ('अनुभव', 1)]",True
+difficulties,"[('मुश्किलें', 1)]",True
+difficulty,"[('मुश्कित', 1)]",True
+diffidence,[],False
+dilapidated,[],False
+dilemma,"[('दुविधा', 2), ('छोटीसी दुविधा', 1), ('छोटीसी', 1)]",True
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,[],True
+ding,[],True
+dings,[],False
+dinky,[],False
+dire,[],True
+direly,[],False
+direness,[],False
+dirt,[],True
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,"[('गन्दा', 2), ('गंदा', 1), ('गन्दा _ पवित्र', 1), ('पवित्र', 1)]",True
+disable,"[('अक्षम', 1)]",True
+disabled,"[('दिव्यांग', 1)]",True
+disaccord,[],False
+disadvantage,[],False
+disadvantaged,[],False
+disadvantageous,[],False
+disadvantages,[],False
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,[],True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,[],False
+disagreeing,[],False
+disagreement,"[('मित्रता', 1)]",True
+disagrees,[],False
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,[],False
+disappointed,[],False
+disappointing,[],False
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,[],False
+disapprove,[],False
+disapproving,[],False
+disarm,[],False
+disarray,[],False
+disaster,"[('आपदा', 1), ('आपदाप्रवण', 1)]",True
+disasterous,[],False
+disastrous,[],False
+disastrously,[],False
+disavow,[],False
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],False
+disbeliever,[],False
+disclaim,[],False
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,[],False
+discompose,[],False
+disconcert,[],False
+disconcerted,[],False
+disconcerting,[],False
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,[],False
+discontented,[],False
+discontentedly,[],False
+discontinued,"[('बंद', 1)]",True
+discontinuity,[],False
+discontinuous,[],False
+discord,[],False
+discordance,[],False
+discordant,[],False
+discountenance,[],False
+discourage,[],False
+discouragement,[],False
+discouraging,[],False
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,[],False
+discrepant,[],False
+discriminate,[],True
+discrimination,"[('भेदभाव', 1)]",True
+discriminatory,[],False
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,[],False
+disgraced,[],False
+disgraceful,[],False
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,[],False
+disgusted,[],False
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,[],False
+disgustingly,[],False
+dishearten,[],False
+disheartening,[],False
+dishearteningly,[],False
+dishonest,[],False
+dishonestly,[],False
+dishonesty,[],False
+dishonor,[],False
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,[],False
+disliked,[],False
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,[],False
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],False
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,[],False
+disoobedient,[],False
+disorder,"[('विकार', 2)]",True
+disordered,[],False
+disorderly,[],False
+disorganized,[],False
+disorient,[],False
+disoriented,[],False
+disown,[],False
+disparage,[],False
+disparaging,[],False
+disparagingly,[],False
+dispensable,[],False
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],False
+displaced,[],False
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,[],False
+disproportionate,[],False
+disprove,[],False
+disputable,[],False
+dispute,"[('विवाद', 5)]",True
+disputed,"[('विवादित', 1), ('विवाद', 1)]",True
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,[],True
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,[],True
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,[],False
+disrespectfully,[],False
+disrespectfulness,[],False
+disrespecting,"[('अनादर करने', 1), ('अनादर', 1), ('करने', 1)]",True
+disrupt,[],True
+disruption,[],False
+disruptive,"[('विघटनकारी', 4)]",True
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,[],False
+dissatisfactory,[],False
+dissatisfied,[],False
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,[],False
+dissembler,[],False
+dissension,[],False
+dissent,[],False
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,[],False
+dissidents,[],False
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,[],False
+dissonance,[],False
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,[],True
+distorted,[],False
+distortion,[],False
+distorts,[],False
+distract,[],False
+distracting,[],False
+distraction,[],False
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,"[('अविश्वास', 1)]",True
+distrustful,[],False
+distrusting,[],False
+disturb,"[('देख', 2), ('देख _ मोहित', 1), ('मोहित', 1)]",True
+disturbance,"[('कर्म', 1), ('विराट', 1), ('कर्म _ विराट _ भयभीत', 1), ('भयभीत', 1)]",True
+disturbed,"[('परेशान होकर', 1), ('होकर', 1), ('परेशान', 1)]",True
+disturbing,[],False
+disturbingly,[],False
+disunity,[],False
+disvalue,[],False
+divergent,[],False
+divisive,[],False
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,[],True
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,[],False
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,[],False
+doomed,[],False
+doomsday,[],False
+dope,[],False
+doubt,"[('शंका', 2), ('संशय', 1), ('नहीं', 1), ('नहीं कहीं', 1), ('कहीं', 1)]",True
+doubtful,[],False
+doubtfully,[],False
+doubts,"[('संदेह', 2), ('शंका', 1), ('बदलाव', 1)]",True
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],False
+downfall,[],False
+downfallen,[],False
+downgrade,[],False
+downhearted,[],False
+downheartedly,[],False
+downhill,[],False
+downside,[],False
+downsides,[],False
+downturn,[],False
+downturns,[],False
+drab,[],True
+draconian,[],False
+draconic,[],False
+drag,[],True
+dragged,[],False
+dragging,"[('खैंच', 2), ('खैंच कर', 1), ('कर', 1)]",True
+dragoon,[],False
+drags,[],False
+drain,[],True
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,[],False
+drastically,[],False
+drawback,[],False
+drawbacks,[],False
+dread,[],True
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,"[('लहुलूहान', 1), ('लहुलूहान _ टपक', 1), ('टपक', 1)]",True
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,[],False
+dropouts,[],False
+drought,[],False
+drowning,[],False
+drunk,[],False
+drunkard,[],False
+drunken,[],False
+dubious,[],False
+dubiously,[],False
+dubitable,[],False
+dud,[],True
+dull,[],False
+dullard,[],False
+dumb,[],False
+dumbfound,[],False
+dump,[],False
+dumped,[],False
+dumping,[],False
+dumps,[],False
+dunce,[],False
+dungeon,[],False
+dungeons,[],False
+dupe,[],False
+dust,"[('धूल', 2)]",True
+dusty,[],False
+dwindling,[],False
+dying,"[('हुई', 1)]",True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,[],False
+emaciated,[],False
+emasculate,[],False
+embarrass,[],True
+embarrassing,[],False
+embarrassingly,[],False
+embarrassment,"[('हानि', 3), ('जरूरी', 3), ('जरूरी _ हानि', 3), ('शर्म _ होकर', 1), ('शर्म', 1)]",True
+embattled,[],False
+embroil,[],False
+embroiled,[],False
+embroilment,[],False
+emergency,[],True
+emphatic,[],False
+emphatically,[],False
+emptiness,[],False
+encroach,[],False
+encroachment,[],False
+endanger,[],False
+enemies,[],False
+enemy,"[('दुश्मन', 7), ('शत्रु', 1)]",True
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,[],False
+enrage,[],False
+enraged,[],False
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,[],False
+equivocal,[],False
+erase,"[('मिटा', 1)]",True
+erode,[],False
+erodes,[],False
+erosion,[],False
+err,[],True
+errant,[],False
+erratic,[],False
+erratically,[],False
+erroneous,[],False
+erroneously,[],False
+error,"[('त्रुटि', 3), ('लुआ', 1), ('लुआ त्रुटि', 1), ('error', 1)]",True
+errors,"[('त्रुटियों', 4), ('त्रुटियाँ', 1), ('errors', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,[],False
+evasion,[],False
+evasive,[],False
+evil,"[('बुरी', 3), ('कार्य', 1), ('दुष्ट', 1), ('दुष्टसाधू', 1), ('भक्तिहीन', 1)]",True
+evildoer,[],False
+evils,[],False
+eviscerate,[],False
+exacerbate,[],False
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,[],False
+exaggeration,[],False
+exasperate,[],False
+exasperated,[],False
+exasperating,[],False
+exasperatingly,[],False
+exasperation,[],False
+excessive,"[('अत्यधिक', 3), ('अधिक', 1)]",True
+excessively,"[('अत्यधिक', 1)]",True
+exclusion,[],False
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('किजिए', 1), ('माफ़', 1), ('माफ़ किजिए', 1)]",True
+excuses,[],False
+execrate,[],False
+exhaust,[],False
+exhausted,[],False
+exhaustion,[],False
+exhausts,[],False
+exhorbitant,[],False
+exhort,[],False
+exile,[],False
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,[],False
+expensive,"[('पैसे', 1), ('पैरवी', 1), ('पैसे पैरवी', 1)]",True
+expire,[],False
+expired,[],False
+explode,[],False
+exploit,[],True
+exploitation,"[('शोषण', 1)]",True
+explosive,[],False
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,[],False
+extermination,[],False
+extinguish,[],False
+extort,[],True
+extortion,"[('बिक्री', 1), ('उगाही', 1), ('बिक्री _ उगाही', 1)]",True
+extraneous,[],False
+extravagance,[],False
+extravagant,"[('नुक्ते _ वाला', 1), ('वाला', 1), ('नुक्ते', 1), ('फालतू', 1), ('स्रात', 1)]",True
+extravagantly,[],False
+extremism,[],False
+extremist,"[('उग्रवादी', 1)]",True
+extremists,[],False
+eyesore,[],False
+f**k,[],False
+fabricate,[],False
+fabrication,[],False
+facetious,[],False
+facetiously,[],False
+fail,"[('असफल', 1)]",True
+failed,"[('असफल', 1), ('नहीं', 1)]",True
+failing,[],False
+fails,[],False
+failure,"[('failure', 1), ('थी', 1)]",True
+failures,"[('नाकामियां', 1)]",True
+faint,[],False
+fainthearted,[],False
+faithless,[],False
+fake,"[('नकली', 2), ('बुरी', 2), ('बुरी _ नकली', 2), ('छद्म _ पक्षपाती', 1), ('पक्षपाती', 1)]",True
+fall,"[('गिर', 2), ('कम पड़', 1), ('पड़', 1), ('कम', 1), ('आना', 1)]",True
+fallacies,[],False
+fallacious,[],False
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,[],False
+fallen,[],True
+falling,"[('गिरने', 1), ('गिर', 1)]",True
+fallout,[],False
+falls,[],True
+false,"[('ग़लत', 1), ('असत्य', 1), ('सिद्ध', 1), ('झूठी', 1)]",True
+falsehood,"[('मिथ्यावाद', 1), ('मिथ्यावाद _ विनाश', 1), ('विनाश', 1)]",True
+falsely,[],False
+falsify,[],False
+falter,[],False
+faltered,[],False
+famine,"[('अकाल _ काबू', 1), ('काबू', 1), ('अकाल', 1)]",True
+famished,[],False
+fanatic,[],True
+fanatical,[],False
+fanatically,[],False
+fanaticism,"[('उन्मादता', 2)]",True
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,[],False
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,[],False
+fascist,[],False
+fastidious,[],False
+fastidiously,[],False
+fastuous,[],False
+fat,[],True
+fat-cat,[],False
+fat-cats,[],False
+fatal,[],False
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,[],False
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('दोष', 2), ('गलती', 2)]",True
+faults,[],False
+faulty,[],False
+fawningly,[],False
+faze,[],False
+fear,"[('डर', 3), ('भय', 1), ('सोचविचार', 1)]",True
+fearful,[],False
+fearfully,[],False
+fears,[],False
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,"[('पड़ा', 1), ('गिरकर', 1), ('जलाई', 1), ('गया', 1)]",True
+felon,[],False
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,[],True
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],False
+fibber,[],False
+fickle,[],False
+fiction,[],False
+fictional,[],False
+fictitious,[],False
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,"[('जमकर', 1)]",True
+figurehead,[],False
+filth,"[('गंदगी', 1)]",True
+filthy,[],False
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,[],True
+flabbergast,[],False
+flabbergasted,[],False
+flagging,[],False
+flagrant,[],False
+flagrantly,[],False
+flair,[],False
+flairs,[],False
+flak,[],False
+flake,[],False
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],False
+flaw,[],False
+flawed,[],False
+flaws,[],False
+flee,[],False
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],False
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],True
+fool,"[('मूर्ख', 1)]",True
+fooled,[],False
+foolhardy,[],False
+foolish,"[('मूढ़', 1), ('अस्वीकार', 1)]",True
+foolishly,[],False
+foolishness,[],False
+forbid,"[('मना', 2), ('मना करते', 1), ('करते', 1)]",True
+forbidden,"[('मना', 1)]",True
+forbidding,[],False
+forceful,[],False
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,[],False
+forgetful,[],False
+forgetfully,[],False
+forgetfulness,[],False
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,"[('दुर्गंध', 2)]",True
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,[],False
+fragile,[],False
+fragmented,[],False
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,"[('fraud', 1)]",True
+fraudulent,[],False
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],False
+freaking,[],False
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,[],False
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,[],False
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,[],False
+frictions,[],False
+fried,[],False
+friggin,[],False
+frigging,[],False
+fright,[],True
+frighten,[],True
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,[],False
+frown,[],False
+froze,[],False
+frozen,[],False
+fruitless,[],False
+fruitlessly,[],False
+frustrate,[],True
+frustrated,"[('कुण्ठित', 2)]",True
+frustrates,[],False
+frustrating,[],False
+frustratingly,[],False
+frustration,[],False
+frustrations,[],False
+fuck,"[('करूँगा', 1), ('बकवास', 1), ('करूँगा _ बकवास', 1)]",True
+fucking,[],False
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],False
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,[],True
+furious,[],False
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,"[('क्यों', 6), ('हंगामा', 3), ('हंगामा क्यों', 3)]",True
+fussy,[],False
+fustigate,[],False
+fusty,[],False
+futile,[],False
+futilely,[],False
+futility,[],False
+fuzzy,[],False
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,[],False
+gape,[],False
+garbage,"[('कचरा', 1)]",True
+garish,[],False
+gasp,[],True
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,[],False
+get-rich,[],False
+ghastly,[],False
+ghetto,[],False
+ghosting,[],False
+gibber,[],False
+gibberish,[],False
+gibe,[],False
+giddy,[],False
+gimmick,"[('नौटंकी', 2)]",True
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,"[('चकाचौंध', 1)]",True
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,[],False
+glitches,[],False
+gloatingly,[],False
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],False
+gnawing,[],False
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],False
+goofy,[],False
+goon,[],True
+gossip,[],False
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],False
+grating,[],False
+gravely,[],False
+greasy,[],False
+greed,"[('लालच', 6), ('गिर', 2), ('लालच _ वंशवाद _ पैसा', 1), ('वंशवाद', 1), ('पैसा', 1)]",True
+greedy,"[('लालची', 1)]",True
+grief,[],False
+grievance,[],False
+grievances,[],False
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],True
+grimace,[],False
+grind,"[('पीसता', 1)]",True
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],False
+gross,[],False
+grossly,[],False
+grotesque,[],False
+grouch,[],False
+grouchy,[],False
+groundless,[],False
+grouse,[],False
+growl,[],False
+grudge,[],False
+grudges,[],False
+grudging,[],False
+grudgingly,[],False
+gruesome,[],False
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,[],False
+guile,[],False
+guilt,"[('अनुचित', 2), ('अपराध', 2), ('अनुचित _ अपराध बोध', 2), ('बोध', 2)]",True
+guiltily,[],False
+guilty,"[('दोषी', 2)]",True
+gullible,[],False
+gutless,[],False
+gutter,[],False
+hack,[],False
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],False
+halfheartedly,[],False
+hallucinate,[],False
+hallucination,[],False
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,"[('मटके', 1), ('मटके _ टांगते', 1), ('टांगते', 1)]",True
+hangs,[],False
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,"[('गलत', 1), ('तंग', 1)]",True
+harassed,"[('टोका', 1)]",True
+harasses,[],False
+harassment,[],False
+harboring,[],False
+harbors,[],False
+hard,"[('बहुत', 2), ('मेरी', 2), ('मेहनत', 1), ('मेरी मेहनत', 1), ('पक्का', 1)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,[],False
+hardened,[],False
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,[],False
+hardships,[],False
+harm,"[('हानि', 2), ('नुकसान', 1)]",True
+harmed,"[('नुकसान', 1)]",True
+harmful,[],False
+harms,[],False
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,"[('हर्ष', 3)]",True
+harshly,[],False
+hasseling,[],False
+hassle,[],False
+hassled,[],False
+hassles,[],False
+haste,[],False
+hastily,[],False
+hasty,"[('जल्दबाज़ी', 1)]",True
+hate,"[('नफरत क्यों', 1), ('नफरत', 1), ('क्यों', 1), ('बदले', 1), ('मुझे', 1)]",True
+hated,[],False
+hateful,[],False
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,[],False
+hating,[],False
+hatred,"[('विद्वेश', 1)]",True
+haughtily,[],False
+haughty,[],False
+haunt,[],True
+haunting,[],False
+havoc,[],False
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,[],False
+headaches,[],False
+heartbreaker,[],False
+heartbreaking,[],False
+heartbreakingly,[],False
+heartless,"[('हृदय विहीन', 6), ('हृदय', 6), ('विहीन', 6)]",True
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],False
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],False
+hedonistic,[],False
+heedless,[],False
+hefty,[],False
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,[],True
+hell,[],True
+hell-bent,[],False
+hellion,[],False
+hells,[],False
+helpless,"[('असहाय', 3), ('गरीब असहाय', 2), ('गरीब', 2), ('जनाब', 1), ('गरीब _ जनाब', 1)]",True
+helplessly,[],False
+helplessness,[],False
+heresy,[],False
+heretic,[],False
+heretical,[],False
+hesitant,"[('जिझक', 1)]",True
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,[],False
+hindrance,[],False
+hiss,[],False
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,"[('धोखा', 1)]",True
+hobble,[],False
+hogs,[],False
+hollow,[],False
+hoodium,[],False
+hoodwink,[],False
+hooligan,[],True
+hopeless,[],False
+hopelessly,[],False
+hopelessness,[],False
+horde,[],False
+horrendous,[],False
+horrendously,[],False
+horrible,[],False
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],True
+hostile,[],False
+hostilities,"[('संघर्ष', 1)]",True
+hostility,[],False
+hotbeds,[],False
+hothead,[],False
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,[],False
+humiliating,[],False
+humiliation,[],False
+humming,[],False
+hung,[],True
+hurt,"[('पहुचाने', 1), ('किसिको', 1), ('किसिको _ पहुचाने', 1), ('उनसे _ हुईं', 1), ('हुईं', 1)]",True
+hurted,[],False
+hurtful,[],False
+hurting,[],False
+hurts,[],False
+hustler,[],False
+hype,"[('प्रचार', 1)]",True
+hypocricy,[],False
+hypocrisy,[],False
+hypocrite,"[('पाखण्डी _ हिन्दुत्ववादी', 1), ('पाखण्डी', 1), ('हिन्दुत्ववादी', 1)]",True
+hypocrites,[],False
+hypocritical,[],False
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],False
+hysterical,[],False
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,"[('नासमझ', 1)]",True
+idiotic,[],False
+idiotically,[],False
+idiots,"[('अन्पडमूर्खों', 1)]",True
+idle,[],False
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,"[('कल्याण', 1), ('अल्पज्ञता', 1)]",True
+ignorant,"[('अन्भिज्ञ', 1), ('अज्ञानकोषीय', 1), ('अनभिज्ञ', 1), ('अज्ञानकोशिय', 1), ('अज्ञानी', 1)]",True
+ignore,"[('उपेक्षा', 1)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('अवैध', 1)]",True
+illegally,[],False
+illegitimate,[],False
+illicit,[],False
+illiterate,"[('अशिक्षित', 1)]",True
+illness,[],False
+illogic,[],False
+illogical,[],False
+illogically,[],False
+illusion,"[('ईश्वर', 1)]",True
+illusions,[],False
+illusory,[],False
+imaginary,[],False
+imbalance,[],False
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,[],False
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,"[('अनैतिक', 1)]",True
+immorality,[],False
+immorally,[],False
+immovable,"[('अचल', 1)]",True
+impair,[],False
+impaired,[],False
+impasse,[],False
+impatience,[],False
+impatient,[],False
+impatiently,[],False
+impeach,[],False
+impedance,[],False
+impede,[],False
+impediment,[],False
+impending,[],False
+impenitent,[],False
+imperfect,[],False
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,"[('साम्राज्यवादी', 1)]",True
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,[],False
+impertinent,[],False
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,[],False
+implausibly,[],False
+implicate,[],False
+implication,[],False
+implode,[],False
+impolite,[],False
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,"[('लाद', 1)]",True
+imposers,[],False
+imposing,"[('लगाकर', 1), ('लगाकर _ मिला', 1), ('मिला', 1)]",True
+imposition,[],False
+impossible,"[('असम्भव', 2), ('असंभव', 2)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],False
+impoverished,[],False
+impractical,[],False
+imprecate,[],False
+imprecise,[],False
+imprecisely,[],False
+imprecision,[],False
+imprison,[],True
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,[],False
+improperly,[],False
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,[],False
+impudent,[],False
+impudently,[],False
+impugn,[],False
+impulsive,[],False
+impulsively,[],False
+impunity,[],False
+impure,"[('अशुद्ध', 3), ('मिश्रित', 1), ('मिश्रित _ अशुद्ध', 1)]",True
+impurity,[],False
+inability,[],True
+inaccuracies,"[('अशुद्धि', 1)]",True
+inaccuracy,[],False
+inaccurate,[],False
+inaccurately,[],False
+inaction,[],False
+inactive,"[('निष्क्रिय', 1)]",True
+inadequacy,[],False
+inadequate,[],False
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('अनुपयुक्त', 6), ('गैरवाजिब', 2), ('अनुचित', 1), ('स्वायत्तता', 1), ('अनुचित _ स्वायत्तता', 1)]",True
+inappropriately,[],False
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,[],False
+inaudible,[],False
+incapable,[],False
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,[],False
+incessantly,[],False
+incite,[],False
+incitement,[],False
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,[],False
+incoherent,[],False
+incoherently,[],False
+incommensurate,[],False
+incomparable,[],False
+incomparably,[],False
+incompatability,[],False
+incompatibility,[],False
+incompatible,[],False
+incompetence,[],False
+incompetent,[],False
+incompetently,[],False
+incomplete,"[('अधूरी', 1), ('अधूरे', 1)]",True
+incompliant,[],False
+incomprehensible,[],False
+incomprehension,[],False
+inconceivable,[],False
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,[],False
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,[],False
+inconsistency,[],False
+inconsistent,[],False
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,"[('असुविधा', 1)]",True
+inconveniently,[],False
+incorrect,[],False
+incorrectly,[],False
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,"[('मारती', 1), ('अभद्रता _ आत्मा _ मारती', 1), ('आत्मा', 1), ('अभद्रता', 1)]",True
+indecent,[],False
+indecently,[],False
+indecision,[],False
+indecisive,[],False
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,[],False
+indifferent,[],False
+indigent,[],False
+indignant,[],False
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,[],False
+indiscreetly,[],False
+indiscretion,[],False
+indiscriminate,[],True
+indiscriminately,"[('निरंतर _ अंधाधुंध', 2), ('निरंतर', 2), ('अंधाधुंध', 2)]",True
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,"[('खुद', 1), ('सुनने', 1), ('सुनने _ खुद इसरार करके', 1), ('इसरार', 1), ('करके', 1)]",True
+ineffective,[],False
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,[],False
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,[],False
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,[],False
+inequality,[],False
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,[],False
+inevitably,[],False
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,[],False
+inexperienced,[],False
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,[],False
+inextricably,[],False
+infamous,[],False
+infamously,[],False
+infamy,[],False
+infected,[],False
+infection,"[('संक्रमण', 2)]",True
+infections,"[('हैं', 1), ('संक्रमण हैं', 1), ('संक्रमण', 1)]",True
+inferior,[],False
+inferiority,[],False
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],False
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,"[('आघात', 1)]",True
+infraction,[],False
+infringe,[],True
+infringement,"[('उल्लंघन', 6), ('कॉपीराइट _ उल्लंघन', 2), ('कॉपीराइट', 2), ('उल्लंघन _ प्रश्न', 1), ('प्रश्न', 1)]",True
+infringements,[],False
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],False
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],False
+injurious,[],False
+injury,[],True
+injustice,"[('अन्\u200dयाय', 2), ('अन्याय', 1)]",True
+injustices,[],False
+innuendo,[],False
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,[],False
+insanely,[],False
+insanity,[],False
+insatiable,[],False
+insecure,[],False
+insecurity,[],False
+insensible,[],False
+insensitive,[],False
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,[],False
+insignificant,[],False
+insignificantly,[],False
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],False
+insinuating,[],False
+insinuation,[],False
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,[],False
+instable,[],False
+instigate,[],True
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,[],False
+insufficiently,[],False
+insular,[],False
+insult,"[('अपमान', 4), ('बेइज्जत', 1)]",True
+insulted,"[('अपमानित', 2), ('पीछे _ अपमान', 1), ('अपमान', 1), ('पीछे', 1)]",True
+insulting,[],False
+insultingly,[],False
+insults,[],False
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,[],False
+intefere,[],False
+inteferes,[],False
+intense,[],False
+interfere,[],True
+interference,"[('हस्तक्षेप', 1)]",True
+interferes,[],False
+intermittent,[],False
+interrupt,[],False
+interruption,[],False
+interruptions,[],False
+intimidate,[],False
+intimidating,[],False
+intimidatingly,[],False
+intimidation,[],False
+intolerable,[],False
+intolerablely,[],False
+intolerance,[],False
+intoxicate,[],True
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],False
+intrusion,[],False
+intrusive,[],False
+inundate,[],False
+inundated,[],False
+invader,[],True
+invalid,"[('अमान्य', 1), ('अवैध', 1)]",True
+invalidate,[],False
+invalidity,[],False
+invasive,[],False
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,[],False
+involuntarily,[],False
+involuntary,[],False
+irascible,[],False
+irate,[],True
+irately,[],False
+ire,[],True
+irk,[],True
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,[],False
+ironical,[],False
+ironically,[],False
+ironies,[],False
+irony,[],False
+irragularity,[],False
+irrational,[],False
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,[],False
+irregularity,[],False
+irrelevance,[],False
+irrelevant,"[('अप्रासंगिक', 1)]",True
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,[],False
+irresponsibly,[],False
+irretating,[],False
+irretrievable,[],False
+irreversible,[],False
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],False
+irritated,[],False
+irritating,[],False
+irritation,[],False
+irritations,[],False
+isolate,[],False
+isolated,[],False
+isolation,[],False
+issue,"[('मुद्दा', 3), ('मुद्दे', 2), ('मसला', 1), ('issue', 1)]",True
+issues,"[('मुद्दों', 1)]",True
+itch,[],True
+itching,[],False
+itchy,[],False
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,"[('ईर्ष्या', 1)]",True
+jealously,[],False
+jealousness,[],False
+jealousy,[],False
+jeer,[],True
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,[],False
+jeopardy,[],False
+jerk,[],False
+jerky,[],False
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,[],False
+joke,"[('चुटकुला', 1), ('व्यंग', 1)]",True
+joker,[],False
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,"[('कबाड़ा', 1)]",True
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,"[('हत्या', 3), ('तो', 2), ('मार', 2)]",True
+killed,"[('हत्या', 3), ('मार', 1)]",True
+killer,[],True
+killing,"[('मार', 1), ('हत्या', 1)]",True
+killjoy,[],False
+kills,"[('मरता', 1), ('मरवाता', 1), ('मरवाता _ मरता', 1)]",True
+knave,[],False
+knife,[],True
+knock,[],True
+knotted,[],False
+kook,[],False
+kooky,[],False
+lack,"[('कमी', 3), ('अभाव', 2), ('कम', 2), ('तुममें', 1), ('सक्रियता', 1)]",True
+lackadaisical,[],False
+lacked,[],False
+lackey,[],False
+lackeys,[],False
+lacking,"[('है', 1), ('कमी है', 1), ('कमी', 1)]",True
+lackluster,[],False
+lacks,[],False
+laconic,[],False
+lag,[],True
+lagged,[],True
+lagging,"[('रहे', 1), ('पीछे', 1), ('काफी पीछे _ रहे', 1), ('काफी', 1)]",True
+laggy,[],False
+lags,"[('रहती', 1)]",True
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,[],True
+lame-duck,[],False
+lament,[],False
+lamentable,[],False
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],True
+lapsed,[],True
+lapses,[],False
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,[],False
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],False
+lawlessness,[],False
+layoff,[],False
+layoff-happy,[],False
+lazy,[],True
+leak,[],False
+leakage,[],False
+leakages,[],False
+leaking,[],False
+leaks,[],False
+leaky,[],False
+lech,[],True
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,[],False
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,[],False
+lengthy,[],False
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,[],True
+liable,[],True
+liar,"[('साथ', 1), ('साथ झूठा', 1), ('झूठा', 1)]",True
+liars,"[('झूठे', 2)]",True
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('पड़े', 1)]",True
+lied,[],True
+lier,[],True
+lies,[],True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('सीमा', 4), ('सीमित', 1), ('हद', 1)]",True
+limitation,[],False
+limitations,[],False
+limited,"[('सीमित', 2), ('दूर', 1)]",True
+limits,[],False
+limp,"[('लंगड़ाने', 1)]",True
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,[],False
+loner,[],False
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,[],True
+longingly,[],False
+loophole,[],False
+loopholes,[],False
+loose,[],False
+loot,[],False
+lorn,[],False
+lose,"[('हो', 2), ('नाहीं', 2), ('जाएंगे', 1), ('हो जाएंगे', 1)]",True
+loser,[],True
+losers,[],False
+loses,[],True
+losing,"[('लेता', 1)]",True
+loss,"[('हानि', 4), ('नुकसान', 1)]",True
+losses,[],False
+lost,"[('हरण', 1), ('चुका', 1), ('हरण _ चुका', 1), ('जाता', 1), ('खो', 1)]",True
+loud,[],False
+louder,[],False
+lousy,[],False
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,[],True
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,[],False
+lunaticism,[],False
+lurch,[],False
+lure,[],True
+lurid,[],False
+lurk,[],False
+lurking,[],False
+lying,"[('बने', 1), ('खाली', 1), ('लेटी', 1)]",True
+macabre,[],False
+mad,"[('पागल', 1)]",True
+madden,[],False
+maddening,[],False
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,[],False
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,[],False
+malicious,[],True
+maliciously,"[('दुर्भावना', 1)]",True
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,[],False
+maniac,[],False
+maniacal,[],False
+manic,[],False
+manipulate,[],False
+manipulation,[],False
+manipulative,[],False
+manipulators,[],False
+mar,[],True
+marginal,[],False
+marginally,[],False
+martyrdom,[],False
+martyrdom-seeking,[],False
+mashed,[],False
+massacre,[],True
+massacres,[],False
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,[],False
+meaningless,"[('अर्थहीन', 3)]",True
+meanness,[],False
+measly,[],False
+meddle,[],False
+meddlesome,[],False
+mediocre,[],False
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,"[('जंजीरों', 1), ('बेरहम', 1), ('बेरहम जंजीरों', 1)]",True
+mercilessly,[],False
+mess,"[('बतंगड़', 2)]",True
+messed,[],False
+messes,[],False
+messing,[],False
+messy,[],False
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],True
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,[],False
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,[],False
+misconceptions,[],False
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],False
+miserable,[],False
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,[],False
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],False
+misinform,[],False
+misinformed,[],False
+misinterpret,[],False
+misjudge,[],False
+misjudgment,[],False
+mislead,[],True
+misleading,"[('भ्रामक', 1)]",True
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],False
+mispronounced,[],False
+mispronounces,[],False
+misread,[],False
+misreading,[],False
+misrepresent,[],False
+misrepresentation,[],False
+miss,[],True
+missed,"[('छूट', 1), ('चूका', 1)]",True
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('गलती', 21), ('भूल', 5), ('चीज', 2), ('गलती _ चीज', 1), ('चूक', 1)]",True
+mistaken,[],False
+mistakenly,[],False
+mistakes,"[('गलतियों', 5), ('गलती', 1), ('भूल', 1), ('गलतियाँ', 1), ('सुधार', 1)]",True
+mistified,[],False
+mistress,[],False
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],False
+misunderstand,[],False
+misunderstanding,[],False
+misunderstandings,[],False
+misunderstood,[],False
+misuse,[],True
+moan,[],False
+mobster,[],False
+mock,[],False
+mocked,[],False
+mockeries,[],False
+mockery,[],False
+mocking,[],False
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,[],False
+monotony,[],False
+monster,[],False
+monstrosities,[],False
+monstrosity,[],False
+monstrous,"[('राक्षसी', 1)]",True
+monstrously,[],False
+moody,[],False
+moot,[],False
+mope,[],False
+morbid,[],False
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,[],False
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,"[('हत्या', 2)]",True
+murderer,[],False
+murderous,[],False
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,[],False
+mysteriously,[],False
+mystery,[],False
+mystify,[],False
+myth,[],True
+nag,[],True
+nagging,[],False
+naive,[],False
+naively,[],False
+narrower,[],False
+nastily,[],False
+nastiness,[],False
+nasty,[],True
+naughty,[],False
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,"[('कहने', 1)]",True
+needlessly,[],False
+needy,[],False
+nefarious,[],False
+nefariously,[],False
+negate,[],False
+negation,[],False
+negative,"[('नमारात्मक', 2)]",True
+negatives,[],False
+negativity,[],False
+neglect,[],True
+neglected,"[('गई', 2), ('उपेक्षा', 1), ('उपेक्षा _ गई', 1)]",True
+negligence,[],False
+negligent,[],False
+nemesis,[],False
+nepotism,[],False
+nervous,"[('तंत्रिका', 1), ('तन्त्रिका', 1), ('घबराते', 1)]",True
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,[],False
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,[],False
+noises,[],False
+noisier,[],False
+noisy,[],False
+non-confidence,[],False
+nonexistent,[],False
+nonresponsive,[],False
+nonsense,[],False
+nosey,[],False
+notoriety,[],False
+notorious,[],False
+notoriously,[],False
+noxious,[],False
+nuisance,[],False
+numb,[],True
+obese,[],False
+object,"[('वस्तु', 2), ('विरोध', 1)]",True
+objection,"[('आपत्ति', 8), ('असमर्थता', 1), ('असमर्थता _ आपत्ति', 1), ('बता _ आपत्ती', 1), ('बता', 1)]",True
+objectionable,"[('आपत्तिजनक', 7)]",True
+objections,"[('आपत्तियों', 1)]",True
+oblique,[],False
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,[],False
+obnoxiously,[],False
+obscene,[],False
+obscenely,[],False
+obscenity,[],False
+obscure,[],False
+obscured,[],False
+obscures,[],False
+obscurity,[],False
+obsess,[],False
+obsessive,[],False
+obsessively,[],False
+obsessiveness,[],False
+obsolete,"[('obsolete', 1), ('अप्रचलित', 1)]",True
+obstacle,[],False
+obstinate,[],False
+obstinately,[],False
+obstruct,[],True
+obstructed,[],False
+obstructing,[],False
+obstruction,"[('अवरोध', 1)]",True
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,"[('कुछ अटपटा _ रहा', 1), ('कुछ', 1), ('अटपटा', 1), ('रहा', 1)]",True
+odder,[],True
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,[],False
+odor,[],False
+offence,"[('अपराध', 1)]",True
+offend,[],True
+offender,"[('रोगी', 1), ('अपराधी', 1)]",True
+offending,[],False
+offenses,[],False
+offensive,"[('आपत्तिजनक', 1)]",True
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,[],False
+ominously,[],False
+omission,[],False
+omit,[],True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,[],False
+opponent,[],False
+opportunistic,[],False
+oppose,"[('विरोध', 1)]",True
+opposition,"[('विरोध', 2)]",True
+oppositions,[],False
+oppress,[],True
+oppression,"[('जुल्म', 2)]",True
+oppressive,[],False
+oppressively,[],False
+oppressiveness,[],False
+oppressors,[],False
+ordeal,[],False
+orphan,[],False
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,[],False
+outcry,[],False
+outlaw,[],False
+outmoded,[],False
+outrage,[],False
+outraged,[],False
+outrageous,[],False
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,[],False
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,[],False
+overdone,[],False
+overdue,[],False
+overemphasize,[],False
+overheat,[],False
+overkill,[],False
+overloaded,[],False
+overlook,[],True
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],False
+oversight,[],False
+oversights,[],False
+oversimplification,[],False
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],False
+overstate,[],False
+overstated,[],False
+overstatement,[],False
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,[],False
+overthrows,[],False
+overturn,[],False
+overweight,[],False
+overwhelm,[],False
+overwhelmed,[],False
+overwhelming,[],False
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,[],False
+overzealously,[],False
+overzelous,[],False
+pain,"[('pain', 2), ('पीड़ा', 1)]",True
+painful,[],False
+painfull,[],False
+painfully,[],False
+pains,[],False
+pale,[],True
+pales,[],True
+paltry,[],False
+pan,"[('pan', 2)]",True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,"[('घबराने', 1)]",True
+panick,[],False
+panicked,[],False
+panicking,[],False
+panicky,[],False
+paradoxical,[],False
+paradoxically,[],False
+paralize,[],False
+paralyzed,"[('पंगु', 1), ('पंगु _ दिया', 1), ('दिया', 1)]",True
+paranoia,[],False
+paranoid,[],False
+parasite,[],False
+pariah,[],False
+parody,[],False
+partiality,[],True
+partisan,[],False
+partisans,[],False
+passe,[],True
+passive,[],False
+passiveness,[],False
+pathetic,[],False
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,[],False
+peculiarly,[],False
+pedantic,[],False
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],False
+penalty,"[('दंड', 1)]",True
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],True
+pernicious,[],False
+perplex,[],False
+perplexed,[],False
+perplexing,[],False
+perplexity,[],False
+persecute,[],False
+persecution,[],False
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,[],False
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,"[('छोटे से', 2), ('छोटे', 2), ('से', 2), ('ओछि हरकत', 1), ('हरकत', 1)]",True
+phobia,[],False
+phobic,[],False
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,[],False
+pig,[],False
+pigs,[],False
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,"[('चुटकी', 1)]",True
+pique,[],False
+pitiable,[],False
+pitiful,[],False
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,[],False
+plagiarize,[],False
+plague,[],False
+plasticky,[],False
+plaything,[],False
+plea,[],True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,[],False
+plotters,[],False
+ploy,[],True
+plunder,[],False
+plunderer,[],False
+pointless,[],False
+pointlessly,[],False
+poison,"[('आत्म', 1), ('जहर', 1)]",True
+poisonous,[],False
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,[],True
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('गरीबों', 3), ('गरीब', 2), ('मोस्ट', 1), ('घटिया', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,[],False
+posturing,[],False
+pout,[],False
+poverty,"[('गरीबी', 2)]",True
+powerless,[],False
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,[],False
+prejudices,[],False
+prejudicial,[],False
+premeditated,[],False
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,[],False
+presumptuously,[],False
+pretence,[],False
+pretend,[],True
+pretense,[],False
+pretentious,[],True
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],False
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,[],False
+prison,[],True
+prisoner,[],False
+problem,"[('समस्या', 49), ('परेशानी', 5), ('problem', 4), ('दिक़्क़त', 2), ('लग', 1)]",True
+problematic,"[('समस्याजनक', 3)]",True
+problems,"[('समस्याअों', 3), ('समस्या', 1), ('समस्याएं', 1), ('समस्याएँ', 1)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,[],False
+prohibit,[],True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,"[('साफ़प्रचार', 1), ('प्रचार', 1)]",True
+propagandize,[],False
+proprietary,[],False
+prosecute,[],False
+protest,"[('विरोध', 6)]",True
+protested,"[('विरोध', 2), ('ने', 2), ('ने विरोध', 1), ('ने विरोध किया', 1), ('किया', 1)]",True
+protesting,[],False
+protests,[],False
+protracted,[],False
+provocation,[],False
+provocative,[],False
+provoke,"[('उकसकाने', 1), ('प्रयास', 1), ('कर', 1), ('कर _ उकसकाने _ प्रयास', 1)]",True
+pry,[],False
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,[],False
+punish,"[('दण्डित', 1), ('करोगे', 1), ('मुझे दण्डित करोगे', 1), ('मुझे', 1)]",True
+punishable,[],False
+punitive,[],False
+punk,[],False
+puny,[],False
+puppet,"[('कठपुतली', 2)]",True
+puppets,[],False
+puzzled,[],False
+puzzlement,[],False
+puzzling,[],False
+quack,[],False
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,[],False
+quarrellous,[],False
+quarrellously,[],False
+quarrels,[],False
+quarrelsome,[],False
+quash,[],False
+queer,[],False
+questionable,[],False
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,[],False
+racism,[],False
+racist,[],False
+racists,[],False
+racy,[],True
+radical,[],False
+radicalization,[],False
+radically,[],False
+radicals,[],False
+rage,[],True
+ragged,[],False
+raging,[],True
+rail,"[('रेले', 1)]",True
+raked,[],False
+rampage,[],False
+rampant,[],False
+ramshackle,[],False
+rancor,[],False
+randomly,[],False
+rankle,[],False
+rant,[],True
+ranted,[],False
+ranting,[],False
+rantingly,[],False
+rants,[],True
+rape,"[('ब्लात्कार', 1), ('वारदातें', 1), ('बलात्कार', 1), ('बलात्कार _ वारदातें', 1), ('rape', 1)]",True
+raped,"[('पीड़ित', 1)]",True
+raping,[],False
+rascal,[],False
+rascals,[],False
+rash,[],True
+rattle,[],False
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],False
+reactionary,[],False
+rebellious,[],False
+rebuff,[],False
+rebuke,[],False
+recalcitrant,[],False
+recant,[],False
+recession,[],False
+recessionary,[],False
+reckless,[],False
+recklessly,[],False
+recklessness,[],False
+recoil,[],False
+recourses,[],False
+redundancy,[],False
+redundant,"[('फालतू', 1)]",True
+refusal,[],False
+refuse,"[('करते', 1)]",True
+refused,[],True
+refuses,"[('नकारते', 1)]",True
+refusing,[],False
+refutation,[],False
+refute,[],False
+refuted,[],False
+refutes,[],False
+refuting,[],False
+regress,[],False
+regression,[],False
+regressive,[],False
+regret,[],False
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,[],False
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,"[('अस्वीकार', 1)]",True
+rejected,"[('आपने', 1)]",True
+rejecting,[],False
+rejection,[],False
+rejects,"[('अस्वीकार _ दे', 1), ('अस्वीकार', 1), ('दे', 1)]",True
+relapse,[],False
+relentless,[],False
+relentlessly,[],False
+relentlessness,[],False
+reluctance,[],False
+reluctant,[],False
+reluctantly,[],False
+remorse,[],False
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,[],True
+renunciation,[],False
+repel,[],False
+repetitive,[],False
+reprehensible,[],False
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],False
+repression,[],False
+repressive,[],False
+reprimand,[],False
+reproach,[],False
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,[],False
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],False
+repulsed,[],False
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,[],True
+resentful,[],False
+resentment,[],False
+resignation,[],False
+resigned,"[('इस्तीफा', 1)]",True
+resistance,"[('प्रतिरोधी', 1)]",True
+restless,"[('बेचैन', 1)]",True
+restlessness,[],False
+restrict,[],True
+restricted,[],True
+restriction,[],True
+restrictive,[],False
+resurgent,[],False
+retaliate,[],False
+retaliatory,[],False
+retard,[],False
+retarded,[],False
+retardedness,[],False
+retards,[],False
+reticent,[],False
+retract,[],False
+retreat,[],True
+retreated,[],True
+revenge,"[('बदले', 1)]",True
+revengeful,[],False
+revengefully,[],False
+revert,[],True
+revile,[],False
+reviled,[],False
+revoke,[],False
+revolt,"[('विद्रोह', 1)]",True
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,[],False
+rhetorical,[],False
+ricer,[],False
+ridicule,[],False
+ridicules,[],False
+ridiculous,[],False
+ridiculously,[],False
+rife,[],False
+rift,[],False
+rifts,[],False
+rigid,[],False
+rigidity,[],False
+rigidness,[],False
+rile,[],False
+riled,[],False
+rip,[],True
+rip-off,[],False
+ripoff,[],False
+ripped,[],False
+risk,"[('जोखिम', 1)]",True
+risks,[],False
+risky,[],False
+rival,[],False
+rivalry,[],False
+roadblocks,[],False
+rocky,[],False
+rogue,[],False
+rollercoaster,[],False
+rot,[],True
+rotten,[],False
+rough,[],True
+rremediable,[],False
+rubbish,"[('बकवास', 1), ('डालना', 1), ('टैग _ बकवास डालना', 1), ('टैग', 1)]",True
+rude,"[('बदतमीज़', 1)]",True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,"[('कर _ बर्बाद करने', 4), ('कर', 4), ('करने', 4), ('बर्बाद', 4)]",True
+ruined,"[('गए', 1), ('तबाह', 1), ('तबाह _ गए', 1)]",True
+ruining,[],False
+ruinous,[],False
+ruins,[],False
+rumbling,[],False
+rumor,[],False
+rumors,[],False
+rumours,[],False
+rumple,[],False
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,"[('जंग', 2)]",True
+rusts,[],False
+rusty,[],False
+rut,[],True
+ruthless,"[('निर्मम', 3)]",True
+ruthlessly,[],False
+ruthlessness,[],False
+ruts,[],False
+sabotage,[],False
+sack,[],False
+sacrificed,"[('दी', 3), ('जा', 2), ('मुल्यों', 1), ('मुल्यों _ दी जा', 1), ('आहुति _ दी जा', 1)]",True
+sad,"[('होते', 1), ('दु:खी', 1), ('दु:खी होते', 1), ('दुःख', 1), ('दुखद', 1)]",True
+sadden,[],False
+sadly,[],False
+sadness,[],False
+sag,[],True
+sagged,[],False
+sagging,[],False
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,[],True
+sarcasm,"[('व्यंग्य', 1)]",True
+sarcastic,[],False
+sarcastically,[],False
+sardonic,[],False
+sardonically,[],False
+sass,[],True
+satirical,[],False
+satirize,[],False
+savage,[],False
+savaged,[],False
+savagery,[],False
+savages,[],False
+scaly,[],False
+scam,[],False
+scams,[],False
+scandal,[],False
+scandalize,[],False
+scandalized,[],False
+scandalous,[],False
+scandalously,[],False
+scandals,[],False
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,[],False
+scar,[],True
+scarce,[],False
+scarcely,[],False
+scarcity,[],False
+scare,[],True
+scared,"[('चीरने _ अच्छाई _ गए', 1), ('चीरने', 1), ('गए', 1), ('अच्छाई', 1), ('अकेले', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,[],False
+scars,[],False
+scary,"[('हूं', 1), ('चीरने', 1), ('सूरत', 1), ('चीरने _ हूं _ सूरत', 1)]",True
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,[],False
+scolded,[],False
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],False
+scornful,[],False
+scornfully,[],False
+scoundrel,[],False
+scourge,[],False
+scowl,[],False
+scramble,[],False
+scrambled,[],False
+scrambles,[],False
+scrambling,[],False
+scrap,[],False
+scratch,"[('शुरू', 2)]",True
+scratched,[],False
+scratches,[],False
+scratchy,[],False
+scream,[],True
+screech,[],False
+screw-up,[],False
+screwed,[],False
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,[],False
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,"[('स्वार्थी', 2)]",True
+selfishly,[],False
+selfishness,"[('स्वार्थ', 1), ('स्वार्थी', 1)]",True
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,[],False
+senselessly,[],False
+seriousness,[],False
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],True
+setbacks,"[('झटकों', 1)]",True
+sever,[],True
+severe,[],False
+severity,[],False
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,[],False
+shake,[],True
+shaky,[],False
+shallow,[],False
+sham,[],True
+shambles,[],False
+shame,"[('शर्म्गाह', 1), ('कपडा _ शर्म्गाह', 1), ('कपडा', 1), ('छति', 1)]",True
+shameful,[],False
+shamefully,[],False
+shamefulness,[],False
+shameless,"[('बेशर्म', 1)]",True
+shamelessly,[],False
+shamelessness,[],False
+shark,[],False
+sharply,[],False
+shatter,[],False
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,[],False
+shirker,[],False
+shit,[],True
+shiver,[],False
+shock,[],True
+shocked,[],False
+shocking,"[('वाले', 1), ('चौंकाने वाले', 1), ('चौंकाने', 1)]",True
+shockingly,[],False
+shoddy,[],False
+short-lived,[],False
+shortage,"[('अभाव', 2), ('कमी', 1)]",True
+shortchange,[],False
+shortcoming,[],True
+shortcomings,"[('लेखों _ कमियों', 1), ('लेखों', 1), ('कमियों', 1)]",True
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,[],False
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,[],True
+shunned,[],False
+sick,"[('बीमार', 1)]",True
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],False
+sidetracked,[],False
+siege,[],False
+sillily,[],False
+silly,[],False
+simplistic,[],False
+simplistically,[],False
+sin,"[('पाप', 2), ('sin', 1), ('महापाप', 1)]",True
+sinful,[],False
+sinfully,[],False
+sinister,[],False
+sinisterly,[],False
+sink,"[('डूब', 2), ('छुप', 1), ('छुप _ डूब _ जाते', 1), ('जाते', 1)]",True
+sinking,[],False
+skeletons,"[('कंकाल', 1)]",True
+skeptic,[],False
+skeptical,[],False
+skeptically,[],False
+skepticism,[],False
+sketchy,[],False
+skimpy,[],False
+skinny,[],False
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,[],True
+slanderer,[],False
+slanderous,[],False
+slanderously,[],False
+slanders,"[('निन्दा करने', 1), ('करने', 1), ('निन्दा', 1)]",True
+slap,[],True
+slashing,[],False
+slaughter,[],False
+slaughtered,[],False
+slave,[],True
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],True
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,[],False
+sloth,[],False
+slothful,[],False
+slow,[],True
+slow-moving,[],False
+slowed,[],False
+slower,[],False
+slowest,[],False
+slowly,"[('धीरे', 1), ('उठाकर', 1)]",True
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],False
+sluggish,[],False
+slump,[],False
+slumping,[],False
+slumpping,[],False
+slur,[],False
+slut,[],False
+sluts,[],False
+sly,[],True
+smack,[],False
+smallish,[],False
+smash,[],False
+smear,[],False
+smell,"[('ताजा', 1), ('दुर्गंध', 1)]",True
+smelled,[],False
+smelling,"[('महकते', 3)]",True
+smells,[],False
+smelly,[],False
+smelt,[],False
+smoke,"[('जल', 1), ('जल _ विकत', 1), ('विकत', 1)]",True
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,[],True
+smugly,[],False
+smut,[],True
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,[],False
+snarky,[],False
+snarl,[],False
+sneak,[],False
+sneakily,[],False
+sneaky,[],False
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,[],False
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,[],False
+so-cal,[],False
+soapy,[],False
+sob,[],False
+sober,[],False
+sobering,[],False
+solemn,[],False
+solicitude,[],False
+somber,[],False
+sore,[],False
+sorely,[],False
+soreness,[],False
+sorrow,"[('सुख', 3), ('दुःख', 1), ('सुख दुख', 1), ('दुख', 1)]",True
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('लगता है', 2), ('है', 2), ('लगता', 2), ('करना', 1), ('दुःख', 1)]",True
+sour,[],True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],False
+spewed,[],False
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,[],True
+spiteful,[],False
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,[],False
+splitting,[],False
+spoil,"[('बिगाडते', 2), ('बिगाड़', 1)]",True
+spoilage,[],False
+spoilages,[],False
+spoiled,"[('जोखराब', 1), ('बिगड़ा', 1)]",True
+spoilled,[],False
+spoils,"[('पैदा', 1), ('पैदा _ देता', 1), ('देता', 1)]",True
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,[],False
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],False
+squabbling,[],False
+squander,[],False
+squash,[],False
+squeak,[],False
+squeaks,[],False
+squeaky,[],False
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,[],False
+stab,[],True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,[],True
+stains,[],False
+stale,"[('बासी', 1)]",True
+stalemate,[],False
+stall,[],True
+stalls,[],False
+stammer,[],False
+stampede,[],False
+standstill,[],False
+stark,[],False
+starkly,[],False
+startle,[],False
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,[],False
+static,[],False
+steal,"[('सामग्री', 1), ('चुराना', 1), ('चुराना _ बर्ताव', 1), ('बर्ताव', 1)]",True
+stealing,"[('से _ चुराते', 1), ('से', 1), ('चुराते', 1)]",True
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],False
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,[],True
+sticky,[],False
+stiff,[],False
+stiffness,[],False
+stifle,[],False
+stifling,[],False
+stiflingly,[],False
+stigma,"[('धराधाम', 1), ('धराधाम _ दंश', 1), ('दंश', 1), ('कलंक', 1), ('सिर', 1)]",True
+stigmatize,[],False
+sting,[],True
+stinging,"[('भरी', 1), ('मरवाना _ मार _ भरी', 1), ('मार', 1), ('मरवाना', 1)]",True
+stingingly,[],False
+stingy,[],False
+stink,[],False
+stinks,[],False
+stodgy,[],False
+stole,[],True
+stolen,"[('चुराई', 1)]",True
+stooge,[],False
+stooges,[],False
+stormy,[],False
+straggle,[],False
+straggler,[],False
+strain,[],True
+strained,[],True
+straining,[],False
+strange,"[('अटपटा', 2), ('अजूबी', 1)]",True
+strangely,[],False
+stranger,[],False
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,[],True
+stresses,[],False
+stressful,[],False
+stressfully,[],False
+stricken,[],False
+strict,"[('कठोर', 1)]",True
+strictly,[],False
+strident,[],False
+stridently,[],False
+strife,[],False
+strike,"[('वार', 1)]",True
+stringent,[],False
+stringently,[],False
+struck,[],False
+struggle,"[('संघर्ष', 4)]",True
+struggled,[],False
+struggles,[],False
+struggling,[],False
+strut,[],False
+stubborn,"[('हठ', 1), ('हठ करने', 1), ('करने', 1)]",True
+stubbornly,"[('आपसी', 1)]",True
+stubbornness,[],False
+stuck,"[('अटके', 2)]",True
+stuffy,[],False
+stumble,[],False
+stumbled,[],False
+stumbles,[],False
+stump,[],False
+stumped,[],False
+stumps,[],False
+stun,[],True
+stunt,[],False
+stunted,[],False
+stupid,"[('बेवकूफी', 2)]",True
+stupidest,[],False
+stupidity,[],False
+stupidly,[],False
+stupified,[],False
+stupify,[],False
+stupor,[],False
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,[],False
+subjected,[],False
+subjection,[],False
+subjugate,[],False
+subjugation,[],False
+submissive,[],False
+subordinate,[],False
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,[],False
+subtract,[],False
+subversion,[],False
+subversive,[],False
+subversively,[],False
+subvert,[],False
+succumb,[],False
+suck,[],False
+sucked,[],False
+sucker,[],False
+sucks,[],False
+sucky,[],False
+sue,[],True
+sued,[],False
+sueing,[],False
+sues,[],True
+suffer,"[('उठा', 1)]",True
+suffered,[],False
+sufferer,[],False
+sufferers,[],False
+suffering,"[('पीड़ित', 1)]",True
+suffers,[],False
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,"[('आत्मघाती', 3)]",True
+suicide,[],True
+sulk,[],False
+sullen,[],False
+sully,[],False
+sunder,[],True
+sunk,[],False
+sunken,[],False
+superficial,[],False
+superficiality,[],False
+superficially,[],False
+superfluous,[],False
+superstition,[],False
+superstitious,[],False
+suppress,[],True
+suppression,[],False
+surrender,[],False
+susceptible,[],False
+suspect,"[('है', 1)]",True
+suspicion,[],False
+suspicions,[],False
+suspicious,"[('संदेहास्पद', 2), ('परिचित', 1), ('जानने', 1), ('परिचित _ रहस्य जानने', 1), ('रहस्य', 1)]",True
+suspiciously,[],False
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],True
+swelling,[],False
+swindle,[],False
+swipe,[],False
+swollen,[],False
+symptom,[],True
+symptoms,"[('लक्षण', 1), ('लक्षणों', 1)]",True
+syndrome,[],False
+taboo,[],False
+tacky,[],False
+taint,[],False
+tainted,[],False
+tamper,"[('बेवकूफ़ी _ छेड्छाड', 1), ('बेवकूफ़ी', 1), ('छेड्छाड', 1)]",True
+tangle,[],True
+tangled,[],False
+tangles,[],False
+tank,[],True
+tanked,[],False
+tanks,[],False
+tantrum,[],False
+tardy,[],False
+tarnish,[],True
+tarnished,"[('धूमिल _ बिरंगी', 1), ('बिरंगी', 1), ('धूमिल', 1)]",True
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],True
+taunting,"[('ताना', 1), ('ताना दे', 1), ('दे', 1)]",True
+tauntingly,[],False
+taunts,[],False
+taut,[],False
+tawdry,[],False
+taxing,[],False
+tease,[],False
+teasingly,[],False
+tedious,[],False
+tediously,[],False
+temerity,[],False
+temper,[],False
+tempest,[],False
+temptation,[],False
+tenderness,"[('कोमलता', 6)]",True
+tense,[],False
+tension,[],False
+tentative,[],False
+tentatively,[],False
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,[],False
+terribleness,[],False
+terribly,[],False
+terror,[],True
+terror-genic,[],False
+terrorism,[],False
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,[],False
+thirst,[],True
+thorny,[],False
+thoughtless,[],False
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,[],True
+threaten,"[('डरावो', 1)]",True
+threatening,"[('धमकी', 3)]",True
+threats,[],False
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,"[('ठग', 2), ('ठगों', 1), ('ठगों _ ठग', 1)]",True
+thumb-down,[],False
+thumbs-down,[],False
+thwart,[],False
+time-consuming,[],False
+timid,[],False
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('थक', 1), ('थक गए', 1), ('गए', 1)]",True
+tiresome,[],False
+tiring,[],False
+tiringly,[],False
+toil,[],False
+toll,[],False
+top-heavy,[],False
+topple,"[('गिराने', 2)]",True
+torment,[],True
+tormented,"[('छटपटा', 2)]",True
+torrent,[],False
+tortuous,[],False
+torture,[],False
+tortured,[],False
+tortures,[],False
+torturing,[],False
+torturous,[],False
+torturously,[],False
+totalitarian,[],False
+touchy,[],False
+toughness,[],False
+tout,[],False
+touted,[],False
+touts,[],False
+toxic,[],True
+traduce,[],False
+tragedy,[],False
+tragic,[],False
+tragically,[],False
+traitor,"[('गद्दार', 2)]",True
+traitorous,[],False
+traitorously,[],False
+tramp,[],False
+trample,[],False
+transgress,[],False
+transgression,[],False
+trap,"[('जाल', 2), ('बाप', 1)]",True
+traped,[],False
+trapped,"[('बचने', 1)]",True
+trash,[],False
+trashed,[],False
+trashy,[],False
+trauma,[],False
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,"[('देशद्रोह', 1), ('देशद्रोह _ चिंतित', 1), ('चिंतित', 1)]",True
+treasonous,[],False
+trick,"[('तरकीब', 1)]",True
+tricked,[],False
+trickery,[],False
+tricky,[],False
+trivial,[],False
+trivialize,[],False
+trouble,"[('समस्या', 2), ('लग', 1), ('परेशानी _ होता', 1), ('परेशानी', 1), ('होता', 1)]",True
+troubled,[],False
+troublemaker,[],False
+troubles,[],False
+troublesome,[],False
+troublesomely,[],False
+troubling,"[('सता', 1)]",True
+troublingly,[],False
+truant,[],False
+tumble,[],False
+tumbled,[],False
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,[],False
+twist,[],True
+twisted,[],False
+twists,[],False
+two-faced,[],False
+two-faces,[],False
+tyrannical,[],False
+tyrannically,[],False
+tyranny,[],False
+tyrant,[],False
+ugh,[],True
+uglier,[],False
+ugliest,[],False
+ugliness,[],False
+ugly,[],False
+ulterior,[],False
+ultimatum,[],False
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,"[('असमर्थ', 10), ('न', 1), ('असफल', 1)]",True
+unacceptable,[],False
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,[],False
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,[],False
+unauthentic,[],False
+unavailable,[],False
+unavoidably,[],False
+unbearable,[],False
+unbearablely,[],False
+unbelievable,[],False
+unbelievably,[],False
+uncaring,[],False
+uncertain,[],False
+uncivil,[],False
+uncivilized,[],False
+unclean,[],False
+unclear,"[('अस्पष्ट', 1)]",True
+uncollectible,[],False
+uncomfortable,[],False
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,[],False
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,"[('असंवैधानिक', 1)]",True
+uncontrolled,[],False
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,[],False
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,[],False
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,[],False
+underestimate,[],False
+underlings,[],False
+undermine,[],False
+undermined,[],False
+undermines,[],False
+undermining,[],False
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,[],False
+undetermined,[],False
+undid,[],False
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,"[('पूर्ववत', 3), ('है', 2), ('पूर्ववत _ है', 2), ('मिट', 1)]",True
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,[],False
+uneconomical,[],False
+unemployed,"[('बरोजगार', 2), ('बेरोजगार', 2), ('डॉक्टर', 2), ('डॉक्टरो', 2), ('बरोजगार डॉक्टरो', 2)]",True
+unequal,[],False
+unethical,[],False
+uneven,[],False
+uneventful,[],False
+unexpected,[],False
+unexpectedly,[],False
+unexplained,[],False
+unfairly,[],False
+unfaithful,[],False
+unfaithfully,[],False
+unfamiliar,[],False
+unfavorable,[],False
+unfeeling,[],False
+unfinished,"[('अधूरा छोड़', 1), ('अधूरा', 1), ('छोड़', 1)]",True
+unfit,[],False
+unforeseen,[],False
+unforgiving,[],False
+unfortunate,[],False
+unfortunately,[],False
+unfounded,[],False
+unfriendly,[],False
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,[],False
+unhealthy,[],False
+unhelpful,[],False
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,[],False
+uninformed,[],False
+uninsured,[],False
+unintelligible,[],False
+unintelligile,[],False
+unipolar,[],False
+unjust,[],False
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,[],False
+unjustly,[],False
+unkind,[],False
+unkindly,[],False
+unknown,"[('अज्ञात', 2), ('अनजान', 2)]",True
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,[],False
+unlicensed,[],False
+unlikely,[],False
+unlucky,[],False
+unmoved,[],False
+unnatural,[],False
+unnaturally,[],False
+unnecessary,"[('अनावश्यक', 4), ('जरूरी', 1)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,[],False
+unobserved,[],False
+unorthodox,[],False
+unorthodoxy,[],False
+unpleasant,[],False
+unpleasantries,[],False
+unpopular,[],False
+unpredictable,[],False
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],False
+unproved,[],False
+unproven,[],False
+unproves,[],False
+unproving,[],False
+unqualified,[],False
+unravel,[],False
+unraveled,[],False
+unreachable,[],False
+unreadable,"[('अपठनीय', 1)]",True
+unrealistic,[],False
+unreasonable,"[('औचित्यहीन _ सकारात्मक', 1), ('औचित्यहीन', 1), ('सकारात्मक', 1)]",True
+unreasonably,[],False
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,[],False
+unreliable,[],False
+unresolved,[],False
+unresponsive,[],False
+unrest,[],False
+unruly,[],False
+unsafe,[],False
+unsatisfactory,[],False
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,[],False
+unsettle,[],False
+unsettled,[],False
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,[],False
+unspeakablely,[],False
+unspecified,[],False
+unstable,[],False
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,[],False
+unsuccessfully,[],False
+unsupported,[],False
+unsupportive,[],False
+unsure,[],False
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,"[('असमय', 2)]",True
+untouched,[],False
+untrue,[],False
+untrustworthy,[],False
+untruthful,[],False
+unusable,[],False
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,[],False
+unusually,[],False
+unviewable,[],False
+unwanted,[],False
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,[],False
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,"[('सामर्थ', 2), ('सामर्थ _ योग्य', 2), ('योग्य', 2), ('अयोग्य', 1)]",True
+unyielding,[],False
+upbraid,[],False
+upheaval,[],False
+uprising,[],False
+uproar,"[('हंगामा', 1)]",True
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,"[('उखाड़', 1)]",True
+upset,"[('व्यथित', 1)]",True
+upseting,[],False
+upsets,[],False
+upsetting,[],False
+upsettingly,[],False
+urgent,[],False
+useless,"[('फालतू', 1), ('व्यर्थ', 1), ('बेकार', 1)]",True
+usurp,[],False
+usurper,[],False
+utterly,[],False
+vagrant,[],False
+vague,"[('अस्पष्ट', 1)]",True
+vagueness,[],False
+vain,[],True
+vainly,[],False
+vanity,"[('वैनिटी', 1)]",True
+vehement,[],False
+vehemently,[],False
+vengeance,[],False
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],False
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,[],False
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,[],False
+vice,"[('कुलपति', 1)]",True
+vicious,[],False
+viciously,[],False
+viciousness,[],False
+victimize,[],True
+vile,[],False
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],False
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,"[('उल्लंघन', 2)]",True
+violation,[],True
+violator,[],False
+violators,[],False
+violent,"[('लाख', 1)]",True
+violently,[],False
+viper,[],False
+virulence,[],False
+virulent,[],False
+virulently,[],False
+virus,"[('वायरस', 1), ('रोग', 1)]",True
+vociferous,[],False
+vociferously,[],False
+volatile,[],False
+volatility,[],False
+vomit,[],False
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,"[('भद्र', 1), ('उत्पाती', 1), ('अशिष्ट', 1)]",True
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],False
+wane,[],False
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,[],False
+warning,"[('चेतावनी', 3)]",True
+warp,[],False
+warped,[],False
+wary,[],False
+washed-out,[],False
+waste,"[('बर्बाद', 1), ('बर्बादी', 1)]",True
+wasted,"[('आपने', 2), ('आपने _ किया', 2), ('किया', 2)]",True
+wasteful,[],False
+wastefulness,[],False
+wasting,"[('बरबाद', 2), ('बर्वाद', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,"[('weak', 1), ('कमज़ोर', 1), ('कमजोर', 1)]",True
+weaken,[],False
+weakening,[],False
+weaker,[],False
+weakness,[],False
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,[],False
+weed,[],False
+weep,[],True
+weird,[],False
+weirdly,[],False
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,[],False
+whiny,[],False
+whips,[],False
+whore,[],False
+whores,[],False
+wicked,"[('ठग', 1), ('दबे', 1), ('दुष्ट', 1)]",True
+wickedly,[],False
+wickedness,[],False
+wild,"[('वाईल्ड', 1), ('लाइफ', 1), ('वाईल्ड लाइफ _ लाइफ', 1)]",True
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,[],False
+wobbled,[],False
+wobbles,[],False
+woe,[],False
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,[],True
+worried,"[('चिंता', 1)]",True
+worriedly,[],False
+worrier,[],False
+worries,[],False
+worrisome,[],False
+worry,"[('चिंता', 3), ('हों', 1), ('क्यों चिन्ता', 1), ('चिन्ता', 1), ('क्यों', 1)]",True
+worrying,"[('चिंताजनक', 2), ('रहा था', 1), ('था', 1), ('रहा', 1), ('बडी', 1)]",True
+worryingly,[],False
+worse,"[('वाला', 1)]",True
+worsen,[],False
+worsening,[],False
+worst,[],False
+worthless,[],True
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,[],False
+wreaked,[],False
+wreaks,[],False
+wreck,[],False
+wrest,[],True
+wrestle,[],True
+wretch,[],False
+wretched,[],False
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,"[('सिकोड़नी', 1)]",True
+wrinkled,[],False
+wrinkles,[],False
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('गलत', 28), ('गलती', 3), ('है', 3), ('बात', 2), ('गये', 2)]",True
+wrongful,[],False
+wrongly,"[('गलत', 9), ('कर', 8), ('गलत _ कर', 8), ('गलत _ से', 1), ('से', 1)]",True
+wrought,[],False
+yawn,[],False
+zap,[],False
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,[],False
+zealously,[],False

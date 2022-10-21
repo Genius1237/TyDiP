@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('혹시', 13), ('바랍니다', 12), ('부탁드립니다', 10), ('주세요', 9), ('제발', 8)]",True
+Strategy - Please_start,,
+please,"[('혹시', 13), ('바랍니다', 12), ('부탁드립니다', 10), ('주세요', 9), ('제발', 8)]",True
+Strategy - HASHEDGE,,
+think,"[('생각하시나요', 30), ('생각합니다', 26), ('생각하십니까', 23), ('생각하시는지요', 17), ('생각하시는', 13)]",True
+thought,"[('생각해서', 3), ('알았는데', 2), ('생각은', 2), ('생각했는데', 2), ('생각되어', 2)]",True
+thinking,"[('생각하고', 4), ('뭔가', 1), ('생각했던', 1), ('생각하던', 1), ('하는데', 1)]",True
+almost,"[('거의', 12)]",True
+apparent,"[('이렇다할', 1)]",True
+apparently,"[('아무래도', 1)]",True
+appear,"[('나오지', 3), ('보이기', 2), ('등장하는', 2), ('그게', 1), ('보이지', 1)]",True
+appeared,"[('등장했으면', 1), ('나타나셔서', 1), ('나타난다는', 1), ('등장한', 1), ('뜹니다', 1)]",True
+appears,"[('나오는데도', 1), ('보이는', 1), ('등장하므로', 1), ('나오는', 1), ('얼굴이', 1)]",True
+approximately,[],False
+around,"[('주변의', 1), ('트롤링하십니까', 1), ('제대로', 1), ('장난하자는', 1), ('붙는', 1)]",True
+assume,"[('보는', 2)]",True
+assumed,[],True
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('주장을', 6), ('주장', 4), ('주장은', 4), ('주장이', 3), ('주장에', 2)]",True
+claimed,"[('주장하는', 2), ('주장되는', 1), ('주장한', 1), ('동아일보가 주장했다고', 1), ('주장했다고', 1)]",True
+doubt,"[('의심할', 2)]",True
+doubtful,[],False
+essentially,"[('본질적으로', 3)]",True
+estimate,[],True
+estimated,[],False
+feel,"[('기분', 7), ('느낌을', 2), ('느낌', 2), ('기분나쁜거', 1), ('느끼신다면', 1)]",True
+felt,"[('느꼈던', 1), ('대한', 1), ('느끼셨는지', 1), ('느껴질수', 1), ('느꼈는데', 1)]",True
+frequently,"[('자주', 6), ('많은', 1), ('흔적없이 _ 자주', 1), ('흔적없이', 1), ('자주찾는문서로', 1)]",True
+from our perspective,[],False
+generally,"[('일반적으로', 6), ('일반적으로 _ 많이', 1), ('많이', 1)]",True
+guess,"[('추측하는', 1), ('할', 1), ('추측은', 1), ('추정일', 1), ('같네요', 1)]",True
+in general,[],True
+in most cases,[],False
+in most instances,[],False
+in our view,[],False
+indicate,"[('표시해줄', 2), ('밝혀주시겠습니까', 1), ('표기해주세요', 1), ('표기', 1), ('표시하는', 1)]",True
+indicated,"[('나와', 1), ('표시하였다고', 1), ('되어', 1), ('표기된', 1), ('적시한', 1)]",True
+largely,[],False
+likely,"[('가능성이', 2), ('기본적으로', 1), ('높습니다', 1)]",True
+mainly,"[('주로', 12), ('주무대인데', 1), ('위주로만', 1), ('부터 _ 위주로만', 1), ('부터', 1)]",True
+may,"[('혹시', 7), ('수', 6), ('5', 5), ('될까요', 4), ('월', 4)]",True
+maybe,"[('혹시', 15), ('아마', 3), ('아닐까요', 2), ('설마', 2), ('설마요', 1)]",True
+might,"[('수도', 2), ('추정이', 1)]",True
+mostly,"[('대체로', 2), ('대부분이나', 1), ('대부분', 1), ('주로', 1)]",True
+often,"[('자주', 8), ('흔히', 3), ('종종', 2), ('많이', 2), ('많고', 1)]",True
+on the whole,[],False
+ought,[],True
+perhaps,"[('혹시', 12), ('안녕하세요', 3), ('안녕하세요 _ 혹시', 3), ('아마', 1), ('최근', 1)]",True
+plausible,[],False
+plausibly,[],False
+possible,"[('가능한', 6), ('가능합니다', 4), ('가능한지요', 4), ('가능하시다면', 4), ('가능하다고', 4)]",True
+possibly,"[('수는', 1)]",True
+postulate,[],False
+postulated,[],False
+presumable,[],False
+probable,[],False
+probably,"[('때문이겠죠', 1), ('아마', 1), ('이', 1), ('아무래도', 1)]",True
+relatively,"[('비교적', 3), ('상대적으로', 1), ('보다', 1), ('상세하게', 1)]",True
+roughly,"[('해석이', 1), ('대충', 1), ('대략적으로', 1)]",True
+seems,"[('같습니다', 10), ('듯', 7), ('보이는데', 3), ('같네요', 3), ('보입니다', 2)]",True
+should,"[('할까요', 22), ('한다고', 10), ('어떻게', 8), ('하는', 5), ('합니다', 5)]",True
+sometimes,"[('가끔', 4), ('경우도', 3), ('때로는', 1), ('경우', 1), ('있는', 1)]",True
+somewhat,"[('다소', 2), ('인해 다소', 1), ('인해', 1)]",True
+suggest,"[('제시해달라고요', 1), ('제안할건데요', 1), ('건의하시는게', 1), ('제시하는', 1)]",True
+suggested,"[('제시한', 2), ('제안했던', 2), ('제안한', 1), ('제시하신', 1), ('제시했다고', 1)]",True
+suppose,[],True
+suspect,"[('의심하는', 1)]",True
+tend to,[],True
+tends to,[],False
+typical,"[('전형적인', 2), ('대표적인', 1)]",True
+typically,[],False
+uncertain,"[('불확실한', 3), ('불확실합니다', 1), ('확실하지', 1), ('불확실하며', 1)]",True
+uncertainly,[],False
+unclear,"[('불분명한', 1), ('불명확하다면', 1), ('모르겠으나', 1), ('않다고', 1), ('애매합니다', 1)]",True
+unclearly,[],False
+unlikely,"[('없겠네요', 1)]",True
+usually,"[('보통', 9), ('대개', 2), ('평소에는', 1), ('많이', 1), ('통상', 1)]",True
+broadly,[],False
+tended to,[],True
+presumably,[],False
+suggests,[],False
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],True
+in this view,[],False
+in our opinion,[],False
+in my opinion,[],True
+to my knowledge,[],False
+fairly,[],False
+quite,"[('상당히', 8), ('꽤', 7), ('잘', 4), ('꽤나', 2), ('잘안되네요', 1)]",True
+rather,"[('아니라', 8), ('보다는', 6), ('오히려', 6), ('것보다는', 3), ('아닌', 3)]",True
+argue,"[('다툼 _ 동의하신다는', 1), ('다툼', 1), ('동의하신다는', 1), ('시비걸어놓고', 1), ('벌이며', 1)]",True
+argues,[],True
+argued,"[('시비건것 제가', 1), ('제가', 1), ('시비건것', 1), ('주장하던', 1)]",True
+claims,"[('주장을', 7), ('주장이', 3), ('주장만', 2), ('주장과', 2), ('주장하고', 1)]",True
+feels,"[('기분이', 2)]",True
+indicates,"[('변수에', 1), ('표현은', 1)]",True
+supposed,"[('어쩌라는', 1), ('하겠습니까', 1), ('위키하게', 1)]",True
+supposes,[],False
+suspects,[],False
+postulates,[],False
+Strategy - Deference,,
+great,"[('대단한', 4), ('훌륭한', 3), ('엄청난', 3), ('좋습니다', 3), ('대원칙입니다', 1)]",True
+good,"[('좋은', 33), ('잘', 7), ('좋지만', 3), ('좋지', 3), ('좋다고', 3)]",True
+nice,"[('반갑습니다', 3), ('좋지', 2), ('이쁘게', 2), ('좋은', 2), ('좋게', 1)]",True
+good,"[('좋은', 33), ('잘', 7), ('좋지만', 3), ('좋지', 3), ('좋다고', 3)]",True
+interesting,"[('흥미로운', 1), ('조금', 1), ('잘', 1)]",True
+cool,"[('멋지죠', 1), ('쿨쿨님', 1), ('시원하신가요', 1), ('멋초님의', 1), ('멋있는', 1)]",True
+excellent,"[('뛰어난', 1), ('우수', 1)]",True
+awesome,"[('쩌네요', 1)]",True
+Strategy - 1st_person_pl.,,
+we,"[('우리가', 13), ('저희가', 6), ('우리는', 5), ('있습니다', 3), ('제가', 3)]",True
+our,"[('우리', 6), ('우리의', 3), ('우리식으로', 1), ('우리조상', 1), ('우리수산은', 1)]",True
+us,"[('우리', 14), ('미국', 12), ('미국은', 2), ('미국에는', 1), ('이야기해주셔야', 1)]",True
+ourselves,[],False
+Strategy - 1st_person,,
+i,"[('제가', 380), ('저는', 110), ('내가', 34), ('저도', 34), ('제', 28)]",True
+my,"[('제', 147), ('저의', 26), ('제가', 16), ('내', 9), ('나의', 4)]",True
+mine,"[('제', 2), ('비슷하네요', 1), ('제것이', 1), ('기뢰를', 1), ('기뢰에', 1)]",True
+myself,"[('자신은', 1), ('했는데요', 1), ('자체', 1), ('저와는', 1), ('해드려야', 1)]",True
+Strategy - 1st_person_start,,
+i,"[('제가', 380), ('저는', 110), ('내가', 34), ('저도', 34), ('제', 28)]",True
+my,"[('제', 147), ('저의', 26), ('제가', 16), ('내', 9), ('나의', 4)]",True
+mine,"[('제', 2), ('비슷하네요', 1), ('제것이', 1), ('기뢰를', 1), ('기뢰에', 1)]",True
+myself,"[('자신은', 1), ('했는데요', 1), ('자체', 1), ('저와는', 1), ('해드려야', 1)]",True
+Strategy - 2nd_person,,
+you,"[('제가', 76), ('님이', 47), ('혹시', 46), ('수', 33), ('왜', 28)]",True
+your,"[('님의', 43), ('자신의', 15), ('귀하의', 14), ('당신의', 9), ('님', 9)]",True
+yours,"[('님의', 3), ('것도', 1), ('님의 것도', 1), ('님의 소유물입니까', 1), ('소유물입니까', 1)]",True
+yourself,"[('스스로', 9), ('스스로를', 2), ('하셨나요', 2), ('건가요', 2), ('본인에게', 1)]",True
+Strategy - 2nd_person_start,,
+you,"[('제가', 76), ('님이', 47), ('혹시', 46), ('수', 33), ('왜', 28)]",True
+your,"[('님의', 43), ('자신의', 15), ('귀하의', 14), ('당신의', 9), ('님', 9)]",True
+yours,"[('님의', 3), ('것도', 1), ('님의 것도', 1), ('님의 소유물입니까', 1), ('소유물입니까', 1)]",True
+yourself,"[('스스로', 9), ('스스로를', 2), ('하셨나요', 2), ('건가요', 2), ('본인에게', 1)]",True
+Strategy - Indirect_(greeting),,
+hi,"[('hi', 1)]",True
+hello,"[('안녕하세요', 59), ('안녕하십니까', 5), ('어떨까요', 1), ('hello', 1), ('미니소님', 1)]",True
+hey,"[('어라', 2), ('저기', 2), ('저기요', 2), ('김녕 _ 못하시나요', 1), ('못하시나요', 1)]",True
+Strategy - Direct_question,,
+what,"[('어떻게', 140), ('무슨', 120), ('어떤', 87), ('무엇입니까', 27), ('뭐', 24)]",True
+why,"[('왜', 419), ('어떨까요', 32), ('어째서', 19), ('왜요', 16), ('무엇입니까', 10)]",True
+who,"[('누가', 61), ('분이', 7), ('어떤', 4), ('분들이', 4), ('사람은', 4)]",True
+how,"[('어떻게', 177), ('어떨까요', 68), ('어떠신가요', 12), ('어떤가요', 11), ('어떠신지요', 10)]",True
+Strategy - Direct_start,,
+so,"[('그럼', 80), ('그래서', 61), ('그렇다면', 37), ('그러니까', 22), ('그렇게', 15)]",True
+then,"[('그럼', 49), ('그러면', 32), ('그렇다면', 17), ('후', 6), ('그', 5)]",True
+and,"[('그리고', 491), (',', 288), ('및', 34), ('있고', 23), ('와', 22)]",True
+but,"[('그런데', 110), ('하지만', 48), ('아니라', 45), ('하셨는데', 22), ('했는데', 21)]",True
+or,"[('아니면', 71), ('또는', 37), (',', 26), ('혹은', 24), ('아님', 12)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,[],False
+abounds,[],False
+abundance,[],False
+abundant,[],False
+accessable,[],False
+accessible,[],True
+acclaim,[],False
+acclaimed,[],False
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,[],False
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,"[('정확한', 5), ('정확하게', 2), ('충실하고', 1)]",True
+accurately,"[('정확히', 1), ('정확하고도', 1)]",True
+achievable,[],False
+achievement,[],True
+achievements,"[('업적', 1), ('성과에', 1), ('업적을', 1), ('업적이나', 1), ('성과들인가요', 1)]",True
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,[],False
+adjustable,[],False
+admirable,[],False
+admirably,[],False
+admiration,[],False
+admire,[],True
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,[],False
+adore,[],False
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,"[('고급', 1), ('좋은', 1)]",True
+advantage,"[('악용하는', 1), ('강점하고', 1)]",True
+advantageous,"[('유리해요', 1)]",True
+advantageously,[],False
+advantages,"[('이점은', 1), ('이외의 _ 이점은', 1), ('이외의', 1)]",True
+adventuresome,[],False
+adventurous,[],False
+advocate,[],False
+advocated,[],False
+advocates,[],False
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,[],False
+affectionate,[],False
+affinity,[],False
+affirm,[],False
+affirmation,[],False
+affirmative,[],False
+affluence,[],False
+affluent,[],False
+afford,[],False
+affordable,[],False
+affordably,[],False
+afordable,[],False
+agile,[],False
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],False
+altruistically,[],False
+amaze,[],False
+amazed,[],False
+amazement,[],False
+amazes,[],False
+amazing,"[('놀랍습니다', 1), ('기가막히네요', 1), ('amazing', 1), ('막히다', 1)]",True
+amazingly,[],False
+ambitious,[],False
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,[],False
+amity,[],False
+ample,"[('충분히', 1)]",True
+amply,[],False
+amuse,[],False
+amusing,[],False
+amusingly,[],False
+angel,[],True
+angelic,[],False
+apotheosis,[],False
+appeal,"[('판결이라는', 1), ('호소', 1), ('호소로', 1), ('와닿지', 1)]",True
+appealing,"[('맞는', 1)]",True
+applaud,[],False
+appreciable,[],False
+appreciate,"[('감사하겠습니다', 4), ('몫을좋게 보아서', 1), ('몫을좋게', 1), ('보아서', 1), ('인정하겠습니다', 1)]",True
+appreciated,"[('알맞은', 1), ('감사하겠습니다 _ 알맞은', 1), ('감사하겠습니다', 1), ('감사하지만', 1)]",True
+appreciates,[],False
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('적절한', 7), ('적절하다고', 5), ('적절하지', 4), ('적당한', 2), ('적절할까요', 2)]",True
+approval,"[('총의이며', 1), ('승인이라고', 1), ('총의이며 승인이라고', 1), ('찬성률', 1)]",True
+approve,"[('approve', 1)]",True
+ardent,[],False
+ardently,[],False
+ardor,[],False
+articulate,[],False
+aspiration,[],False
+aspirations,[],False
+aspire,[],False
+assurance,[],False
+assurances,[],False
+assure,[],False
+assuredly,[],False
+assuring,[],False
+astonish,[],False
+astonished,[],False
+astonishing,[],False
+astonishingly,[],False
+astonishment,[],False
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,[],False
+attraction,[],False
+attractive,"[('매력이죠', 1)]",True
+attractively,[],False
+attune,[],False
+audible,[],False
+audibly,[],False
+auspicious,[],False
+authentic,[],True
+authoritative,"[('권위있는', 1), ('권위가', 1)]",True
+autonomous,"[('자치시', 1)]",True
+available,"[('가능하신가요', 1), ('가능하신지', 1), ('이용할', 1), ('있습니다', 1), ('가능한', 1)]",True
+aver,[],True
+avid,"[('하루종일', 1)]",True
+avidly,[],False
+award,"[('영평상', 1), ('수상경력', 1), ('수상경력이', 1)]",True
+awarded,[],False
+awards,"[('시상식', 1), ('수상경력이', 1), ('시상식은', 1)]",True
+awe,[],True
+awed,[],False
+awesome,"[('쩌네요', 1)]",True
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,[],False
+bargain,[],False
+beauteous,[],False
+beautiful,[],False
+beautifullly,[],False
+beautifully,[],False
+beautify,[],False
+beauty,"[('미학과', 1)]",True
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],False
+believeable,[],False
+beloved,[],False
+benefactor,[],False
+beneficent,[],False
+beneficial,"[('이롭습니다', 1), ('유리한', 1), ('이로울까요', 1), ('이득인데', 1)]",True
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('실익이', 1), ('이득을', 1), ('이익을', 1), ('이익도', 1)]",True
+benefits,"[('점이', 1), ('이득을 취한다고', 1), ('이득을', 1), ('취한다고', 1), ('실익은', 1)]",True
+benevolence,[],False
+benevolent,[],False
+benifits,[],False
+best,"[('가장', 3), ('최선인가', 1), ('노력하였습니다', 1), ('충실히', 1), ('좋을까요', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('좋은', 17), ('좋지', 17), ('더', 15), ('낫지', 10), ('좋을까요', 9)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,[],True
+blessing,"[('위서다', 1)]",True
+bliss,[],False
+blissful,[],False
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,[],False
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,"[('덤으로', 2)]",True
+bonuses,[],False
+boom,[],False
+booming,[],False
+boost,[],False
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,[],False
+bravery,[],False
+bravo,[],False
+breakthrough,[],False
+breakthroughs,[],False
+breathlessness,[],False
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,"[('밝은', 1), ('빛나네요', 1)]",True
+brighten,[],False
+brighter,[],False
+brightest,[],False
+brilliance,[],False
+brilliances,[],False
+brilliant,"[('그라데이션이', 1), ('그라데이션이 휘양찬란한', 1), ('휘양찬란한', 1)]",True
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,"[('진정하십시오', 1), ('화를 가라앉치시고', 1), ('화를', 1), ('가라앉치시고', 1)]",True
+calming,[],False
+calmness,[],False
+capability,[],False
+capable,"[('유능한', 1)]",True
+capably,[],False
+captivate,[],False
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,[],False
+celebrated,[],False
+celebration,[],True
+celebratory,[],False
+champ,[],True
+champion,"[('챔피언', 1)]",True
+charisma,[],False
+charismatic,[],False
+charitable,[],False
+charm,[],False
+charming,[],False
+charmingly,[],False
+chaste,[],False
+cheaper,"[('싸지를', 1), ('어찌할', 1), ('싸지를 _ 어찌할', 1)]",True
+cheapest,[],False
+cheer,[],False
+cheerful,[],False
+cheery,[],False
+cherish,[],False
+cherished,[],False
+cherub,[],False
+chic,[],True
+chivalrous,[],False
+chivalry,[],False
+civility,[],False
+civilize,[],False
+clarity,[],False
+classic,[],True
+classy,[],False
+clean,"[('정리해', 1), ('검토해주시고', 1), ('검토해주시고 _ 정리해', 1), ('확인해', 1), ('없는', 1)]",True
+cleaner,"[('깔끔하게', 1), ('더 깔끔하게', 1), ('더', 1), ('깔끔하고', 1)]",True
+cleanest,[],False
+cleanliness,[],False
+cleanly,"[('깔끔하게', 1)]",True
+clear,"[('명확한', 6), ('확실한', 3), ('명백한', 2), ('확신할', 1), ('보이는데', 1)]",True
+clear-cut,[],False
+cleared,[],False
+clearer,"[('더 명확한데요', 1), ('명확한데요', 1), ('더', 1)]",True
+clearly,"[('분명히', 11), ('분명', 4), ('명백히', 3), ('명확히', 3), ('뚜렷히', 2)]",True
+clears,[],False
+clever,[],True
+cleverly,"[('교묘하게', 1)]",True
+cohere,[],False
+coherence,[],False
+coherent,[],False
+cohesive,[],False
+colorful,[],False
+comely,[],False
+comfort,"[('위안부', 2), ('위안부를', 1)]",True
+comfortable,"[('기분이', 1), ('편하신지', 1), ('생각하지', 1), ('편할', 1), ('편하지', 1)]",True
+comfortably,"[('편하게 대하셔도', 1), ('편하게', 1), ('대하셔도', 1)]",True
+comforting,[],False
+comfy,[],False
+commend,"[('칭찬해', 1)]",True
+commendable,[],False
+commendably,[],False
+commitment,[],False
+commodious,[],False
+compact,[],False
+compactly,[],False
+compassion,[],False
+compassionate,[],False
+compatible,"[('호환되도록', 1), ('호환', 1), ('호환되는', 1), ('호환되지', 1), ('호환되지 않는', 1)]",True
+competitive,[],False
+complement,[],True
+complementary,[],False
+complemented,[],False
+complements,[],False
+compliant,[],False
+compliment,"[('칭찬이라고', 1)]",True
+complimentary,[],False
+comprehensive,"[('포괄적', 1), ('기술이', 1), ('포괄적이고', 1), ('포괄적이고 광범위한', 1), ('광범위한', 1)]",True
+conciliate,[],False
+conciliatory,[],False
+concise,[],True
+confidence,"[('자신감이나', 1)]",True
+confident,"[('있으신가요', 1), ('부탁한', 1), ('중립성을 지킬', 1), ('지킬', 1), ('중립성을', 1)]",True
+congenial,[],False
+congratulate,[],False
+congratulation,[],True
+congratulations,"[('안녕하셨는가요', 1), ('축하하며 _ 안녕하셨는가요', 1), ('축하하며', 1), ('받침이라', 1), ('받침이라 _ 두음법칙도', 1)]",True
+congratulatory,"[('축하서명이', 1)]",True
+conscientious,[],False
+considerate,"[('바꾸는게', 1), ('좋겠네요', 1), ('배려가 _ 좋겠네요', 1), ('배려가', 1)]",True
+consistent,"[('일치하네요', 3), ('일치하고', 2), ('부합하는', 1), ('일관된', 1), ('부합하는내용인가요', 1)]",True
+consistently,"[('있으며', 1)]",True
+constructive,"[('건설적인', 1)]",True
+consummate,[],False
+contentment,[],False
+continuity,[],False
+contrasty,[],False
+contribution,"[('기여를', 16), ('기여', 11), ('기여가', 7), ('기여는', 4), ('기여하신', 2)]",True
+convenience,"[('기본원칙인', 1), ('편의', 1), ('없을', 1), ('없을 _ 편의상', 1), ('편의상', 1)]",True
+convenient,"[('편리한', 2), ('편리하신', 1), ('참으로 편한', 1), ('편한', 1), ('참으로', 1)]",True
+conveniently,[],False
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,"[('만한', 1), ('제시했던', 1), ('제시했던 _ 납득할 만한', 1), ('납득할', 1), ('확실한', 1)]",True
+convincingly,[],False
+cool,"[('멋지죠', 1), ('쿨쿨님', 1), ('시원하신가요', 1), ('멋초님의', 1), ('멋있는', 1)]",True
+coolest,[],False
+cooperative,"[('민족협동정부로', 1), ('산림조합의', 1)]",True
+cooperatively,[],False
+cornerstone,[],False
+correct,"[('맞는', 8), ('맞나요', 8), ('맞지', 6), ('올바른', 5), ('맞습니까', 3)]",True
+correctly,"[('올바르게', 2), ('제대로', 1)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,"[('감투입니까', 1), ('용기도', 1), ('용기', 1)]",True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,[],False
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('크리에이티브', 1)]",True
+credence,[],False
+credible,"[('신빙성이', 3), ('있는', 1), ('만한', 1), ('믿을', 1), ('믿을 만한', 1)]",True
+crisp,[],False
+crisper,[],False
+cure,"[('큐어', 1)]",True
+cure-all,[],False
+cushy,[],False
+cute,[],True
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,[],True
+daringly,"[('과감히', 1)]",True
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,"[('새벽까지', 1)]",True
+dazzle,[],False
+dazzled,[],False
+dazzling,[],False
+dead-cheap,[],False
+dead-on,[],False
+decency,[],False
+decent,"[('망치고', 1)]",True
+decisive,"[('결정적', 1)]",True
+decisiveness,[],False
+dedicated,"[('전용', 1), ('전담', 1)]",True
+defeat,"[('패망', 1), ('죽는', 1)]",True
+defeated,"[('눌렀지만', 1), ('낙선하였다', 1)]",True
+defeating,[],False
+defeats,[],False
+defender,[],False
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,[],False
+delicious,"[('맛', 1)]",True
+delight,[],False
+delighted,[],False
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,[],False
+deserving,[],False
+desirable,"[('바람직한', 3), ('거침없이', 1), ('거침없이 _ 바람직한', 1), ('어떨까요', 1), ('바람직한 _ 어떨까요', 1)]",True
+desiring,[],False
+desirous,[],False
+destiny,[],False
+detachable,[],False
+devout,[],False
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,[],False
+dignify,[],False
+dignity,[],False
+diligence,[],False
+diligent,[],True
+diligently,"[('열심히', 1)]",True
+diplomatic,"[('재외공관은', 1), ('외교나', 1)]",True
+dirt-cheap,[],False
+distinction,"[('구분된다고', 1), ('구분이', 1), ('구분', 1)]",True
+distinctive,[],False
+distinguished,"[('구분이', 1), ('구분해서', 1)]",True
+diversified,[],False
+divine,[],False
+divinely,[],False
+dominate,[],True
+dominated,"[('중심', 1)]",True
+dominates,[],False
+dote,[],False
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,[],False
+dynamic,[],True
+eager,[],False
+eagerly,[],False
+eagerness,[],False
+earnest,"[('본격적으로', 2), ('생기겠지만', 1), ('필요해', 1), ('본격적으로 _ 생기겠지만 _ 필요해', 1)]",True
+earnestly,[],False
+earnestness,[],False
+ease,[],True
+eased,[],True
+eases,[],True
+easier,"[('쉽게', 2), ('더', 2), ('편하지', 1), ('편하게', 1), ('수월하다고', 1)]",True
+easiest,"[('가장', 2), ('가장 쉽게', 1), ('쉽게', 1), ('가장 쉬운', 1), ('쉬운', 1)]",True
+easiness,[],False
+easing,[],True
+easy,"[('쉬운', 3), ('쉽게', 2), ('쉽겠습니까', 1), ('잘 _ 편하게', 1), ('편하게', 1)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,[],False
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,"[('교육받는건가용', 1)]",True
+effective,"[('효과적인', 2), ('실효', 1)]",True
+effectively,[],False
+effectiveness,[],False
+effectual,[],False
+efficacious,[],False
+efficient,"[('효율성이', 1), ('효율적이고', 1)]",True
+efficiently,[],False
+effortless,[],False
+effortlessly,[],False
+effusion,[],False
+effusive,[],False
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,[],False
+elegantly,[],False
+elevate,[],False
+elite,[],False
+eloquence,[],False
+eloquent,[],False
+eloquently,[],False
+embolden,[],False
+eminence,[],False
+eminent,[],False
+empathize,[],False
+empathy,[],False
+empower,[],False
+empowerment,[],False
+enchant,[],False
+enchanted,[],False
+enchanting,[],False
+enchantingly,[],False
+encourage,"[('최대한', 1)]",True
+encouragement,[],False
+encouraging,"[('아예', 1), ('권하려던', 1), ('권하려던 _ 아예', 1), ('강요라는', 1)]",True
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,[],False
+endorsed,[],False
+endorsement,[],False
+endorses,[],False
+endorsing,[],False
+energetic,[],False
+energize,[],False
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],False
+engrossing,[],False
+enhance,[],False
+enhanced,[],False
+enhancement,[],False
+enhances,[],False
+enjoy,"[('잘', 1), ('인조이재팬에서', 1), ('즐겨보시나요', 1)]",True
+enjoyable,[],False
+enjoyably,[],False
+enjoyed,[],True
+enjoying,[],False
+enjoyment,[],False
+enjoys,"[('바빠서', 1), ('즐겨', 1), ('바빠서 _ 즐겨', 1)]",True
+enlighten,[],True
+enlightenment,"[('개화기', 1)]",True
+enliven,[],False
+ennoble,[],False
+enough,"[('충분히', 7), ('충분한', 2), ('충분하지', 2), ('만큼', 2), ('달아논것만으로도', 1)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,"[('출처를', 1)]",True
+enrichment,[],False
+enterprising,[],False
+entertain,[],True
+entertaining,[],False
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,[],False
+enthusiast,[],True
+enthusiastic,"[('열성적이지', 1)]",True
+enthusiastically,"[('열성적으로', 1)]",True
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,"[('맡기겠다고', 1)]",True
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,[],False
+equitable,[],False
+ergonomical,[],False
+err-free,[],False
+erudite,[],False
+ethical,[],False
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,[],False
+evenly,"[('골루로', 1)]",True
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],False
+exaltation,[],False
+exalted,[],False
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,[],False
+exceeded,[],False
+exceeding,[],False
+exceedingly,[],False
+exceeds,[],False
+excel,[],True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],False
+excellency,"[('명령을', 1)]",True
+excellent,"[('뛰어난', 1), ('우수', 1)]",True
+excellently,[],False
+excels,[],False
+exceptional,"[('특출이면 _ 영평상', 1), ('영평상', 1), ('특출이면', 1)]",True
+exceptionally,[],False
+excite,[],False
+excited,[],False
+excitedly,[],False
+excitedness,[],False
+excitement,[],False
+excites,[],False
+exciting,[],False
+excitingly,[],False
+exellent,[],False
+exemplar,[],False
+exemplary,[],False
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],False
+extoll,[],False
+extraordinarily,[],False
+extraordinary,[],False
+exuberance,[],False
+exuberant,[],False
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,[],False
+fabulously,[],False
+facilitate,"[('하기', 1), ('위해', 1)]",True
+fair,"[('공정한', 3), ('fair', 3), ('솔직히', 2), ('페어유즈', 2), ('않다고', 2)]",True
+fairly,[],False
+fairness,"[('형평성', 1), ('공정성을', 1)]",True
+faith,"[('faith', 1)]",True
+faithful,"[('충실하기', 2), ('충실한', 2), ('성실하게', 1)]",True
+faithfully,"[('성실히', 1)]",True
+faithfulness,[],False
+fame,"[('저명성이', 2), ('저명성을', 2), ('명예의', 1), ('저명성에', 1), ('있죠', 1)]",True
+famed,[],True
+famous,"[('유명한', 8), ('저명성이', 3), ('저명성을', 2), ('유명하지', 2), ('저명한', 2)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],True
+fanfare,[],False
+fans,"[('극성팬들이', 1), ('팬들이', 1), ('팬', 1)]",True
+fantastic,[],False
+fantastically,[],False
+fascinate,[],False
+fascinating,[],False
+fascinatingly,[],False
+fascination,[],False
+fashionable,[],False
+fashionably,[],False
+fast,[],True
+fast-growing,[],False
+fast-paced,[],False
+faster,"[('더', 1), ('빨리', 1)]",True
+fastest,[],False
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('찬성하는', 1), ('운운하면서 찬성하는', 1), ('운운하면서', 1), ('찬성합니다', 1), ('대한', 1)]",True
+favorable,[],True
+favored,[],False
+favorite,[],False
+favorited,[],False
+favour,[],True
+fearless,[],False
+fearlessly,[],False
+feasible,[],False
+feasibly,[],False
+feat,[],True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,[],False
+fertile,[],False
+fervent,[],False
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,[],False
+fiery,[],False
+fine,"[('잘', 2), ('괜찮고', 1), ('잘났다는', 1), ('순수예술과', 1), ('괜찮을', 1)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],False
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,"[('화려하지', 1)]",True
+flatter,[],False
+flattering,[],False
+flatteringly,[],False
+flawless,[],False
+flawlessly,[],False
+flexibility,"[('융통성없이', 1)]",True
+flexible,"[('융통성이', 1)]",True
+flourish,[],True
+flourishing,[],False
+fluent,"[('능통하기가', 1)]",True
+flutter,[],False
+fond,[],False
+fondly,[],False
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,[],True
+fortunately,[],True
+fortune,[],False
+fragrant,[],False
+free,"[('자유로운', 3), ('비자유', 2), ('자유입니다', 2), ('공짜인가요', 1), ('시간적인', 1)]",True
+freed,[],True
+freedom,"[('자유', 1), ('자유가', 1), ('자유입니다', 1), ('자유이듯', 1), ('보호를', 1)]",True
+freedoms,[],False
+fresh,[],True
+fresher,[],False
+freshest,[],False
+friendliness,"[('친목질', 1)]",True
+friendly,"[('친근감이', 1)]",True
+frolic,[],False
+frugal,[],False
+fruitful,"[('알찬', 2)]",True
+ftw,[],True
+fulfillment,[],False
+fun,"[('재미', 2), ('즐겁게', 1), ('재미있군요', 1), ('재미있습니까', 1), ('재미있으신가요', 1)]",True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('얻는', 2), ('얻을', 2)]",True
+gained,"[('얻은', 1), ('가람님이', 1), ('되돌려놓아도', 1), ('가람님이 _ 얻어오기 _ 되돌려놓아도', 1), ('얻어오기', 1)]",True
+gainful,[],False
+gainfully,[],False
+gaining,[],False
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],False
+geekier,[],False
+geeky,[],False
+gem,[],True
+gems,[],True
+generosity,[],False
+generous,"[('저명성을 _ 너그럽습니까', 2), ('저명성을', 2), ('너그럽습니까', 2)]",True
+generously,[],False
+genial,[],False
+genius,"[('천재', 1)]",True
+gentle,[],False
+gentlest,[],False
+genuine,[],True
+gifted,"[('영재교육의', 1)]",True
+glad,"[('기쁘군요', 1)]",True
+gladden,[],False
+gladly,"[('흔쾌히', 1)]",True
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,[],False
+gloriously,[],False
+glory,[],False
+glow,[],False
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('금메달도', 1), ('gold', 1)]",True
+golden,[],False
+good,"[('좋은', 33), ('잘', 7), ('좋지만', 3), ('좋지', 3), ('좋다고', 3)]",True
+goodly,[],False
+goodness,[],False
+goodwill,[],False
+goood,[],False
+gooood,[],False
+gorgeous,[],False
+gorgeously,[],False
+grace,[],True
+graceful,[],False
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,"[('한나라당', 1)]",True
+grandeur,[],False
+grateful,"[('감사했었습니다', 1), ('감사하기도', 1)]",True
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,"[('고마움을', 1)]",True
+great,"[('대단한', 4), ('훌륭한', 3), ('엄청난', 3), ('좋습니다', 3), ('대원칙입니다', 1)]",True
+greatest,"[('사상최대의', 1)]",True
+greatness,[],False
+grin,[],False
+groundbreaking,"[('획기적이군요', 1)]",True
+guarantee,"[('기여를 할', 1), ('기여를', 1), ('할', 1), ('증명할', 1), ('보장할수 _ 증명할', 1)]",True
+guidance,"[('안내를', 1), ('주의', 1)]",True
+guiltless,[],False
+gumption,[],False
+gush,[],False
+gusto,[],False
+gutsy,[],False
+hail,[],True
+halcyon,[],False
+hale,[],False
+hallmark,[],False
+hallmarks,[],False
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,"[('꽃미남 _ 인방이고', 1), ('인방이고', 1), ('꽃미남', 1)]",True
+handsomely,[],False
+handy,"[('핸님', 1)]",True
+happier,[],False
+happily,[],False
+happiness,[],False
+happy,"[('환', 1), ('만만하거나', 1), ('만만하시나요', 1), ('좋으시겠습니까', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,"[('무해한', 1)]",True
+harmonious,[],False
+harmoniously,[],False
+harmonize,[],False
+harmony,[],False
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,"[('헬씨', 1), ('건강하시죠', 1), ('건강하시지요', 1)]",True
+hearten,[],False
+heartening,[],False
+heartfelt,[],False
+heartily,[],False
+heartwarming,[],False
+heaven,"[('하늘은', 1), ('하늘', 1)]",True
+heavenly,"[('하늘에', 1)]",True
+helped,"[('도왔다는', 1)]",True
+helpful,"[('도움이', 5), ('도움만', 1), ('도움을', 1), ('도움', 1), ('되었습니까', 1)]",True
+helping,[],False
+hero,"[('영웅', 1), ('영웅이', 1), ('영웅인가', 1)]",True
+heroic,[],False
+heroically,[],False
+heroine,[],False
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,[],False
+holy,"[('성령과', 1)]",True
+homage,[],False
+honest,"[('솔직히', 7), ('의문이', 2), ('정당한건가', 2), ('정당한건가 의문이', 2), ('따지자면', 2)]",True
+honesty,[],False
+honor,[],True
+honorable,[],False
+honored,[],False
+honoring,[],False
+hooray,[],False
+hopeful,[],True
+hospitable,[],False
+hot,"[('화제가', 2), ('이슈가', 1), ('열받군요', 1), ('건강하시죠', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,[],True
+humane,[],False
+humble,[],False
+humility,[],False
+humor,"[('오늘의유머', 1)]",True
+humorous,[],False
+humorously,[],False
+humour,[],False
+humourous,[],False
+ideal,"[('이상형', 1)]",True
+idealize,[],False
+ideally,[],False
+idol,"[('아이돌래퍼는', 1)]",True
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],False
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,[],False
+ilu,[],True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,[],False
+impartial,[],False
+impartiality,[],False
+impartially,[],False
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('중요한', 22), ('중요합니까', 2), ('중요하고', 2), ('중요하다는', 2), ('중요합니다', 2)]",True
+impress,[],True
+impressed,[],False
+impresses,[],False
+impressive,[],False
+impressively,[],False
+impressiveness,[],False
+improve,"[('개선해야지', 1), ('높일', 1), ('내보이는', 1), ('향상시키기', 1), ('개선하겠다', 1)]",True
+improved,"[('개선', 1), ('쌓으신', 1), ('즉흥적', 1)]",True
+improvement,"[('개선된', 1), ('결정', 1), ('개선의', 1), ('개선책을', 1), ('개선', 1)]",True
+improvements,"[('개선책이', 1)]",True
+improves,[],False
+improving,[],True
+incredible,[],False
+incredibly,[],False
+indebted,[],False
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,[],False
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,[],False
+infallible,"[('무오류', 1)]",True
+infallibly,[],False
+influential,"[('영향력있는', 1)]",True
+ingenious,[],False
+ingeniously,[],False
+ingenuity,[],False
+ingenuous,[],False
+ingenuously,[],False
+innocuous,[],False
+innovation,[],False
+innovative,[],False
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,[],False
+inspirational,[],False
+inspire,[],True
+inspiring,[],False
+instantly,[],False
+instructive,[],False
+instrumental,[],False
+integral,"[('인테그럴님도', 1)]",True
+integrated,"[('통합해야하나요', 1)]",True
+intelligence,"[('정보부장과', 1), ('훈계도', 1), ('지적은', 1)]",True
+intelligent,[],False
+intelligible,[],False
+interesting,"[('흥미로운', 1), ('조금', 1), ('잘', 1)]",True
+interests,"[('기득권요', 2), ('기득권으로', 1), ('이익에', 1), ('이익을', 1), ('기득권의', 1)]",True
+intimacy,[],False
+intimate,[],False
+intricate,[],True
+intrigue,[],False
+intriguing,[],False
+intriguingly,[],False
+intuitive,"[('직관적이죠', 1), ('그림보다도 직관적이라서', 1), ('그림보다도', 1), ('직관적이라서', 1)]",True
+invaluable,[],False
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],False
+inviolable,[],False
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,[],False
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,[],True
+joyful,[],False
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,[],False
+jubilantly,[],False
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],True
+keen,[],False
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,"[('친절하게', 1), ('친절히', 1)]",True
+kindness,[],False
+knowledgeable,[],False
+kudos,[],False
+large-capacity,[],False
+laud,[],False
+laudable,[],False
+laudably,[],False
+lavish,[],False
+lavishly,[],False
+law-abiding,[],False
+lawful,[],False
+lawfully,[],False
+lead,"[('이어질', 1), ('이어지려면', 1), ('발생할', 1)]",True
+leading,"[('이끌고', 1)]",True
+leads,"[('이어지는', 1)]",True
+lean,[],True
+led,"[('이끈', 1), ('이끌고', 1), ('유도하였지가', 1)]",True
+legendary,[],False
+leverage,[],False
+levity,[],False
+liberate,[],True
+liberation,"[('광복기념', 1), ('해방후', 1)]",True
+liberty,[],True
+lifesaver,[],False
+light-hearted,[],False
+lighter,[],False
+likable,[],False
+like,"[('같은', 5), ('같이', 5), ('님처럼', 4), ('싫으면', 3), ('위키백과처럼', 3)]",True
+liked,"[('좋아하던데', 1), ('님이 좋아하시던', 1), ('좋아하시던', 1), ('님이', 1), ('보이던데', 1)]",True
+likes,"[('맘에', 1), ('좋아하겠습니까', 1), ('누가', 1), ('누가 _ 달가워 합니까', 1), ('달가워', 1)]",True
+liking,"[('협업입니까', 1), ('님이 _ 협업입니까', 1), ('님이', 1), ('되돌려놓나요', 1)]",True
+lionhearted,[],False
+lively,"[('효율적이고', 1), ('활발하게', 1), ('효율적이고 활발하게', 1)]",True
+logical,"[('논리적', 4), ('논리적이라고', 1)]",True
+long-lasting,[],False
+lovable,[],False
+lovably,[],False
+love,"[('사랑해', 1), ('애정이', 1), ('싶습니다', 1), ('의령사랑', 1), ('럽타이탄보단', 1)]",True
+loved,[],False
+loveliness,[],False
+lovely,[],True
+lover,"[('연애인의', 1)]",True
+loves,[],False
+loving,[],False
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,"[('충성을', 1)]",True
+loyalty,[],False
+lucid,[],False
+lucidly,[],False
+luck,"[('운운', 1)]",True
+luckier,[],False
+luckiest,[],False
+luckiness,[],False
+lucky,"[('러키스타에', 1), ('좋은', 1)]",True
+lucrative,[],False
+luminous,[],False
+lush,[],False
+luster,[],False
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,[],False
+luxuriously,[],False
+luxury,[],False
+lyrical,[],False
+magic,[],True
+magical,"[('마법천자문', 1)]",True
+magnanimous,[],False
+magnanimously,[],False
+magnificence,[],False
+magnificent,[],False
+magnificently,[],False
+majestic,[],False
+majesty,[],False
+manageable,[],False
+maneuverable,[],False
+marvel,[],False
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,"[('마스터푸라고', 1), ('마스터푸', 1), ('스승님', 1)]",True
+masterful,[],False
+masterfully,[],False
+masterpiece,"[('수작이니 _ 저명한', 1), ('저명한', 1), ('수작이니', 1)]",True
+masterpieces,[],False
+masters,"[('명창들', 1)]",True
+mastery,[],False
+matchless,[],False
+mature,[],True
+maturely,[],False
+maturity,[],False
+meaningful,"[('있는', 2), ('의미가', 1), ('의미가 있는', 1), ('의미 있는', 1), ('의미', 1)]",True
+memorable,[],False
+merciful,[],False
+mercifully,[],False
+mercy,[],False
+merit,[],True
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,[],False
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,[],False
+meticulously,[],False
+mightily,[],False
+mighty,[],False
+mind-blowing,[],False
+miracle,"[('기적이', 1)]",True
+miracles,[],False
+miraculous,[],True
+miraculously,"[('기적적으로', 1)]",True
+miraculousness,[],False
+modern,"[('현대', 5), ('근세', 2), ('근현대사', 1), ('현대사에서', 1), ('근대에', 1)]",True
+modest,[],False
+modesty,[],False
+momentous,[],False
+monumental,[],False
+monumentally,[],False
+morality,[],False
+motivated,[],False
+multi-purpose,[],False
+navigable,[],False
+neat,"[('깔끔해', 1)]",True
+neatest,[],False
+neatly,"[('깔끔하게', 2)]",True
+nice,"[('반갑습니다', 3), ('좋지', 2), ('이쁘게', 2), ('좋은', 2), ('좋게', 1)]",True
+nicely,"[('보기좋게', 1)]",True
+nicer,[],False
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,"[('귀족인', 1), ('고운', 1), ('고와야', 1)]",True
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,[],False
+noteworthy,[],False
+nourish,[],False
+nourishing,[],False
+nourishment,[],False
+novelty,[],False
+nurturing,"[('육성하는', 1)]",True
+oasis,[],False
+obsession,[],False
+obsessions,[],False
+obtainable,[],False
+openly,"[('대놓고', 1)]",True
+openness,[],False
+optimal,[],False
+optimism,[],False
+optimistic,[],False
+opulent,[],False
+orderly,[],False
+originality,[],False
+outdo,[],False
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,"[('돋보이는', 1)]",True
+outstandingly,[],False
+outstrip,[],False
+outwit,[],False
+ovation,[],False
+overjoyed,[],False
+overtake,[],False
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],False
+painlessly,[],False
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,[],False
+paradise,[],True
+paramount,[],False
+pardon,[],False
+passion,[],True
+passionate,"[('열의가', 1)]",True
+passionately,"[('열정적으로', 1)]",True
+patience,"[('인내심 있는', 1), ('있는', 1), ('인내심', 1)]",True
+patient,"[('환자같다는', 1)]",True
+patiently,[],False
+patriot,[],True
+patriotic,"[('애국하고', 1)]",True
+peace,"[('평화와', 1), ('평화의', 1)]",True
+peaceable,[],False
+peaceful,[],False
+peacefully,[],False
+peacekeepers,[],False
+peach,[],True
+peerless,[],False
+pep,[],False
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,"[('과거완료로', 1)]",True
+perfection,[],False
+perfectly,"[('완벽하게', 4), ('완벽히', 1), ('않습니까', 1)]",True
+permissible,[],True
+perseverance,[],False
+persevere,[],False
+personages,[],False
+personalized,[],False
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,[],False
+pinnacle,"[('최정점이라고', 1)]",True
+playful,"[('발랄한', 1)]",True
+playfully,[],False
+pleasant,[],True
+pleasantly,[],False
+pleased,[],False
+pleases,[],False
+pleasing,[],False
+pleasingly,[],False
+pleasurable,[],False
+pleasurably,[],False
+pleasure,[],False
+plentiful,[],False
+pluses,[],False
+plush,[],False
+plusses,[],False
+poetic,[],False
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,[],False
+polite,"[('갖춘다고요', 2), ('물어보는게', 1), ('기분', 1), ('기분 나쁜', 1), ('나쁜', 1)]",True
+politeness,"[('예의에', 1)]",True
+popular,"[('대중음악', 2), ('높다고', 1), ('대중문화나', 1), ('인기를', 1), ('널리', 1)]",True
+portable,[],False
+posh,[],False
+positive,"[('실증사학자로', 3), ('긍정적', 1), ('양의', 1), ('어떤', 1), ('실정법이', 1)]",True
+positively,[],False
+positives,[],False
+powerful,"[('강력한', 1), ('실린', 1)]",True
+powerfully,[],False
+praise,"[('찬양은', 1)]",True
+praiseworthy,[],False
+praising,"[('해대는', 1)]",True
+pre-eminent,[],False
+precious,"[('궤어야', 1)]",True
+precise,"[('정확히', 1)]",True
+precisely,"[('정확히', 2)]",True
+preeminent,[],False
+prefer,"[('선호하는데', 1), ('저는', 1), ('저는 _ 선호하는데', 1), ('선호하기', 1)]",True
+preferable,"[('않았을까요', 1), ('바람직하지 않았을까요', 1), ('바람직하지', 1)]",True
+preferably,[],False
+prefered,[],False
+preferes,[],False
+preferring,[],False
+prefers,[],False
+premier,[],False
+prestige,[],False
+prestigious,[],False
+prettily,[],False
+pretty,"[('꽤', 3), ('상당히', 2), ('이쁘다', 1)]",True
+priceless,[],False
+pride,"[('자존심을', 1), ('뿌듯함이랄까요', 1), ('자부심이요', 1)]",True
+principled,[],False
+privilege,"[('부여되는', 1), ('면책특권이', 1), ('면책특권이 부여되는', 1), ('권한을', 1), ('의식을', 1)]",True
+privileged,[],False
+prize,[],False
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,"[('생산적이어야', 1)]",True
+productively,[],False
+proficient,[],False
+proficiently,[],False
+profound,[],False
+profoundly,[],False
+profuse,[],False
+profusion,[],False
+progress,"[('진행', 2), ('진행중인', 1), ('진행중이라는', 1), ('진행되고', 1), ('진전이', 1)]",True
+progressive,"[('진보신당의', 1), ('통합진보당과', 1), ('진보정의당', 1)]",True
+prolific,[],False
+prominence,[],False
+prominent,[],False
+promise,"[('선에서', 1)]",True
+promised,[],True
+promises,"[('요청등을', 1), ('약속하겠다며', 1), ('공을', 1), ('리스트를', 1), ('요청등을 _ 약속하겠다며 리스트를 _ 공을', 1)]",True
+promising,"[('요구하고', 1)]",True
+promoter,[],False
+prompt,[],False
+promptly,[],False
+proper,"[('된', 2), ('고유명사로', 2), ('한 _ 된', 1), ('한', 1), ('과연', 1)]",True
+properly,"[('제대로', 15), ('못했다고', 3), ('잘', 1), ('좀', 1), ('되어', 1)]",True
+propitious,[],False
+propitiously,[],False
+pros,"[('찬성', 1), ('찬성측', 1), ('찬성측의', 1), ('찬성측이', 1)]",True
+prosper,[],True
+prosperity,[],False
+prosperous,[],True
+prospros,[],False
+protect,"[('보호를', 1), ('보호하려는', 1), ('지키기', 1), ('보호해달라는', 1), ('지켜주셔야', 1)]",True
+protection,"[('보호', 3), ('보호가', 2), ('방지', 1), ('훼손', 1), ('훼손 방지', 1)]",True
+protective,[],False
+proud,"[('떳떳하다', 1), ('자긍심을', 1), ('자랑스런', 1)]",True
+proven,"[('사실을', 2), ('입증되었다는', 1), ('입증이', 1), ('입증되었죠', 1), ('증명되었지요', 1)]",True
+proves,"[('분이', 1), ('입증하는지', 1), ('입증하는', 1)]",True
+providence,[],False
+proving,"[('증명하는', 1)]",True
+prowess,[],False
+prudence,[],False
+prudent,[],False
+prudently,[],False
+punctual,[],False
+pure,"[('순', 1), ('순수한', 1)]",True
+purify,[],True
+purposeful,[],False
+quaint,[],True
+qualified,"[('자격이', 2), ('큽니다', 1), ('얻었던', 1), ('자격은', 1)]",True
+qualify,[],False
+quicker,[],False
+quiet,"[('저소음', 1), ('조용한', 1), ('조용했죠', 1)]",True
+quieter,[],False
+radiance,[],False
+radiant,[],False
+rapid,[],False
+rapport,[],False
+rapt,[],False
+rapture,[],False
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,"[('합리적인', 3), ('유리수를', 1), ('악질적이겠죠', 1), ('이성적으로 _ 악질적이겠죠', 1), ('이성적으로', 1)]",True
+razor-sharp,[],False
+reachable,[],False
+readable,"[('깔끔하고', 1), ('떨어진다고', 1), ('좋고', 1), ('가독성도', 1), ('가독성도 좋고', 1)]",True
+readily,[],False
+ready,"[('준비되면', 1)]",True
+reaffirm,[],False
+reaffirmation,[],False
+realistic,[],False
+realizable,[],False
+reasonable,"[('합리적인', 6), ('과연', 2), ('지금 합당한건지요', 1), ('합당한건지요', 1), ('지금', 1)]",True
+reasonably,[],False
+reasoned,[],False
+reassurance,[],False
+reassure,[],False
+receptive,[],False
+reclaim,[],False
+recomend,[],False
+recommend,"[('추천해야', 1), ('권장하시나요', 1), ('추천하고', 1), ('개인적으로', 1), ('개인적으로 _ 권유해드리고', 1)]",True
+recommendation,[],False
+recommendations,[],False
+recommended,"[('관인생략님께서는', 1), ('딱히', 1), ('딱히 권장되지도', 1), ('권장되지도', 1), ('추천을', 1)]",True
+reconcile,[],False
+reconciliation,"[('화해를', 1)]",True
+record-setting,[],False
+recover,"[('복구할', 1), ('복구해주나요', 1), ('되찾지는', 1)]",True
+recovery,"[('복구', 2), ('문서복구가', 1)]",True
+rectification,[],False
+rectify,"[('판단한', 1), ('판단한 _ 정정할', 1), ('정정할', 1)]",True
+rectifying,[],False
+redeem,[],False
+redeeming,[],False
+redemption,[],False
+refine,"[('다듬어질수', 1), ('다듬으면', 1), ('순화', 1), ('다듬어주셨으면', 1), ('다듬을', 1)]",True
+refined,"[('다듬었을', 1)]",True
+refinement,[],False
+reform,"[('개편안에', 1), ('개편', 1)]",True
+reformed,"[('개혁교회에', 1)]",True
+reforming,[],False
+reforms,[],False
+refresh,"[('새로고침', 1)]",True
+refreshed,[],False
+refreshing,[],False
+refund,[],False
+refunded,[],False
+regal,[],False
+regally,[],False
+regard,"[('그점에있어서는', 1), ('관련하여', 1), ('점에서', 1), ('관해서', 1)]",True
+rejoice,[],False
+rejoicing,[],False
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,[],False
+relent,[],True
+reliable,"[('신뢰할', 5), ('있는', 4), ('신뢰할 _ 있는', 2), ('신뢰성이', 2), ('신빙성있는', 1)]",True
+reliably,[],False
+relief,"[('구제조처를', 1), ('해소용은', 1)]",True
+relish,[],False
+remarkable,[],False
+remarkably,[],False
+remedy,"[('방법이', 1), ('협박이 _ 권리구제입니다', 1), ('권리구제입니다', 1), ('협박이', 1)]",True
+remission,[],False
+remunerate,[],False
+renaissance,[],False
+renewed,[],False
+renown,[],False
+renowned,[],False
+replaceable,[],False
+reputable,"[('저명성을', 1), ('브리태니커 _ 공신력 있는', 1), ('공신력', 1), ('브리태니커', 1), ('있는', 1)]",True
+reputation,"[('저명성을', 3), ('저명성이', 3), ('저명성', 2), ('저명성에', 2), ('저명성이 있다고요', 2)]",True
+resilient,[],False
+resolute,[],False
+resound,[],False
+resounding,[],False
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('존중할줄', 1), ('존중하시겠다는', 1), ('존중하는', 1), ('존중하여', 1), ('있다', 1)]",True
+respectable,[],False
+respectful,"[('장난성', 1), ('장난성 _ 존댓말을', 1), ('존댓말을', 1), ('존대말이니', 1)]",True
+respectfully,"[('고깝게', 1)]",True
+respite,[],False
+resplendent,[],False
+responsibly,[],True
+responsive,[],False
+restful,[],False
+restored,"[('복구해', 1), ('복원해', 1), ('복구해 _ 복원해', 1), ('돌려야', 1), ('복구되더라도', 1)]",True
+restructure,"[('옮기려면', 1)]",True
+restructured,[],False
+restructuring,[],False
+retractable,[],False
+revel,[],False
+revelation,[],False
+revere,[],False
+reverence,[],False
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,[],False
+revive,[],True
+revives,[],False
+revolutionary,[],False
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,[],True
+rewarding,[],False
+rewardingly,[],False
+rich,[],True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('알겠습니다', 10), ('바로', 9), ('맞죠', 6), ('아니겠죠', 5), ('옳지', 5)]",True
+righten,[],False
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,[],False
+rightness,[],True
+risk-free,[],False
+robust,[],False
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,"[('연인', 1)]",True
+romantically,[],False
+romanticize,[],False
+roomier,[],False
+roomy,[],False
+rosy,"[('장밋빛', 2)]",True
+safe,"[('무방할', 1), ('안전하다는', 1)]",True
+safely,[],False
+sagacity,[],False
+sagely,[],False
+saint,"[('생상스를', 1)]",True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,[],True
+sane,[],True
+satisfactorily,[],False
+satisfactory,"[('만족스러운', 1), ('만족할만한', 1)]",True
+satisfied,"[('만족하세요', 2), ('만족한다면', 1), ('충분히', 1), ('만족한다고', 1), ('충분히 만족한다고', 1)]",True
+satisfies,[],False
+satisfy,"[('만족해야합니다', 1), ('만족할려면', 1)]",True
+satisfying,"[('적어놓았죠', 1), ('흡족하게 적어놓았죠', 1), ('흡족하게', 1)]",True
+satisified,[],False
+saver,[],False
+savings,[],False
+savior,[],False
+savvy,"[('정통하거나', 1)]",True
+scenic,[],False
+seamless,[],False
+seasoned,"[('양념파닭님은요', 1), ('닭고기', 1), ('계정을', 1), ('양념', 1), ('양념통닭', 1)]",True
+secure,[],True
+securely,[],False
+selective,[],False
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,[],False
+sensational,[],False
+sensationally,[],False
+sensations,[],False
+sensible,"[('나쁜', 1)]",True
+sensibly,[],False
+sensitive,"[('민감한', 1), ('민감하게 반응하십시까', 1), ('민감하게', 1), ('반응하십시까', 1), ('느낀', 1)]",True
+serene,[],False
+serenity,[],False
+sexy,[],False
+sharp,[],True
+sharper,[],False
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,[],False
+shiny,"[('그반짝반짝한틀', 1), ('제사용자문서에두만들어주실수있으신가요', 1), ('그반짝반짝한틀 제사용자문서에두만들어주실수있으신가요', 1)]",True
+significant,"[('크게', 1), ('상당한', 1)]",True
+silent,"[('조용한', 1), ('침묵을', 1), ('침묵해야', 1), ('묵음인가요', 1), ('묵혀두고', 1)]",True
+simpler,[],False
+simplest,[],False
+simplified,[],True
+simplifies,[],False
+simplify,[],False
+simplifying,[],False
+sincere,[],True
+sincerely,"[('성실히', 1)]",True
+sincerity,[],False
+skill,[],True
+skilled,"[('숙련되셨다고', 1)]",True
+skillful,[],False
+skillfully,[],False
+slammin,[],False
+sleek,[],False
+slick,"[('싸가지는', 1)]",True
+smart,[],True
+smarter,"[('좋은', 2)]",True
+smartest,[],False
+smartly,[],False
+smile,[],False
+smiles,[],False
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,"[('매끄럽지', 1)]",True
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,"[('원활히', 1)]",True
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,[],True
+softer,[],False
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,"[('확실한', 2)]",True
+solidarity,[],False
+soothe,[],False
+soothingly,[],False
+sophisticated,[],False
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,[],False
+spectacularly,[],False
+speedily,[],False
+speedy,[],False
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,[],False
+splendid,"[('화려한', 1)]",True
+splendidly,[],False
+splendor,[],False
+spontaneous,[],False
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,[],False
+stabilize,[],False
+stable,"[('안정되고', 1)]",True
+stainless,[],False
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],False
+steadfastly,[],False
+steadfastness,[],False
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,"[('별의별', 1)]",True
+stellarly,[],False
+stimulate,[],True
+stimulates,"[('그리워하는', 1), ('자극합니다', 1), ('그리워하는 _ 자극합니다', 1)]",True
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],True
+straightforward,[],False
+streamlined,[],False
+striking,[],False
+strikingly,[],False
+striving,[],False
+strong,"[('끼치는', 1)]",True
+stronger,"[('강하다고', 1)]",True
+strongest,"[('제일 강하다는', 1), ('강하다는', 1), ('제일', 1)]",True
+stunned,"[('얼떨떨한', 1), ('복귀하고', 1), ('복귀하고 얼떨떨한', 1)]",True
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,"[('멋은', 1), ('간단하게', 1), ('멋은 _ 간단하게', 1)]",True
+stylishly,[],False
+stylized,[],False
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,[],False
+succeed,[],True
+succeeded,"[('뒤를', 1), ('성공한', 1), ('계승했다고', 1), ('계승한', 1), ('계승했다고 _ 계승했다고', 1)]",True
+succeeding,[],False
+succeeds,[],False
+succes,[],True
+success,[],True
+successes,[],False
+successful,"[('이뤄졌다는', 1)]",True
+successfully,"[('성공적으로', 1)]",True
+suffice,"[('충분할', 2), ('충분하지', 1), ('듯', 1), ('충분할 듯 싶은데요', 1), ('싶은데요', 1)]",True
+sufficed,[],False
+suffices,[],False
+sufficient,"[('충분한', 3), ('충분하다고', 1), ('충분히', 1), ('충분했는데', 1), ('충분합니다', 1)]",True
+sufficiently,"[('충분히', 3), ('충분한', 1)]",True
+suitable,"[('적합한', 4), ('적당한', 1), ('적합하지', 1), ('후보', 1), ('기술되어도', 1)]",True
+sumptuous,[],True
+sumptuously,[],False
+sumptuousness,[],False
+super,"[('초초초간략한', 2), ('엄청', 1), ('슈퍼주니어', 1)]",True
+superb,[],False
+superbly,[],False
+superior,"[('우월적인', 1)]",True
+superiority,[],False
+supple,[],True
+support,"[('뒷받침할', 2), ('지원을', 1), ('support', 1), ('되는', 1), ('지원이', 1)]",True
+supported,[],False
+supporter,"[('지원국이', 1), ('지지자면', 1), ('지지자면 _ 지지자면', 1)]",True
+supporting,"[('근거자료를', 1), ('출연한거', 1), ('만한', 1), ('옹호한다', 1)]",True
+supportive,[],False
+supports,"[('것은', 1), ('뒷받침한다는 것은', 1), ('뒷받침한다는', 1), ('사용자는', 1)]",True
+supremacy,"[('여성우월주의는', 1), ('남성우월주의는', 1), ('남성우월주의에', 1)]",True
+supreme,"[('대법관이라는', 1), ('대법원', 1), ('법무부 _ 대법관이야', 1), ('법무부', 1), ('대법관이야', 1)]",True
+supremely,[],False
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,[],False
+surreal,[],False
+survival,[],False
+survivor,[],False
+sustainability,[],False
+sustainable,[],False
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,[],False
+sweet,"[('뭔가요', 1)]",True
+sweeten,[],False
+sweetheart,[],False
+sweetly,"[('받아라', 1), ('달게 받아라', 1), ('달게', 1)]",True
+sweetness,[],False
+swift,[],False
+swiftness,[],False
+talent,"[('재능이', 1)]",True
+talented,[],False
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,[],False
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,[],False
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('부탁드리며', 7), ('감사합니다', 6), ('감사드립니다', 2), ('하신', 1), ('알려주셔서', 1)]",True
+thankful,[],False
+thinner,[],False
+thoughtful,[],False
+thoughtfully,[],False
+thoughtfulness,[],False
+thrift,[],False
+thrifty,[],False
+thrill,[],False
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,[],False
+thriving,[],False
+thumb-up,[],False
+thumbs-up,[],False
+tickle,[],False
+tidy,[],True
+time-honored,[],False
+timely,"[('의한', 2), ('적시에', 1), ('적시에 의한', 1)]",True
+tingle,[],False
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,[],False
+tolerable,[],False
+toll-free,[],False
+top,"[('상단에', 4), ('최상위', 2), ('최고', 1), ('상위', 1), ('윗부분에', 1)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,[],True
+tough,"[('힘들면', 1)]",True
+tougher,[],False
+toughest,[],False
+traction,[],False
+tranquil,[],False
+tranquility,[],False
+transparent,[],False
+treasure,[],False
+tremendously,[],False
+trendy,"[('트 _ 트렌디', 1), ('트렌디', 1), ('트', 1)]",True
+triumph,[],False
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,[],False
+trouble-free,[],False
+trump,[],False
+trumpet,[],False
+trust,"[('신뢰', 2), ('믿음을', 2), ('믿음', 1), ('신뢰하시는지요', 1), ('신뢰하기', 1)]",True
+trusted,"[('신뢰할', 3), ('있는', 2), ('신뢰할 _ 있는', 1), ('신뢰할 _ 없는', 1), ('없는', 1)]",True
+trusting,"[('맹신하시는', 1), ('이렇게 _ 맹신하시는', 1), ('이렇게', 1)]",True
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,[],True
+trusty,[],False
+truthful,[],False
+truthfully,[],False
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,[],False
+unassailable,[],False
+unbeatable,[],False
+unbiased,[],False
+unbound,[],False
+uncomplicated,[],False
+unconditional,"[('무조건', 3), ('무조건적인', 1), ('무조건 알찬가요', 1), ('알찬가요', 1)]",True
+undamaged,[],False
+undaunted,[],False
+understandable,"[('이해가', 1)]",True
+undisputable,"[('반증', 1), ('불가능', 1), ('반증 불가능', 1)]",True
+undisputably,[],False
+undisputed,[],False
+unencumbered,[],False
+unequivocal,[],False
+unequivocally,[],False
+unfazed,[],False
+unfettered,[],False
+unforgettable,[],False
+unity,"[('통일성을', 2), ('통일성이죠', 1), ('통일성은', 1), ('통일성과', 1)]",True
+unlimited,"[('무제한으로', 1), ('않은 _ 무제한으로', 1), ('않은', 1), ('제한없이', 1), ('무제한입니다', 1)]",True
+unmatched,[],False
+unparalleled,[],False
+unquestionable,[],False
+unquestionably,[],False
+unreal,[],False
+unrestricted,[],False
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,[],False
+upheld,[],False
+uphold,[],False
+uplift,[],False
+uplifting,[],False
+upliftingly,[],False
+upliftment,[],False
+upscale,[],False
+usable,[],False
+useable,[],False
+useful,"[('쓸만한', 2), ('유용하게', 1), ('유용한지에', 1), ('쓰면', 1), ('유용한지에 _ 쓰면', 1)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,"[('용맹하지', 1)]",True
+valiantly,[],False
+valor,[],False
+valuable,"[('귀중한', 1)]",True
+variety,"[('예능에도', 1), ('예능에서는', 1)]",True
+venerate,[],False
+verifiable,"[('확인 가능하다고', 1), ('확인', 1), ('가능하다고', 1)]",True
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,[],False
+victory,"[('필승론을', 1), ('필승론에', 1)]",True
+viewable,[],False
+vigilance,[],False
+vigilant,[],False
+virtue,[],False
+virtuous,[],False
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],False
+vouchsafe,[],False
+warm,"[('훈훈하게', 1)]",True
+warmer,[],False
+warmhearted,[],False
+warmly,[],False
+warmth,[],False
+wealthy,[],True
+welcome,"[('환영합니다', 4), ('환영', 2), ('위키백과에', 1), ('환영을', 1), ('핫쵸코님', 1)]",True
+well,"[('잘', 37), ('음', 4), ('뭐', 4), ('글쎄요', 4), ('충분히', 3)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,[],False
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,"[('귀하께서는', 1), ('의지가 바르다구요', 1), ('의지가', 1), ('바르다구요', 1)]",True
+willingly,[],False
+willingness,[],False
+win,"[('승률', 1), ('이기면', 1), ('윈윈이죠', 1)]",True
+windfall,[],False
+winnable,[],False
+winner,"[('수상자', 1), ('승자인', 1)]",True
+winners,"[('수상자', 1), ('수상자는', 1)]",True
+winning,"[('당첨', 1), ('승소한', 1)]",True
+wins,"[('우승횟수가', 1)]",True
+wisdom,[],False
+wise,"[('잘', 1)]",True
+wisely,"[('현명하게', 1)]",True
+witty,[],False
+won,"[('나경원', 2), ('최치원과', 1), ('라경원아닌', 1), ('역도원과', 1), ('우승했습니다', 1)]",True
+wonder,"[('궁금합니다', 3), ('궁금하네요', 3), ('의문입니다', 2), ('해보는데', 1), ('말입니다', 1)]",True
+wonderful,[],False
+wonderfully,[],False
+wonderous,[],False
+wonderously,[],False
+wonders,[],False
+wondrous,[],False
+woo,"[('우정호', 1), ('이상우', 1), ('우민정이', 1)]",True
+work,"[('작업을', 5), ('일', 4), ('작업하는', 3), ('일을', 3), ('작업은', 3)]",True
+workable,[],False
+worked,"[('작업한', 2), ('작업된', 1), ('일하였다', 1), ('작업해주셔서', 1), ('위해', 1)]",True
+works,"[('작품', 4), ('저작물을', 2), ('저작물의', 1), ('있는지', 1), ('미수입작품', 1)]",True
+world-famous,[],False
+worth,"[('가치가', 4), ('충분히 _ 가치가', 1), ('충분히', 1), ('부질없지', 1), ('계십니까처럼', 1)]",True
+worth-while,[],False
+worthiness,[],False
+worthwhile,"[('하셔야', 1), ('될까요', 1)]",True
+worthy,"[('가치가', 4), ('있는지', 2), ('가치가 _ 꺼리낌 없이', 1), ('없이', 1), ('꺼리낌', 1)]",True
+wow,"[('와', 3), ('쀍', 1), ('와우나', 1), ('와아', 1)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],False
+youthful,[],False
+zeal,[],True
+zenith,[],False
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,[],True
+abolish,[],True
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],False
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,[],False
+abruptly,[],False
+abscond,[],False
+absence,[],False
+absent-minded,[],False
+absentee,[],False
+absurd,"[('어처구니가', 3), ('없는', 2), ('없죠', 1), ('황당하고', 1), ('황당할까요', 1)]",True
+absurdity,"[('부조리를', 1)]",True
+absurdly,[],False
+absurdness,[],False
+abuse,"[('남용이요', 1), ('악용으로', 1), ('아닙니다', 1), ('그게 _ 아닙니다', 1), ('그게', 1)]",True
+abused,"[('남용한', 1), ('악용하는', 1), ('귀하께서는', 1), ('귀하께서는 _ 악용하셨고', 1), ('악용하셨고', 1)]",True
+abuses,"[('남발하는게', 1), ('남용남발할', 1), ('상대방이', 1)]",True
+abusive,"[('욕설', 2), ('욕설이', 2), ('나무위키를', 1), ('욕설 _ 나무위키를', 1), ('무슨', 1)]",True
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,[],True
+accost,[],False
+accursed,[],False
+accusation,"[('고소는', 1), ('취하하겠지만', 1), ('고소는 취하하겠지만', 1), ('비난의', 1), ('근거가', 1)]",True
+accusations,[],False
+accuse,"[('비난하는', 1)]",True
+accuses,[],False
+accusing,"[('위반한 _ 고발한', 1), ('위반한', 1), ('고발한', 1), ('잡으시는건', 1), ('제기하시는데', 1)]",True
+accusingly,[],False
+acerbate,[],False
+acerbic,[],False
+acerbically,[],False
+ache,"[('위백이', 1)]",True
+ached,[],True
+aches,"[('몸이', 1)]",True
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,"[('중독이라니', 1)]",True
+addicted,[],False
+addicting,[],False
+addicts,[],False
+admonish,[],False
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,"[('훈계는', 1)]",True
+adulterate,[],False
+adulterated,[],False
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,[],False
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,"[('두려워서', 1)]",True
+aggravate,[],True
+aggravating,[],False
+aggravation,[],False
+aggression,"[('인신공격성', 1), ('어거지는', 1), ('공격성', 1), ('침략에', 1)]",True
+aggressive,"[('공격적인', 3), ('공격적이고', 1), ('공격적이지않습니까', 1), ('공격적', 1)]",True
+aggressiveness,[],False
+aggressor,[],False
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],False
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,[],False
+alarm,"[('알람이', 1)]",True
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,[],False
+alienated,[],False
+alienation,[],False
+allegation,"[('표절의혹을', 1)]",True
+allegations,"[('혐의를', 1), ('의혹을', 1), ('주장이', 1), ('의혹에', 1)]",True
+allege,[],True
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,"[('애매함이', 1), ('모호함이', 1)]",True
+ambiguous,"[('모호한', 3), ('애매모호한', 3), ('애매한', 2), ('애매하지만', 1), ('애매모호한 _ 어떻게', 1)]",True
+ambivalence,[],False
+ambivalent,[],False
+ambush,[],False
+amiss,[],False
+amputate,[],False
+anarchism,[],False
+anarchist,[],False
+anarchistic,[],False
+anarchy,[],False
+anemic,[],False
+anger,"[('감정도', 1), ('분노를', 1)]",True
+angrily,[],False
+angriness,[],False
+angry,"[('분노를', 1), ('이렇게', 1), ('괜히', 1), ('발끈하실', 1), ('부르시네요', 1)]",True
+anguish,[],False
+animosity,[],False
+annihilate,[],False
+annihilation,[],False
+annoy,[],True
+annoyance,[],False
+annoyances,[],False
+annoyed,"[('짜증과', 1), ('짜증 안납니까', 1), ('안납니까', 1), ('짜증', 1)]",True
+annoying,"[('귀찮아서', 2), ('짜증나네요', 1), ('짜증이', 1), ('받는', 1), ('모르고', 1)]",True
+annoyingly,[],False
+annoys,[],False
+anomalous,[],False
+anomaly,[],False
+antagonism,[],False
+antagonist,[],False
+antagonistic,[],False
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,[],False
+antiquated,[],False
+antithetical,[],False
+anxieties,[],False
+anxiety,[],False
+anxious,[],False
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],False
+apocalypse,[],False
+apocalyptic,[],False
+apologist,[],False
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],False
+apprehensively,[],False
+arbitrary,"[('자의적인', 6), ('공격하는 자의적인', 2), ('공격하는', 2), ('자의적으로', 1), ('일방적으로', 1)]",True
+arcane,[],False
+archaic,[],False
+arduous,[],False
+arduously,[],False
+argumentative,[],False
+arrogance,[],False
+arrogant,"[('오만한', 1), ('건방지게', 1)]",True
+arrogantly,[],False
+ashamed,"[('부끄럽다는', 1)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],True
+assassinate,[],False
+assault,"[('성폭행으로', 1)]",True
+assult,[],False
+astray,[],False
+asunder,[],False
+atrocious,[],False
+atrocities,[],False
+atrocity,[],False
+atrophy,[],False
+attack,"[('공격', 3), ('공격이라는', 2), ('공격할', 2), ('인신공격입니다', 1), ('인신공격입니까', 1)]",True
+attacks,"[('인신공격', 2), ('인신공격이나', 1), ('인신공격을', 1), ('인신공격으로', 1), ('공격에', 1)]",True
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,[],False
+audiciously,[],False
+austere,[],False
+authoritarian,"[('권위주의', 1)]",True
+autocrat,[],False
+autocratic,[],False
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],False
+averse,[],False
+aversion,[],False
+aweful,[],False
+awful,[],False
+awfully,[],False
+awfulness,[],False
+awkward,"[('어색한', 4), ('어색해진', 1), ('어색하지', 1)]",True
+awkwardness,[],False
+ax,[],True
+babble,[],False
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,[],True
+backwardness,[],False
+backwood,[],False
+backwoods,[],False
+bad,"[('나쁜', 6), ('잘못된', 4), ('나빠서', 2), ('나쁘지', 2), ('나쁘다고', 2)]",True
+badly,"[('어쩌고까지', 1)]",True
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],False
+banal,[],False
+banalize,[],False
+bane,[],False
+banish,"[('하려는', 1), ('차단', 1), ('차단 하려는', 1)]",True
+banishment,[],False
+bankrupt,[],False
+barbarian,[],False
+barbaric,[],False
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,[],False
+baseless,"[('근거없는', 1)]",True
+bash,[],False
+bashed,[],False
+bashful,[],False
+bashing,[],False
+bastard,"[('새끼야', 1), ('똥개', 1), ('똥개 _ 모르시나요', 1), ('모르시나요', 1), ('병신이', 1)]",True
+bastards,"[('말야', 1), ('재미있단 말야', 1), ('재미있단', 1)]",True
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,[],True
+beggar,[],False
+beggarly,[],False
+begging,[],False
+beguile,[],False
+belabor,[],False
+belated,[],False
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,[],False
+bellicose,[],False
+belligerence,[],False
+belligerent,[],False
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,[],False
+berate,[],True
+bereave,[],True
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],True
+betray,[],True
+betrayal,"[('배신이', 1)]",True
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,[],False
+bewilder,[],False
+bewildered,[],False
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,[],False
+bewitch,[],False
+bias,"[('가깝습니다', 1), ('편견에 가깝습니다', 1), ('편견에', 1)]",True
+biased,"[('편향된', 2), ('있기', 1), ('치우쳐', 1), ('치우쳐 있기', 1), ('편향인가요', 1)]",True
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,[],False
+bitch,[],False
+bitchy,[],False
+biting,"[('물고 늘어지십니까', 1), ('늘어지십니까', 1), ('물고', 1)]",True
+bitingly,[],False
+bitter,[],True
+bitterly,[],False
+bitterness,"[('쓴웃음을', 1)]",True
+bizarre,"[('기괴한', 1), ('해괴망측한', 1), ('기괴하셨나요', 1)]",True
+blab,[],False
+blabber,[],False
+blackmail,[],False
+blah,"[('.', 1), ('어쩌구저쩌구', 1)]",True
+blame,[],True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,[],False
+blasted,[],False
+blatant,[],True
+blatantly,"[('뻔뻔하게', 1)]",True
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],False
+bleeding,[],False
+bleeds,[],False
+blemish,[],False
+blind,[],True
+blinding,[],False
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,[],False
+blockhead,[],False
+bloodshed,[],False
+bloodthirsty,[],False
+bloody,[],False
+blotchy,[],False
+blow,"[('날려버리시네요', 1)]",True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,[],True
+blur,"[('따지기', 1), ('흐리시죠', 1), ('따지기 _ 흐리시죠', 1)]",True
+bluring,[],False
+blurred,[],False
+blurring,[],False
+blurry,[],False
+blurs,[],False
+blurt,[],False
+boastful,[],False
+boggle,[],False
+bogus,[],False
+boil,[],False
+boiling,[],False
+boisterous,[],False
+bomb,"[('잡아', 1), ('웃음폭탄', 1)]",True
+bombard,[],True
+bombardment,"[('포격', 1)]",True
+bombastic,[],False
+bondage,[],False
+bonkers,[],False
+bore,[],True
+bored,"[('심심하지', 1)]",True
+boredom,[],False
+bores,[],False
+boring,[],True
+botch,[],False
+bother,"[('싶어요', 1), ('해드리는', 1), ('그렇다면', 1)]",True
+bothered,[],False
+bothering,[],False
+bothers,[],False
+bothersome,[],False
+bowdlerize,[],False
+boycott,[],False
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,[],False
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,[],False
+brazen,[],False
+brazenly,[],False
+brazenness,[],False
+breach,"[('중립적', 1), ('침해', 1), ('사례에', 1), ('침해 사례에', 1)]",True
+break,"[('난입하여', 1), ('깨시는게', 1), ('시간에', 1), ('휴식을', 1), ('깨지겠어요', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,[],False
+breaking,"[('단절을', 1), ('경신', 1), ('깨부수는', 1), ('잘게', 1)]",True
+breaks,[],False
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,"[('깨지게', 2), ('깨버린', 1), ('결별하느라', 1), ('깨게', 1)]",True
+broken,"[('깨지긴', 1), ('고장난', 1), ('깨져', 1), ('무너짐', 1)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,[],False
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,[],False
+brute,[],False
+brutish,[],False
+bs,[],True
+buckle,[],False
+bug,"[('버그일까요', 1), ('버그겠죠', 1)]",True
+bugging,[],False
+buggy,[],False
+bugs,[],False
+bulkier,[],False
+bulkiness,[],False
+bulky,[],False
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,"[('헛소리라니', 1)]",True
+bullshyt,[],False
+bully,[],True
+bullying,"[('왕따', 1)]",True
+bullyingly,[],False
+bum,[],True
+bump,[],False
+bumped,[],False
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,[],False
+bungle,[],False
+bungler,[],False
+bungling,[],False
+bunk,[],False
+burden,[],True
+burdensome,"[('부담이', 1)]",True
+burdensomely,[],False
+burn,"[('번아웃', 1)]",True
+burned,[],False
+burning,[],False
+burns,[],False
+bust,[],False
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,[],False
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],False
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,"[('암투병', 1)]",True
+cancerous,[],False
+cannibal,[],False
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,[],True
+carelessness,[],False
+caricature,[],True
+carnage,[],False
+carp,[],False
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,"[('사상자', 1)]",True
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,[],False
+censure,[],False
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,[],False
+chaos,"[('카오스랑', 1), ('카오스나', 1), ('분란조장', 1)]",True
+chaotic,[],False
+chasten,[],False
+chastise,[],False
+chastisement,[],False
+chatter,[],False
+chatterbox,[],False
+cheap,[],True
+cheapen,[],False
+cheaply,[],False
+cheat,"[('속이려', 1)]",True
+cheated,[],False
+cheater,[],False
+cheating,[],False
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,[],False
+chide,[],False
+childish,"[('유치하니까요', 1)]",True
+chill,[],True
+chilly,[],False
+chintzy,[],False
+choke,[],False
+choleric,[],False
+choppy,[],False
+chore,"[('기분이랄까', 1)]",True
+chronic,[],False
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,"[('클래시로얄에', 1)]",True
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,[],False
+clogged,[],False
+clogs,[],False
+cloud,"[('뜬구름', 1)]",True
+clouding,[],False
+cloudy,"[('맑은', 1)]",True
+clueless,[],False
+clumsy,[],False
+clunky,[],False
+coarse,[],False
+cocky,"[('건방진 _ 자제해', 1), ('자제해', 1), ('건방진', 1), ('건방지다', 1)]",True
+coerce,[],False
+coercion,"[('하라구요', 1), ('강요나', 1), ('계정 _ 성립된', 1), ('성립된', 1), ('계정', 1)]",True
+coercive,[],False
+cold,"[('냉전논리를', 1), ('냉전은', 1), ('찬밥', 1)]",True
+coldly,[],False
+collapse,"[('경제파탄과', 1), ('붕괴', 1), ('붕괴시의', 1), ('멸망했던가요', 1)]",True
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],False
+comical,[],False
+commiserate,[],False
+commonplace,[],False
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('불평하실', 1), ('채워나가길', 1), ('채워나가길 원한다는 _ 불평하실', 1), ('원한다는', 1), ('고소한다는', 1)]",True
+complained,[],False
+complaining,"[('지속적으로', 1), ('제기를', 1), ('하고', 1), ('지속적으로 _ 제기를 하고', 1)]",True
+complains,[],False
+complaint,"[('제기하시면', 1), ('제기하시려면 _ 제기하시면', 1), ('제기하시려면', 1), ('이메일', 1), ('답장을', 1)]",True
+complaints,"[('조사하셨을', 1)]",True
+complex,"[('복잡한', 1)]",True
+complicated,"[('복잡하지', 3), ('잘못하면', 1), ('복잡하게가나요', 1), ('복잡해서', 1), ('복잡하고', 1)]",True
+complication,[],False
+complicit,[],False
+compulsion,[],True
+compulsive,[],True
+concede,[],False
+conceded,[],False
+conceit,[],False
+conceited,[],False
+concen,[],False
+concens,[],False
+concern,"[('관심사가', 1), ('우려를', 1)]",True
+concerned,"[('걱정할', 1), ('따진다면', 1), ('염두해둔', 1)]",True
+concerns,"[('제기를', 1), ('문제', 1), ('문제로 _ 문제 제기를', 1), ('문제로', 1)]",True
+concession,[],False
+concessions,[],False
+condemn,[],True
+condemnable,[],False
+condemnation,"[('규탄이', 1), ('연구가', 1), ('규탄이 _ 연구가', 1)]",True
+condemned,[],False
+condemns,[],False
+condescend,[],False
+condescending,[],False
+condescendingly,[],False
+condescension,[],False
+confess,[],True
+confession,[],True
+confessions,[],False
+confined,[],False
+conflict,"[('갈등을', 2), ('무력분쟁을', 1), ('저촉되지만 않으면', 1), ('않으면', 1), ('저촉되지만', 1)]",True
+conflicted,[],False
+conflicting,[],False
+conflicts,"[('분쟁이', 1), ('되돌릴', 1), ('충돌하여', 1), ('충돌하여 _ 되돌릴', 1), ('갈등을', 1)]",True
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],True
+confrontation,"[('대립한다는게', 1)]",True
+confrontational,[],False
+confuse,"[('혼란을', 1), ('생각하는지', 1)]",True
+confused,"[('쓰자는', 1), ('접었습니다', 1), ('혼동이', 1), ('당황스럽네요', 1), ('혼동할', 1)]",True
+confuses,[],False
+confusing,"[('않을까요', 2), ('혼동의 _ 않을까요', 1), ('혼동의', 1), ('혼란스럽긴', 1), ('어차피', 1)]",True
+confusion,"[('혼동이', 2), ('혼동을', 1), ('혼동은', 1), ('혼선이', 1), ('혼란', 1)]",True
+confusions,[],False
+congested,[],False
+congestion,[],False
+cons,[],True
+conscons,[],False
+conservative,"[('보수적인', 2)]",True
+conspicuous,[],False
+conspicuously,[],False
+conspiracies,[],False
+conspiracy,"[('음모론에', 1), ('음모론을', 1)]",True
+conspirator,[],False
+conspiratorial,[],False
+conspire,"[('모의해서', 1)]",True
+consternation,[],False
+contagious,[],False
+contaminate,[],False
+contaminated,[],False
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,"[('멸시가', 2), ('멸시가 _ 글을', 1), ('글을', 1), ('경멸이', 1)]",True
+contemptible,[],False
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,"[('내용을 문제삼는', 1), ('문제삼는', 1), ('내용을', 1)]",True
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,"[('어찌하여', 1), ('안맞게', 1), ('어찌하여 _ 안맞게', 1)]",True
+contradiction,"[('모순이', 2), ('배치되는', 1), ('정면으로 배치되는', 1), ('정면으로', 1), ('모순이라고', 1)]",True
+contradictory,"[('모순이지', 2), ('모순되고', 1), ('모순된', 1), ('어긋난다는', 1), ('어긋난다는 _ 모순이지', 1)]",True
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,"[('논란이', 4), ('시끌법적한', 2), ('논란', 2), ('논란의', 2), ('논란있는', 1)]",True
+controversy,"[('논란이', 10), ('논란', 9), ('논란을', 3), ('논란도', 2), ('논란은', 2)]",True
+convoluted,[],False
+corrode,[],False
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,"[('부패한', 1)]",True
+corrupted,[],False
+corrupting,[],False
+corruption,"[('훼손이', 1), ('훼손', 1), ('적폐', 1), ('부패', 1)]",True
+corrupts,[],False
+corruptted,[],False
+costlier,[],False
+costly,[],False
+counter-productive,[],False
+counterproductive,"[('비생산적이라는', 1)]",True
+coupists,[],False
+covetous,[],False
+coward,[],True
+cowardly,"[('비겁하게', 1)]",True
+crabby,[],False
+crack,[],False
+cracked,[],False
+cracks,[],False
+craftily,[],False
+craftly,[],False
+crafty,[],False
+cramp,[],False
+cramped,[],False
+cramping,[],False
+cranky,[],False
+crap,[],True
+crappy,[],False
+craps,[],False
+crash,"[('터져서', 1), ('망합니까', 1), ('터져서 망합니까', 1)]",True
+crashed,[],False
+crashes,"[('충돌이', 1)]",True
+crashing,[],False
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,"[('제멋대로', 1), ('엄청 정신없어', 1), ('정신없어', 1), ('엄청', 1), ('미친', 1)]",True
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,[],False
+creeping,[],False
+creeps,[],False
+creepy,[],False
+crept,[],False
+crime,"[('죄를', 2), ('범죄행위를', 1), ('의혹을', 1), ('협박죄', 1), ('범죄로서', 1)]",True
+criminal,"[('형법', 2), ('범죄자', 2), ('형법에', 1), ('형법상', 1), ('형사', 1)]",True
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,[],False
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,[],False
+critic,"[('정치평론가', 1)]",True
+critical,"[('비판적인', 1)]",True
+criticism,"[('비난', 2), ('비판', 2), ('비판이나', 1), ('비판하고', 1), ('비난은', 1)]",True
+criticisms,"[('비판 내용을', 1), ('비판', 1), ('내용을', 1), ('요약에도', 1), ('지적에도', 1)]",True
+criticize,"[('비판하는', 3), ('비판을', 1), ('이유만으로 _ 비판을', 1), ('이유만으로', 1), ('비난하고', 1)]",True
+criticized,"[('비판하며', 1), ('비난을', 1), ('받은', 1), ('비판을', 1), ('비판을 받은', 1)]",True
+criticizing,"[('비판하는', 2), ('비판했다고', 1), ('비판하고', 1), ('비난하는', 1), ('지적을', 1)]",True
+critics,[],False
+cronyism,[],False
+crook,[],False
+crooked,[],False
+crooks,[],False
+crowded,[],False
+crowdedness,[],False
+crude,[],False
+cruel,[],False
+crueler,[],False
+cruelest,[],False
+cruelly,[],False
+cruelness,[],False
+cruelties,[],False
+cruelty,[],False
+crumble,[],False
+crumbling,"[('무너지는', 1)]",True
+crummy,[],False
+crumple,[],True
+crumpled,[],True
+crumples,[],False
+crush,[],False
+crushed,[],False
+crushing,[],False
+cry,[],True
+culpable,[],False
+culprit,[],False
+cumbersome,"[('번거로우시겠지만', 1), ('번거로울', 1), ('번거로울 _ 걱정되기는', 1), ('걱정되기는', 1), ('번거로워서', 1)]",True
+cunt,[],False
+cunts,[],False
+cuplrit,[],False
+curse,"[('욕을', 2), ('하셨나요', 1), ('배우셨길래 _ 욕짓거립니까', 1), ('욕짓거립니까', 1), ('배우셨길래', 1)]",True
+cursed,"[('내면을', 1), ('욕한', 1), ('내면을 욕한', 1), ('욕을', 1), ('저는 _ 욕을', 1)]",True
+curses,[],False
+curt,[],False
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,[],False
+cynicism,"[('귀차니즘도', 1)]",True
+d*mn,[],False
+damage,"[('훼손', 5), ('훼손을', 4), ('피해를', 3), ('피해', 2), ('훼손의', 1)]",True
+damaged,"[('훼손된', 2), ('문서훼손', 1), ('훼손', 1), ('피해가', 1), ('훼손이라면', 1)]",True
+damages,"[('손해배상으로', 1), ('저작권을', 1)]",True
+damaging,"[('실추시키고', 1), ('훼손하고', 1), ('문서훼손이란', 1), ('문서훼손', 1), ('훼손하지', 1)]",True
+damn,"[('악', 1)]",True
+damnable,[],False
+damnably,[],False
+damnation,[],False
+damned,[],False
+damning,[],False
+damper,[],False
+danger,[],True
+dangerous,"[('위험한', 1)]",True
+dangerousness,[],False
+dark,[],True
+darken,[],True
+darkened,[],False
+darker,"[('진하게', 1)]",True
+darkness,[],False
+dastard,[],False
+dastardly,[],False
+daunt,[],True
+daunting,"[('벅찬', 1)]",True
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('사망한', 1), ('고인물이라거나', 1), ('망인', 1), ('죽은', 1)]",True
+deadbeat,[],False
+deadlock,[],False
+deadly,[],False
+deadweight,[],False
+deaf,[],False
+dearth,[],False
+death,"[('사망에', 1), ('사형을', 1), ('생몰년도는', 1), ('사후에', 1), ('죽인다고', 1)]",True
+debacle,[],False
+debase,[],False
+debasement,[],False
+debaser,[],False
+debatable,"[('이론의', 1), ('이론의 여지가', 1), ('여지가', 1)]",True
+debauch,[],False
+debaucher,[],False
+debauchery,[],False
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,"[('부채가', 1), ('채무감소라', 1), ('부채비율인데', 1), ('부채로', 1)]",True
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,[],False
+decayed,[],False
+deceit,[],False
+deceitful,[],False
+deceitfully,[],False
+deceitfulness,[],False
+deceive,[],True
+deceiver,"[('사기꾼이라는', 1), ('사기야라고', 1), ('사기꾼이라고 _ 사기야라고', 1), ('사기꾼이라고', 1)]",True
+deceivers,[],False
+deceiving,"[('기만하는', 1), ('휘말려들어간 _ 기만하는', 1), ('휘말려들어간', 1)]",True
+deception,"[('훼손 _ 기만', 1), ('기만', 1), ('훼손', 1), ('기만행위', 1)]",True
+deceptive,[],False
+deceptively,[],False
+declaim,[],False
+decline,[],True
+declines,[],False
+declining,[],False
+decrement,[],False
+decrepit,[],False
+decrepitude,[],False
+decry,[],False
+defamation,"[('명예훼손', 5), ('명예훼손죄', 1)]",True
+defamations,[],False
+defamatory,"[('명백한', 1), ('명백한 _ 위배된다는', 1), ('위배된다는', 1), ('명예훼손', 1), ('저해가되지않다니', 1)]",True
+defame,[],True
+defect,"[('하자센터', 1)]",True
+defective,[],False
+defects,[],False
+defensive,[],False
+defiance,[],False
+defiant,[],False
+defiantly,[],False
+deficiencies,[],False
+deficiency,[],False
+deficient,[],False
+defile,[],False
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,[],False
+defy,[],False
+degenerate,"[('전락하는거', 1)]",True
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,"[('떨어뜨리는', 1)]",True
+degrading,"[('떨어뜨리는', 1)]",True
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,[],False
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,[],True
+delayed,"[('미뤄뒀던', 1)]",True
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,[],False
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,[],False
+delusion,"[('망상을', 1), ('망상이라고', 1)]",True
+delusional,[],False
+delusions,[],False
+demean,[],True
+demeaning,[],False
+demise,[],False
+demolish,[],False
+demolisher,[],False
+demon,[],True
+demonic,[],True
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,"[('부정을', 1), ('부정한다거나', 1)]",True
+denied,"[('부인했고', 1)]",True
+denies,"[('부정한다는', 1)]",True
+denigrate,[],False
+denounce,[],False
+dense,[],False
+dent,[],True
+dented,[],False
+dents,[],True
+denunciate,[],False
+denunciation,[],False
+denunciations,[],False
+deny,"[('부정한다는', 1), ('부정하시는거에요', 1), ('부정할', 1), ('부정하려는', 1), ('부정하였습니까', 1)]",True
+denying,"[('부정하고', 1), ('부정합니까', 1), ('부정합니까 _ 부정하고', 1)]",True
+deplete,[],False
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],False
+depress,[],False
+depressed,[],False
+depressing,[],False
+depressingly,[],False
+depression,[],False
+depressions,[],False
+deprive,[],False
+deprived,[],False
+deride,[],False
+derision,[],False
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,"[('비하하는', 1), ('중심', 1)]",True
+desecrate,[],False
+desert,[],True
+desertion,"[('탈영이', 1)]",True
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],False
+despairing,[],False
+despairingly,[],False
+desperate,[],False
+desperately,[],False
+desperation,[],False
+despicable,[],False
+despicably,[],False
+despise,[],False
+despised,[],False
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],False
+despotic,[],False
+despotism,[],False
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,"[('무너뜨리려고', 1), ('파기되는', 1), ('훼손하셨습니까', 1), ('훼손을', 1)]",True
+destroyer,"[('위키파괴자', 1)]",True
+destruction,"[('멸망설', 1), ('훼손과', 1), ('자멸을', 1)]",True
+destructive,[],False
+desultory,[],False
+deter,[],True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,[],False
+deterrent,[],False
+detest,[],False
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,[],False
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,[],False
+detrimental,[],False
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,[],False
+devastatingly,[],False
+devastation,[],False
+deviate,"[('벗어나지', 1)]",True
+deviation,[],False
+devil,[],False
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,[],False
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],True
+dictator,[],True
+dictatorial,"[('독재적', 1), ('했다는지', 1), ('관리자가', 1), ('관리자가 독재를 했다는지', 1), ('독재를', 1)]",True
+die,"[('죽고', 1), ('사망', 1), ('죽지않기', 1)]",True
+die-hard,[],False
+died,"[('죽을', 1), ('숨져간', 1), ('죽었습니다', 1), ('죽었다', 1), ('죽은', 1)]",True
+dies,[],True
+difficult,"[('어려운', 15), ('어렵습니다', 6), ('어렵네요', 4), ('어렵다는', 3), ('어렵지', 2)]",True
+difficulties,"[('곤란함을', 1), ('어려움이', 1), ('경제적어려움', 1), ('어려우신', 1)]",True
+difficulty,"[('어렵게', 1)]",True
+diffidence,[],False
+dilapidated,[],False
+dilemma,[],False
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,[],True
+ding,[],True
+dings,[],True
+dinky,[],False
+dire,[],True
+direly,[],False
+direness,[],False
+dirt,"[('새', 1), ('흙으로', 1)]",True
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,"[('야하고', 2), ('보기', 2), ('더러운', 2), ('붙이면 _ 적지', 1), ('붙이면', 1)]",True
+disable,[],False
+disabled,[],False
+disaccord,[],False
+disadvantage,"[('불리하다는', 1)]",True
+disadvantaged,[],False
+disadvantageous,[],False
+disadvantages,"[('불리할', 1)]",True
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,[],True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,[],False
+disagreeing,[],False
+disagreement,"[('이견이', 3), ('얘기가', 1), ('반대하는', 1), ('이견이 _ 반대하는', 1), ('이견을', 1)]",True
+disagrees,[],False
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,[],True
+disappointed,"[('실망했습니다', 1), ('실망스럽군요', 1)]",True
+disappointing,"[('아쉽습니다', 1)]",True
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,"[('요청하시던데', 1)]",True
+disapprove,[],False
+disapproving,[],False
+disarm,[],False
+disarray,[],False
+disaster,[],True
+disasterous,[],False
+disastrous,[],False
+disastrously,[],False
+disavow,[],False
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],False
+disbeliever,[],False
+disclaim,[],False
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,"[('불편함을', 1)]",True
+discompose,[],False
+disconcert,[],True
+disconcerted,[],False
+disconcerting,"[('당황스러운', 1)]",True
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,[],False
+discontented,[],False
+discontentedly,[],False
+discontinued,"[('폐간된', 1), ('중단된', 1)]",True
+discontinuity,[],False
+discontinuous,[],False
+discord,[],False
+discordance,[],False
+discordant,[],False
+discountenance,[],False
+discourage,[],True
+discouragement,[],False
+discouraging,[],False
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,[],False
+discrepant,[],False
+discriminate,"[('분별해야', 1), ('차별하지', 1)]",True
+discrimination,"[('차별대우를', 1)]",True
+discriminatory,"[('차별적', 1), ('차별할 _ 있는가', 1), ('있는가', 1), ('차별할', 1)]",True
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,"[('민감한', 1), ('불명예스러운', 1), ('민감한 _ 불명예스러운', 1)]",True
+disgraced,[],False
+disgraceful,[],False
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,[],False
+disgusted,[],False
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,[],False
+disgustingly,[],False
+dishearten,[],False
+disheartening,[],False
+dishearteningly,[],False
+dishonest,[],False
+dishonestly,[],False
+dishonesty,[],False
+dishonor,[],False
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,"[('싫어하는', 1)]",True
+disliked,"[('싫다에서', 1)]",True
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,[],False
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],True
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,[],False
+disoobedient,[],False
+disorder,"[('강박증', 1)]",True
+disordered,[],False
+disorderly,[],False
+disorganized,[],False
+disorient,[],False
+disoriented,[],False
+disown,[],False
+disparage,[],True
+disparaging,[],False
+disparagingly,[],False
+dispensable,[],False
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],False
+displaced,[],False
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,[],False
+disproportionate,[],False
+disprove,[],False
+disputable,[],True
+dispute,"[('분쟁이', 7), ('분쟁', 6), ('분쟁을', 4), ('분쟁으로', 2), ('시비', 1)]",True
+disputed,[],True
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,"[('무시', 1), ('무시를', 1)]",True
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,[],True
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,"[('성의없는', 1), ('무시하는', 1)]",True
+disrespectfully,[],False
+disrespectfulness,[],False
+disrespecting,[],False
+disrupt,[],True
+disruption,[],False
+disruptive,"[('무슨', 1), ('무기한 _ 무슨 방해', 1), ('방해', 1), ('무기한', 1)]",True
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,[],False
+dissatisfactory,[],False
+dissatisfied,[],False
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,[],False
+dissembler,[],False
+dissension,[],False
+dissent,"[('표명이라면 _ 동의의', 1), ('표명이라면', 1), ('동의의', 1)]",True
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,[],False
+dissidents,[],False
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,"[('해산하면', 3), ('해산이', 2), ('해산하는', 1)]",True
+dissonance,[],False
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,"[('왜곡하니', 1), ('왜곡되어서는', 1), ('서술하면', 1), ('서술하면 _ 요약하라는 _ 왜곡하라는', 1), ('요약하라는', 1)]",True
+distorted,"[('왜곡될', 2), ('상업적이용이나', 1), ('상업적이용이나 왜곡이', 1), ('왜곡이', 1), ('왜곡하신', 1)]",True
+distortion,"[('왜곡', 2), ('왜곡한', 1), ('왜곡이죠', 1), ('떠올리는', 1), ('떠올리는 _ 왜곡이죠', 1)]",True
+distorts,"[('왜곡하여 _ 바꿨다고', 2), ('바꿨다고', 2), ('왜곡하여', 2), ('왜곡시키는', 1)]",True
+distract,[],True
+distracting,"[('산만한', 1)]",True
+distraction,[],False
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,"[('불신', 1)]",True
+distrustful,"[('불신이 가는군요', 1), ('불신이', 1), ('가는군요', 1)]",True
+distrusting,[],False
+disturb,[],True
+disturbance,[],False
+disturbed,[],False
+disturbing,"[('저해가되지않다니', 1)]",True
+disturbingly,[],False
+disunity,[],False
+disvalue,[],False
+divergent,[],False
+divisive,[],False
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,"[('어지러워질', 1)]",True
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,"[('독단적', 2), ('독단적이고', 1)]",True
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,"[('사이버둠슬레이어님을', 2)]",True
+doomed,[],False
+doomsday,[],False
+dope,[],False
+doubt,"[('의심할', 2)]",True
+doubtful,[],False
+doubtfully,[],False
+doubts,"[('의문을', 1), ('의심', 1)]",True
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],False
+downfall,[],False
+downfallen,[],False
+downgrade,"[('하향', 1), ('편집할 _ 하향', 1), ('편집할', 1)]",True
+downhearted,[],False
+downheartedly,[],False
+downhill,[],False
+downside,[],False
+downsides,[],False
+downturn,[],False
+downturns,[],False
+drab,[],False
+draconian,[],False
+draconic,[],False
+drag,"[('해오신것은', 1), ('드래그해서 복사 해오신것은', 1), ('복사', 1), ('드래그해서', 1)]",True
+dragged,"[('있는 _ 조정해서', 1), ('조정해서', 1), ('있는', 1), ('군대끌려가는', 1)]",True
+dragging,"[('끌고', 1), ('들어가십니까', 1), ('은탄님은 _ 끌고 들어가십니까', 1), ('은탄님은', 1), ('끌어요', 1)]",True
+dragoon,[],True
+drags,[],False
+drain,[],False
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,"[('과감한', 1)]",True
+drastically,[],False
+drawback,[],False
+drawbacks,[],False
+dread,[],False
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,[],False
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,"[('중퇴기록으로', 1)]",True
+dropouts,[],False
+drought,[],False
+drowning,[],False
+drunk,"[('일단술먹고할게요라는', 1)]",True
+drunkard,[],False
+drunken,[],True
+dubious,[],False
+dubiously,[],False
+dubitable,[],False
+dud,[],False
+dull,"[('두둔한다', 1)]",True
+dullard,[],False
+dumb,[],False
+dumbfound,[],False
+dump,[],True
+dumped,[],False
+dumping,"[('덤핑하고', 2)]",True
+dumps,[],False
+dunce,[],False
+dungeon,[],False
+dungeons,[],False
+dupe,[],False
+dust,[],True
+dusty,[],False
+dwindling,[],False
+dying,[],True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,[],False
+emaciated,[],False
+emasculate,[],False
+embarrass,[],True
+embarrassing,"[('미미한', 1), ('민망한 미미한', 1), ('민망한', 1), ('억울해서라도', 1)]",True
+embarrassingly,[],False
+embarrassment,[],False
+embattled,[],False
+embroil,[],False
+embroiled,[],False
+embroilment,[],False
+emergency,[],False
+emphatic,[],False
+emphatically,[],False
+emptiness,[],False
+encroach,[],False
+encroachment,[],False
+endanger,[],False
+enemies,[],False
+enemy,"[('적', 1)]",True
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,[],False
+enrage,[],False
+enraged,[],False
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,[],False
+equivocal,[],False
+erase,"[('지우는', 2), ('보기 _ 지우는', 1), ('보기', 1), ('감정에', 1), ('지워놓고서는', 1)]",True
+erode,[],False
+erodes,[],False
+erosion,[],False
+err,[],True
+errant,[],False
+erratic,[],False
+erratically,[],False
+erroneous,"[('잘못되었다고', 1)]",True
+erroneously,[],False
+error,"[('오류가', 8), ('오류를', 3), ('오류는', 2), ('오류', 2), ('오류입니다', 1)]",True
+errors,"[('오류가', 3), ('오류를', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,[],True
+evasion,"[('회피', 2), ('회피나 _ 계정역시', 1), ('계정역시', 1), ('회피나', 1), ('회피라고요', 1)]",True
+evasive,"[('회피', 1)]",True
+evil,"[('악질', 2), ('사회악입니까', 1)]",True
+evildoer,[],False
+evils,[],False
+eviscerate,[],False
+exacerbate,[],False
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,[],True
+exaggeration,"[('억지주장입니다', 1)]",True
+exasperate,[],False
+exasperated,[],False
+exasperating,[],False
+exasperatingly,[],False
+exasperation,[],False
+excessive,"[('과도한', 2), ('지나친', 2), ('어긋난 _ 지나친감은', 1), ('지나친감은', 1), ('어긋난', 1)]",True
+excessively,"[('지나치게', 1)]",True
+exclusion,[],False
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('실례지만', 4), ('죄송하지만', 3), ('빌미로', 1), ('하셨습니다 _ 아시지요', 1), ('아시지요', 1)]",True
+excuses,"[('부리시기', 1), ('변명할', 1)]",True
+execrate,[],False
+exhaust,[],True
+exhausted,"[('고될', 1), ('다했다', 1)]",True
+exhaustion,"[('고갈이', 1)]",True
+exhausts,[],False
+exhorbitant,[],False
+exhort,[],False
+exile,"[('망명하는', 1)]",True
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,[],False
+expensive,"[('돈이', 1)]",True
+expire,[],False
+expired,[],False
+explode,"[('터지였겠습니까', 1)]",True
+exploit,"[('악용의', 1)]",True
+exploitation,[],False
+explosive,[],False
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,[],False
+extermination,[],False
+extinguish,[],False
+extort,[],False
+extortion,[],False
+extraneous,[],False
+extravagance,[],False
+extravagant,[],True
+extravagantly,[],False
+extremism,[],False
+extremist,[],False
+extremists,[],False
+eyesore,[],False
+f**k,[],False
+fabricate,[],True
+fabrication,[],False
+facetious,[],False
+facetiously,[],False
+fail,"[('망합니까', 1)]",True
+failed,"[('실패했고', 1), ('실패한', 1), ('실패했습니다', 1)]",True
+failing,[],True
+fails,"[('못한다면', 1)]",True
+failure,"[('실패를', 1), ('실패하는', 1)]",True
+failures,[],False
+faint,[],False
+fainthearted,[],False
+faithless,[],False
+fake,"[('가짜인데도', 1), ('허위정보', 1), ('허위조작하십니까', 1), ('사칭', 1)]",True
+fall,"[('멸망', 2), ('분류에는', 2), ('들어간다고요', 1), ('추락시키는', 1), ('해당됩니다', 1)]",True
+fallacies,[],False
+fallacious,[],False
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,[],False
+fallen,[],False
+falling,[],False
+fallout,[],False
+falls,"[('교과서가', 1), ('해당하지', 1)]",True
+false,"[('허위', 6), ('거짓', 4), ('허위사실을', 2), ('허위의', 1), ('허위임을', 1)]",True
+falsehood,[],False
+falsely,"[('허위게재', 1), ('허위로', 1)]",True
+falsify,[],False
+falter,[],False
+faltered,[],False
+famine,[],False
+famished,[],False
+fanatic,"[('매니아', 1)]",True
+fanatical,[],False
+fanatically,[],False
+fanaticism,[],False
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,[],False
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,"[('파시즘이고', 2), ('파시즘이', 1)]",True
+fascist,[],False
+fastidious,[],False
+fastidiously,[],False
+fastuous,[],False
+fat,[],True
+fat-cat,[],False
+fat-cats,[],False
+fatal,[],False
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,"[('피로는', 1)]",True
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('잘못인가요', 2), ('잘못이', 1), ('잘못으로', 1), ('잘못이겠지만', 1), ('잘못했는데요', 1)]",True
+faults,"[('나쁘다고', 1), ('잘못은', 1), ('잘못은 _ 나쁘다고', 1), ('잘잘못을', 1)]",True
+faulty,[],False
+fawningly,[],False
+faze,[],False
+fear,"[('우려가', 1)]",True
+fearful,[],False
+fearfully,[],False
+fears,[],False
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,"[('떨어진', 1), ('떨어졌다고', 1), ('빠진 _ 당연히', 1), ('당연히', 1), ('빠진', 1)]",True
+felon,[],True
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,"[('열공모드인', 1)]",True
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],False
+fibber,[],False
+fickle,[],False
+fiction,[],True
+fictional,[],False
+fictitious,"[('누층적으로', 1), ('가공의', 1), ('누층적으로 _ 가공의', 1)]",True
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,[],False
+figurehead,[],False
+filth,[],False
+filthy,[],False
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,[],False
+flabbergast,[],False
+flabbergasted,[],False
+flagging,[],False
+flagrant,[],False
+flagrantly,[],False
+flair,[],False
+flairs,[],False
+flak,[],False
+flake,[],False
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],False
+flaw,[],False
+flawed,[],False
+flaws,[],False
+flee,[],False
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],False
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],False
+fool,"[('여포가', 1)]",True
+fooled,[],False
+foolhardy,[],False
+foolish,[],False
+foolishly,[],False
+foolishness,[],False
+forbid,[],True
+forbidden,"[('금지', 2), ('금지된다', 1), ('금지되어있지', 1)]",True
+forbidding,"[('금지하는', 1)]",True
+forceful,[],True
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,[],False
+forgetful,[],False
+forgetfully,[],False
+forgetfulness,[],False
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,"[('파울볼', 1)]",True
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,[],False
+fragile,[],False
+fragmented,[],False
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,"[('연구', 1)]",True
+fraudulent,[],False
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],False
+freaking,[],False
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,[],False
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,[],False
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,"[('마찰', 2), ('마찰이', 1)]",True
+frictions,[],False
+fried,[],False
+friggin,[],False
+frigging,[],False
+fright,[],False
+frighten,[],False
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,[],False
+frown,"[('찌푸리게', 1)]",True
+froze,[],False
+frozen,[],False
+fruitless,[],False
+fruitlessly,[],False
+frustrate,[],True
+frustrated,"[('답답해할까요', 1), ('궁금한게', 1), ('궁금한', 1)]",True
+frustrates,[],False
+frustrating,"[('답답합니다', 2), ('답답한', 2), ('느꼈던 답답한', 1), ('느꼈던', 1), ('본질 _ 답답한', 1)]",True
+frustratingly,[],False
+frustration,"[('답답해서', 1)]",True
+frustrations,[],False
+fuck,"[('좆밥새끼들아', 1)]",True
+fucking,"[('엿먹이는건가요', 1)]",True
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],False
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,"[('재밌습니다', 1), ('죄송합니다', 1), ('웃기려고 장난친거에요 _ 죄송합니다', 1), ('웃기려고', 1), ('장난친거에요', 1)]",True
+furious,[],True
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,"[('마시고', 1), ('총의를', 1)]",True
+fussy,[],False
+fustigate,[],False
+fusty,[],False
+futile,[],False
+futilely,[],False
+futility,[],False
+fuzzy,"[('긴가민가한', 1)]",True
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,"[('백괴사전', 1)]",True
+gape,[],False
+garbage,"[('쓰레기의', 1), ('쓰레기의 쓰레기의', 1), ('쓰레기란', 1), ('쓰레기', 1), ('쓰레기라는건가요', 1)]",True
+garish,[],False
+gasp,[],False
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,"[('학살', 1)]",True
+get-rich,[],False
+ghastly,"[('괴랄한', 1)]",True
+ghetto,[],False
+ghosting,[],False
+gibber,[],True
+gibberish,"[('횡설수설', 1), ('횡설수설하시고', 1), ('동문서답', 1)]",True
+gibe,[],False
+giddy,[],False
+gimmick,[],False
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,[],False
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,[],False
+glitches,[],False
+gloatingly,[],False
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],False
+gnawing,[],False
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],False
+goofy,[],False
+goon,[],True
+gossip,"[('정당화되는', 1), ('험담이 정당화되는', 1), ('험담이', 1)]",True
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],True
+grating,[],True
+gravely,[],False
+greasy,[],False
+greed,"[('욕심이겠지요', 1)]",True
+greedy,[],False
+grief,[],False
+grievance,[],False
+grievances,[],False
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],False
+grimace,[],False
+grind,[],False
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],True
+gross,[],False
+grossly,[],False
+grotesque,[],False
+grouch,[],False
+grouchy,[],False
+groundless,"[('근거없는', 1)]",True
+grouse,[],False
+growl,[],False
+grudge,[],False
+grudges,[],False
+grudging,[],False
+grudgingly,[],False
+gruesome,[],False
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,[],False
+guile,[],False
+guilt,"[('원칙에', 1)]",True
+guiltily,[],False
+guilty,"[('유죄의', 1), ('유죄', 1)]",True
+gullible,[],False
+gutless,[],False
+gutter,[],False
+hack,[],False
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],False
+halfheartedly,[],False
+hallucinate,[],False
+hallucination,[],False
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,"[('걸', 1)]",True
+hangs,"[('슈렉이', 1)]",True
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,[],True
+harassed,[],False
+harasses,"[('괴롭히는', 1), ('만만한', 1), ('만만한 _ 괴롭히는', 1)]",True
+harassment,[],False
+harboring,[],False
+harbors,[],False
+hard,"[('열심히', 4), ('많으십니다', 2), ('어렵습니다', 2), ('많으셨습니다', 1), ('힘들게', 1)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,[],True
+hardened,"[('굳어진', 1)]",True
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,[],False
+hardships,[],False
+harm,[],True
+harmed,[],False
+harmful,"[('해롭게', 1)]",True
+harms,[],False
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,"[('심한', 1), ('심하시군요', 1), ('심한가요', 1)]",True
+harshly,"[('강경대응', 1), ('하겠습니다', 1), ('강경대응 하겠습니다', 1), ('심한', 1), ('심한 _ 건방지게', 1)]",True
+hasseling,[],False
+hassle,[],False
+hassled,[],False
+hassles,[],False
+haste,[],False
+hastily,"[('같네요', 1), ('성급히', 1), ('성급히 _ 곤란할 _ 같네요', 1), ('곤란할', 1)]",True
+hasty,"[('성급한', 3), ('우선시해야하지', 1), ('성급한 _ 우선시해야하지', 1), ('성급한거', 1)]",True
+hate,"[('싫어하는', 2), ('싫으십니까', 1), ('싫으셨습니까', 1), ('싫어하신다는데', 1), ('싫으니', 1)]",True
+hated,"[('미움을 받는다는 _ 포착해서', 1), ('받는다는', 1), ('포착해서', 1), ('미움을', 1)]",True
+hateful,[],False
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,"[('자기가', 1), ('싫어한다고', 1), ('싫어한다고 자기가', 1)]",True
+hating,[],False
+hatred,[],False
+haughtily,[],False
+haughty,[],False
+haunt,[],False
+haunting,[],False
+havoc,[],False
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,[],False
+headaches,[],False
+heartbreaker,[],False
+heartbreaking,"[('여전히', 1)]",True
+heartbreakingly,[],False
+heartless,[],False
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],False
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],False
+hedonistic,[],False
+heedless,[],False
+hefty,[],False
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,[],False
+hell,"[('어디가', 2), ('어쩌라는', 2), ('게', 1), ('사이트일까요', 1), ('거죠', 1)]",True
+hell-bent,[],False
+hellion,[],False
+hells,[],False
+helpless,[],False
+helplessly,[],False
+helplessness,[],False
+heresy,"[('이단으로', 2), ('이단', 1), ('이단이', 1)]",True
+heretic,[],False
+heretical,[],False
+hesitant,"[('그냥', 1), ('망설이는', 1), ('망설이는 _ 그냥', 1)]",True
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,"[('방해하려는', 1), ('글쓰기를 방해하려는', 1), ('글쓰기를', 1)]",True
+hindrance,[],False
+hiss,[],False
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,"[('hoax', 1), ('허경영', 1), ('내용', 1), ('허경영 내용', 1), ('날조문으로', 1)]",True
+hobble,[],False
+hogs,[],False
+hollow,"[('달랑', 1), ('달랑 _ 강정이', 1), ('강정이', 1)]",True
+hoodium,[],False
+hoodwink,[],False
+hooligan,[],False
+hopeless,[],False
+hopelessly,[],False
+hopelessness,[],False
+horde,[],False
+horrendous,[],False
+horrendously,[],False
+horrible,[],False
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],False
+hostile,[],False
+hostilities,[],False
+hostility,"[('적개심과', 1)]",True
+hotbeds,[],False
+hothead,[],False
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,[],False
+humiliating,[],False
+humiliation,[],False
+humming,[],False
+hung,[],True
+hurt,"[('되지', 1)]",True
+hurted,[],False
+hurtful,[],False
+hurting,[],False
+hurts,"[('하는데도', 1), ('낮추고', 1), ('낮추고 하는데도', 1)]",True
+hustler,[],False
+hype,"[('환장하셨어요', 1)]",True
+hypocricy,[],False
+hypocrisy,[],False
+hypocrite,[],False
+hypocrites,[],False
+hypocritical,"[('위선적인', 1)]",True
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],False
+hysterical,[],False
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,"[('바보가', 1), ('링크도', 1)]",True
+idiotic,[],False
+idiotically,[],False
+idiots,[],False
+idle,[],False
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,"[('무식함을', 1), ('무식함과', 1), ('무지한', 1), ('아둔한', 1)]",True
+ignorant,"[('무개념한', 1), ('몰상식한', 1), ('무식한', 1), ('않을까요', 1)]",True
+ignore,"[('무시하고', 5), ('무시', 2), ('무시합니까', 2), ('반복하고', 1), ('무시하는', 1)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('의심되는', 2), ('불법인가요', 1), ('불법이아닌가요', 1), ('조각', 1), ('불법이', 1)]",True
+illegally,[],False
+illegitimate,[],False
+illicit,[],False
+illiterate,[],False
+illness,[],True
+illogic,[],True
+illogical,"[('비논리적인', 1), ('비논리적이지', 1)]",True
+illogically,[],False
+illusion,"[('환영인', 1)]",True
+illusions,[],False
+illusory,[],False
+imaginary,[],False
+imbalance,[],False
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,"[('성숙하지 않은', 1), ('않은', 1), ('성숙하지', 1)]",True
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,[],False
+immorality,[],False
+immorally,[],False
+immovable,[],False
+impair,[],False
+impaired,[],False
+impasse,[],False
+impatience,[],False
+impatient,[],False
+impatiently,[],False
+impeach,[],True
+impedance,[],False
+impede,[],False
+impediment,[],False
+impending,[],False
+impenitent,[],False
+imperfect,[],False
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,[],False
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,[],False
+impertinent,[],False
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,[],False
+implausibly,[],False
+implicate,[],False
+implication,[],False
+implode,[],False
+impolite,[],False
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,"[('부여하려는', 1)]",True
+imposers,[],False
+imposing,[],False
+imposition,[],False
+impossible,"[('불가능한건가요', 3), ('불가능하다고', 2), ('불가능', 1), ('못하게', 1), ('불가능합니다', 1)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],False
+impoverished,[],False
+impractical,[],False
+imprecate,[],False
+imprecise,[],False
+imprecisely,[],False
+imprecision,[],False
+imprison,[],True
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,[],True
+improperly,"[('부적절하게', 1)]",True
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,[],False
+impudent,[],False
+impudently,[],False
+impugn,[],False
+impulsive,[],False
+impulsively,[],False
+impunity,[],False
+impure,[],False
+impurity,[],False
+inability,[],False
+inaccuracies,[],False
+inaccuracy,[],False
+inaccurate,"[('부정확한', 2), ('정확하지', 1)]",True
+inaccurately,[],False
+inaction,[],False
+inactive,"[('비활동', 1)]",True
+inadequacy,[],False
+inadequate,[],False
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('부적절한', 6), ('부적절하다고', 2), ('적절치', 1), ('않다고', 1), ('부적절하다는', 1)]",True
+inappropriately,[],False
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,[],False
+inaudible,[],False
+incapable,[],False
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,[],False
+incessantly,[],False
+incite,"[('이용해먹은', 1), ('부추기는 _ 이용해먹은', 1), ('부추기는', 1)]",True
+incitement,"[('선동 의혹으로', 1), ('의혹', 1), ('선동', 1), ('의혹으로', 1)]",True
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,[],False
+incoherent,[],False
+incoherently,[],False
+incommensurate,[],False
+incomparable,[],False
+incomparably,[],False
+incompatability,[],False
+incompatibility,[],False
+incompatible,"[('호환이 안되는', 1), ('호환이', 1), ('안되는', 1)]",True
+incompetence,[],False
+incompetent,"[('오히려', 1), ('무능의', 1), ('오히려 _ 무능의', 1)]",True
+incompetently,[],False
+incomplete,"[('미완료', 3), ('미완성이라고', 1), ('완벽하지 못한', 1), ('완벽하지', 1), ('못한', 1)]",True
+incompliant,[],False
+incomprehensible,"[('없습니다', 2), ('이해가', 1), ('수가', 1), ('이해할', 1), ('이해할 수가 없습니다', 1)]",True
+incomprehension,[],False
+inconceivable,[],False
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,"[('절치부심', 1)]",True
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,[],False
+inconsistency,[],False
+inconsistent,"[('어긋난다고', 1), ('일관성이 없는', 1), ('없는', 1), ('일관성이', 1), ('어려운', 1)]",True
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,"[('불편함을', 1), ('죄송합니다', 1), ('불편해서', 1), ('수정했는데', 1), ('불편해서 수정했는데 _ 죄송합니다', 1)]",True
+inconveniently,[],False
+incorrect,"[('잘못된', 5), ('잘못되었습니다', 2), ('틀린', 2), ('잘못되거나', 1), ('잘못되거나 어색한', 1)]",True
+incorrectly,"[('잘못', 1), ('잘못하지는', 1), ('잘못쓴', 1)]",True
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,[],False
+indecent,[],False
+indecently,[],False
+indecision,[],False
+indecisive,[],False
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,[],False
+indifferent,"[('무관심했죠', 1)]",True
+indigent,[],False
+indignant,[],False
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,[],False
+indiscreetly,[],False
+indiscretion,[],False
+indiscriminate,"[('무분별한', 1)]",True
+indiscriminately,"[('함부로 _ 지금이라도', 1), ('지금이라도', 1), ('함부로', 1), ('무분별하게', 1)]",True
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,[],False
+ineffective,[],False
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,"[('비효율적입니다', 1)]",True
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,[],False
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,[],False
+inequality,[],False
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,"[('불가피하게', 1)]",True
+inevitably,"[('어쩔', 1), ('어쩔 수 없이', 1), ('수', 1), ('없이', 1)]",True
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,"[('실력이', 1)]",True
+inexperienced,"[('미숙하긴', 1)]",True
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,[],False
+inextricably,[],False
+infamous,[],False
+infamously,[],False
+infamy,[],False
+infected,[],False
+infection,[],False
+infections,[],False
+inferior,[],False
+inferiority,[],False
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],False
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,[],False
+infraction,[],False
+infringe,"[('나오면', 1), ('저작권', 1), ('중립성을', 1), ('중립성을 _ 저작권', 1)]",True
+infringement,"[('침해', 6), ('침해라고', 6), ('침해가', 4), ('위반으로', 1), ('저촉이더냐', 1)]",True
+infringements,[],False
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],False
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],False
+injurious,[],False
+injury,[],False
+injustice,[],False
+injustices,[],False
+innuendo,[],False
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,[],False
+insanely,[],False
+insanity,[],False
+insatiable,[],False
+insecure,[],False
+insecurity,[],False
+insensible,[],False
+insensitive,[],False
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,[],False
+insignificant,"[('미미한', 1), ('미미하다고', 1), ('중요도가', 1), ('짧은', 1), ('중요도가 _ 짧은', 1)]",True
+insignificantly,[],False
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],False
+insinuating,[],False
+insinuation,[],False
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,[],False
+instable,[],False
+instigate,"[('사주하셨는데요', 1)]",True
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,"[('불충분합니다', 1), ('불충분이라고', 1), ('부족한지', 1), ('부당한', 1), ('부족하다고', 1)]",True
+insufficiently,[],False
+insular,[],False
+insult,"[('모욕하는', 1), ('모욕적인', 1), ('모욕까지', 1), ('생각해', 1)]",True
+insulted,"[('모욕한', 1), ('욕먹는', 1), ('싫으십니까', 1), ('욕먹는 _ 싫으십니까', 1), ('모욕을', 1)]",True
+insulting,"[('모욕', 2), ('모독', 1), ('모독 _ 하고', 1), ('하고', 1), ('모욕적인', 1)]",True
+insultingly,[],False
+insults,[],False
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,[],False
+intefere,[],False
+inteferes,[],False
+intense,"[('격한', 1)]",True
+interfere,"[('하지마시요', 1), ('간섭하시는데', 1), ('유용하여', 1)]",True
+interference,[],False
+interferes,"[('방해되는', 1), ('참견한다더냐', 1)]",True
+intermittent,[],False
+interrupt,"[('가로막으며', 2)]",True
+interruption,[],False
+interruptions,[],False
+intimidate,[],True
+intimidating,"[('협박하십니까', 1), ('협박입니까', 1), ('달라지지', 1), ('협박할', 1), ('협박할 _ 달라지지', 1)]",True
+intimidatingly,[],False
+intimidation,"[('협박이라는', 1), ('협박이라', 1), ('협박죄', 1)]",True
+intolerable,[],False
+intolerablely,[],False
+intolerance,[],False
+intoxicate,[],False
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],False
+intrusion,[],False
+intrusive,[],False
+inundate,[],False
+inundated,[],False
+invader,[],False
+invalid,"[('무효가', 1), ('무효표가', 1)]",True
+invalidate,[],True
+invalidity,[],False
+invasive,[],False
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,[],False
+involuntarily,[],False
+involuntary,[],False
+irascible,[],False
+irate,[],True
+irately,[],False
+ire,[],True
+irk,[],True
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,[],False
+ironical,[],False
+ironically,[],False
+ironies,[],False
+irony,[],False
+irragularity,[],False
+irrational,"[('비이성적이다', 1), ('비이성적', 1)]",True
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,[],False
+irregularity,[],False
+irrelevance,[],False
+irrelevant,"[('무관합니다', 2), ('무관했다면', 1), ('관계없습니다', 1)]",True
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,"[('무책임한', 4)]",True
+irresponsibly,"[('공격적인', 1), ('무책임한', 1), ('무책임한 _ 공격적인', 1), ('무책임하게', 1)]",True
+irretating,[],False
+irretrievable,[],False
+irreversible,"[('잠기게 _ 위배되는', 1), ('위배되는', 1), ('잠기게', 1)]",True
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],False
+irritated,[],False
+irritating,[],False
+irritation,[],False
+irritations,[],False
+isolate,[],False
+isolated,[],False
+isolation,[],False
+issue,"[('문제가', 5), ('문제에', 5), ('문제를', 4), ('문제는', 3), ('저작권', 2)]",True
+issues,"[('문제가', 4), ('문제에', 2), ('문제는', 1), ('문제로', 1), ('문제만을', 1)]",True
+itch,[],True
+itching,[],False
+itchy,[],False
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,"[('질투하는', 1)]",True
+jealously,[],False
+jealousness,[],False
+jealousy,[],False
+jeer,[],False
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,[],False
+jeopardy,[],False
+jerk,[],False
+jerky,[],False
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,[],False
+joke,"[('장난성', 2), ('장난입니다', 2), ('농담을', 1), ('상처가', 1), ('장난이라고', 1)]",True
+joker,[],False
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,[],False
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,"[('살릴놈', 1)]",True
+killed,"[('죽이지', 1), ('죽습니다', 1), ('죽인', 1)]",True
+killer,[],True
+killing,[],False
+killjoy,[],False
+kills,[],True
+knave,[],False
+knife,"[('칼기', 1), ('칼로', 1)]",True
+knock,[],False
+knotted,[],False
+kook,[],True
+kooky,[],False
+lack,"[('없다는', 2), ('부족해서', 1), ('풍부하게', 1), ('불확실한', 1), ('부족하다고', 1)]",True
+lackadaisical,[],False
+lacked,"[('떨어진다는', 1)]",True
+lackey,[],False
+lackeys,[],False
+lacking,"[('부족한', 2), ('결여되어', 1), ('부족한가요', 1), ('부족했던', 1), ('부족하다', 1)]",True
+lackluster,[],False
+lacks,"[('떨어진다고', 1), ('?', 1)]",True
+laconic,[],False
+lag,[],True
+lagged,[],False
+lagging,[],False
+laggy,[],False
+lags,[],True
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,"[('구차한', 1)]",True
+lame-duck,[],False
+lament,[],False
+lamentable,[],False
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],True
+lapsed,[],True
+lapses,[],False
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,"[('따름입니다', 1), ('실소가', 1), ('실소가 _ 따름입니다', 1)]",True
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],False
+lawlessness,[],False
+layoff,[],False
+layoff-happy,[],False
+lazy,[],False
+leak,"[('유출을', 1), ('유출하는', 1)]",True
+leakage,[],False
+leakages,[],False
+leaking,"[('나가는', 1), ('얘기로', 1), ('얘기로 새는지요', 1), ('새는지요', 1)]",True
+leaks,[],False
+leaky,[],False
+lech,[],False
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,[],False
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,[],False
+lengthy,"[('긴', 1), ('대한', 1), ('저렇게', 1), ('대한 _ 저렇게 장문으로', 1), ('장문으로', 1)]",True
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,[],True
+liable,[],True
+liar,[],True
+liars,[],False
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('거짓말이었습니까', 2), ('거짓말까지 하시나요', 1), ('거짓말까지', 1), ('하시나요', 1), ('거짓말로', 1)]",True
+lied,"[('거짓말', 1), ('거짓말을', 1)]",True
+lier,[],True
+lies,"[('거짓을', 2), ('거짓말을', 1), ('거짓말들을', 1), ('책임은', 1)]",True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('제한해', 1), ('나이를', 1), ('제한하는', 1), ('제한할', 1), ('제한', 1)]",True
+limitation,[],True
+limitations,"[('시효도', 1), ('시효를', 1)]",True
+limited,"[('국한된', 1), ('한정되는', 1), ('상당히', 1), ('한정해야되지', 1), ('국한할만한', 1)]",True
+limits,[],True
+limp,[],False
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,"[('외톨이', 1)]",True
+loner,"[('심산이', 1)]",True
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,[],True
+longingly,[],False
+loophole,[],True
+loopholes,[],True
+loose,[],True
+loot,[],True
+lorn,[],False
+lose,"[('잃는', 1)]",True
+loser,[],True
+losers,[],False
+loses,"[('잃는', 3)]",True
+losing,"[('잃어가고', 1)]",True
+loss,"[('손실이기나', 1)]",True
+losses,[],False
+lost,"[('추락한', 1), ('졌길래', 1), ('연락두절', 1), ('떨어지고요', 1), ('챔스리그때', 1)]",True
+loud,[],True
+louder,"[('할까요', 2), ('심한', 2), ('심한 소리로 할까요', 2), ('소리로', 2)]",True
+lousy,[],False
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,[],True
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,[],False
+lunaticism,[],False
+lurch,[],False
+lure,[],True
+lurid,[],False
+lurk,[],False
+lurking,[],False
+lying,"[('거짓말하고', 1), ('있다고', 1), ('거짓말과', 1), ('하는군요', 1), ('거짓말을', 1)]",True
+macabre,[],False
+mad,"[('기가 차서', 1), ('기가', 1), ('차서', 1)]",True
+madden,[],False
+maddening,[],False
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,[],False
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,"[('악의를', 1), ('악의가', 1), ('악의', 1), ('악의나', 1), ('악의의', 1)]",True
+malicious,"[('악의적', 5), ('악성', 2), ('악플을', 1), ('솔직히', 1), ('악의적인', 1)]",True
+maliciously,"[('악의적으로', 6)]",True
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,[],True
+maniac,[],False
+maniacal,[],False
+manic,[],False
+manipulate,"[('조작해', 1)]",True
+manipulation,"[('역사조작', 1), ('역사조작 _ 조작좀', 1), ('조작좀', 1)]",True
+manipulative,[],False
+manipulators,[],False
+mar,"[('mar', 1)]",True
+marginal,[],True
+marginally,[],False
+martyrdom,[],False
+martyrdom-seeking,[],False
+mashed,[],False
+massacre,"[('학살을', 1)]",True
+massacres,[],False
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,[],False
+meaningless,"[('없다면서', 1), ('의미없는', 1), ('무의미한', 1), ('무의미하다면서', 1)]",True
+meanness,[],False
+measly,[],False
+meddle,"[('참견하지마세요', 1), ('참견할', 1)]",True
+meddlesome,[],False
+mediocre,"[('평범한', 2)]",True
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,[],False
+mercilessly,[],False
+mess,"[('다니는게', 1), ('엉망', 1), ('난리를', 1)]",True
+messed,"[('엉망으로', 1), ('엉망으로 만들어진', 1), ('만들어진', 1)]",True
+messes,[],False
+messing,"[('망친', 1), ('건들고 _ 혼자서', 1), ('건들고', 1), ('혼자서', 1), ('장난을', 1)]",True
+messy,"[('불어나면', 1), ('지저분해지지', 1), ('불어나면 _ 지저분해지지', 1)]",True
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],True
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,"[('무엇입니까', 2), ('잡다한 _ 다름없는', 1), ('잡다한', 1), ('다름없는', 1), ('관련도 _ 무엇입니까', 1)]",True
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,"[('잘못된 상식', 1), ('상식', 1), ('잘못된', 1)]",True
+misconceptions,[],False
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],True
+miserable,"[('비참하게', 1)]",True
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,[],False
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],False
+misinform,[],True
+misinformed,[],False
+misinterpret,[],True
+misjudge,[],False
+misjudgment,[],False
+mislead,"[('호도하지', 1)]",True
+misleading,"[('오해의', 1), ('다분한', 1), ('왜곡될', 1)]",True
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],False
+mispronounced,[],False
+mispronounces,[],False
+misread,[],True
+misreading,"[('오독입니다', 1), ('오독', 1)]",True
+misrepresent,[],True
+misrepresentation,[],False
+miss,"[('빠진거', 1), ('실축한', 1)]",True
+missed,"[('실축하고', 1), ('놓친', 1)]",True
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('잘못을', 4), ('실수로', 3), ('부정사용을', 2), ('의심되는', 2), ('의심되는 부정사용을', 2)]",True
+mistaken,"[('착각', 2), ('실수하심이', 1), ('착각 _ 실수하심이', 1), ('착각하고', 1), ('마찬가지였습니다', 1)]",True
+mistakenly,"[('착각하여', 1)]",True
+mistakes,"[('잘못을', 4), ('잘못된', 2), ('잘못한', 1), ('조언해주는 한국어의 _ 부분을', 1), ('조언해주는', 1)]",True
+mistified,[],False
+mistress,[],False
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],False
+misunderstand,"[('불확실한', 1), ('오해하지말아달라', 1), ('오해하지', 1)]",True
+misunderstanding,"[('오해가', 3), ('잘못', 2), ('오해를 말하시는', 1), ('오해를', 1), ('말하시는', 1)]",True
+misunderstandings,"[('오해를', 3), ('오해만', 1), ('생기지', 1), ('불러일으킬', 1), ('오해를 불러일으키는', 1)]",True
+misunderstood,"[('잘못', 3), ('오해를', 2), ('오해받을', 2), ('오해가', 2), ('잘못 이해하신것', 1)]",True
+misuse,[],True
+moan,[],False
+mobster,[],False
+mock,"[('모의하고', 1)]",True
+mocked,[],False
+mockeries,[],False
+mockery,[],False
+mocking,[],False
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,[],False
+monotony,[],False
+monster,"[('백괴사전에서', 1), ('백괴사전처럼', 1), ('백괴사전하시는', 1), ('백괴사전에서는', 1), ('백괴게임에서만', 1)]",True
+monstrosities,[],False
+monstrosity,[],False
+monstrous,[],False
+monstrously,[],False
+moody,[],False
+moot,[],True
+mope,[],False
+morbid,[],False
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,[],False
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,"[('살인을', 1), ('살인죄를', 1), ('살해되었다는', 1)]",True
+murderer,"[('살인자', 1), ('살생부처럼', 1)]",True
+murderous,[],False
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,"[('불가사의한', 1)]",True
+mysteriously,[],False
+mystery,[],False
+mystify,[],False
+myth,"[('신화라고', 3), ('신화에', 1), ('단군신화는', 1), ('신화인데', 1), ('단군신화를', 1)]",True
+nag,[],True
+nagging,"[('잔소리 _ 잔소리', 1), ('잔소리', 1)]",True
+naive,[],False
+naively,[],False
+narrower,[],False
+nastily,[],False
+nastiness,[],False
+nasty,[],True
+naughty,[],False
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,[],True
+needlessly,"[('복잡한', 1), ('쓸데없이 복잡한', 1), ('쓸데없이', 1)]",True
+needy,[],False
+nefarious,[],False
+nefariously,[],False
+negate,[],False
+negation,[],False
+negative,"[('악영향이지요', 1), ('부정적인데', 1), ('부정적', 1), ('네거티브한', 1), ('적반하장을', 1)]",True
+negatives,[],False
+negativity,[],False
+neglect,[],True
+neglected,"[('했다면', 1), ('방치를', 1), ('삭제하지', 1), ('방치를 했다면 _ 삭제하지', 1), ('방치된', 1)]",True
+negligence,"[('상습적인 무고에', 1), ('무고에', 1), ('상습적인', 1)]",True
+negligent,[],False
+nemesis,[],False
+nepotism,[],False
+nervous,"[('신경질', 2)]",True
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,[],False
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,"[('개소리', 1), ('시끄럽게', 1)]",True
+noises,"[('이상한', 1), ('이상한 소리만', 1), ('소리만', 1)]",True
+noisier,[],False
+noisy,[],False
+non-confidence,[],False
+nonexistent,[],False
+nonresponsive,[],False
+nonsense,"[('말도', 4), ('무슨', 3), ('넌센스가', 3), ('넌센스랍니까', 2), ('막말이라며', 1)]",True
+nosey,[],False
+notoriety,"[('저명성', 5), ('저명성이', 2), ('확인이', 1), ('저명도가', 1), ('저명성부족으로', 1)]",True
+notorious,"[('저명성', 1)]",True
+notoriously,[],False
+noxious,[],False
+nuisance,[],False
+numb,[],True
+obese,[],False
+object,"[('반대', 1), ('제기하시려면', 1), ('사물이', 1), ('객체지향', 1)]",True
+objection,"[('이의를', 2), ('반대주장', 1), ('주장', 1), ('주장 _ 반대주장', 1), ('제기하여', 1)]",True
+objectionable,[],False
+objections,"[('의견도', 2), ('답변을', 1), ('반박이라는 _ 답변을', 1), ('반박이라는', 1), ('있으신지요', 1)]",True
+oblique,[],False
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,[],False
+obnoxiously,[],False
+obscene,[],False
+obscenely,[],False
+obscenity,[],False
+obscure,[],False
+obscured,[],False
+obscures,[],False
+obscurity,[],False
+obsess,"[('집착하지', 1)]",True
+obsessive,"[('강박증', 1)]",True
+obsessively,[],False
+obsessiveness,[],False
+obsolete,[],False
+obstacle,"[('장애가', 1)]",True
+obstinate,[],False
+obstinately,[],False
+obstruct,[],True
+obstructed,[],False
+obstructing,[],True
+obstruction,"[('컴퓨터업무방해죄에', 1)]",True
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,"[('홀수가', 1), ('odd', 1)]",True
+odder,[],False
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,[],False
+odor,[],False
+offence,[],False
+offend,"[('해서', 2), ('부분에서 _ 님의 _ 거스르게', 1), ('님의', 1), ('거스르게', 1), ('부분에서', 1)]",True
+offender,"[('사람이', 1), ('성범죄자', 1)]",True
+offending,[],False
+offenses,[],False
+offensive,"[('인신공격적인', 1), ('불쾌할', 1), ('말을', 1), ('공격적인', 1), ('미안한', 1)]",True
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,[],False
+ominously,[],False
+omission,"[('관인생략님이', 1)]",True
+omit,"[('생략하고', 1), ('생략해', 1), ('생략해 옮기면서', 1), ('옮기면서', 1), ('생략하려', 1)]",True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,[],False
+opponent,[],True
+opportunistic,[],False
+oppose,"[('반대한다는', 1), ('반대한다고', 1), ('반대하는', 1), ('반하는', 1), ('반대하면', 1)]",True
+opposition,"[('야당이', 1), ('반대', 1)]",True
+oppositions,[],False
+oppress,[],True
+oppression,[],False
+oppressive,[],False
+oppressively,[],False
+oppressiveness,[],False
+oppressors,[],False
+ordeal,[],False
+orphan,[],False
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,[],False
+outcry,[],False
+outlaw,[],False
+outmoded,[],False
+outrage,[],True
+outraged,[],False
+outrageous,"[('어이없는거', 1), ('지금껏', 1)]",True
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,"[('외부자의', 1)]",True
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,"[('지나친감이', 1)]",True
+overdone,[],True
+overdue,[],False
+overemphasize,[],False
+overheat,[],True
+overkill,[],False
+overloaded,"[('과부하가', 1), ('과부하가 _ 풀어서', 1), ('풀어서', 1)]",True
+overlook,[],True
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],False
+oversight,"[('참견', 1), ('참견 _ 드립니다', 1), ('드립니다', 1)]",True
+oversights,[],False
+oversimplification,[],False
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],False
+overstate,[],True
+overstated,[],False
+overstatement,"[('지나친', 1), ('지나친 추측입니다', 1), ('추측입니다', 1)]",True
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,[],True
+overthrows,[],False
+overturn,"[('뒤집는', 1)]",True
+overweight,[],False
+overwhelm,[],True
+overwhelmed,[],False
+overwhelming,"[('압도적으로', 1), ('압도적이지', 1), ('압도적인', 1)]",True
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,[],False
+overzealously,[],False
+overzelous,[],False
+pain,[],True
+painful,"[('일이었나요', 1)]",True
+painfull,[],False
+painfully,[],False
+pains,[],True
+pale,[],True
+pales,[],True
+paltry,[],False
+pan,[],True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,[],False
+panick,[],False
+panicked,[],False
+panicking,[],False
+panicky,[],False
+paradoxical,[],True
+paradoxically,"[('역설적으로', 1)]",True
+paralize,[],False
+paralyzed,[],False
+paranoia,[],False
+paranoid,[],False
+parasite,[],False
+pariah,[],False
+parody,[],False
+partiality,[],False
+partisan,[],False
+partisans,[],False
+passe,[],True
+passive,"[('피동형', 1)]",True
+passiveness,[],False
+pathetic,"[('한심하다는', 1)]",True
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,[],False
+peculiarly,[],False
+pedantic,[],False
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],True
+penalty,"[('벌칙을', 1), ('승부차기에서', 1), ('승부차기', 1)]",True
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],False
+pernicious,[],False
+perplex,[],False
+perplexed,[],False
+perplexing,[],False
+perplexity,[],False
+persecute,[],True
+persecution,[],False
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,[],True
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,[],False
+phobia,[],True
+phobic,[],False
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,[],True
+pig,[],False
+pigs,[],False
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,[],False
+pique,"[('올랭피크가', 1)]",True
+pitiable,[],False
+pitiful,"[('불쌍하지', 1), ('딱한', 1)]",True
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,"[('아쉽습니다', 1), ('아깝기라도', 1)]",True
+plagiarize,"[('저더러', 1), ('표절하지', 1), ('저더러 _ 표절하지', 1)]",True
+plague,[],True
+plasticky,[],False
+plaything,[],False
+plea,[],True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,[],False
+plotters,[],False
+ploy,[],True
+plunder,[],False
+plunderer,[],False
+pointless,"[('치졸한', 1), ('무의미하네요', 1)]",True
+pointlessly,[],False
+poison,[],True
+poisonous,"[('유독', 1)]",True
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,"[('더럽히려', 1), ('범하고', 1)]",True
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('빈약해서', 2), ('허술한', 1), ('빈약합니다', 1), ('빈약하지', 1), ('부실한', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,[],False
+posturing,[],False
+pout,[],True
+poverty,[],False
+powerless,[],True
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,"[('편식', 1)]",True
+prejudices,[],False
+prejudicial,[],False
+premeditated,[],False
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,"[('할려는', 1), ('암만해도 _ 주제넘게 _ 할려는', 1), ('주제넘게', 1), ('암만해도', 1), ('외람된', 1)]",True
+presumptuously,[],False
+pretence,[],False
+pretend,"[('그냥', 1), ('알면서도', 1)]",True
+pretense,[],False
+pretentious,[],False
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],False
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,[],False
+prison,"[('교도소에서도', 1), ('교도소에서', 1), ('프리즌', 1), ('교도소가', 1), ('징역', 1)]",True
+prisoner,[],True
+problem,"[('문제가', 89), ('문제', 18), ('문제는', 14), ('문제를', 8), ('문제인지', 5)]",True
+problematic,"[('문제가', 11), ('문제가 되는', 5), ('되는', 5), ('문제가 있는', 2), ('있는', 2)]",True
+problems,"[('문제를', 6), ('문제가', 6), ('문제점이', 2), ('문제', 2), ('문제점을', 2)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,"[('욕설은', 1), ('장난글을', 1), ('비속어가', 1), ('비속어', 1), ('욕설', 1)]",True
+prohibit,[],True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,"[('프로파간다라는', 1)]",True
+propagandize,[],False
+proprietary,[],False
+prosecute,[],False
+protest,"[('항의를', 1), ('항변하니', 1), ('반발하시기', 1)]",True
+protested,"[('항변하니까', 1)]",True
+protesting,"[('향해', 2)]",True
+protests,[],False
+protracted,[],False
+provocation,[],False
+provocative,"[('자극적인', 1)]",True
+provoke,"[('들먹이며', 1)]",True
+pry,[],False
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,[],False
+punish,[],True
+punishable,"[('처벌이', 1), ('처벌', 1), ('가능하지', 1), ('처벌 가능하지', 1)]",True
+punitive,[],False
+punk,[],False
+puny,[],False
+puppet,"[('꼭두각시', 1)]",True
+puppets,[],False
+puzzled,"[('의아해할', 1)]",True
+puzzlement,[],False
+puzzling,[],False
+quack,[],False
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,[],False
+quarrellous,[],False
+quarrellously,[],False
+quarrels,[],False
+quarrelsome,[],False
+quash,[],False
+queer,[],False
+questionable,"[('의문', 1), ('의문입니다', 1), ('의문이지만', 1)]",True
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,[],False
+racism,[],False
+racist,[],False
+racists,[],False
+racy,[],True
+radical,"[('과격한', 2)]",True
+radicalization,[],False
+radically,[],False
+radicals,[],False
+rage,[],True
+ragged,[],True
+raging,[],True
+rail,"[('케이온레일', 1)]",True
+raked,[],False
+rampage,[],False
+rampant,"[('휘몰아치는', 1)]",True
+ramshackle,[],False
+rancor,[],False
+randomly,"[('어떻게', 1), ('어떻게 _ 좋을지', 1), ('좋을지', 1)]",True
+rankle,[],False
+rant,"[('트집이라고', 1)]",True
+ranted,[],True
+ranting,[],True
+rantingly,[],False
+rants,[],True
+rape,[],True
+raped,[],True
+raping,[],False
+rascal,[],False
+rascals,[],False
+rash,[],True
+rattle,[],False
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],False
+reactionary,[],False
+rebellious,[],False
+rebuff,[],False
+rebuke,[],False
+recalcitrant,[],False
+recant,[],False
+recession,[],False
+recessionary,[],False
+reckless,"[('무분별한', 2), ('막무가내로', 1), ('막무가내', 1), ('막무가내 억지에', 1), ('억지에', 1)]",True
+recklessly,"[('공연히', 1), ('저촉됨을', 1), ('공연히 _ 저촉됨을 _ 개인적인', 1), ('개인적인', 1), ('말했다고', 1)]",True
+recklessness,"[('경솔', 1)]",True
+recoil,[],False
+recourses,[],False
+redundancy,[],False
+redundant,"[('간략하게', 1)]",True
+refusal,"[('거부하신', 2), ('거부인가요', 1)]",True
+refuse,"[('거절합니다', 1)]",True
+refused,"[('거부한', 1), ('거부하고', 1)]",True
+refuses,[],False
+refusing,"[('않으시면서', 1), ('않으시면서 _ 있겠습니까', 1), ('있겠습니까', 1), ('않겠다는', 1)]",True
+refutation,"[('반박', 1), ('반박 내용', 1), ('내용', 1)]",True
+refute,"[('반박했습니다', 1), ('반박할', 1), ('동의하고', 1), ('동의하고 반박할 _ 반박했습니다', 1), ('하셔야', 1)]",True
+refuted,"[('설명해드린 _ 반박한', 1), ('설명해드린', 1), ('반박한', 1), ('반박하고', 1)]",True
+refutes,"[('반박하는', 1), ('반박하는 _ 문법은', 1), ('문법은', 1)]",True
+refuting,"[('반박하지', 1)]",True
+regress,[],False
+regression,[],False
+regressive,[],False
+regret,"[('유감을', 1), ('감정이나', 1), ('잘못한', 1), ('유감이라는', 1)]",True
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,[],False
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,"[('토론', 1), ('거부하시겠다', 1), ('기각', 1), ('거부한다면', 1)]",True
+rejected,"[('반려된', 1), ('배척하는', 1), ('거부되었다는', 1), ('거절하시고', 1), ('당했죠', 1)]",True
+rejecting,"[('하시기 _ 들어보심은', 1), ('들어보심은', 1), ('하시기', 1), ('요청을', 1), ('기각하는', 1)]",True
+rejection,"[('기각', 1), ('토론', 1), ('적반하장이라는', 1)]",True
+rejects,[],False
+relapse,[],False
+relentless,[],True
+relentlessly,"[('정도로', 1), ('끈질길 정도로 반복하는', 1), ('반복하는', 1), ('끈질길', 1)]",True
+relentlessness,[],False
+reluctance,[],False
+reluctant,"[('않으십니까', 1), ('꺼려지지는', 1), ('꺼려져서', 1)]",True
+reluctantly,[],False
+remorse,"[('자극적인', 1)]",True
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,[],False
+renunciation,[],False
+repel,[],True
+repetitive,[],False
+reprehensible,[],False
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],False
+repression,[],False
+repressive,[],False
+reprimand,[],False
+reproach,[],False
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,[],False
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],False
+repulsed,[],False
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,[],True
+resentful,[],False
+resentment,[],False
+resignation,"[('퇴진', 2), ('탈퇴는', 1)]",True
+resigned,[],False
+resistance,[],False
+restless,[],False
+restlessness,[],False
+restrict,"[('제한할', 1)]",True
+restricted,[],False
+restriction,"[('제약이', 1), ('청소년', 1), ('청소년 _ 제한', 1), ('제한', 1)]",True
+restrictive,[],False
+resurgent,[],False
+retaliate,[],False
+retaliatory,"[('보복성', 1)]",True
+retard,[],False
+retarded,[],False
+retardedness,[],False
+retards,[],False
+reticent,[],False
+retract,[],False
+retreat,[],False
+retreated,[],False
+revenge,[],False
+revengeful,[],False
+revengefully,[],False
+revert,"[('되돌리기', 4), ('되돌리셨나요', 3), ('되돌린', 3), ('revert', 2), ('되돌리는', 2)]",True
+revile,[],False
+reviled,[],False
+revoke,"[('회수하고 차단해야', 1), ('회수하고', 1), ('차단해야', 1)]",True
+revolt,[],False
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,[],False
+rhetorical,[],False
+ricer,[],False
+ridicule,"[('조롱', 1), ('조롱이', 1)]",True
+ridicules,[],False
+ridiculous,"[('어이가', 4), ('안되는', 1), ('어이없군요', 1), ('따름입니다', 1), ('없을', 1)]",True
+ridiculously,[],False
+rife,[],True
+rift,[],False
+rifts,[],False
+rigid,[],True
+rigidity,[],False
+rigidness,[],False
+rile,[],False
+riled,[],False
+rip,[],True
+rip-off,[],False
+ripoff,[],False
+ripped,"[('고치면', 1), ('함부로 고치면', 1), ('함부로', 1), ('답변해달라는', 1)]",True
+risk,"[('걸', 1), ('우려가', 1), ('위험', 1)]",True
+risks,[],False
+risky,[],False
+rival,"[('경쟁', 1)]",True
+rivalry,[],False
+roadblocks,[],False
+rocky,[],False
+rogue,"[('부당한', 1), ('불량사용자로', 1), ('부당한 _ 불량사용자로', 1)]",True
+rollercoaster,[],False
+rot,[],True
+rotten,"[('멸시가', 2), ('썩었고', 1), ('썩을대로', 1), ('썩어버린', 1), ('썩을대로 썩었고', 1)]",True
+rough,[],True
+rremediable,[],False
+rubbish,[],False
+rude,"[('실례가', 2), ('무례하게', 1), ('억지', 1), ('부리시길', 1), ('억지 _ 부리시길', 1)]",True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,"[('망치면', 1), ('망치지', 1)]",True
+ruined,"[('망쳐놓고', 1)]",True
+ruining,"[('망해가는거', 1)]",True
+ruinous,[],False
+ruins,[],False
+rumbling,[],True
+rumor,"[('루머', 1)]",True
+rumors,"[('소문을', 1), ('루머', 1), ('소문이', 1), ('루머는', 1)]",True
+rumours,[],False
+rumple,[],True
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,[],True
+rusts,[],False
+rusty,[],False
+rut,[],True
+ruthless,[],False
+ruthlessly,[],False
+ruthlessness,[],False
+ruts,[],False
+sabotage,[],True
+sack,[],False
+sacrificed,[],False
+sad,"[('안타깝네요', 1)]",True
+sadden,[],False
+sadly,[],False
+sadness,[],False
+sag,[],True
+sagged,[],False
+sagging,"[('안달입니까', 1)]",True
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,[],True
+sarcasm,[],False
+sarcastic,"[('빈정상하겠습니까', 1), ('아니꼬운', 1), ('풍자하였다는', 1), ('비아냥거리는', 1), ('비꼬기', 1)]",True
+sarcastically,"[('비꼬는', 1)]",True
+sardonic,[],False
+sardonically,[],False
+sass,[],True
+satirical,[],False
+satirize,[],False
+savage,"[('촌철살견님이', 1)]",True
+savaged,[],False
+savagery,[],False
+savages,[],False
+scaly,[],False
+scam,"[('사기', 1), ('사기라니까요', 1)]",True
+scams,[],False
+scandal,[],False
+scandalize,[],False
+scandalized,[],False
+scandalous,[],False
+scandalously,[],False
+scandals,[],False
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,[],False
+scar,[],True
+scarce,[],False
+scarcely,[],False
+scarcity,[],False
+scare,[],True
+scared,"[('겁먹고', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,[],False
+scars,[],False
+scary,"[('무섭습니다', 1)]",True
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,[],True
+scolded,"[('잘못인가요', 1)]",True
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],False
+scornful,[],False
+scornfully,[],False
+scoundrel,[],False
+scourge,[],False
+scowl,[],False
+scramble,[],False
+scrambled,[],False
+scrambles,[],False
+scrambling,[],False
+scrap,[],True
+scratch,"[('내기', 1), ('마셨어야죠', 1), ('만들지 마셨어야죠', 1), ('만들지', 1)]",True
+scratched,[],False
+scratches,[],False
+scratchy,[],False
+scream,[],False
+screech,[],False
+screw-up,[],False
+screwed,[],False
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,[],False
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,[],False
+selfishly,[],False
+selfishness,[],False
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,[],False
+senselessly,[],False
+seriousness,[],False
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],False
+setbacks,[],False
+sever,[],True
+severe,"[('심한', 2), ('곤란함을', 1), ('심한날이면', 1), ('심하십니다', 1)]",True
+severity,[],False
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,[],False
+shake,"[('흔들려는', 1), ('뒤흔들어', 1), ('지울', 1), ('흔들어주세요라고', 1)]",True
+shaky,[],False
+shallow,[],False
+sham,[],True
+shambles,[],False
+shame,"[('수치심', 1), ('아쉬운', 1)]",True
+shameful,[],False
+shamefully,[],False
+shamefulness,[],False
+shameless,[],False
+shamelessly,[],False
+shamelessness,[],False
+shark,[],False
+sharply,[],False
+shatter,[],False
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,[],False
+shirker,[],False
+shit,"[('똥개가 저명성이', 1), ('똥개가', 1), ('저명성이', 1), ('시비인가요', 1)]",True
+shiver,[],False
+shock,[],True
+shocked,"[('갑자기', 1)]",True
+shocking,"[('충격적인', 1)]",True
+shockingly,[],False
+shoddy,[],False
+short-lived,[],False
+shortage,[],False
+shortchange,[],False
+shortcoming,[],True
+shortcomings,"[('점을', 2), ('부족한', 2), ('부족한 점이', 1), ('점이', 1), ('부족한 점을', 1)]",True
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,[],False
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,[],True
+shunned,[],False
+sick,"[('병', 1), ('탈이', 1), ('병크가', 1)]",True
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],False
+sidetracked,[],False
+siege,"[('공방전은', 1)]",True
+sillily,[],False
+silly,[],False
+simplistic,[],False
+simplistically,[],False
+sin,"[('원죄를', 1), ('원죄', 1), ('죄짓고', 1), ('이순신이나', 1)]",True
+sinful,[],False
+sinfully,[],False
+sinister,[],False
+sinisterly,[],False
+sink,[],False
+sinking,[],False
+skeletons,[],False
+skeptic,[],True
+skeptical,"[('회의적입니다', 2), ('불쾌하지', 1), ('사실', 1), ('사실 _ 회의적이지만', 1), ('회의적이지만', 1)]",True
+skeptically,[],False
+skepticism,[],False
+sketchy,[],False
+skimpy,[],False
+skinny,[],True
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,"[('비방', 2), ('하기', 1), ('인신비방을 하기', 1), ('인신비방을', 1), ('타인', 1)]",True
+slanderer,[],False
+slanderous,[],False
+slanderously,[],False
+slanders,[],False
+slap,[],False
+slashing,[],False
+slaughter,[],False
+slaughtered,[],False
+slave,"[('노예입니까', 1)]",True
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],False
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,"[('어수룩하진', 1)]",True
+sloth,[],False
+slothful,[],False
+slow,[],True
+slow-moving,[],False
+slowed,[],False
+slower,[],False
+slowest,[],False
+slowly,[],True
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],True
+sluggish,"[('썰렁한', 1), ('한산해질', 1)]",True
+slump,"[('부진한', 1)]",True
+slumping,[],False
+slumpping,[],False
+slur,[],True
+slut,[],False
+sluts,[],False
+sly,[],True
+smack,[],False
+smallish,[],False
+smash,[],False
+smear,[],False
+smell,[],False
+smelled,[],False
+smelling,[],False
+smells,[],False
+smelly,[],False
+smelt,[],False
+smoke,[],False
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,[],False
+smugly,[],False
+smut,[],False
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,[],False
+snarky,[],False
+snarl,[],False
+sneak,[],True
+sneakily,[],False
+sneaky,[],False
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,[],False
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,[],False
+so-cal,[],False
+soapy,[],False
+sob,[],False
+sober,[],False
+sobering,[],False
+solemn,[],False
+solicitude,[],False
+somber,[],False
+sore,[],True
+sorely,[],False
+soreness,[],False
+sorrow,[],True
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('죄송하지만', 7), ('죄송합니다', 6), ('죄송합니다만', 3), ('느끼셨다니', 2), ('편집했거든요', 1)]",True
+sour,[],True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],True
+spewed,"[('대필한다는', 1)]",True
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,"[('이러한 _ 불구하고', 1), ('이러한', 1), ('불구하고', 1)]",True
+spiteful,[],False
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,"[('분산되는', 1), ('분리시키면', 1)]",True
+splitting,[],False
+spoil,[],False
+spoilage,[],False
+spoilages,[],False
+spoiled,[],False
+spoilled,[],False
+spoils,[],False
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,[],False
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],False
+squabbling,[],False
+squander,[],False
+squash,[],False
+squeak,[],False
+squeaks,[],False
+squeaky,[],False
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,[],False
+stab,[],True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,[],False
+stains,[],False
+stale,[],False
+stalemate,[],False
+stall,[],True
+stalls,[],False
+stammer,[],False
+stampede,[],False
+standstill,[],False
+stark,[],False
+starkly,[],False
+startle,[],False
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,[],False
+static,[],False
+steal,"[('도용', 1), ('훔치려고', 1)]",True
+stealing,[],True
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],False
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,[],True
+sticky,[],False
+stiff,[],False
+stiffness,[],False
+stifle,[],False
+stifling,[],False
+stiflingly,[],False
+stigma,[],False
+stigmatize,[],False
+sting,[],True
+stinging,[],False
+stingingly,[],False
+stingy,"[('쏘아붙이는', 1)]",True
+stink,[],False
+stinks,[],False
+stodgy,[],False
+stole,"[('훔쳐쓴', 1)]",True
+stolen,[],False
+stooge,[],False
+stooges,[],False
+stormy,[],False
+straggle,[],False
+straggler,[],False
+strain,"[('피로가', 1), ('피로를', 1)]",True
+strained,[],True
+straining,[],False
+strange,"[('이상한', 8), ('이상하지', 5), ('이상합니다', 3), ('이상해서', 3), ('이상하네요', 2)]",True
+strangely,"[('이상하게', 1)]",True
+stranger,[],False
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,"[('스트레스', 1), ('강조하지만', 1)]",True
+stresses,[],False
+stressful,[],False
+stressfully,[],False
+stricken,[],False
+strict,"[('엄격한가요', 1), ('엄한', 1)]",True
+strictly,"[('엄밀히', 2), ('엄격하게', 2), ('심하게', 1)]",True
+strident,[],False
+stridently,[],False
+strife,"[('분란에', 1)]",True
+strike,"[('파업에', 1), ('파업', 1)]",True
+stringent,[],False
+stringently,[],False
+struck,[],False
+struggle,[],True
+struggled,[],False
+struggles,[],True
+struggling,"[('고생을', 1), ('피곤', 1)]",True
+strut,[],False
+stubborn,"[('고집을', 1), ('피우겠다', 1), ('고집을 피우겠다', 1), ('고집', 1)]",True
+stubbornly,[],False
+stubbornness,"[('고집인가요', 1)]",True
+stuck,"[('붙었고', 1), ('강에서', 1), ('강에서 붙었고', 1), ('생각해 _ 얽어매려고', 1), ('얽어매려고', 1)]",True
+stuffy,[],False
+stumble,[],True
+stumbled,"[('버벅대고', 1)]",True
+stumbles,[],False
+stump,[],False
+stumped,[],False
+stumps,[],False
+stun,[],True
+stunt,[],False
+stunted,[],False
+stupid,"[('얼빠진', 4), ('그러신거겠죠', 1), ('생뚱맞은', 1), ('실증사학자라고', 1), ('얼빠진 실증사학자라고', 1)]",True
+stupidest,[],False
+stupidity,[],False
+stupidly,[],False
+stupified,[],False
+stupify,[],False
+stupor,[],False
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,[],False
+subjected,[],False
+subjection,[],False
+subjugate,[],False
+subjugation,[],False
+submissive,[],False
+subordinate,"[('직원인가요', 1)]",True
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,[],False
+subtract,[],True
+subversion,[],False
+subversive,[],False
+subversively,[],False
+subvert,[],False
+succumb,[],False
+suck,[],True
+sucked,[],False
+sucker,[],False
+sucks,[],False
+sucky,[],False
+sue,"[('고소하고', 1), ('고소할', 1)]",True
+sued,"[('고소된', 1)]",True
+sueing,[],False
+sues,[],True
+suffer,[],True
+suffered,"[('피해', 1)]",True
+sufferer,[],True
+sufferers,"[('페인들한테', 1)]",True
+suffering,"[('고생을', 1)]",True
+suffers,[],False
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,[],False
+suicide,"[('자살이라도', 2), ('자살', 1), ('자살할', 1)]",True
+sulk,[],False
+sullen,[],False
+sully,[],False
+sunder,[],True
+sunk,[],False
+sunken,[],False
+superficial,[],False
+superficiality,[],False
+superficially,[],False
+superfluous,"[('불필요하는것은', 1)]",True
+superstition,[],False
+superstitious,[],False
+suppress,[],True
+suppression,"[('진압', 1)]",True
+surrender,[],True
+susceptible,[],False
+suspect,"[('의심하는', 1)]",True
+suspicion,"[('의혹에', 1), ('의혹에서', 1), ('부적절합니다', 1), ('의심이라고', 1), ('의심이라고 _ 부적절합니다', 1)]",True
+suspicions,[],False
+suspicious,"[('의심이', 2), ('쓰는 _ 의심하게', 1), ('의심하게', 1), ('쓰는', 1), ('수상해', 1)]",True
+suspiciously,[],False
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],False
+swelling,[],False
+swindle,[],False
+swipe,"[('고쳐쓰는', 1)]",True
+swollen,[],False
+symptom,[],False
+symptoms,[],False
+syndrome,[],False
+taboo,[],False
+tacky,[],False
+taint,[],True
+tainted,"[('물들어져있습니까', 2)]",True
+tamper,"[('훼손', 1)]",True
+tangle,[],False
+tangled,[],False
+tangles,[],False
+tank,"[('전차', 1), ('시설만', 1)]",True
+tanked,[],False
+tanks,[],False
+tantrum,"[('이건 트집잡기', 1), ('트집잡기', 1), ('이건', 1)]",True
+tardy,[],False
+tarnish,[],False
+tarnished,[],False
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],False
+taunting,[],False
+tauntingly,[],False
+taunts,[],False
+taut,[],False
+tawdry,[],False
+taxing,[],False
+tease,[],True
+teasingly,[],False
+tedious,[],False
+tediously,[],False
+temerity,[],False
+temper,"[('슬슬', 1)]",True
+tempest,[],False
+temptation,[],False
+tenderness,[],False
+tense,"[('시제', 1), ('문장이든', 1)]",True
+tension,[],True
+tentative,"[('가칭', 1)]",True
+tentatively,[],False
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,[],False
+terribleness,[],False
+terribly,[],False
+terror,"[('사이버테러대응센터에', 1)]",True
+terror-genic,[],False
+terrorism,"[('테러라고', 1), ('테러', 1), ('테러가', 1), ('사이버테러에', 1), ('정치테러사건에', 1)]",True
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,[],False
+thirst,[],False
+thorny,[],False
+thoughtless,"[('개념없는', 1)]",True
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,"[('협박이', 3), ('협박', 2), ('위협을', 1), ('협박인가요', 1), ('협박이라고', 1)]",True
+threaten,"[('협박했다고요', 1), ('위협을', 1), ('위협', 1), ('협박을', 1), ('위협하면서 _ 시키고', 1)]",True
+threatening,"[('협박하냐', 1), ('협박하는거', 1), ('협박을', 1)]",True
+threats,"[('협박을', 2), ('위협', 1), ('위협에', 1), ('협박', 1)]",True
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,[],False
+thumb-down,[],False
+thumbs-down,[],False
+thwart,"[('thwart', 1)]",True
+time-consuming,[],False
+timid,[],True
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('지겨우세요', 1), ('피곤할까요', 1), ('피곤한', 1), ('잘', 1), ('물고늘어져서', 1)]",True
+tiresome,[],False
+tiring,[],False
+tiringly,[],False
+toil,[],True
+toll,[],False
+top-heavy,[],False
+topple,[],False
+torment,[],True
+tormented,[],False
+torrent,[],False
+tortuous,[],False
+torture,[],True
+tortured,[],False
+tortures,[],False
+torturing,[],False
+torturous,[],False
+torturously,[],False
+totalitarian,[],False
+touchy,[],False
+toughness,[],False
+tout,[],True
+touted,[],False
+touts,[],True
+toxic,[],False
+traduce,[],False
+tragedy,[],False
+tragic,"[('tragic', 1)]",True
+tragically,[],False
+traitor,[],False
+traitorous,[],False
+traitorously,[],False
+tramp,[],True
+trample,"[('짓밟는', 1)]",True
+transgress,[],False
+transgression,[],False
+trap,[],True
+traped,[],False
+trapped,[],False
+trash,[],False
+trashed,[],False
+trashy,[],False
+trauma,[],False
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,[],False
+treasonous,[],False
+trick,"[('꼼수가', 1)]",True
+tricked,[],False
+trickery,[],False
+tricky,[],False
+trivial,"[('사소한', 3), ('가독성도', 2), ('그리도 관대하시단', 1), ('그리도', 1), ('관대하시단', 1)]",True
+trivialize,[],False
+trouble,"[('곤란해', 1), ('수고를', 1), ('죄송합니다', 1), ('폐만', 1), ('폐만 _ 죄송합니다', 1)]",True
+troubled,"[('고민이', 1)]",True
+troublemaker,[],False
+troubles,[],True
+troublesome,"[('불쾌한', 1)]",True
+troublesomely,[],False
+troubling,[],False
+troublingly,[],False
+truant,[],False
+tumble,[],True
+tumbled,[],True
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,"[('정치혼란으로', 1)]",True
+twist,[],True
+twisted,"[('꼬여요', 1)]",True
+twists,[],False
+two-faced,[],False
+two-faces,[],False
+tyrannical,[],False
+tyrannically,[],False
+tyranny,"[('횡포에', 2), ('전제정치를', 1), ('전제군주는', 1), ('횡포가', 1)]",True
+tyrant,[],False
+ugh,[],True
+uglier,[],False
+ugliest,[],False
+ugliness,[],False
+ugly,"[('추합니다', 1), ('보기', 1), ('같아', 1), ('같아 보기 추합니다', 1)]",True
+ulterior,[],False
+ultimatum,[],False
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,"[('못', 1), ('못하시는', 1), ('못하니까', 1), ('못하는', 1)]",True
+unacceptable,"[('용납할 _ 차단한다', 1), ('용납할', 1), ('차단한다', 1), ('없다', 1)]",True
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,[],False
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,[],False
+unauthentic,[],False
+unavailable,[],False
+unavoidably,[],False
+unbearable,[],False
+unbearablely,[],False
+unbelievable,[],False
+unbelievably,[],False
+uncaring,[],False
+uncertain,"[('불확실한', 3), ('불확실합니다', 1), ('확실하지', 1), ('불확실하며', 1)]",True
+uncivil,[],False
+uncivilized,[],False
+unclean,[],False
+unclear,"[('불분명한', 1), ('불명확하다면', 1), ('모르겠으나', 1), ('않다고', 1), ('애매합니다', 1)]",True
+uncollectible,[],False
+uncomfortable,"[('불쾌해서요', 1), ('불편하게', 1), ('불쾌하시거나', 1), ('불편하다는', 1), ('보기에 불편하다는', 1)]",True
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,[],False
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,"[('내리면서', 1), ('위헌 _ 내리면서', 1), ('위헌', 1)]",True
+uncontrolled,[],False
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,[],False
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,[],False
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,"[('백수인가요', 1), ('남아도는', 1), ('남아도는 백수인가요', 1)]",True
+underestimate,[],False
+underlings,[],False
+undermine,"[('해칠', 1)]",True
+undermined,"[('훼손되어져', 1)]",True
+undermines,[],True
+undermining,"[('저하되고', 1)]",True
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,[],False
+undetermined,[],False
+undid,[],False
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,[],False
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,"[('불안한', 1)]",True
+uneconomical,[],False
+unemployed,[],False
+unequal,[],False
+unethical,[],False
+uneven,[],False
+uneventful,[],False
+unexpected,"[('뜬금없는', 1)]",True
+unexpectedly,[],False
+unexplained,[],False
+unfairly,[],False
+unfaithful,[],False
+unfaithfully,[],False
+unfamiliar,"[('익숙하지', 2), ('않으신', 1), ('익숙하지 않으신', 1), ('당연히', 1), ('익숙치', 1)]",True
+unfavorable,"[('불리한', 1)]",True
+unfeeling,[],False
+unfinished,"[('완성되지 못한', 1), ('완성되지', 1), ('못한', 1)]",True
+unfit,[],False
+unforeseen,[],False
+unforgiving,[],False
+unfortunate,"[('억울합니다', 1), ('아쉬운데', 1), ('아쉽습니다', 1)]",True
+unfortunately,"[('아쉽지만', 1), ('아쉬운', 1), ('아쉽게도', 1), ('불행히도', 1)]",True
+unfounded,"[('없다고', 1), ('잘못된', 1), ('없다고 _ 잘못된', 1), ('명백히', 1), ('명백히 근거없는', 1)]",True
+unfriendly,[],False
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,[],False
+unhealthy,[],False
+unhelpful,"[('않는', 1)]",True
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,[],False
+uninformed,[],False
+uninsured,[],False
+unintelligible,[],False
+unintelligile,[],False
+unipolar,[],False
+unjust,[],True
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,"[('정당화', 1)]",True
+unjustly,"[('억울하게', 1)]",True
+unkind,"[('친절하지 못한', 1), ('친절하지', 1), ('못한', 1)]",True
+unkindly,[],False
+unknown,"[('없는', 1)]",True
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,[],False
+unlicensed,[],False
+unlikely,"[('없겠네요', 1)]",True
+unlucky,[],False
+unmoved,[],False
+unnatural,"[('부자연스러운', 2)]",True
+unnaturally,[],False
+unnecessary,"[('불필요한', 9), ('불필요하다고', 2), ('필요치 않은', 1), ('않은', 1), ('필요치', 1)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,[],False
+unobserved,[],False
+unorthodox,[],False
+unorthodoxy,[],False
+unpleasant,"[('기분', 1), ('기분 나쁜', 1), ('나쁜', 1), ('불쾌한', 1), ('불쾌합니다', 1)]",True
+unpleasantries,[],False
+unpopular,[],False
+unpredictable,[],False
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],False
+unproved,[],False
+unproven,[],False
+unproves,[],False
+unproving,[],False
+unqualified,"[('무자격', 1)]",True
+unravel,[],False
+unraveled,[],False
+unreachable,[],False
+unreadable,"[('좋지 않은', 2), ('않은', 2), ('좋지', 2)]",True
+unrealistic,[],False
+unreasonable,"[('무조건', 2), ('무리가', 2), ('불가능합니다', 1), ('상세한', 1), ('불가능합니다 _ 상세한 _ 무조건', 1)]",True
+unreasonably,[],False
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,[],False
+unreliable,"[('없네요', 1), ('신뢰성없다고', 1)]",True
+unresolved,[],False
+unresponsive,[],False
+unrest,[],False
+unruly,[],False
+unsafe,[],False
+unsatisfactory,[],False
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,[],False
+unsettle,[],False
+unsettled,[],False
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,[],False
+unspeakablely,[],False
+unspecified,"[('불특정', 3), ('불특정 _ 공연히', 1), ('공연히', 1), ('불특정인에', 1), ('불특정다수의', 1)]",True
+unstable,"[('불안정한', 1)]",True
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,[],False
+unsuccessfully,[],False
+unsupported,[],False
+unsupportive,[],False
+unsure,[],False
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,[],False
+untouched,[],False
+untrue,[],False
+untrustworthy,"[('지속적으로', 1), ('힘든 _ 지속적으로', 1), ('힘든', 1)]",True
+untruthful,[],False
+unusable,[],False
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,[],False
+unusually,[],False
+unviewable,[],False
+unwanted,[],False
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,"[('없으십니까', 1), ('의향이', 1), ('의향이 없으십니까', 1)]",True
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,[],False
+unyielding,[],False
+upbraid,[],False
+upheaval,[],False
+uprising,"[('소요사건이', 1)]",True
+uproar,[],False
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,[],False
+upset,"[('몰아가서 _ 열받게', 1), ('몰아가서', 1), ('열받게', 1), ('열', 1), ('열받나', 1)]",True
+upseting,[],False
+upsets,[],False
+upsetting,[],False
+upsettingly,[],False
+urgent,"[('급한', 1), ('긴급한', 1), ('급한지라', 1)]",True
+useless,"[('쓸데없는', 4), ('없는', 2), ('허접한', 1), ('실익없는', 1), ('쓰임이', 1)]",True
+usurp,[],False
+usurper,[],False
+utterly,[],False
+vagrant,[],False
+vague,"[('막연하다고', 1), ('안되니까', 1), ('두루뭉실한', 1)]",True
+vagueness,[],False
+vain,"[('괜히', 1)]",True
+vainly,[],False
+vanity,[],False
+vehement,[],False
+vehemently,[],False
+vengeance,[],False
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],False
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,[],False
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,[],False
+vice,"[('부회장의', 1), ('차관급이란', 1)]",True
+vicious,[],False
+viciously,[],False
+viciousness,[],False
+victimize,[],True
+vile,[],True
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],False
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,"[('위배되지', 2), ('위배될까요', 2), ('위배되는', 1), ('위반하는', 1), ('위배되지 _ 하며 _ 관련해서는', 1)]",True
+violation,"[('위반이', 3), ('위반', 3), ('위반이라고', 2), ('위배되는', 1), ('위반하시는', 1)]",True
+violator,[],False
+violators,[],False
+violent,"[('폭력집회라고', 1)]",True
+violently,"[('격렬히', 1)]",True
+viper,[],False
+virulence,[],False
+virulent,[],False
+virulently,[],False
+virus,"[('바이러스', 1)]",True
+vociferous,[],False
+vociferously,[],False
+volatile,[],False
+volatility,[],False
+vomit,"[('넘어서 _ 부끄러운지도', 1), ('부끄러운지도', 1), ('넘어서', 1)]",True
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,[],True
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],False
+wane,[],True
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,"[('경고', 1), ('했을텐데요', 1), ('경고 했을텐데요', 1), ('경고해서', 1), ('경고해서 놀랐습니다', 1)]",True
+warning,"[('경고', 3), ('경고는', 2), ('경고를', 2), ('경고합니다', 2), ('하신', 1)]",True
+warp,[],False
+warped,[],False
+wary,"[('주의해야 _ 정하는', 1), ('주의해야', 1), ('정하는', 1)]",True
+washed-out,[],False
+waste,"[('전기', 1)]",True
+wasted,"[('노력은', 1), ('낭비를', 1)]",True
+wasteful,"[('소모적입니다', 1)]",True
+wastefulness,[],False
+wasting,"[('하면서요', 1), ('귀하의 _ 하면서요', 1), ('귀하의', 1), ('소모하면서', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,"[('많으니', 1), ('어차피', 1), ('약합니까', 1)]",True
+weaken,[],False
+weakening,[],False
+weaker,[],False
+weakness,[],False
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,[],False
+weed,[],False
+weep,[],True
+weird,"[('이상한', 2), ('해괴한', 1), ('이상한지', 1), ('틀렸나', 1), ('이상하네요', 1)]",True
+weirdly,[],False
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,"[('안보입니다', 1)]",True
+whiny,[],False
+whips,[],False
+whore,[],False
+whores,[],False
+wicked,[],False
+wickedly,[],False
+wickedness,[],False
+wild,[],False
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,[],False
+wobbled,[],False
+wobbles,[],False
+woe,[],False
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,"[('달아야하는건', 1)]",True
+worried,"[('걱정입니다', 1), ('벌써부터', 1), ('우려스럽기도', 1), ('걱정되기는', 1), ('고민입니다', 1)]",True
+worriedly,[],False
+worrier,[],False
+worries,[],False
+worrisome,[],False
+worry,"[('고민할', 1)]",True
+worrying,[],False
+worryingly,[],False
+worse,"[('더', 2), ('어이없는', 1), ('더 어이없는', 1), ('더한', 1), ('오히려', 1)]",True
+worsen,[],False
+worsening,[],False
+worst,"[('가장', 1)]",True
+worthless,[],False
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,[],False
+wreaked,[],False
+wreaks,[],False
+wreck,"[('주먹왕은', 1)]",True
+wrest,[],False
+wrestle,[],False
+wretch,[],False
+wretched,[],False
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,[],True
+wrinkled,"[('조리하지', 1), ('쭈글쭈글한 _ 조리하지', 1), ('쭈글쭈글한', 1)]",True
+wrinkles,[],False
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('잘못된', 26), ('잘못', 13), ('문제가', 12), ('잘못한', 9), ('틀린', 7)]",True
+wrongful,[],False
+wrongly,"[('잘못', 2)]",True
+wrought,[],False
+yawn,[],False
+zap,[],False
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,[],False
+zealously,[],False

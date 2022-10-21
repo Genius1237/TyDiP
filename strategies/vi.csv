@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('xin', 64), ('hãy', 26), ('bạn', 22), ('lòng', 9), ('vui', 7)]",True
+Strategy - Please_start,,
+please,"[('xin', 64), ('hãy', 26), ('bạn', 22), ('lòng', 9), ('vui', 7)]",True
+Strategy - HASHEDGE,,
+think,"[('nghĩ', 221), ('cho', 39), ('thấy', 36), ('rằng', 15), ('nào', 9)]",True
+thought,"[('tưởng', 16), ('nghĩ', 15), ('cho', 4), ('cứ', 2), ('ngờ', 1)]",True
+thinking,"[('nghĩ', 10), ('tính', 2), ('suy', 2), ('cho', 1), ('suy nghĩ', 1)]",True
+almost,"[('gần', 16), ('hầu', 6), ('như', 2), ('gần như', 1), ('bằng', 1)]",True
+apparent,[],True
+apparently,"[('hình', 3), ('ràng', 2), ('rõ ràng', 2), ('rõ', 2), ('như', 1)]",True
+appear,"[('hiện', 21), ('xuất', 7), ('xuất hiện', 5), ('được hiện lên', 1), ('lên', 1)]",True
+appeared,"[('hiện', 8), ('xuất', 5), ('xuất hiện', 4), ('ra', 2), ('lộ', 1)]",True
+appears,"[('xuất', 2), ('hiện', 2), ('ở', 1), ('xuất hiện', 1), ('tỏ', 1)]",True
+approximately,"[('xấp', 1), ('xấp xỉ', 1), ('xỉ', 1)]",True
+around,"[('quanh', 10), ('tung', 3), ('xung', 3), ('vòng', 1), ('khắp', 1)]",True
+assume,"[('cho', 4), ('sử', 2), ('giả', 2), ('giả sử', 2), ('rằng', 2)]",True
+assumed,"[('cho', 2), ('cho rằng', 1), ('rằng', 1)]",True
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('đòi', 3), ('tự', 3), ('nhận', 2), ('tuyên', 2), ('tuyên bố', 1)]",True
+claimed,"[('tự', 1)]",True
+doubt,"[('ngờ', 5), ('nghi', 2), ('cứ', 1), ('nghi ngờ', 1)]",True
+doubtful,"[('nghi', 1), ('nghi ngờ', 1), ('ngờ', 1)]",True
+essentially,[],False
+estimate,[],False
+estimated,[],False
+feel,"[('thấy', 120), ('cảm', 22), ('cảm thấy', 9), ('nào', 1), ('có thấy', 1)]",True
+felt,"[('thấy', 2), ('cảm', 1), ('giác', 1)]",True
+frequently,[],False
+from our perspective,[],False
+generally,"[('chung', 2), ('chung chung', 1)]",True
+guess,"[('đoán', 19), ('là', 6), ('chắc', 6), ('đoán là', 5), ('có', 2)]",True
+in general,"[('tổng', 1)]",True
+in most cases,[],False
+in most instances,[],False
+in our view,[],False
+indicate,"[('biết', 1), ('chỉ', 1)]",True
+indicated,"[('chỉ', 1), ('rõ', 1), ('chỉ rõ', 1)]",True
+largely,[],False
+likely,"[('thể', 3), ('năng', 1), ('năng là', 1), ('là', 1)]",True
+mainly,"[('yếu', 6), ('chủ yếu', 2), ('chủ', 2)]",True
+may,"[('cho', 31), ('có', 14), ('thể', 12), ('xin', 11), ('có thể', 3)]",True
+maybe,"[('có', 48), ('lẽ', 35), ('có lẽ', 23), ('thể', 11), ('có thể', 9)]",True
+might,"[('thể', 5), ('lẽ', 1), ('thường', 1), ('sẽ', 1), ('thì', 1)]",True
+mostly,"[('phần', 2), ('toàn', 1), ('chủ', 1), ('chủ _ toàn', 1)]",True
+often,"[('thường', 36), ('hay', 16), ('thường xuyên', 3), ('xuyên', 3), ('rất', 1)]",True
+on the whole,[],False
+ought,[],True
+perhaps,"[('lẽ', 32), ('có', 17), ('có lẽ', 15), ('chắc', 2), ('perhaps', 1)]",True
+plausible,[],False
+plausibly,[],False
+possible,"[('thể', 25), ('khả', 5), ('được', 4), ('có', 2), ('khả _ không', 1)]",True
+possibly,"[('thể', 5), ('có thể', 2), ('có', 2), ('được', 1), ('thể được', 1)]",True
+postulate,[],False
+postulated,[],False
+presumable,[],False
+probable,[],False
+probably,"[('lẽ', 22), ('cũng', 8), ('chắc', 7), ('là', 5), ('chắc là', 3)]",True
+relatively,"[('đối', 7), ('tương', 2)]",True
+roughly,"[('tạm', 2), ('xấp', 1), ('xấp xỉ', 1), ('xỉ', 1), ('gần', 1)]",True
+seems,"[('hình', 14), ('vẻ', 11), ('có', 8), ('dường', 5), ('như', 3)]",True
+should,"[('nên', 171), ('phải', 40), ('có', 30), ('nào', 5), ('liệu', 4)]",True
+sometimes,"[('đôi', 16), ('khi', 11), ('lúc', 7), ('nhiều', 6), ('đôi khi', 5)]",True
+somewhat,"[('hơi', 2), ('có', 1), ('phần', 1)]",True
+suggest,"[('nghị', 9), ('đề', 7), ('xuất', 5), ('ý', 4), ('cho', 2)]",True
+suggested,"[('đề', 7), ('nghị', 6), ('đề nghị', 4), ('ý', 3), ('từng', 1)]",True
+suppose,"[('sử', 2), ('giả', 2), ('giả sử', 2)]",True
+suspect,"[('ngờ', 3), ('nghi', 3)]",True
+tend to,[],True
+tends to,[],True
+typical,"[('điển', 1), ('thể', 1), ('thể _ điển', 1), ('thương', 1), ('biểu', 1)]",True
+typically,"[('điển', 3)]",True
+uncertain,"[('chưa', 1)]",True
+uncertainly,[],False
+unclear,"[('rõ', 3), ('chưa', 2), ('không', 2), ('ràng', 2), ('chưa rõ', 1)]",True
+unclearly,[],False
+unlikely,[],False
+usually,"[('thường', 15)]",True
+broadly,[],False
+tended to,[],True
+presumably,"[('chắc', 1), ('theo', 1)]",True
+suggests,[],False
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],True
+in this view,[],True
+in our opinion,[],False
+in my opinion,[],True
+to my knowledge,[],False
+fairly,[],False
+quite,"[('khá', 55), ('đối', 2), ('tương', 2), ('đúng', 1), ('lắm', 1)]",True
+rather,"[('hơn', 6), ('chứ', 5), ('khá', 2), ('đừng', 1), ('hay', 1)]",True
+argue,"[('cãi', 6), ('luận', 4), ('tranh', 4), ('tranh luận', 2), ('chuyện', 1)]",True
+argues,"[('biện', 1), ('luận', 1)]",True
+argued,"[('luận', 2), ('tranh luận', 1), ('tranh', 1), ('cãi', 1)]",True
+claims,"[('bố', 1), ('nhận', 1), ('tự', 1)]",True
+feels,"[('thấy', 2), ('có', 1), ('giác', 1)]",True
+indicates,[],False
+supposed,"[('hình', 1), ('có', 1)]",True
+supposes,[],False
+suspects,"[('nghi', 2), ('nghi sĩ', 1), ('sĩ', 1)]",True
+postulates,[],False
+Strategy - Deference,,
+great,"[('đại', 15), ('lớn', 6), ('đế', 6), ('vĩ', 5), ('quá', 4)]",True
+good,"[('tốt', 63), ('giỏi', 12), ('hay', 12), ('ổn', 8), ('lắm', 3)]",True
+nice,"[('hay', 3), ('túc', 1), ('vui', 1), ('rất', 1), ('rất hay', 1)]",True
+good,"[('tốt', 63), ('giỏi', 12), ('hay', 12), ('ổn', 8), ('lắm', 3)]",True
+interesting,"[('thú', 7), ('vị', 3), ('vị chứ', 1), ('chứ', 1), ('thú vị', 1)]",True
+cool,"[('chanh', 1), ('phết', 1), ('ngầu', 1), ('bị', 1), ('lạnh', 1)]",True
+excellent,"[('biên', 1), ('xuất', 1)]",True
+awesome,"[('ghê', 1)]",True
+Strategy - 1st_person_pl.,,
+we,"[('ta', 200), ('chúng', 48), ('chúng ta', 19), ('tôi', 10), ('mình', 8)]",True
+our,"[('ta', 12), ('chúng', 12), ('mình', 4), ('chúng ta', 2), ('our', 2)]",True
+us,"[('mỹ', 20), ('chúng', 12), ('ta', 11), ('chúng ta', 7), ('hoa', 5)]",True
+ourselves,[],False
+Strategy - 1st_person,,
+i,"[('tôi', 1323), ('mình', 483), ('em', 106), ('không', 32), ('anh', 23)]",True
+my,"[('tôi', 150), ('mình', 100), ('bạn', 11), ('của', 8), ('những', 7)]",True
+mine,"[('tôi', 8), ('em', 2), ('mình', 2), ('ta', 1), ('sao _ ta', 1)]",True
+myself,"[('mình', 10), ('thân', 2), ('không', 1), ('myself', 1), ('thân mình', 1)]",True
+Strategy - 1st_person_start,,
+i,"[('tôi', 1323), ('mình', 483), ('em', 106), ('không', 32), ('anh', 23)]",True
+my,"[('tôi', 150), ('mình', 100), ('bạn', 11), ('của', 8), ('những', 7)]",True
+mine,"[('tôi', 8), ('em', 2), ('mình', 2), ('ta', 1), ('sao _ ta', 1)]",True
+myself,"[('mình', 10), ('thân', 2), ('không', 1), ('myself', 1), ('thân mình', 1)]",True
+Strategy - 2nd_person,,
+you,"[('bạn', 1853), ('anh', 178), ('có', 70), ('thể', 44), ('mình', 36)]",True
+your,"[('bạn', 215), ('mình', 34), ('anh', 20), ('các', 11), ('những', 7)]",True
+yours,"[('bạn', 5), ('của', 4), ('không', 2), ('bạn được không', 1), ('được', 1)]",True
+yourself,"[('mình', 17), ('tự', 4), ('thân', 3), ('bạn', 2), ('nhân', 1)]",True
+Strategy - 2nd_person_start,,
+you,"[('bạn', 1853), ('anh', 178), ('có', 70), ('thể', 44), ('mình', 36)]",True
+your,"[('bạn', 215), ('mình', 34), ('anh', 20), ('các', 11), ('những', 7)]",True
+yours,"[('bạn', 5), ('của', 4), ('không', 2), ('bạn được không', 1), ('được', 1)]",True
+yourself,"[('mình', 17), ('tự', 4), ('thân', 3), ('bạn', 2), ('nhân', 1)]",True
+Strategy - Indirect_(greeting),,
+hi,"[('chào', 67), ('hi', 15), ('xin', 7), ('anh', 3), ('chào bác', 1)]",True
+hello,"[('chào', 102), ('bạn', 9), ('chào bạn', 8), ('xin', 4), ('hello', 3)]",True
+hey,"[('ê', 7), ('này', 6), ('nè', 3), ('ờ', 2), ('ơi', 2)]",True
+Strategy - Direct_question,,
+what,"[('gì', 395), ('sao', 141), ('nào', 90), ('thế', 68), ('cái', 41)]",True
+why,"[('sao', 699), ('tại', 52), ('tại sao', 40), ('gì', 26), ('vì', 16)]",True
+who,"[('ai', 124), ('người', 31), ('mà', 13), ('bạn', 9), ('nào', 7)]",True
+how,"[('sao', 156), ('cách', 79), ('thế', 68), ('làm', 39), ('bạn', 28)]",True
+Strategy - Direct_start,,
+so,"[('vậy', 367), ('nên', 208), ('thế', 64), ('để', 55), ('như', 50)]",True
+then,"[('rồi', 120), ('thì', 99), ('đó', 37), ('sau', 19), ('vậy', 9)]",True
+and,"[('và', 1385), (',', 127), ('còn', 113), ('mà', 76), ('rồi', 66)]",True
+but,"[('nhưng', 729), ('mà', 306), ('chứ', 80), ('nhiên', 15), ('còn', 11)]",True
+or,"[('hay', 732), ('hoặc', 241), (',', 9), ('or', 4), ('trở', 2)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,"[('rẫy', 1)]",True
+abounds,[],False
+abundance,[],False
+abundant,"[('nguồn', 1)]",True
+accessable,[],False
+accessible,"[('truy cập', 1), ('truy', 1), ('cập', 1)]",True
+acclaim,[],False
+acclaimed,[],False
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,[],False
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,"[('xác', 13), ('dễ', 1), ('cao', 1)]",True
+accurately,"[('xác', 2)]",True
+achievable,[],False
+achievement,"[('tựu', 1)]",True
+achievements,"[('thành', 2), ('tích', 2), ('học', 1), ('thành tích', 1)]",True
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,[],False
+adjustable,[],False
+admirable,"[('ngưỡng', 1)]",True
+admirably,[],False
+admiration,[],False
+admire,"[('ngưỡng', 2), ('ngưỡng mộ', 2), ('mộ', 2), ('phục', 1), ('cảm', 1)]",True
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,[],False
+adore,[],False
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,"[('tiến', 2), ('cao', 1), ('các', 1)]",True
+advantage,"[('lợi', 1)]",True
+advantageous,[],False
+advantageously,[],False
+advantages,[],False
+adventuresome,[],False
+adventurous,[],False
+advocate,"[('ủng', 2)]",True
+advocated,"[('chủ', 1)]",True
+advocates,"[('hộ', 1), ('ủng hộ', 1), ('ủng', 1)]",True
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,"[('tưởng', 1)]",True
+affectionate,[],False
+affinity,"[('affinity', 1)]",True
+affirm,[],True
+affirmation,"[('khẳng', 1)]",True
+affirmative,[],False
+affluence,[],False
+affluent,[],False
+afford,[],True
+affordable,"[('chăng', 1), ('phải', 1), ('phải _ có', 1), ('có', 1)]",True
+affordably,[],False
+afordable,[],False
+agile,[],False
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],False
+altruistically,[],False
+amaze,[],False
+amazed,[],False
+amazement,[],False
+amazes,[],False
+amazing,[],False
+amazingly,[],False
+ambitious,"[('tham', 1), ('vọng', 1), ('tham vọng', 1)]",True
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,[],False
+amity,[],False
+ample,[],True
+amply,[],False
+amuse,[],True
+amusing,[],False
+amusingly,[],False
+angel,"[('thần', 2), ('thiên', 1), ('thiên thần', 1)]",True
+angelic,[],False
+apotheosis,[],False
+appeal,"[('thẩm', 2), ('cáo', 1)]",True
+appealing,[],False
+applaud,"[('rất hoan nghênh', 1), ('nghênh', 1), ('hoan', 1), ('rất', 1)]",True
+appreciable,[],False
+appreciate,"[('đánh', 2), ('cám', 1), ('cảm', 1), ('trọng', 1), ('trân trọng', 1)]",True
+appreciated,"[('đánh', 1), ('cao', 1), ('đánh _ cao', 1)]",True
+appreciates,"[('đề', 1), ('đề cao', 1), ('cao', 1)]",True
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('hợp', 90), ('phù', 64), ('phù hợp', 63), ('thể', 1), ('thể _ hợp', 1)]",True
+approval,"[('thuận', 1)]",True
+approve,"[('qua', 1)]",True
+ardent,[],False
+ardently,[],False
+ardor,[],False
+articulate,[],False
+aspiration,[],True
+aspirations,"[('nguyện', 1), ('vọng', 1), ('nguyện vọng', 1)]",True
+aspire,[],False
+assurance,"[('đảm', 1), ('bảo', 1), ('đảm bảo', 1)]",True
+assurances,[],False
+assure,[],True
+assuredly,[],False
+assuring,[],False
+astonish,[],True
+astonished,[],False
+astonishing,[],False
+astonishingly,[],False
+astonishment,"[('nhiên', 1)]",True
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,"[('ý', 1), ('chú ý', 1), ('chú', 1)]",True
+attraction,[],True
+attractive,"[('hút', 1), ('sức', 1), ('sức hút', 1)]",True
+attractively,[],False
+attune,[],False
+audible,[],False
+audibly,[],False
+auspicious,[],False
+authentic,"[('thực', 1), ('xác', 1), ('bản', 1), ('bản _ xác thực', 1)]",True
+authoritative,"[('quyền', 1), ('thẩm', 1), ('thẩm quyền', 1)]",True
+autonomous,[],False
+available,"[('có', 9), ('sẵn', 6), ('tại', 1), ('đang', 1), ('sắn', 1)]",True
+aver,[],True
+avid,[],True
+avidly,[],False
+award,"[('giải', 4), ('thưởng', 3), ('giải thưởng', 1)]",True
+awarded,"[('trao', 4), ('trao tặng', 2), ('tặng', 2), ('phong', 1)]",True
+awards,"[('thưởng', 5), ('giải', 4), ('giải thưởng', 3), ('trao tặng', 1), ('tặng', 1)]",True
+awe,[],True
+awed,[],False
+awesome,"[('ghê', 1)]",True
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,[],False
+bargain,[],False
+beauteous,[],False
+beautiful,"[('đẹp', 14)]",True
+beautifullly,[],False
+beautifully,"[('đẹp', 1)]",True
+beautify,[],False
+beauty,"[('đẹp', 4), ('hậu', 2), ('lien', 1)]",True
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],True
+believeable,[],False
+beloved,[],True
+benefactor,[],False
+beneficent,[],False
+beneficial,"[('lợi', 3), ('ích', 2), ('ích lợi', 1)]",True
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('lợi', 10), ('cho', 1), ('ích', 1)]",True
+benefits,"[('lợi', 4), ('ích', 1), ('lợi ích', 1)]",True
+benevolence,[],False
+benevolent,[],False
+benifits,[],False
+best,"[('nhất', 10), ('tốt', 5), ('tối', 2), ('best', 1), ('có _ nhất', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('hơn', 30), ('tốt', 17), ('giỏi', 3), ('tốt hơn', 2), ('khác', 2)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,"[('phù _ cho', 1), ('phù', 1), ('cho', 1)]",True
+blessing,[],False
+bliss,[],False
+blissful,[],False
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,[],True
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,"[('thưởng', 1)]",True
+bonuses,[],False
+boom,[],True
+booming,[],False
+boost,[],False
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,"[('brave', 1)]",True
+bravery,[],False
+bravo,[],False
+breakthrough,"[('bức phá', 1), ('phá', 1), ('bức', 1)]",True
+breakthroughs,[],False
+breathlessness,[],False
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,[],False
+brighten,[],False
+brighter,[],False
+brightest,[],False
+brilliance,[],False
+brilliances,[],False
+brilliant,"[('chói', 1), ('mơ _ chói', 1), ('mơ', 1)]",True
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,"[('bình', 4), ('bình tĩnh', 3), ('tĩnh', 3), ('bình tâm', 1), ('tâm', 1)]",True
+calming,[],False
+calmness,[],False
+capability,[],False
+capable,"[('khả', 3), ('lực', 1), ('năng', 1), ('khả năng', 1)]",True
+capably,[],False
+captivate,[],False
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,"[('ăn', 1)]",True
+celebrated,[],False
+celebration,[],False
+celebratory,[],False
+champ,[],True
+champion,"[('vô địch', 1), ('địch', 1), ('vô', 1)]",True
+charisma,[],False
+charismatic,[],False
+charitable,[],False
+charm,"[('ấp', 1), ('mộng', 1)]",True
+charming,[],False
+charmingly,[],False
+chaste,[],False
+cheaper,[],False
+cheapest,[],False
+cheer,"[('cố', 1)]",True
+cheerful,[],False
+cheery,[],False
+cherish,[],True
+cherished,"[('ấp', 1)]",True
+cherub,[],False
+chic,[],True
+chivalrous,[],False
+chivalry,[],False
+civility,[],False
+civilize,[],True
+clarity,[],False
+classic,[],False
+classy,[],False
+clean,"[('dọn', 3), ('sạch', 3), ('luôn', 1), ('sạch luôn', 1), ('clean', 1)]",True
+cleaner,[],False
+cleanest,[],False
+cleanliness,[],False
+cleanly,[],False
+clear,"[('rõ', 62), ('ràng', 18), ('rõ ràng', 11), ('xóa', 1), ('tỏ', 1)]",True
+clear-cut,[],False
+cleared,[],False
+clearer,"[('rõ ràng hơn', 1), ('ràng', 1), ('rõ', 1), ('hơn', 1)]",True
+clearly,"[('rõ', 27), ('ràng', 7), ('ghi', 4), ('rõ ràng', 3), ('đã', 3)]",True
+clears,[],False
+clever,[],False
+cleverly,[],False
+cohere,[],True
+coherence,"[('lạc', 1), ('chính _ sự mạch lạc', 1), ('chính', 1), ('sự', 1), ('mạch', 1)]",True
+coherent,"[('ràng', 1)]",True
+cohesive,[],False
+colorful,[],False
+comely,[],False
+comfort,[],True
+comfortable,"[('thuận', 2), ('tình', 1), ('thuận tình', 1), ('hiểu', 1), ('dễ', 1)]",True
+comfortably,"[('thoải', 1), ('thoải mái', 1), ('mái', 1)]",True
+comforting,[],False
+comfy,[],False
+commend,[],True
+commendable,[],False
+commendably,[],False
+commitment,"[('kết', 3)]",True
+commodious,[],False
+compact,"[('gọn', 2)]",True
+compactly,[],False
+compassion,"[('thiện nhượng', 1), ('thiện', 1), ('nhượng', 1)]",True
+compassionate,[],False
+compatible,[],False
+competitive,"[('tranh', 1)]",True
+complement,[],True
+complementary,"[('bổ', 1)]",True
+complemented,[],False
+complements,"[('bổ', 1), ('bổ _ cho', 1), ('cho', 1)]",True
+compliant,[],True
+compliment,[],False
+complimentary,[],False
+comprehensive,"[('toàn', 1)]",True
+conciliate,[],False
+conciliatory,[],False
+concise,"[('cụ', 1), ('súc tích', 1), ('tích', 1), ('súc', 1)]",True
+confidence,"[('tin', 1), ('nhiệm', 1)]",True
+confident,"[('tin', 1), ('thoải', 1), ('thoải _ tin', 1)]",True
+congenial,[],False
+congratulate,"[('chúc', 2), ('chúc mừng', 1), ('mừng', 1)]",True
+congratulation,[],True
+congratulations,"[('chúc', 5), ('chúc mừng', 4), ('mừng', 4)]",True
+congratulatory,[],False
+conscientious,"[('có', 1)]",True
+considerate,[],False
+consistent,"[('thống', 2), ('thống nhất', 1), ('nhất', 1)]",True
+consistently,[],True
+constructive,"[('xây', 3), ('thời', 1), ('dựng', 1), ('thời _ xây dựng', 1), ('ý', 1)]",True
+consummate,[],False
+contentment,[],False
+continuity,[],False
+contrasty,[],False
+contribution,"[('góp', 15), ('đóng góp', 1), ('đóng', 1)]",True
+convenience,"[('tiện', 4), ('lợi', 2), ('sự', 1), ('sự tiện lợi', 1), ('giúp', 1)]",True
+convenient,"[('tiện', 7), ('thuận', 3), ('thuận tiện', 2), ('thuận lợi', 1), ('lợi', 1)]",True
+conveniently,[],False
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,"[('phục', 3), ('thuyết', 3), ('thuyết phục', 2), ('lẽ thuyết phục', 1), ('lẽ', 1)]",True
+convincingly,[],False
+cool,"[('chanh', 1), ('phết', 1), ('ngầu', 1), ('bị', 1), ('lạnh', 1)]",True
+coolest,[],False
+cooperative,[],False
+cooperatively,[],False
+cornerstone,[],False
+correct,"[('đúng', 53), ('sửa', 32), ('xác', 9), ('chỉnh', 5), ('sửa lại', 1)]",True
+correctly,"[('đúng', 6), ('xác', 4), ('không', 2), ('cho đúng', 2), ('cho', 2)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,"[('đảm', 1), ('khí', 1)]",True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,[],False
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('creative', 4), ('tạo', 2), ('sáng', 2), ('sáng tạo', 1)]",True
+credence,[],False
+credible,[],False
+crisp,[],False
+crisper,[],False
+cure,"[('chữa', 1)]",True
+cure-all,[],False
+cushy,[],False
+cute,"[('cute', 1), ('đi', 1), ('ghê', 1), ('ghê đi', 1)]",True
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,"[('dám', 4)]",True
+daringly,[],False
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,[],True
+dazzle,[],False
+dazzled,[],False
+dazzling,[],False
+dead-cheap,[],False
+dead-on,[],False
+decency,[],False
+decent,"[('đàng', 2), ('đàng _ vô', 1), ('vô', 1), ('lệch', 1)]",True
+decisive,"[('quyết', 1)]",True
+decisiveness,[],True
+dedicated,"[('dành', 2), ('riêng', 1)]",True
+defeat,"[('bại', 2), ('thất', 1), ('thất bại', 1), ('thua', 1)]",True
+defeated,"[('bại', 3), ('đánh', 1)]",True
+defeating,"[('đánh', 1), ('đánh bại', 1), ('bại', 1), ('dẹp', 1)]",True
+defeats,[],False
+defender,"[('vệ', 1)]",True
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,[],True
+delicious,"[('lành', 1), ('lành _ hén', 1), ('hén', 1), ('ngon', 1)]",True
+delight,[],False
+delighted,[],False
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,[],False
+deserving,"[('thế', 1)]",True
+desirable,[],False
+desiring,[],False
+desirous,[],False
+destiny,[],False
+detachable,[],False
+devout,[],False
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,"[('trang trọng', 1), ('trọng', 1), ('trang', 1)]",True
+dignify,[],False
+dignity,"[('nhân', 3), ('phẩm', 3), ('nhân phẩm', 2)]",True
+diligence,"[('siêng', 1)]",True
+diligent,"[('siêng', 1)]",True
+diligently,"[('cần', 1), ('mẫn', 1), ('cần mẫn', 1)]",True
+diplomatic,"[('ngoại', 6), ('giao', 1), ('lãnh', 1), ('ngoại giao', 1), ('mối _ ngoại', 1)]",True
+dirt-cheap,[],False
+distinction,"[('phân', 4), ('biệt', 2), ('phân biệt', 2)]",True
+distinctive,"[('đặc', 1), ('đặc trưng', 1), ('trưng', 1)]",True
+distinguished,"[('phân', 1)]",True
+diversified,[],False
+divine,"[('thiên', 1)]",True
+divinely,[],False
+dominate,[],False
+dominated,[],False
+dominates,[],False
+dote,[],True
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,"[('bền', 1)]",True
+dynamic,"[('động', 2)]",True
+eager,"[('thiết', 2), ('nóng', 1), ('tha thiết', 1), ('tha', 1), ('háo', 1)]",True
+eagerly,"[('hục', 1), ('hì hục', 1), ('hì', 1)]",True
+eagerness,[],False
+earnest,[],True
+earnestly,"[('thiết', 1), ('mong', 1), ('tha', 1), ('tha thiết mong', 1)]",True
+earnestness,[],False
+ease,"[('dễ', 2)]",True
+eased,[],True
+eases,[],False
+easier,"[('dễ', 13)]",True
+easiest,[],False
+easiness,[],False
+easing,[],True
+easy,"[('dễ', 37), ('dễ dãi', 1), ('dãi', 1)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,"[('kinh', 1)]",True
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,"[('học', 2), ('cao', 1), ('dục', 1), ('giáo', 1), ('giáo dục', 1)]",True
+effective,"[('quả', 5), ('hiệu', 4), ('hiệu quả', 3), ('hữu', 1), ('dụng', 1)]",True
+effectively,"[('hiệu quả', 1), ('quả', 1), ('hiệu', 1)]",True
+effectiveness,[],False
+effectual,[],False
+efficacious,[],False
+efficient,"[('quả', 1)]",True
+efficiently,[],False
+effortless,[],False
+effortlessly,[],False
+effusion,[],False
+effusive,[],False
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,[],False
+elegantly,[],False
+elevate,[],False
+elite,"[('tú nhất', 1), ('nhất', 1), ('tú', 1)]",True
+eloquence,[],False
+eloquent,[],False
+eloquently,[],False
+embolden,[],False
+eminence,[],False
+eminent,[],False
+empathize,[],False
+empathy,[],False
+empower,[],False
+empowerment,[],False
+enchant,[],False
+enchanted,[],False
+enchanting,[],False
+enchantingly,[],False
+encourage,"[('khích', 2)]",True
+encouragement,"[('ơn _ của', 1), ('ơn', 1), ('của', 1)]",True
+encouraging,"[('khích', 1), ('lệ', 1), ('khích lệ', 1)]",True
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,"[('nhận', 1), ('xác nhận', 1), ('xác', 1), ('hộ', 1), ('ủng hộ', 1)]",True
+endorsed,"[('endorsed', 1)]",True
+endorsement,[],False
+endorses,[],False
+endorsing,[],False
+energetic,"[('xông xáo', 1), ('xông', 1), ('xáo', 1)]",True
+energize,[],False
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],False
+engrossing,[],False
+enhance,[],True
+enhanced,"[('cao', 1), ('làm', 1), ('cao _ làm', 1)]",True
+enhancement,"[('cường', 1), ('tăng', 1), ('tăng cường', 1)]",True
+enhances,[],False
+enjoy,"[('thức', 2), ('thích', 2), ('rất thích', 1), ('rất', 1)]",True
+enjoyable,[],False
+enjoyably,[],False
+enjoyed,"[('thích', 1)]",True
+enjoying,[],False
+enjoyment,[],False
+enjoys,[],False
+enlighten,"[('sáng _ hận', 1), ('sáng', 1), ('hận', 1), ('ngộ', 1), ('giác', 1)]",True
+enlightenment,"[('ngộ', 1), ('gíac ngộ', 1), ('gíac', 1), ('khai lạc', 1), ('khai', 1)]",True
+enliven,[],False
+ennoble,[],False
+enough,"[('đủ', 81), ('để', 1), ('chưa', 1), ('đủ _ chưa', 1), ('có _ đủ', 1)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,"[('làm', 1)]",True
+enrichment,[],False
+enterprising,[],False
+entertain,[],True
+entertaining,[],False
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,"[('huyết', 2), ('nhiệt', 2), ('nhiệt huyết', 2), ('ngọn _ nhiệt huyết', 1), ('ngọn', 1)]",True
+enthusiast,"[('mê', 1), ('đam mê', 1), ('đam', 1)]",True
+enthusiastic,"[('nhiệt', 5), ('tình', 3), ('nhiệt tình', 3), ('kĩ', 2), ('nhiệt _ kĩ', 2)]",True
+enthusiastically,"[('tình', 1), ('nhiệt tình', 1), ('nhiệt', 1), ('hăng', 1)]",True
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,[],False
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,[],False
+equitable,[],False
+ergonomical,[],False
+err-free,[],False
+erudite,[],False
+ethical,"[('đạo', 1), ('đức', 1), ('đạo đức', 1)]",True
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,[],False
+evenly,[],True
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],False
+exaltation,[],False
+exalted,[],False
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,"[('vượt quá', 1), ('quá', 1), ('vượt', 1)]",True
+exceeded,[],False
+exceeding,[],False
+exceedingly,[],False
+exceeds,[],False
+excel,"[('excel', 1)]",True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],False
+excellency,[],False
+excellent,"[('biên', 1), ('xuất', 1)]",True
+excellently,[],False
+excels,[],False
+exceptional,[],False
+exceptionally,[],False
+excite,[],True
+excited,"[('hứng', 1), ('hào', 1)]",True
+excitedly,[],False
+excitedness,[],False
+excitement,"[('phấn', 1), ('phấn khởi', 1), ('khởi', 1)]",True
+excites,[],False
+exciting,[],False
+excitingly,[],False
+exellent,[],False
+exemplar,[],False
+exemplary,[],False
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],False
+extoll,[],False
+extraordinarily,[],False
+extraordinary,"[('thường', 1), ('ngoại thường', 1), ('ngoại', 1), ('vũ _ kỳ án', 1), ('án', 1)]",True
+exuberance,[],False
+exuberant,[],False
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,[],False
+fabulously,[],False
+facilitate,[],False
+fair,"[('lý', 6), ('sử', 4), ('bằng', 3), ('hợp', 2), ('tâm', 1)]",True
+fairly,[],False
+fairness,"[('bằng', 1)]",True
+faith,"[('ý', 1)]",True
+faithful,"[('trung thành', 1), ('trung', 1), ('thành', 1)]",True
+faithfully,[],False
+faithfulness,[],False
+fame,[],False
+famed,[],False
+famous,"[('nổi', 15), ('tiếng', 14), ('nổi tiếng', 8), ('danh', 2), ('cái', 1)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],False
+fanfare,[],False
+fans,"[('fan', 1), ('viên', 1)]",True
+fantastic,[],False
+fantastically,[],False
+fascinate,[],False
+fascinating,[],False
+fascinatingly,[],False
+fascination,[],False
+fashionable,[],False
+fashionably,[],False
+fast,"[('nhanh', 3), ('thức', 1)]",True
+fast-growing,[],False
+fast-paced,[],False
+faster,"[('nhanh', 5)]",True
+fastest,"[('nhất', 1), ('tốc', 1)]",True
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('việc', 3), ('huệ', 1)]",True
+favorable,"[('lợi', 2), ('thuận', 1), ('thuận lợi', 1)]",True
+favored,[],False
+favorite,"[('thích', 2), ('các', 1)]",True
+favorited,[],False
+favour,[],False
+fearless,[],False
+fearlessly,[],False
+feasible,[],False
+feasibly,[],False
+feat,"[('chiến', 1)]",True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,[],False
+fertile,[],False
+fervent,[],False
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,[],False
+fiery,[],False
+fine,"[('được', 4), ('tốt', 4), ('ổn', 3), ('khỏe chứ', 1), ('khỏe', 1)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],False
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,[],False
+flatter,[],True
+flattering,"[('tâng', 1), ('chút', 1), ('đang', 1), ('nọt', 1), ('nịnh', 1)]",True
+flatteringly,[],False
+flawless,[],False
+flawlessly,[],False
+flexibility,[],False
+flexible,"[('hoạt', 1), ('dài', 1), ('động', 1), ('dài _ động', 1)]",True
+flourish,"[('khởi sắc', 1), ('sắc', 1), ('khởi', 1)]",True
+flourishing,[],False
+fluent,"[('thạo', 4), ('thông', 2), ('rành', 2), ('thông thạo', 1)]",True
+flutter,[],False
+fond,[],False
+fondly,[],False
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,[],True
+fortunately,"[('may', 5), ('cũng', 2), ('cũng may', 1), ('là', 1), ('cũng _ mà', 1)]",True
+fortune,"[('bói', 1)]",True
+fragrant,"[('thơm', 2)]",True
+free,"[('do', 17), ('rảnh', 5), ('phí', 3), ('free', 2), ('phép', 2)]",True
+freed,[],True
+freedom,"[('tự', 3), ('do', 2), ('quyền', 1)]",True
+freedoms,[],False
+fresh,[],True
+fresher,[],False
+freshest,[],False
+friendliness,[],False
+friendly,"[('thiện', 2)]",True
+frolic,[],False
+frugal,"[('phung', 1)]",True
+fruitful,[],False
+ftw,[],True
+fulfillment,[],False
+fun,"[('vui', 8), ('công', 1), ('giỡn', 1), ('thú', 1), ('ư', 1)]",True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('rút', 1), ('đạt', 1)]",True
+gained,[],True
+gainful,[],False
+gainfully,[],False
+gaining,[],False
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],False
+geekier,[],False
+geeky,[],False
+gem,[],True
+gems,"[('quý', 1), ('đá quý', 1), ('đá', 1)]",True
+generosity,[],False
+generous,[],False
+generously,[],False
+genial,[],False
+genius,"[('tài', 1)]",True
+gentle,"[('câu hiền', 1), ('hiền', 1), ('câu', 1)]",True
+gentlest,"[('nhàng', 1), ('nhất', 1), ('nhẹ nhàng nhất', 1), ('nhẹ', 1)]",True
+genuine,[],True
+gifted,[],False
+glad,[],True
+gladden,[],False
+gladly,"[('sẵn sàng', 1), ('sàng', 1), ('sẵn', 1)]",True
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,[],False
+gloriously,[],False
+glory,"[('vinh', 1), ('huy', 1)]",True
+glow,[],False
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('vàng', 4), ('cờ', 1)]",True
+golden,"[('vàng', 3), ('golden', 1), ('trái _ vàng', 1), ('trái', 1)]",True
+good,"[('tốt', 63), ('giỏi', 12), ('hay', 12), ('ổn', 8), ('lắm', 3)]",True
+goodly,[],False
+goodness,[],False
+goodwill,"[('thiện', 3), ('ý', 2), ('thiện ý', 1), ('chí', 1), ('thiện chí', 1)]",True
+goood,[],False
+gooood,[],False
+gorgeous,[],False
+gorgeously,[],False
+grace,[],True
+graceful,[],False
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,[],True
+grandeur,[],False
+grateful,"[('cảm', 1), ('kích', 1), ('cảm kích', 1)]",True
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,"[('ân', 1)]",True
+great,"[('đại', 15), ('lớn', 6), ('đế', 6), ('vĩ', 5), ('quá', 4)]",True
+greatest,"[('vĩ', 1), ('greatest', 1)]",True
+greatness,[],False
+grin,[],False
+groundbreaking,[],False
+guarantee,"[('đảm', 3), ('bảo', 2), ('cho', 1), ('bảo đảm cho', 1), ('đảm bảo', 1)]",True
+guidance,"[('dẫn', 2), ('hướng', 1)]",True
+guiltless,[],False
+gumption,[],False
+gush,[],False
+gusto,[],False
+gutsy,[],False
+hail,[],True
+halcyon,[],False
+hale,[],True
+hallmark,[],False
+hallmarks,[],False
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,"[('đẹp', 1)]",True
+handsomely,[],False
+handy,[],False
+happier,[],False
+happily,[],False
+happiness,"[('hạnh', 1), ('khỏe _ niềm vui', 1), ('vui', 1), ('khỏe', 1), ('niềm', 1)]",True
+happy,"[('vui', 8), ('chúc', 5), ('sinh', 1), ('chúc _ sinh', 1), ('chúc mừng', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,[],False
+harmonious,[],False
+harmoniously,[],False
+harmonize,[],False
+harmony,"[('khí', 1), ('hoà khí', 1), ('hoà', 1), ('thiện', 1)]",True
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,"[('mạnh', 2), ('healthy', 1), ('vui', 1)]",True
+hearten,[],False
+heartening,[],False
+heartfelt,[],False
+heartily,[],False
+heartwarming,"[('ấm', 1), ('thịnh', 1)]",True
+heaven,"[('trời', 1), ('thiên', 1)]",True
+heavenly,"[('thiên', 2), ('hồ', 1)]",True
+helped,"[('giúp', 4)]",True
+helpful,"[('ích', 3), ('hữu ích', 1), ('hữu', 1)]",True
+helping,"[('giúp', 6), ('để', 1)]",True
+hero,"[('hùng', 9)]",True
+heroic,"[('hùng', 2), ('heroic', 1), ('tâm', 1), ('hùng tâm', 1)]",True
+heroically,[],False
+heroine,[],False
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,[],False
+holy,"[('thánh', 4), ('tòa', 3), ('đế _ la', 1), ('la', 1), ('đế', 1)]",True
+homage,[],False
+honest,"[('thật', 6), ('thắn', 1), ('thật _ tường', 1), ('tường', 1), ('là', 1)]",True
+honesty,[],False
+honor,"[('dự', 6), ('vinh', 2), ('tôn', 2), ('vinh dự', 1), ('kính', 1)]",True
+honorable,[],False
+honored,"[('danh', 1), ('tôn', 1)]",True
+honoring,[],False
+hooray,[],False
+hopeful,[],True
+hospitable,[],False
+hot,"[('nóng', 6), ('lạnh', 1), ('hơi nóng', 1), ('hơi', 1), ('nóng tính', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,[],True
+humane,[],False
+humble,"[('hạ', 1)]",True
+humility,[],False
+humor,[],False
+humorous,[],False
+humorously,[],False
+humour,[],False
+humourous,[],False
+ideal,"[('tưởng', 1)]",True
+idealize,[],False
+ideally,[],False
+idol,"[('thần', 1), ('thần tượng', 1), ('tượng', 1)]",True
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],False
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,"[('lẫy', 1)]",True
+ilu,"[('ilu', 1)]",True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,[],True
+impartial,[],False
+impartiality,[],False
+impartially,[],False
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('trọng', 27), ('quan', 22), ('quan trọng', 11), ('những', 3), ('các', 2)]",True
+impress,[],True
+impressed,"[('tượng', 1), ('cảm', 1), ('kích', 1), ('cảm kích', 1)]",True
+impresses,[],False
+impressive,[],False
+impressively,[],False
+impressiveness,[],False
+improve,"[('thiện', 8), ('cải', 7), ('cải thiện', 3), ('nâng', 1), ('cao', 1)]",True
+improved,"[('cải', 1)]",True
+improvement,"[('cải', 1)]",True
+improvements,"[('cải', 1)]",True
+improves,[],False
+improving,"[('cải', 1)]",True
+incredible,[],False
+incredibly,[],False
+indebted,[],False
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,[],False
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,[],False
+infallible,[],False
+infallibly,[],False
+influential,"[('những', 1), ('hưởng', 1), ('ảnh', 1), ('ảnh hưởng', 1)]",True
+ingenious,"[('tài', 1)]",True
+ingeniously,[],False
+ingenuity,[],False
+ingenuous,[],False
+ingenuously,[],False
+innocuous,[],False
+innovation,[],False
+innovative,[],False
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,"[('hứng', 2)]",True
+inspirational,[],False
+inspire,[],False
+inspiring,[],False
+instantly,"[('tức', 1)]",True
+instructive,[],False
+instrumental,[],False
+integral,[],False
+integrated,[],True
+intelligence,"[('minh', 2), ('thông minh', 1), ('thông', 1), ('báo', 1)]",True
+intelligent,"[('kiểu', 1)]",True
+intelligible,[],False
+interesting,"[('thú', 7), ('vị', 3), ('vị chứ', 1), ('chứ', 1), ('thú vị', 1)]",True
+interests,"[('lợi', 2)]",True
+intimacy,[],False
+intimate,[],False
+intricate,[],False
+intrigue,[],False
+intriguing,[],False
+intriguingly,[],False
+intuitive,[],True
+invaluable,[],False
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],True
+inviolable,[],False
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,[],False
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,"[('khỏe _ vui', 1), ('vui', 1), ('khỏe', 1)]",True
+joyful,[],False
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,"[('bừng', 1)]",True
+jubilantly,"[('hân', 1), ('hân _ bừng', 1), ('bừng', 1)]",True
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],False
+keen,[],False
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,"[('bụng', 1), ('tốt', 1), ('tốt bụng', 1)]",True
+kindness,[],False
+knowledgeable,"[('hiểu', 7), ('hiểu biết', 1), ('biết', 1), ('rọt', 1)]",True
+kudos,[],False
+large-capacity,[],False
+laud,[],True
+laudable,[],False
+laudably,[],False
+lavish,"[('hoa', 1), ('xa', 1), ('xa hoa', 1)]",True
+lavishly,[],False
+law-abiding,[],False
+lawful,[],False
+lawfully,[],False
+lead,"[('dẫn', 8), ('dẫn.bài', 2), ('lead', 1), ('vai', 1), ('dẫn dắt', 1)]",True
+leading,"[('dẫn', 4), ('vị', 1), ('đạo', 1), ('leading', 1)]",True
+leads,"[('dẫn', 4)]",True
+lean,[],True
+led,"[('làm', 1), ('dẫn', 1), ('đạo', 1), ('lãnh', 1), ('lãnh đạo', 1)]",True
+legendary,[],False
+leverage,[],False
+levity,[],False
+liberate,[],True
+liberation,"[('giải', 3), ('phóng', 2), ('tranh', 1), ('đấu', 1), ('đấu tranh giải phóng', 1)]",True
+liberty,"[('phép', 1)]",True
+lifesaver,[],False
+light-hearted,[],False
+lighter,"[('nhàng', 1), ('nhẹ', 1), ('nhẹ nhàng hơn', 1), ('hơn', 1)]",True
+likable,[],False
+like,"[('như', 403), ('thích', 58), ('giống', 48), ('muốn', 20), ('ưa', 9)]",True
+liked,"[('thích', 3)]",True
+likes,"[('thích', 8)]",True
+liking,"[('mình', 1), ('khăng thích', 1), ('thích', 1), ('khăng', 1), ('hèn', 1)]",True
+lionhearted,[],False
+lively,[],False
+logical,"[('logic', 1)]",True
+long-lasting,[],False
+lovable,"[('dể', 1)]",True
+lovably,[],False
+love,"[('thích', 9), ('yêu', 7), ('tình', 7), ('rất', 2), ('muốn', 1)]",True
+loved,"[('yêu', 1)]",True
+loveliness,[],False
+lovely,[],False
+lover,"[('yêu', 1)]",True
+loves,"[('yêu', 1)]",True
+loving,[],False
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,[],False
+loyalty,[],False
+lucid,[],False
+lucidly,[],False
+luck,"[('vận', 1), ('ghep', 1), ('goc', 1), ('goc _ ghep', 1), ('cục', 1)]",True
+luckier,[],False
+luckiest,[],False
+luckiness,[],False
+lucky,"[('lì', 2), ('mắn', 1), ('siêu', 1)]",True
+lucrative,[],False
+luminous,[],False
+lush,"[('lush', 1)]",True
+luster,[],True
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,[],False
+luxuriously,[],False
+luxury,[],False
+lyrical,[],False
+magic,"[('phép', 1), ('magic', 1)]",True
+magical,[],False
+magnanimous,[],False
+magnanimously,[],False
+magnificence,[],False
+magnificent,[],False
+magnificently,[],False
+majestic,"[('gớm', 1), ('dày', 1), ('oai', 1), ('vẻ', 1), ('vệ', 1)]",True
+majesty,"[('thượng', 1)]",True
+manageable,[],False
+maneuverable,[],False
+marvel,[],False
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,"[('chủ', 2), ('chính', 1), ('bác', 1), ('tổng', 1), ('thầy', 1)]",True
+masterful,[],False
+masterfully,[],False
+masterpiece,"[('kiệt', 1), ('kiệt tác', 1), ('tác', 1)]",True
+masterpieces,[],False
+masters,"[('thủ', 1), ('sư', 1)]",True
+mastery,[],False
+matchless,[],False
+mature,[],True
+maturely,[],True
+maturity,[],False
+meaningful,"[('nghĩa', 3), ('ý', 2), ('ý nghĩa', 1), ('đáo', 1), ('ý _ đáo', 1)]",True
+memorable,[],False
+merciful,[],False
+mercifully,[],False
+mercy,[],True
+merit,"[('công', 2), ('công lớn', 1), ('lớn', 1)]",True
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,"[('chúc', 1)]",True
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,"[('mỉ', 1)]",True
+meticulously,"[('dày _ mỉ', 1), ('mỉ', 1), ('dày', 1)]",True
+mightily,[],False
+mighty,[],False
+mind-blowing,[],False
+miracle,"[('miracle', 1)]",True
+miracles,[],False
+miraculous,[],False
+miraculously,[],False
+miraculousness,[],False
+modern,"[('hiện', 8), ('đại', 5), ('hiện đại', 3), ('cận', 2), ('kien', 1)]",True
+modest,[],True
+modesty,[],False
+momentous,[],False
+monumental,[],True
+monumentally,[],False
+morality,"[('lý', 1)]",True
+motivated,[],False
+multi-purpose,[],False
+navigable,[],False
+neat,"[('chỉn', 1), ('chỉn chu', 1), ('chu', 1), ('gọn', 1)]",True
+neatest,[],False
+neatly,[],False
+nice,"[('hay', 3), ('túc', 1), ('vui', 1), ('rất', 1), ('rất hay', 1)]",True
+nicely,[],False
+nicer,"[('hơn', 1)]",True
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,"[('quý', 4), ('cao _ quý', 1), ('cao', 1), ('thượng', 1), ('diệu', 1)]",True
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,[],False
+noteworthy,[],False
+nourish,[],False
+nourishing,[],False
+nourishment,[],False
+novelty,[],False
+nurturing,[],False
+oasis,[],False
+obsession,[],False
+obsessions,[],False
+obtainable,[],False
+openly,"[('khai', 3)]",True
+openness,[],False
+optimal,[],False
+optimism,[],False
+optimistic,"[('quan', 1), ('lạc quan', 1), ('lạc', 1)]",True
+opulent,[],False
+orderly,[],True
+originality,[],False
+outdo,[],True
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,"[('nổi', 13), ('bật', 7), ('nổi bật', 6), ('xuất', 2), ('biên', 1)]",True
+outstandingly,[],False
+outstrip,[],False
+outwit,[],False
+ovation,[],False
+overjoyed,[],False
+overtake,[],False
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],False
+painlessly,[],False
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,[],False
+paradise,[],False
+paramount,[],False
+pardon,[],False
+passion,"[('niềm', 1), ('sâm', 1)]",True
+passionate,"[('đam', 1)]",True
+passionately,[],False
+patience,"[('kiên', 3), ('nhẫn', 3), ('kiên nhẫn', 1), ('kiên nhẫn _ chút', 1), ('chút', 1)]",True
+patient,[],True
+patiently,"[('chịu khó', 1), ('chịu', 1), ('khó', 1)]",True
+patriot,"[('yêu nước', 1), ('yêu', 1), ('nước', 1), ('patriot', 1)]",True
+patriotic,"[('vệ quốc', 1), ('quốc', 1), ('vệ', 1), ('tính _ yêu nước', 1), ('tính', 1)]",True
+peace,"[('khí', 2), ('được', 1), ('hòa', 1)]",True
+peaceable,[],False
+peaceful,"[('hòa', 4), ('ổn', 2), ('bình', 2), ('hòa bình', 2), ('chung', 1)]",True
+peacefully,[],False
+peacekeepers,[],False
+peach,[],True
+peerless,[],False
+pep,[],True
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,"[('hảo', 2), ('hoàn', 2), ('thiện', 2), ('hoàn thiện', 1), ('perfect', 1)]",True
+perfection,[],True
+perfectly,"[('hảo', 1), ('hoàn hảo', 1), ('hoàn', 1)]",True
+permissible,[],False
+perseverance,[],False
+persevere,"[('trì', 2), ('kiên', 1), ('kiên trì', 1)]",True
+personages,[],False
+personalized,[],False
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,"[('hiếu', 1)]",True
+pinnacle,"[('đỉnh', 1), ('cao', 1), ('đỉnh cao', 1)]",True
+playful,[],False
+playfully,[],False
+pleasant,[],False
+pleasantly,[],False
+pleased,[],False
+pleases,[],False
+pleasing,"[('chút', 1)]",True
+pleasingly,[],False
+pleasurable,[],False
+pleasurably,[],False
+pleasure,[],True
+plentiful,[],False
+pluses,[],False
+plush,[],False
+plusses,[],False
+poetic,[],False
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,[],False
+polite,"[('sự', 5), ('lịch sự', 4), ('lịch', 4), ('lễ phép', 1), ('phép', 1)]",True
+politeness,"[('sự', 1)]",True
+popular,"[('phổ', 7), ('biến', 6), ('phổ biến', 6), ('dụng', 3), ('tiếng', 2)]",True
+portable,[],False
+posh,[],False
+positive,"[('cực', 2), ('tích', 2), ('tích cực', 1)]",True
+positively,[],False
+positives,[],False
+powerful,"[('mạnh', 2)]",True
+powerfully,[],False
+praise,"[('ngợi', 7), ('ca', 1), ('ca ngợi', 1), ('khen', 1)]",True
+praiseworthy,[],False
+praising,"[('ca', 1), ('ngợi', 1), ('ca ngợi', 1), ('khen', 1)]",True
+pre-eminent,[],False
+precious,"[('tốn', 1)]",True
+precise,"[('xác', 3)]",True
+precisely,"[('xác', 1)]",True
+preeminent,[],False
+prefer,"[('thích', 4), ('khoái', 1), ('vá', 1), ('khoái _ vá', 1), ('ưa', 1)]",True
+preferable,[],False
+preferably,"[('tốt', 1), ('tốt _ là', 1), ('là', 1)]",True
+prefered,[],False
+preferes,[],False
+preferring,[],False
+prefers,[],False
+premier,[],False
+prestige,"[('nhân', 1)]",True
+prestigious,[],True
+prettily,[],False
+pretty,"[('khá', 4), ('thật', 1), ('đẹp', 1), ('xinh', 1), ('dữ', 1)]",True
+priceless,[],False
+pride,"[('ái', 1), ('nạn _ binh', 1), ('binh', 1), ('nạn', 1), ('tộc', 1)]",True
+principled,[],False
+privilege,[],False
+privileged,[],False
+prize,"[('giải', 4), ('thưởng', 1)]",True
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,[],False
+productively,[],False
+proficient,"[('thành thạo', 1), ('thành', 1), ('thạo', 1)]",True
+proficiently,[],False
+profound,[],False
+profoundly,[],False
+profuse,[],False
+profusion,[],False
+progress,[],True
+progressive,[],True
+prolific,[],True
+prominence,"[('nổi', 10), ('bật', 7), ('nổi bật', 5), ('độ', 4), ('độ nổi bật', 2)]",True
+prominent,"[('bật', 11), ('nổi', 9), ('nổi bật', 4), ('các', 1)]",True
+promise,"[('hứa', 5)]",True
+promised,"[('hứa', 1)]",True
+promises,"[('hứa', 1)]",True
+promising,"[('triển vọng', 1), ('vọng', 1), ('triển', 1)]",True
+promoter,[],False
+prompt,[],True
+promptly,[],False
+proper,"[('riêng', 3), ('các _ riêng', 1), ('các', 1), ('danh', 1), ('danh _ riêng', 1)]",True
+properly,"[('đúng', 5), ('như', 2), ('hoàng', 1), ('lại', 1)]",True
+propitious,[],False
+propitiously,[],False
+pros,[],True
+prosper,[],False
+prosperity,[],False
+prosperous,[],False
+prospros,[],False
+protect,"[('vệ', 5), ('bảo', 3), ('bảo vệ', 2)]",True
+protection,"[('vệ', 1)]",True
+protective,[],False
+proud,"[('hào', 1), ('cao thế', 1), ('cao', 1), ('thế', 1)]",True
+proven,"[('minh', 4), ('chứng', 3), ('thực', 1), ('thực _ chứng minh', 1)]",True
+proves,"[('chứng', 4), ('minh', 2), ('tỏ', 1)]",True
+providence,[],False
+proving,"[('chứng minh', 2), ('minh', 2), ('chứng', 2)]",True
+prowess,[],False
+prudence,[],True
+prudent,[],False
+prudently,[],False
+punctual,[],False
+pure,"[('thuần', 1), ('tiếng', 1)]",True
+purify,[],False
+purposeful,[],False
+quaint,[],True
+qualified,"[('chuẩn', 3), ('đủ', 2), ('đủ tiêu chuẩn', 1), ('tiêu', 1), ('tư', 1)]",True
+qualify,"[('đạt', 1)]",True
+quicker,[],False
+quiet,"[('yên', 2), ('mịch', 1), ('thâm', 1), ('tĩnh', 1), ('lặng', 1)]",True
+quieter,[],False
+radiance,[],False
+radiant,[],False
+rapid,[],False
+rapport,[],False
+rapt,[],False
+rapture,[],False
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,"[('lý', 1), ('xóa', 1), ('lý _ của _ xóa', 1), ('của', 1)]",True
+razor-sharp,[],False
+reachable,[],False
+readable,[],False
+readily,[],False
+ready,"[('sẵn', 5), ('ready', 2), ('sàng', 1), ('bạn', 1), ('chẳng', 1)]",True
+reaffirm,[],False
+reaffirmation,[],False
+realistic,"[('thực', 1), ('tế', 1), ('thực tế', 1)]",True
+realizable,[],False
+reasonable,"[('lý', 24), ('hợp', 21), ('hợp lý', 16), ('có', 2), ('không', 2)]",True
+reasonably,"[('thực', 1), ('lý', 1)]",True
+reasoned,"[('lý', 1)]",True
+reassurance,[],False
+reassure,[],False
+receptive,"[('năng', 1), ('năng tiếp', 1), ('tiếp', 1)]",True
+reclaim,[],False
+recomend,[],False
+recommend,"[('cử', 5), ('đề', 4), ('đề cử', 3), ('giới', 2), ('tiến cử', 2)]",True
+recommendation,"[('cáo', 1), ('khuyến cáo', 1), ('khuyến', 1)]",True
+recommendations,[],False
+recommended,"[('cử', 1), ('tiến cử', 1), ('tiến', 1), ('khuyến', 1)]",True
+reconcile,"[('hòa', 3), ('giải', 1), ('hòa giải', 1), ('dung', 1), ('dung hòa', 1)]",True
+reconciliation,"[('giải', 2), ('hòa giải', 2), ('hòa', 2)]",True
+record-setting,[],False
+recover,"[('hồi', 2), ('sức', 1), ('hồi sức', 1)]",True
+recovery,"[('hồi', 3), ('phục', 1), ('phục hồi', 1)]",True
+rectification,[],False
+rectify,"[('cải', 1)]",True
+rectifying,[],False
+redeem,[],False
+redeeming,[],False
+redemption,[],False
+refine,[],False
+refined,[],False
+refinement,[],False
+reform,"[('cải', 3), ('cách', 1), ('cải cách', 1)]",True
+reformed,[],False
+reforming,[],False
+reforms,[],False
+refresh,[],True
+refreshed,[],False
+refreshing,"[('refresh', 1)]",True
+refund,[],False
+refunded,[],False
+regal,[],True
+regally,[],False
+regard,[],True
+rejoice,[],False
+rejoicing,[],False
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,"[('nhàn', 1)]",True
+relent,[],False
+reliable,"[('đáng', 7), ('cậy', 3), ('các _ đáng', 1), ('các', 1), ('tin', 1)]",True
+reliably,[],False
+relief,"[('trợ', 1)]",True
+relish,[],False
+remarkable,"[('làm', 1), ('ý', 1)]",True
+remarkably,[],False
+remedy,[],False
+remission,[],False
+remunerate,[],False
+renaissance,[],False
+renewed,[],True
+renown,[],True
+renowned,[],True
+replaceable,"[('thay', 1), ('do _ thay', 1), ('do', 1)]",True
+reputable,"[('uy', 11), ('tín', 5), ('uy tín', 4), ('có', 2), ('các', 1)]",True
+reputation,"[('tín', 1), ('tiếng', 1)]",True
+resilient,[],False
+resolute,[],False
+resound,[],False
+resounding,[],False
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('trọng', 13), ('tôn', 8), ('tôn trọng', 4), ('nể', 2), ('kính', 2)]",True
+respectable,[],False
+respectful,"[('trọng', 1), ('tôn trọng', 1), ('tôn', 1)]",True
+respectfully,[],False
+respite,[],False
+resplendent,[],False
+responsibly,[],False
+responsive,[],False
+restful,[],False
+restored,"[('phục', 1), ('hồi', 1)]",True
+restructure,[],False
+restructured,[],False
+restructuring,[],False
+retractable,[],False
+revel,[],True
+revelation,"[('revelation', 1), ('huyền', 1), ('khải huyền', 1), ('khải', 1)]",True
+revere,[],False
+reverence,[],False
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,[],False
+revive,[],False
+revives,[],False
+revolutionary,"[('cách', 4), ('mạng', 3), ('cách mạng', 2), ('đường', 1), ('đường _ mạng', 1)]",True
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,"[('ban', 1), ('thưởng', 1), ('ban thưởng', 1)]",True
+rewarding,[],False
+rewardingly,[],False
+rich,"[('giàu', 4), ('phong', 1), ('bề', 1)]",True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('đúng', 91), ('quyền', 39), ('không', 34), ('phải', 31), ('ngay', 17)]",True
+righten,[],False
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,[],False
+rightness,[],False
+risk-free,[],False
+robust,[],False
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,"[('hoa', 2), ('lãng', 1)]",True
+romantically,[],False
+romanticize,[],False
+roomier,[],False
+roomy,[],False
+rosy,[],False
+safe,"[('toàn', 3)]",True
+safely,[],False
+sagacity,[],False
+sagely,[],False
+saint,"[('thánh', 4)]",True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,[],False
+sane,"[('mạnh', 1)]",True
+satisfactorily,[],False
+satisfactory,"[('đáng', 2), ('cầu', 2), ('yêu', 2), ('thỏa', 1), ('thỏa đáng', 1)]",True
+satisfied,"[('lòng', 3), ('hài lòng', 3), ('hài', 3), ('ý', 1), ('phục', 1)]",True
+satisfies,"[('thỏa', 2), ('mãn', 2), ('thỏa mãn', 2)]",True
+satisfy,"[('mãn', 3), ('thỏa', 3), ('thỏa mãn', 2), ('thoả mãn', 1), ('thoả', 1)]",True
+satisfying,[],False
+satisified,[],False
+saver,[],False
+savings,[],False
+savior,"[('cứu', 1), ('tinh', 1), ('cứu tinh', 1)]",True
+savvy,[],False
+scenic,[],False
+seamless,[],False
+seasoned,[],False
+secure,"[('chắn', 1), ('ít', 1), ('ít _ ăn', 1), ('ăn', 1)]",True
+securely,[],False
+selective,"[('chọn', 8), ('lọc', 2), ('chọn lọc', 2), ('danh', 1), ('danh sách', 1)]",True
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,[],True
+sensational,[],True
+sensationally,[],False
+sensations,[],False
+sensible,[],False
+sensibly,[],False
+sensitive,"[('cảm', 3), ('cảm _ chăng', 1), ('chăng', 1), ('những', 1)]",True
+serene,[],False
+serenity,[],False
+sexy,"[('sexy', 1), ('cảm', 1), ('các', 1), ('các _ cảm', 1)]",True
+sharp,[],False
+sharper,[],False
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,"[('sáng vai', 1), ('sáng', 1), ('vai', 1)]",True
+shiny,[],False
+significant,"[('kể', 1)]",True
+silent,"[('vậy', 2)]",True
+simpler,"[('đơn', 3), ('giản', 3), ('hơn', 3), ('đơn giản hơn', 1), ('đơn giản _ hơn', 1)]",True
+simplest,"[('nhất', 2), ('đơn', 1), ('đơn _ nhất', 1)]",True
+simplified,[],False
+simplifies,[],False
+simplify,"[('đơn', 1), ('đơn giản hóa', 1), ('giản', 1), ('hóa', 1)]",True
+simplifying,[],False
+sincere,"[('chân thành', 1), ('thành', 1), ('chân', 1)]",True
+sincerely,"[('thành', 2), ('thân ái', 1), ('thân', 1), ('ái', 1), ('thành thật xin', 1)]",True
+sincerity,[],False
+skill,[],True
+skilled,"[('những', 1), ('thành', 1), ('những _ thành thạo', 1), ('thạo', 1)]",True
+skillful,[],False
+skillfully,[],False
+slammin,[],False
+sleek,[],False
+slick,[],False
+smart,"[('minh', 2), ('nhe', 1)]",True
+smarter,"[('thông', 1), ('khôn hơn _ khó', 1), ('khó', 1), ('khôn', 1), ('hơn', 1)]",True
+smartest,[],False
+smartly,[],False
+smile,"[('lành', 1), ('ngon', 1), ('ngon lành', 1)]",True
+smiles,[],False
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,[],False
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,[],False
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,"[('mềm', 3), ('soft', 1)]",True
+softer,[],False
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,"[('ổ', 1)]",True
+solidarity,"[('đoàn', 1), ('kết', 1), ('đoàn kết', 1)]",True
+soothe,[],False
+soothingly,[],False
+sophisticated,"[('tinh vi', 2), ('tinh', 2), ('vi', 2), ('ngụy', 1)]",True
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,"[('ngọan', 1)]",True
+spectacularly,[],False
+speedily,[],False
+speedy,[],False
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,[],False
+splendid,[],False
+splendidly,[],False
+splendor,[],False
+spontaneous,[],False
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,"[('ổn', 1)]",True
+stabilize,[],False
+stable,"[('ổn', 3), ('định', 1), ('ổn định', 1), ('đang', 1), ('mạnh', 1)]",True
+stainless,"[('gỉ', 1)]",True
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],False
+steadfastly,[],False
+steadfastness,[],False
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,[],False
+stellarly,[],False
+stimulate,[],False
+stimulates,[],False
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],False
+straightforward,[],False
+streamlined,[],False
+striking,[],False
+strikingly,[],False
+striving,[],False
+strong,"[('mạnh', 8), ('lực', 1), ('sao', 1)]",True
+stronger,"[('mạnh', 2)]",True
+strongest,"[('mạnh', 1), ('nhất', 1), ('mạnh nhất', 1)]",True
+stunned,[],False
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,[],False
+stylishly,[],False
+stylized,[],False
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,[],False
+succeed,"[('thành', 1)]",True
+succeeded,[],False
+succeeding,"[('kế', 1), ('kế cận', 1), ('cận', 1)]",True
+succeeds,[],False
+succes,[],True
+success,"[('công', 2)]",True
+successes,[],False
+successful,"[('công', 5), ('thành', 2), ('đạt', 1), ('tài', 1), ('thành công', 1)]",True
+successfully,"[('công', 3), ('thành', 1), ('thành công', 1)]",True
+suffice,"[('đủ', 1)]",True
+sufficed,[],False
+suffices,[],False
+sufficient,"[('đủ', 1)]",True
+sufficiently,[],False
+suitable,"[('hợp', 7), ('thích', 2), ('phù', 2), ('thích hợp', 1)]",True
+sumptuous,[],False
+sumptuously,[],False
+sumptuousness,[],False
+super,"[('siêu', 5), ('các', 1)]",True
+superb,[],False
+superbly,[],False
+superior,"[('thượng đẳng', 1), ('thượng', 1), ('đẳng', 1)]",True
+superiority,[],False
+supple,[],True
+support,"[('ủng', 11), ('hộ', 8), ('trợ', 7), ('ủng hộ', 5), ('cho', 2)]",True
+supported,"[('ủng', 3), ('trợ', 1), ('thuẫn', 1)]",True
+supporter,[],True
+supporting,"[('ủng', 2), ('dẫn', 1), ('hộ', 1), ('ủng hộ', 1)]",True
+supportive,[],False
+supports,"[('ủng', 1)]",True
+supremacy,"[('tối', 1), ('cao', 1), ('đấng', 1), ('đấng tối cao', 1)]",True
+supreme,"[('tối', 3), ('đấng tối', 1), ('đấng', 1)]",True
+supremely,[],False
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,[],False
+surreal,[],False
+survival,"[('sống', 1), ('tồn', 1)]",True
+survivor,[],False
+sustainability,[],False
+sustainable,[],False
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,"[('quét', 1)]",True
+sweet,"[('cánh đồng', 1), ('cánh', 1), ('đồng', 1), ('tư', 1)]",True
+sweeten,[],False
+sweetheart,[],False
+sweetly,[],False
+sweetness,[],False
+swift,[],False
+swiftness,[],False
+talent,"[('tài', 5), ('năng', 3), ('tài _ ỏi', 1), ('ỏi', 1), ('tài năng', 1)]",True
+talented,"[('tài', 1), ('tài cao', 1), ('cao', 1)]",True
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,[],False
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,[],False
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('ơn', 68), ('cảm', 55), ('cảm ơn', 37), ('cám', 10), ('cám ơn', 7)]",True
+thankful,[],False
+thinner,[],False
+thoughtful,[],True
+thoughtfully,[],False
+thoughtfulness,[],False
+thrift,[],False
+thrifty,[],False
+thrill,[],False
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,[],False
+thriving,[],False
+thumb-up,[],False
+thumbs-up,[],False
+tickle,[],False
+tidy,"[('hẳn', 1), ('gàng', 1), ('gàng hẳn', 1)]",True
+time-honored,[],False
+timely,[],False
+tingle,[],False
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,[],False
+tolerable,[],False
+toll-free,[],False
+top,"[('đầu', 7), ('trên', 5), ('top', 5), ('nhất', 2), ('tầng', 1)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,[],True
+tough,"[('rắn', 1), ('cứng', 1), ('cứng rắn', 1)]",True
+tougher,[],False
+toughest,[],False
+traction,[],True
+tranquil,[],False
+tranquility,[],False
+transparent,"[('suốt', 1)]",True
+treasure,"[('tàng', 1)]",True
+tremendously,[],False
+trendy,[],False
+triumph,[],False
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,[],True
+trouble-free,[],False
+trump,[],False
+trumpet,[],False
+trust,"[('tưởng', 5), ('tin', 3), ('tin tưởng', 2), ('biết _ tưởng', 1), ('biết', 1)]",True
+trusted,"[('tin', 4), ('vào', 1), ('tin vào _ không', 1), ('không', 1), ('tưởng', 1)]",True
+trusting,"[('tưởng', 1), ('tin', 1), ('tin tưởng', 1)]",True
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,"[('tin', 3), ('tin cậy', 2), ('cậy', 2), ('tưởng', 1), ('tin tưởng', 1)]",True
+trusty,[],False
+truthful,[],True
+truthfully,"[('chân', 1)]",True
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,[],False
+unassailable,[],False
+unbeatable,[],False
+unbiased,"[('không', 1), ('quan', 1), ('thiếu', 1), ('thiếu _ quan', 1)]",True
+unbound,[],False
+uncomplicated,[],False
+unconditional,"[('vô điều', 1), ('điều', 1), ('vô', 1)]",True
+undamaged,[],False
+undaunted,[],False
+understandable,"[('hiểu', 4)]",True
+undisputable,[],False
+undisputably,[],False
+undisputed,[],False
+unencumbered,[],False
+unequivocal,[],False
+unequivocally,[],False
+unfazed,[],False
+unfettered,[],False
+unforgettable,[],False
+unity,"[('nhất', 1), ('bình', 1), ('unity', 1)]",True
+unlimited,"[('vô', 3), ('hạn', 3), ('vô hạn', 2), ('cấm', 2), ('tài', 1)]",True
+unmatched,[],False
+unparalleled,[],False
+unquestionable,"[('không _ ngờ', 1), ('không', 1), ('ngờ', 1)]",True
+unquestionably,[],False
+unreal,"[('nội', 1)]",True
+unrestricted,[],False
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,"[('nâng', 4), ('cấp', 3), ('nâng cấp', 2)]",True
+upheld,[],False
+uphold,[],False
+uplift,[],False
+uplifting,[],False
+upliftingly,[],False
+upliftment,[],False
+upscale,[],False
+usable,"[('sử', 2), ('sử dụng', 2), ('dụng', 2)]",True
+useable,[],False
+useful,"[('ích', 7), ('dụng', 2), ('lợi', 1), ('những', 1), ('hữu', 1)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,[],False
+valiantly,[],False
+valor,[],False
+valuable,"[('quý', 3), ('trị', 2), ('giá', 2), ('quý giá', 1)]",True
+variety,"[('giống', 1), ('dạng', 1), ('variety', 1)]",True
+venerate,[],True
+verifiable,"[('kiểm', 5), ('chứng', 2), ('kiểm chứng', 1), ('kiểm chứng được', 1), ('được', 1)]",True
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,[],False
+victory,"[('thắng', 7), ('chiến', 1), ('chiến thắng', 1), ('lợi', 1)]",True
+viewable,[],False
+vigilance,[],False
+vigilant,"[('cảnh', 1), ('giác', 1), ('độ', 1), ('cảnh giác _ độ', 1)]",True
+virtue,"[('đức', 1)]",True
+virtuous,"[('đức', 1)]",True
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],True
+vouchsafe,[],False
+warm,"[('ấm', 3)]",True
+warmer,[],False
+warmhearted,[],False
+warmly,[],False
+warmth,[],False
+wealthy,[],False
+welcome,"[('chào', 9), ('nghênh', 8), ('hoan', 8), ('hoan nghênh', 5), ('chào mừng', 2)]",True
+well,"[('cũng', 26), ('tốt', 15), ('à', 13), ('ờ', 10), ('được', 7)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,[],False
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,"[('sẵn', 4), ('sẵn sàng', 3), ('sàng', 3), ('chịu', 2), ('lòng', 1)]",True
+willingly,"[('miễn', 1)]",True
+willingness,[],False
+win,"[('thắng', 4), ('giành', 1), ('thua', 1), ('vô', 1)]",True
+windfall,[],False
+winnable,[],False
+winner,"[('quân', 1)]",True
+winners,[],False
+winning,"[('thắng', 2), ('đoạt', 1), ('đoạt giải', 1), ('giải', 1)]",True
+wins,"[('thắng', 3)]",True
+wisdom,[],False
+wise,"[('bậc', 1)]",True
+wisely,[],False
+witty,[],False
+won,"[('thắng', 5), ('đạt', 1), ('vô địch', 1), ('địch', 1), ('vô', 1)]",True
+wonder,"[('mắc', 19), ('biết', 17), ('thắc', 17), ('thắc mắc', 15), ('hỏi', 13)]",True
+wonderful,[],False
+wonderfully,[],False
+wonderous,[],False
+wonderously,[],False
+wonders,[],False
+wondrous,[],False
+woo,[],True
+work,"[('làm', 28), ('việc', 25), ('phẩm', 10), ('trình', 5), ('tác', 5)]",True
+workable,[],False
+worked,"[('làm', 4), ('sinh', 1), ('hoạt', 1), ('sinh hoạt', 1), ('không', 1)]",True
+works,"[('phẩm', 7), ('làm', 4), ('dùng', 2), ('áp', 1), ('hoạt', 1)]",True
+world-famous,[],False
+worth,"[('đáng', 11), ('để', 3), ('cần', 1)]",True
+worth-while,[],False
+worthiness,[],False
+worthwhile,[],False
+worthy,"[('xứng', 3), ('đáng', 2), ('xứng đáng', 1)]",True
+wow,"[('ủa', 10), ('oái', 2), ('ủa mà', 1), ('mà', 1), ('ôi _ vậy', 1)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],False
+youthful,[],False
+zeal,[],True
+zenith,[],False
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,"[('thường', 1), ('thần _ thường', 1), ('thần', 1)]",True
+abolish,[],True
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],False
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,[],False
+abruptly,[],False
+abscond,[],False
+absence,"[('phép', 1)]",True
+absent-minded,[],False
+absentee,[],False
+absurd,"[('lý', 5), ('vô', 3), ('phi', 2), ('phi lý', 2), ('vô lý', 2)]",True
+absurdity,"[('ngớ', 1), ('ngớ ngẩn', 1), ('ngẩn', 1)]",True
+absurdly,"[('vô', 1), ('nhiên _ vô _ thế', 1), ('thế', 1), ('nhiên', 1)]",True
+absurdness,[],False
+abuse,"[('dụng', 7), ('lạm', 2), ('abuse', 1)]",True
+abused,"[('dụng', 4), ('lạm dụng', 2), ('lạm', 2)]",True
+abuses,[],False
+abusive,"[('lạm dụng', 1), ('lạm', 1), ('dụng', 1)]",True
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,[],True
+accost,[],False
+accursed,[],False
+accusation,"[('cáo', 1), ('cáo buộc', 1), ('buộc', 1)]",True
+accusations,"[('buộc', 1)]",True
+accuse,"[('tội', 1)]",True
+accuses,[],False
+accusing,"[('buộc', 3), ('tội', 2), ('buộc tội', 2), ('cáo', 1), ('cáo buộc', 1)]",True
+accusingly,[],False
+acerbate,[],False
+acerbic,[],False
+acerbically,[],False
+ache,[],True
+ached,[],True
+aches,[],True
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,[],True
+addicted,"[('nghiện', 1)]",True
+addicting,[],False
+addicts,[],False
+admonish,[],False
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,[],False
+adulterate,[],False
+adulterated,[],False
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,[],False
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,"[('sợ', 25), ('ngại', 7), ('ngại chăng', 1), ('chăng', 1), ('hy', 1)]",True
+aggravate,"[('trọng', 1)]",True
+aggravating,"[('aggravating', 2)]",True
+aggravation,[],False
+aggression,"[('hiếu', 1), ('hiếu thắng', 1), ('thắng', 1)]",True
+aggressive,"[('thắng', 1)]",True
+aggressiveness,[],False
+aggressor,[],False
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],False
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,[],False
+alarm,[],False
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,[],True
+alienated,"[('tha hóa', 1), ('hóa', 1), ('tha', 1)]",True
+alienation,[],False
+allegation,[],True
+allegations,"[('buộc', 1)]",True
+allege,[],False
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,[],False
+ambiguous,"[('những', 1), ('mơ', 1)]",True
+ambivalence,[],False
+ambivalent,[],False
+ambush,[],False
+amiss,[],False
+amputate,[],False
+anarchism,[],False
+anarchist,[],False
+anarchistic,[],False
+anarchy,[],False
+anemic,[],False
+anger,"[('khi', 1), ('giận', 1), ('khi _ giận', 1), ('nổi', 1), ('tức', 1)]",True
+angrily,[],False
+angriness,[],False
+angry,"[('giận', 10), ('tức', 5), ('bực', 2), ('tức giận', 2), ('không', 1)]",True
+anguish,[],False
+animosity,"[('thù', 2), ('sự thù hằn', 1), ('sự', 1), ('hằn', 1), ('thù oán', 1)]",True
+annihilate,[],False
+annihilation,[],False
+annoy,"[('chọc', 1)]",True
+annoyance,[],False
+annoyances,[],False
+annoyed,"[('chịu', 1), ('khó chịu', 1), ('khó', 1)]",True
+annoying,"[('chịu', 2), ('khó', 2), ('bực', 1), ('rầy bực', 1), ('rầy', 1)]",True
+annoyingly,[],False
+annoys,[],False
+anomalous,[],False
+anomaly,[],False
+antagonism,"[('đối kháng', 1), ('đối', 1), ('kháng', 1)]",True
+antagonist,[],False
+antagonistic,[],False
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,[],False
+antiquated,[],False
+antithetical,[],False
+anxieties,[],False
+anxiety,"[('âu', 1), ('lo', 1), ('lo âu', 1)]",True
+anxious,[],False
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],False
+apocalypse,[],False
+apocalyptic,[],False
+apologist,[],False
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],False
+apprehensively,[],False
+arbitrary,"[('tùy tiện', 2), ('tiện', 2), ('tùy', 2), ('độc', 1)]",True
+arcane,[],False
+archaic,[],False
+arduous,[],False
+arduously,[],False
+argumentative,[],False
+arrogance,[],False
+arrogant,[],False
+arrogantly,[],False
+ashamed,"[('dám', 1)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],True
+assassinate,"[('sát', 2), ('ám', 2), ('ám sát', 2)]",True
+assault,[],False
+assult,[],False
+astray,[],False
+asunder,[],False
+atrocious,[],False
+atrocities,[],False
+atrocity,[],False
+atrophy,[],False
+attack,"[('kích', 10), ('tấn', 7), ('công', 5), ('tấn công', 2), ('công kích', 1)]",True
+attacks,"[('kích', 2), ('công', 1), ('công kích', 1), ('lần', 1), ('tấn', 1)]",True
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,"[('thần', 1)]",True
+audiciously,[],False
+austere,[],False
+authoritarian,[],False
+autocrat,[],True
+autocratic,"[('chuyên', 1)]",True
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],False
+averse,[],False
+aversion,[],False
+aweful,[],False
+awful,"[('hại', 1), ('thảm hại', 1), ('thảm', 1)]",True
+awfully,[],False
+awfulness,[],False
+awkward,"[('sượng', 1), ('chút lấn', 1), ('lấn', 1), ('chút', 1)]",True
+awkwardness,"[('khó xử', 1), ('khó', 1), ('xử', 1)]",True
+ax,"[('ax', 1)]",True
+babble,"[('láp', 1), ('bá', 1), ('bá láp', 1)]",True
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,"[('lùi', 1)]",True
+backwardness,[],False
+backwood,[],False
+backwoods,[],False
+bad,"[('xấu', 13), ('tốt', 3), ('tệ', 3), ('dở', 3), ('hại', 3)]",True
+badly,[],True
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],False
+banal,[],False
+banalize,[],False
+bane,[],False
+banish,[],True
+banishment,[],False
+bankrupt,"[('sản', 1), ('phá', 1), ('phá sản', 1)]",True
+barbarian,"[('barbarian', 1)]",True
+barbaric,"[('rợ', 2), ('man rợ _ văn minh', 1), ('minh', 1), ('man', 1), ('văn', 1)]",True
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,"[('muộn', 2)]",True
+baseless,"[('vô căn', 2), ('căn', 2), ('vô', 2), ('cơ', 1), ('sở', 1)]",True
+bash,[],True
+bashed,[],False
+bashful,[],False
+bashing,"[('đoảng', 1)]",True
+bastard,[],False
+bastards,[],False
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,[],True
+beggar,[],True
+beggarly,[],False
+begging,"[('năn', 2), ('năn nỉ', 1), ('nỉ', 1), ('ôi', 1)]",True
+beguile,[],False
+belabor,[],False
+belated,[],False
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,[],False
+bellicose,[],False
+belligerence,[],False
+belligerent,"[('hiếu', 1), ('chiến', 1), ('hiếu chiến', 1)]",True
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,[],False
+berate,[],True
+bereave,[],False
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],False
+betray,[],True
+betrayal,"[('phản bội', 1), ('bội', 1), ('phản', 1)]",True
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,"[('coi chừng', 1), ('chừng', 1), ('coi', 1)]",True
+bewilder,[],False
+bewildered,[],False
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,[],False
+bewitch,[],False
+bias,"[('vị', 2), ('thiên vị', 1), ('thiên', 1), ('ngả', 1), ('chăng', 1)]",True
+biased,"[('thiên', 4), ('vị', 2), ('bias cho', 1), ('bias', 1), ('cho', 1)]",True
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,[],False
+bitch,"[('thằng', 1), ('thằng _ bằm _ bác _ bác', 1), ('bác', 1), ('bằm', 1)]",True
+bitchy,[],False
+biting,[],True
+bitingly,[],False
+bitter,"[('chua', 1)]",True
+bitterly,[],False
+bitterness,"[('cú', 1)]",True
+bizarre,[],False
+blab,[],False
+blabber,[],False
+blackmail,[],False
+blah,[],False
+blame,"[('trách', 7), ('đổ', 3), ('lỗi', 2), ('đổ lỗi', 1), ('trách nhân', 1)]",True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,"[('lễ _ bát', 1), ('bát', 1), ('lễ', 1)]",True
+blasted,[],False
+blatant,"[('liễu trắng trợn', 1), ('liễu', 1), ('trợn', 1), ('trắng', 1)]",True
+blatantly,"[('đang', 2), ('trắng', 2), ('ngang nhiên', 1), ('ngang', 1), ('nhiên', 1)]",True
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],False
+bleeding,[],False
+bleeds,[],False
+blemish,[],False
+blind,"[('quáng', 1)]",True
+blinding,"[('chói mắt', 1), ('chói', 1), ('mắt', 1)]",True
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,[],False
+blockhead,[],False
+bloodshed,[],False
+bloodthirsty,[],False
+bloody,"[('lửa', 1), ('máu', 1), ('máu lửa', 1)]",True
+blotchy,[],False
+blow,"[('thổi', 1)]",True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,"[('cùn', 1), ('thẳng', 1)]",True
+blur,[],True
+bluring,[],False
+blurred,"[('mờ', 1)]",True
+blurring,[],False
+blurry,"[('quá', 1), ('mờ quá', 1), ('mờ', 1)]",True
+blurs,[],False
+blurt,[],False
+boastful,"[('khoang', 1), ('khoe', 1), ('khoe khoang', 1)]",True
+boggle,[],False
+bogus,[],False
+boil,[],False
+boiling,[],False
+boisterous,[],False
+bomb,"[('bom', 2)]",True
+bombard,[],True
+bombardment,[],False
+bombastic,[],False
+bondage,[],False
+bonkers,[],False
+bore,[],True
+bored,"[('chán', 4), ('thấy', 1), ('nản', 1), ('tấu', 1), ('lộn', 1)]",True
+boredom,"[('tâm', 1), ('chán', 1)]",True
+bores,[],False
+boring,"[('chán', 3), ('chán nhỉ', 2), ('nhỉ', 2), ('nhàm', 2), ('quá', 1)]",True
+botch,[],False
+bother,"[('phiền', 7), ('quan', 1), ('thèm', 1), ('làm', 1), ('xin', 1)]",True
+bothered,[],False
+bothering,"[('phiền', 4)]",True
+bothers,"[('xúc', 1), ('bức xúc', 1), ('bức', 1)]",True
+bothersome,[],False
+bowdlerize,[],False
+boycott,"[('tẩy chay', 1), ('chay', 1), ('tẩy', 1)]",True
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,[],True
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,"[('điếc', 1)]",True
+brazen,[],False
+brazenly,[],False
+brazenness,[],False
+breach,[],False
+break,"[('phá', 7), ('vỡ', 3), ('phạm', 2), ('hè', 1), ('loạn', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,[],False
+breaking,"[('phá', 6), ('vỡ', 2), ('phá vỡ', 2), ('rồi', 1), ('phá _ rồi', 1)]",True
+breaks,"[('phá', 2)]",True
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,"[('phá', 3), ('xông', 1), ('có phá', 1), ('có', 1), ('bẻ', 1)]",True
+broken,"[('hỏng', 7), ('phá', 2), ('nát', 1), ('đụng', 1), ('liên', 1)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,"[('bạo', 1), ('tàn', 1)]",True
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,"[('tàn', 2), ('bọn _ lột', 1), ('bọn', 1), ('lột', 1), ('cách', 1)]",True
+brute,[],False
+brutish,[],False
+bs,[],True
+buckle,[],False
+bug,"[('bug', 2), ('lỗi', 1)]",True
+bugging,[],False
+buggy,[],False
+bugs,[],False
+bulkier,[],False
+bulkiness,[],False
+bulky,[],False
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,"[('nhảm', 4), ('nhí', 3), ('nhảm nhí', 2), ('hết', 1), ('phét hết', 1)]",True
+bullshyt,[],False
+bully,"[('ăn hiếp', 1), ('ăn', 1), ('hiếp', 1)]",True
+bullying,"[('nạt', 1), ('bắt', 1)]",True
+bullyingly,[],False
+bum,[],True
+bump,[],True
+bumped,"[('chạm', 1)]",True
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,[],False
+bungle,[],False
+bungler,[],False
+bungling,[],False
+bunk,[],False
+burden,"[('nặng', 2), ('gánh', 1), ('gánh nặng', 1)]",True
+burdensome,[],False
+burdensomely,[],False
+burn,"[('phỏng', 1), ('đốt', 1)]",True
+burned,[],False
+burning,"[('đốt', 1), ('đập _ đốt', 1), ('đập', 1), ('xây', 1)]",True
+burns,[],False
+bust,[],False
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,"[('byzantine', 1)]",True
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],False
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,[],False
+cancerous,[],False
+cannibal,[],True
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,[],False
+carelessness,[],False
+caricature,[],False
+carnage,[],False
+carp,[],True
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,"[('thương vong', 1), ('thương', 1), ('vong', 1)]",True
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,[],False
+censure,[],False
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,"[('thách', 2), ('thử thách', 1), ('thử', 1)]",True
+chaos,"[('loạn', 2), ('mất', 1)]",True
+chaotic,"[('loạn', 2), ('gạch _ loạn', 1), ('gạch', 1)]",True
+chasten,[],False
+chastise,[],False
+chastisement,[],False
+chatter,[],False
+chatterbox,[],False
+cheap,"[('rẻ', 2), ('tiếc', 1), ('tiếc rẻ', 1)]",True
+cheapen,[],False
+cheaply,[],False
+cheat,"[('chứ', 1), ('lận _ chứ', 1), ('lận', 1), ('gian', 1)]",True
+cheated,[],False
+cheater,[],False
+cheating,"[('cheating', 1)]",True
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,[],False
+chide,[],False
+childish,"[('lớn _ trẻcon', 1), ('lớn', 1), ('trẻcon', 1), ('trẻ', 1), ('con', 1)]",True
+chill,[],False
+chilly,[],False
+chintzy,[],False
+choke,"[('nghẹt', 1)]",True
+choleric,[],False
+choppy,[],False
+chore,[],False
+chronic,[],True
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,"[('đụng', 1), ('chạm', 1), ('đụng chạm', 1)]",True
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,[],False
+clogged,[],False
+clogs,[],False
+cloud,[],True
+clouding,[],False
+cloudy,[],False
+clueless,[],False
+clumsy,"[('vụng', 2), ('về', 1), ('vụng về', 1)]",True
+clunky,"[('ngủn', 1)]",True
+coarse,[],False
+cocky,[],False
+coerce,[],False
+coercion,[],False
+coercive,[],False
+cold,"[('lạnh', 5), ('rét', 1)]",True
+coldly,[],False
+collapse,"[('đổ', 2)]",True
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],False
+comical,[],False
+commiserate,[],False
+commonplace,[],False
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('than', 1)]",True
+complained,"[('khiếu nại', 1), ('phàn', 1), ('khiếu', 1), ('nại', 1)]",True
+complaining,"[('chuyện', 1), ('kêu', 1), ('chuyện kêu oan', 1), ('oan', 1)]",True
+complains,[],False
+complaint,"[('nại', 2), ('đơn', 1), ('oan', 1), ('kêu', 1), ('kêu oan', 1)]",True
+complaints,[],False
+complex,"[('tạp', 2), ('tạo', 1), ('complex', 1)]",True
+complicated,"[('tạp', 8), ('rối', 1)]",True
+complication,[],False
+complicit,[],False
+compulsion,[],False
+compulsive,"[('chăng', 1)]",True
+concede,[],True
+conceded,"[('lưới', 2), ('lọt', 2), ('lọt lưới', 2)]",True
+conceit,[],False
+conceited,[],False
+concen,[],False
+concens,[],False
+concern,"[('khoăn', 1), ('cái', 1), ('cái _ khoăn', 1)]",True
+concerned,[],True
+concerns,[],True
+concession,[],False
+concessions,[],False
+condemn,[],True
+condemnable,[],False
+condemnation,[],False
+condemned,[],False
+condemns,[],False
+condescend,[],False
+condescending,[],False
+condescendingly,[],False
+condescension,[],False
+confess,"[('xưng', 1), ('công', 1)]",True
+confession,[],True
+confessions,"[('thú', 1)]",True
+confined,[],False
+conflict,"[('thuẫn', 4), ('mâu', 4), ('đột', 3), ('mâu thuẫn', 3), ('xung', 1)]",True
+conflicted,"[('mâu', 1), ('mâu thuẫn', 1), ('thuẫn', 1)]",True
+conflicting,"[('mâu', 2), ('mâu thuẫn', 2), ('thuẫn', 2), ('trái', 1)]",True
+conflicts,"[('thuẫn', 4), ('đột', 2), ('mâu', 1), ('mâu thuẫn', 1), ('xung', 1)]",True
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],True
+confrontation,"[('đối đầu', 1), ('đối', 1), ('đầu', 1)]",True
+confrontational,[],False
+confuse,"[('nhầm', 2), ('với', 1), ('nhầm _ với', 1), ('nhằng', 1), ('đừng', 1)]",True
+confused,"[('lẫn', 5), ('khoăn', 3), ('mắt', 1), ('hiểu', 1), ('tăn', 1)]",True
+confuses,[],False
+confusing,"[('hiểu', 4), ('khó', 4), ('rối', 4), ('khó hiểu', 3), ('rắm', 3)]",True
+confusion,"[('lẫn', 2), ('hồ', 1), ('túng', 1), ('rối', 1)]",True
+confusions,[],False
+congested,[],False
+congestion,[],False
+cons,[],True
+conscons,[],False
+conservative,"[('thủ', 2), ('bảo', 1), ('bảo thủ', 1)]",True
+conspicuous,[],False
+conspicuously,[],False
+conspiracies,[],False
+conspiracy,"[('thuyết', 1)]",True
+conspirator,[],False
+conspiratorial,[],False
+conspire,[],False
+consternation,[],False
+contagious,[],False
+contaminate,[],True
+contaminated,"[('nhiễm', 2)]",True
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,[],False
+contemptible,[],False
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,[],False
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,[],True
+contradiction,"[('thuẫn', 5), ('mâu', 4), ('mâu thuẫn', 4)]",True
+contradictory,"[('mâu', 3), ('mâu thuẫn', 3), ('thuẫn', 3), ('trái', 1)]",True
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,"[('cãi', 4), ('tranh', 1), ('tranh cãi', 1), ('controversial', 1), ('luận', 1)]",True
+controversy,"[('cãi', 3), ('tranh luận', 1), ('luận', 1), ('tranh', 1)]",True
+convoluted,[],False
+corrode,"[('mòn', 1), ('ăn', 1), ('ăn mòn', 1)]",True
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,"[('hư', 1), ('hư hỏng', 1), ('hỏng', 1)]",True
+corrupted,[],False
+corrupting,[],False
+corruption,[],True
+corrupts,"[('lộ', 1), ('tham', 1), ('tham _ lộ', 1)]",True
+corruptted,[],False
+costlier,[],False
+costly,"[('tốn', 1)]",True
+counter-productive,[],False
+counterproductive,[],False
+coupists,[],False
+covetous,[],False
+coward,[],True
+cowardly,[],True
+crabby,[],False
+crack,[],False
+cracked,[],False
+cracks,[],False
+craftily,[],False
+craftly,[],False
+crafty,"[('xảo', 1), ('biện', 1), ('xảo biện', 1)]",True
+cramp,[],True
+cramped,"[('chật', 1), ('hẹp', 1), ('chật hẹp', 1)]",True
+cramping,[],False
+cranky,[],False
+crap,"[('tào', 3), ('vớ vẩn', 1), ('vớ', 1), ('vẩn', 1), ('chẹp', 1)]",True
+crappy,[],False
+craps,[],False
+crash,[],True
+crashed,[],True
+crashes,[],False
+crashing,[],False
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,"[('khùng', 3), ('dở', 1), ('tìm _ dở', 1), ('tìm', 1), ('lạ', 1)]",True
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,[],False
+creeping,[],False
+creeps,[],False
+creepy,[],False
+crept,[],False
+crime,"[('tội', 7), ('nạn', 1)]",True
+criminal,"[('án', 2), ('năng', 1), ('tiền', 1), ('tiền án tiền', 1)]",True
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,[],False
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,[],False
+critic,[],True
+critical,"[('trích', 2)]",True
+criticism,"[('phê', 2), ('bình', 1), ('phê phán', 1), ('phán', 1), ('chê', 1)]",True
+criticisms,"[('những', 1), ('những _ trích', 1), ('trích', 1), ('phê bình', 1), ('phê', 1)]",True
+criticize,"[('chê', 4), ('phê bình', 2), ('phê', 2), ('bình', 2), ('trách', 1)]",True
+criticized,"[('trách', 1), ('chê', 1), ('phản', 1)]",True
+criticizing,"[('chỉ', 1), ('trích', 1), ('chỉ trích', 1), ('châm', 1)]",True
+critics,[],False
+cronyism,[],False
+crook,[],False
+crooked,[],False
+crooks,[],False
+crowded,[],False
+crowdedness,[],False
+crude,"[('lằng', 1)]",True
+cruel,"[('bạo', 1), ('tàn', 1), ('tàn bạo', 1)]",True
+crueler,[],False
+cruelest,[],False
+cruelly,[],False
+cruelness,[],False
+cruelties,[],False
+cruelty,[],False
+crumble,[],False
+crumbling,[],False
+crummy,[],False
+crumple,[],False
+crumpled,[],False
+crumples,[],False
+crush,"[('bẹp', 1), ('đè', 1), ('đè bẹp', 1)]",True
+crushed,[],False
+crushing,[],False
+cry,"[('khóc', 1), ('hả', 1)]",True
+culpable,[],False
+culprit,[],False
+cumbersome,"[('rà', 6), ('rườm', 6), ('rườm rà', 6), ('kềnh', 2), ('cồng kềnh', 1)]",True
+cunt,[],False
+cunts,[],False
+cuplrit,[],False
+curse,"[('chửi', 5), ('chửi bậy', 1), ('bậy', 1)]",True
+cursed,"[('nguyền rủa', 1), ('rủa', 1), ('nguyền', 1)]",True
+curses,[],False
+curt,"[('cộc lốc', 1), ('cộc', 1), ('lốc', 1)]",True
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,[],False
+cynicism,[],False
+d*mn,[],False
+damage,"[('hại', 3)]",True
+damaged,[],True
+damages,[],False
+damaging,[],False
+damn,"[('chết', 1), ('quên _ chết', 1), ('quên', 1), ('khốn nạn', 1), ('khốn', 1)]",True
+damnable,[],False
+damnably,[],False
+damnation,[],False
+damned,[],False
+damning,[],False
+damper,[],False
+danger,"[('họa', 1), ('hiểm', 1), ('nguy', 1), ('nguy hiểm', 1)]",True
+dangerous,"[('hiểm', 3), ('nguy', 2), ('nguy hại', 1), ('hại', 1), ('yếu', 1)]",True
+dangerousness,[],False
+dark,"[('dark', 1), ('tối', 1)]",True
+darken,[],True
+darkened,[],False
+darker,[],False
+darkness,[],False
+dastard,[],False
+dastardly,[],False
+daunt,[],False
+daunting,[],False
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('chết', 10), ('hết', 1), ('dead', 1), ('mất', 1)]",True
+deadbeat,[],False
+deadlock,[],False
+deadly,[],False
+deadweight,[],False
+deaf,"[('điếc', 1)]",True
+dearth,[],False
+death,"[('chết', 9), ('mất', 2), ('tửng', 1), ('hình', 1), ('thần', 1)]",True
+debacle,[],False
+debase,[],True
+debasement,[],False
+debaser,[],False
+debatable,[],False
+debauch,[],True
+debaucher,[],False
+debauchery,[],False
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,"[('nợ', 1)]",True
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,"[('phân', 2), ('phân rã', 1), ('rã', 1)]",True
+decayed,[],False
+deceit,[],True
+deceitful,"[('xảo', 1)]",True
+deceitfully,[],False
+deceitfulness,[],False
+deceive,[],True
+deceiver,[],False
+deceivers,[],False
+deceiving,"[('lừa', 1), ('lừa dối', 1), ('dối', 1)]",True
+deception,[],False
+deceptive,[],False
+deceptively,[],False
+declaim,[],False
+decline,[],False
+declines,[],False
+declining,[],False
+decrement,[],False
+decrepit,[],False
+decrepitude,[],False
+decry,[],False
+defamation,"[('phỉ', 1), ('báng', 1)]",True
+defamations,[],False
+defamatory,[],False
+defame,[],False
+defect,[],True
+defective,[],False
+defects,"[('bộ', 1), ('dục', 1), ('bộ _ dục', 1), ('khuyết', 1), ('khiếm khuyết', 1)]",True
+defensive,"[('chống _ chính', 1), ('chống', 1), ('chính', 1)]",True
+defiance,[],False
+defiant,[],False
+defiantly,[],False
+deficiencies,[],False
+deficiency,[],False
+deficient,[],False
+defile,[],False
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,[],False
+defy,[],False
+degenerate,[],False
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,[],False
+degrading,[],False
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,[],False
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,"[('trễ', 1)]",True
+delayed,"[('lùi', 1)]",True
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,[],False
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,[],False
+delusion,"[('mộng', 1), ('mộng _ huyền', 1), ('huyền', 1)]",True
+delusional,[],False
+delusions,[],False
+demean,[],False
+demeaning,[],False
+demise,[],False
+demolish,[],True
+demolisher,[],False
+demon,[],True
+demonic,[],False
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,"[('phủ nhận', 1), ('nhận', 1), ('phủ', 1)]",True
+denied,"[('nhận', 1)]",True
+denies,[],False
+denigrate,[],False
+denounce,"[('cáo', 1), ('tố', 1), ('tố cáo', 1)]",True
+dense,[],True
+dent,[],True
+dented,[],False
+dents,[],True
+denunciate,[],False
+denunciation,"[('tố giác', 1), ('tố', 1), ('giác', 1)]",True
+denunciations,[],False
+deny,"[('phủ nhận', 4), ('nhận', 4), ('phủ', 4)]",True
+denying,"[('phủ nhận', 2), ('nhận', 2), ('phủ', 2)]",True
+deplete,[],False
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],True
+depress,[],True
+depressed,"[('nản', 1), ('chán', 1), ('chán nản', 1)]",True
+depressing,[],False
+depressingly,[],False
+depression,[],False
+depressions,[],False
+deprive,"[('tước', 1)]",True
+deprived,[],False
+deride,[],False
+derision,[],False
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,[],False
+desecrate,[],False
+desert,[],False
+desertion,[],False
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],False
+despairing,[],False
+despairingly,[],False
+desperate,[],False
+desperately,[],False
+desperation,[],False
+despicable,[],False
+despicably,[],False
+despise,[],False
+despised,[],False
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],False
+despotic,[],False
+despotism,[],False
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,"[('phá', 6), ('hủy', 3), ('phá hủy', 2), ('diệt', 2), ('tàn', 1)]",True
+destroyer,[],False
+destruction,"[('phá', 2), ('hủy', 1)]",True
+destructive,"[('phá', 9), ('hoại', 7), ('phá hoại', 6), ('dải', 1), ('dải _ phá hoại', 1)]",True
+desultory,[],False
+deter,"[('răn đe', 1), ('đe', 1), ('răn', 1)]",True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,[],False
+deterrent,[],False
+detest,"[('ghét', 1)]",True
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,[],False
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,[],False
+detrimental,[],False
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,"[('tan nát', 1), ('nát', 1), ('tan', 1)]",True
+devastatingly,[],False
+devastation,[],False
+deviate,"[('tỷ', 1), ('lệch _ tỷ', 1), ('lệch', 1)]",True
+deviation,[],False
+devil,[],False
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,[],False
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],False
+dictator,"[('cực _ độc', 1), ('cực', 1), ('độc', 1)]",True
+dictatorial,[],False
+die,"[('chết', 10), ('mất', 2), ('đi', 1), ('đi _ chết', 1), ('tiêu', 1)]",True
+die-hard,[],False
+died,"[('chết', 9), ('mất', 6), ('tử', 2), ('qua đời', 1), ('qua', 1)]",True
+dies,"[('chết', 2), ('qua đời', 1), ('qua', 1), ('đời', 1)]",True
+difficult,"[('khó', 65), ('khăn', 10), ('khó khăn', 6), ('chật', 2), ('vả', 1)]",True
+difficulties,"[('khó khăn', 1), ('khăn', 1), ('khó', 1)]",True
+difficulty,"[('khó', 2), ('khó khăn', 1), ('khăn', 1)]",True
+diffidence,[],False
+dilapidated,[],False
+dilemma,[],False
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,"[('đơn', 1)]",True
+ding,[],True
+dings,[],True
+dinky,[],False
+dire,[],True
+direly,[],False
+direness,[],False
+dirt,[],True
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,"[('bẩn', 2), ('bậy', 1), ('mấy', 1), ('phân đâu', 1), ('phân', 1)]",True
+disable,"[('tắt', 1)]",True
+disabled,[],True
+disaccord,[],False
+disadvantage,[],True
+disadvantaged,"[('thiệt', 1), ('thòi', 1), ('thiệt thòi', 1)]",True
+disadvantageous,[],False
+disadvantages,[],False
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,"[('ý', 3), ('đồng ý', 2), ('đồng', 2), ('không', 1), ('không _ ý', 1)]",True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,"[('ý', 1), ('đồng ý', 1), ('đồng', 1)]",True
+disagreeing,"[('đồng', 1), ('thành kiến', 1), ('thành', 1), ('kiến', 1)]",True
+disagreement,"[('bất', 4), ('đồng', 4), ('bất đồng', 3), ('điểm', 2), ('bất đồng _ điểm', 1)]",True
+disagrees,[],False
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,"[('làm _ thất', 1), ('thất', 1), ('làm', 1)]",True
+disappointed,"[('thất', 2), ('vọng', 2), ('thất vọng', 1), ('làm', 1), ('làm _ thất vọng', 1)]",True
+disappointing,"[('thất _ quá', 1), ('quá', 1), ('thất', 1)]",True
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,"[('phục', 1), ('không', 1), ('không phục', 1)]",True
+disapprove,[],False
+disapproving,"[('không', 1)]",True
+disarm,"[('giải giáp', 1), ('giải', 1), ('giáp', 1)]",True
+disarray,[],False
+disaster,"[('tai', 1)]",True
+disasterous,[],False
+disastrous,[],False
+disastrously,[],False
+disavow,[],False
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],False
+disbeliever,[],False
+disclaim,[],True
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,[],False
+discompose,[],False
+disconcert,[],False
+disconcerted,[],False
+disconcerting,[],False
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,[],False
+discontented,[],False
+discontentedly,[],False
+discontinued,[],False
+discontinuity,[],False
+discontinuous,[],False
+discord,[],False
+discordance,[],False
+discordant,[],False
+discountenance,[],False
+discourage,[],True
+discouragement,"[('trách', 1), ('không', 1), ('không _ trách', 1)]",True
+discouraging,[],False
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,[],False
+discrepant,[],False
+discriminate,"[('thị', 1), ('kì', 1), ('kì thị', 1)]",True
+discrimination,"[('discrimination', 1)]",True
+discriminatory,"[('kỳ', 2), ('thị', 2), ('kỳ thị à', 1), ('à', 1), ('kỳ thị', 1)]",True
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,[],True
+disgraced,"[('sủng', 1), ('sủng mãi', 1), ('mãi', 1)]",True
+disgraceful,[],False
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,[],True
+disgusted,[],False
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,[],True
+disgustingly,[],False
+dishearten,[],False
+disheartening,[],False
+dishearteningly,[],False
+dishonest,[],False
+dishonestly,[],False
+dishonesty,[],False
+dishonor,[],False
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,[],True
+disliked,[],False
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,[],False
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],False
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,[],False
+disoobedient,[],False
+disorder,"[('bệnh', 1)]",True
+disordered,[],False
+disorderly,"[('disorderly', 1)]",True
+disorganized,"[('chức', 1), ('tổ', 1), ('vô tổ chức', 1), ('vô', 1)]",True
+disorient,[],False
+disoriented,[],False
+disown,[],False
+disparage,[],False
+disparaging,"[('phô _ bai', 1), ('phô', 1), ('bai', 1), ('chê', 1)]",True
+disparagingly,[],False
+dispensable,[],True
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],True
+displaced,[],False
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,[],False
+disproportionate,[],False
+disprove,[],False
+disputable,[],False
+dispute,"[('chấp', 5), ('tranh', 4), ('tranh chấp', 2), ('cãi', 2)]",True
+disputed,"[('chấp', 1), ('tranh', 1)]",True
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,[],False
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,"[('tôn', 1)]",True
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,"[('bực', 1), ('quấy', 1), ('vô', 1), ('quấy _ bực _ vô', 1), ('trọng', 1)]",True
+disrespectfully,[],False
+disrespectfulness,[],False
+disrespecting,"[('trọng', 1), ('tôn trọng', 1), ('tôn', 1)]",True
+disrupt,"[('phá', 1)]",True
+disruption,"[('đứt', 1), ('đoạn', 1), ('đứt đoạn', 1)]",True
+disruptive,"[('phá', 2), ('phá rối', 1), ('rối', 1), ('gây', 1), ('lái', 1)]",True
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,"[('chuyện', 1), ('chuyện bất mãn', 1), ('mãn', 1), ('bất', 1)]",True
+dissatisfactory,[],False
+dissatisfied,"[('mãn', 1), ('bất', 1), ('bất mãn', 1)]",True
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,[],False
+dissembler,[],False
+dissension,[],False
+dissent,[],True
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,"[('bất _ kiến', 1), ('bất', 1), ('kiến', 1)]",True
+dissidents,[],False
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,[],False
+dissonance,[],False
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,[],True
+distorted,"[('dạo', 1), ('chả', 1), ('dạo _ chả', 1)]",True
+distortion,"[('rối', 1)]",True
+distorts,"[('tạc', 2), ('xuyên tạc', 2), ('xuyên', 2)]",True
+distract,"[('làm', 1)]",True
+distracting,[],False
+distraction,[],False
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,"[('tín nhiệm', 1), ('nhiệm', 1), ('tín', 1)]",True
+distrustful,[],False
+distrusting,[],False
+disturb,"[('nhiễu', 1), ('quấy', 1)]",True
+disturbance,[],False
+disturbed,[],False
+disturbing,"[('phiền', 1), ('làm', 1), ('làm phiền', 1)]",True
+disturbingly,[],False
+disunity,"[('mất _ kết', 1), ('kết', 1), ('mất', 1)]",True
+disvalue,[],False
+divergent,"[('bất đồng', 1), ('bất', 1), ('đồng', 1)]",True
+divisive,[],False
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,"[('hoa mắt', 1), ('mắt', 1), ('hoa', 1)]",True
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,[],False
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,[],False
+doomed,[],False
+doomsday,[],False
+dope,[],False
+doubt,"[('ngờ', 5), ('nghi', 2), ('cứ', 1), ('nghi ngờ', 1)]",True
+doubtful,"[('nghi', 1), ('nghi ngờ', 1), ('ngờ', 1)]",True
+doubtfully,[],False
+doubts,"[('vấn', 2), ('nghi', 2), ('nghi vấn', 2)]",True
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],False
+downfall,[],False
+downfallen,[],False
+downgrade,"[('hạ cấp', 1), ('cấp', 1), ('hạ', 1)]",True
+downhearted,[],False
+downheartedly,[],False
+downhill,[],False
+downside,"[('trái', 1), ('điểm', 1)]",True
+downsides,"[('những', 1), ('trái', 1), ('những mặt trái', 1), ('mặt', 1)]",True
+downturn,[],False
+downturns,[],False
+drab,[],False
+draconian,[],False
+draconic,[],False
+drag,"[('kéo', 2), ('rê', 2), ('lôi', 1), ('ké', 1), ('drag', 1)]",True
+dragged,"[('lôi', 3), ('kéo', 3), ('kéo dắt', 1), ('dắt', 1)]",True
+dragging,"[('nhọc', 1)]",True
+dragoon,[],False
+drags,[],False
+drain,[],True
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,[],False
+drastically,[],False
+drawback,[],False
+drawbacks,[],False
+dread,[],True
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,[],False
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,[],False
+dropouts,[],False
+drought,[],False
+drowning,[],False
+drunk,"[('rồi', 1), ('mấy _ say rồi', 1), ('say', 1), ('mấy', 1), ('uống', 1)]",True
+drunkard,[],False
+drunken,[],False
+dubious,[],False
+dubiously,[],False
+dubitable,[],False
+dud,[],True
+dull,[],True
+dullard,[],False
+dumb,[],True
+dumbfound,[],False
+dump,"[('rác', 2), ('bãi', 1), ('bãi rác', 1)]",True
+dumped,[],False
+dumping,"[('dumping', 1)]",True
+dumps,[],False
+dunce,[],False
+dungeon,[],True
+dungeons,"[('dungeons', 1)]",True
+dupe,[],False
+dust,[],True
+dusty,[],False
+dwindling,[],False
+dying,[],True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,[],False
+emaciated,[],False
+emasculate,[],False
+embarrass,[],True
+embarrassing,"[('xấu', 1)]",True
+embarrassingly,[],False
+embarrassment,"[('mắc', 1), ('cỡ', 1), ('mắc cỡ', 1)]",True
+embattled,[],False
+embroil,[],False
+embroiled,[],False
+embroilment,[],False
+emergency,[],False
+emphatic,[],False
+emphatically,[],False
+emptiness,[],False
+encroach,[],False
+encroachment,[],False
+endanger,[],False
+enemies,"[('thù', 2), ('địch', 1)]",True
+enemy,"[('thù', 4), ('giặc', 2), ('quân giặc', 1), ('quân', 1), ('kẻ', 1)]",True
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,"[('thù', 1), ('tư thù', 1), ('tư', 1)]",True
+enrage,[],False
+enraged,[],False
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,"[('dịch.ốa', 2), ('dịch', 1), ('dịch bệnh', 1), ('bệnh', 1)]",True
+equivocal,[],False
+erase,"[('xóa', 1), ('mất', 1), ('mất tiêu', 1), ('tiêu', 1)]",True
+erode,[],False
+erodes,[],False
+erosion,[],False
+err,[],True
+errant,[],False
+erratic,[],False
+erratically,[],False
+erroneous,"[('sai', 1)]",True
+erroneously,[],False
+error,"[('lỗi', 23), ('sót', 1), ('không', 1), ('error', 1), ('báo lỗi', 1)]",True
+errors,"[('lỗi', 8), ('sót', 2), ('mẫu', 1), ('lỗi _ thuật', 1), ('thuật', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,[],False
+evasion,[],False
+evasive,[],False
+evil,"[('ác', 3), ('oan', 1), ('già', 1), ('có ác', 1), ('có', 1)]",True
+evildoer,[],False
+evils,[],False
+eviscerate,[],False
+exacerbate,[],False
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,[],True
+exaggeration,"[('đáng', 1)]",True
+exasperate,[],False
+exasperated,[],False
+exasperating,[],False
+exasperatingly,[],False
+exasperation,[],False
+excessive,"[('mức', 3), ('quá', 2), ('bị', 1), ('thừa', 1), ('thừa thãi', 1)]",True
+excessively,"[('quá', 2)]",True
+exclusion,[],False
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('xin', 5), ('lý', 4), ('do', 4), ('lý do', 4), ('cớ', 4)]",True
+excuses,"[('chuyện', 1)]",True
+execrate,[],False
+exhaust,[],True
+exhausted,"[('kiệt', 1)]",True
+exhaustion,"[('kiệt', 1), ('sức', 1), ('kiệt sức', 1)]",True
+exhausts,[],False
+exhorbitant,[],False
+exhort,"[('hô', 1)]",True
+exile,"[('chiến _ vong', 1), ('chiến', 1), ('vong', 1)]",True
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,[],False
+expensive,"[('kém', 1), ('nhiều', 1)]",True
+expire,"[('hết', 1)]",True
+expired,"[('hết', 4), ('hạn', 4), ('hết hạn', 2), ('bổ', 1), ('bổ sung', 1)]",True
+explode,[],True
+exploit,[],True
+exploitation,[],False
+explosive,"[('nổ', 1)]",True
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,[],False
+extermination,[],False
+extinguish,[],False
+extort,[],False
+extortion,[],False
+extraneous,[],False
+extravagance,[],False
+extravagant,"[('ngông cuồng', 1), ('ngông', 1), ('cuồng', 1)]",True
+extravagantly,[],False
+extremism,[],False
+extremist,"[('đoan', 2), ('cực', 2), ('cực đoan', 2)]",True
+extremists,"[('đoan', 1), ('cực', 1), ('cực đoan', 1), ('khích', 1), ('quá', 1)]",True
+eyesore,"[('mắt', 1), ('chướng', 1), ('chướng mắt', 1)]",True
+f**k,[],False
+fabricate,[],True
+fabrication,[],True
+facetious,[],False
+facetiously,[],False
+fail,"[('bại', 3), ('rồi', 1), ('thất', 1), ('thất bại', 1)]",True
+failed,"[('thất', 3), ('thất bại', 1), ('bại', 1), ('không', 1), ('bất', 1)]",True
+failing,"[('bại', 1), ('lỗi', 1)]",True
+fails,[],False
+failure,"[('bại', 4), ('thất', 1), ('thất bại', 1)]",True
+failures,[],False
+faint,[],False
+fainthearted,[],False
+faithless,[],False
+fake,"[('giả', 2), ('fake', 2), ('vịt', 2), ('mạo', 1), ('ngụy', 1)]",True
+fall,"[('rơi', 4), ('đổ', 1), ('lọt', 1), ('thành', 1)]",True
+fallacies,[],False
+fallacious,[],False
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,"[('biện', 1), ('nha', 1)]",True
+fallen,"[('ngã', 1), ('rơi', 1)]",True
+falling,[],True
+fallout,[],False
+falls,[],False
+false,"[('những', 1)]",True
+falsehood,[],True
+falsely,"[('nghi', 1), ('giả', 1)]",True
+falsify,[],False
+falter,[],False
+faltered,[],False
+famine,[],False
+famished,[],False
+fanatic,[],True
+fanatical,"[('cuồng', 2), ('tín', 1), ('cuồng tín', 1)]",True
+fanatically,[],False
+fanaticism,[],False
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,[],False
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,[],False
+fascist,"[('phát xít', 2), ('xít', 2), ('phát', 2)]",True
+fastidious,[],True
+fastidiously,[],False
+fastuous,[],False
+fat,"[('béo', 1)]",True
+fat-cat,[],False
+fat-cats,[],False
+fatal,[],False
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,[],False
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('lỗi', 4), ('gì', 1), ('tội', 1), ('tội gì', 1)]",True
+faults,[],True
+faulty,"[('lỗi', 2)]",True
+fawningly,[],False
+faze,[],False
+fear,"[('sợ', 6), ('hại', 1), ('sợ hại', 1), ('sợ hãi', 1), ('hãi', 1)]",True
+fearful,[],False
+fearfully,[],False
+fears,[],False
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,"[('rơi', 2), ('thăng', 1)]",True
+felon,[],False
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,[],False
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],False
+fibber,[],False
+fickle,[],False
+fiction,[],True
+fictional,"[('nhân', 2)]",True
+fictitious,"[('những', 1), ('hư', 1), ('những _ hư', 1)]",True
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,"[('hung', 2), ('hung tợn', 1), ('tợn', 1), ('hic', 1), ('dữ', 1)]",True
+figurehead,[],False
+filth,[],False
+filthy,[],False
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,[],False
+flabbergast,[],False
+flabbergasted,[],False
+flagging,[],False
+flagrant,[],False
+flagrantly,[],False
+flair,[],False
+flairs,[],False
+flak,[],False
+flake,[],False
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],False
+flaw,[],True
+flawed,[],False
+flaws,"[('khuyết', 2), ('khiếm khuyết', 1), ('khiếm', 1), ('sai sót', 1), ('sai', 1)]",True
+flee,"[('trốn', 1)]",True
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],True
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],True
+fool,"[('ngu', 2), ('nhỡ', 1), ('nhỡ _ ngu', 1), ('khờ _ cớm', 1), ('khờ', 1)]",True
+fooled,[],False
+foolhardy,[],False
+foolish,"[('ý', 1)]",True
+foolishly,"[('dại', 1), ('dại dột', 1), ('dột', 1)]",True
+foolishness,[],False
+forbid,"[('cấm', 5)]",True
+forbidden,"[('cấm', 11)]",True
+forbidding,[],False
+forceful,[],True
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,[],False
+forgetful,[],False
+forgetfully,[],False
+forgetfulness,[],False
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,[],False
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,[],False
+fragile,[],False
+fragmented,[],False
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,"[('thẹn', 1)]",True
+fraudulent,[],True
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],False
+freaking,[],False
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,[],False
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,[],False
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,"[('chạm', 1), ('va chạm', 1), ('va', 1)]",True
+frictions,[],False
+fried,[],True
+friggin,[],False
+frigging,[],False
+fright,[],False
+frighten,[],False
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,[],False
+frown,[],False
+froze,[],True
+frozen,[],False
+fruitless,[],False
+fruitlessly,[],False
+frustrate,[],True
+frustrated,"[('ức chế', 1), ('chế', 1), ('ức', 1)]",True
+frustrates,[],False
+frustrating,"[('chán', 1), ('xúc', 1), ('bức xúc', 1), ('bức', 1)]",True
+frustratingly,[],False
+frustration,"[('buồn', 1)]",True
+frustrations,"[('bực', 1), ('tức', 1), ('bực tức', 1)]",True
+fuck,[],True
+fucking,"[('mà không', 1), ('không', 1), ('mà', 1)]",True
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],True
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,"[('buồn', 5), ('cười', 4), ('buồn cười', 3), ('hài', 2), ('hước', 2)]",True
+furious,[],False
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,"[('thằng', 1), ('lên', 1), ('thằng _ lên', 1)]",True
+fussy,"[('cầu', 1), ('hong', 1), ('cầu _ hong', 1)]",True
+fustigate,[],False
+fusty,[],False
+futile,"[('ích', 1), ('vô ích', 1), ('vô', 1)]",True
+futilely,[],False
+futility,[],False
+fuzzy,"[('mờ', 3)]",True
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,[],True
+gape,[],False
+garbage,"[('rác', 2), ('bãi', 1)]",True
+garish,[],False
+gasp,[],False
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,[],False
+get-rich,[],False
+ghastly,[],False
+ghetto,[],False
+ghosting,"[('hình', 1)]",True
+gibber,[],False
+gibberish,[],False
+gibe,[],False
+giddy,[],False
+gimmick,[],False
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,[],False
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,"[('trục trặc', 1), ('trặc', 1), ('trục', 1)]",True
+glitches,[],False
+gloatingly,"[('cách hả', 1), ('hả', 1), ('cách', 1)]",True
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],False
+gnawing,[],False
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],False
+goofy,[],False
+goon,[],True
+gossip,"[('dóc', 1), ('tán', 1), ('tán dóc', 1)]",True
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],True
+grating,[],True
+gravely,[],False
+greasy,[],False
+greed,[],True
+greedy,"[('ngốc', 1)]",True
+grief,[],False
+grievance,[],False
+grievances,[],False
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],True
+grimace,[],False
+grind,[],False
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],False
+gross,[],False
+grossly,[],False
+grotesque,[],False
+grouch,[],False
+grouchy,[],False
+groundless,[],False
+grouse,[],False
+growl,[],False
+grudge,"[('ác cảm', 1), ('cảm', 1), ('ác', 1), ('thù', 1), ('hằn', 1)]",True
+grudges,"[('thù', 2), ('hận thù', 1), ('hận', 1), ('oán', 1), ('chuốc', 1)]",True
+grudging,[],False
+grudgingly,[],False
+gruesome,[],False
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,"[('sởn', 1)]",True
+guile,[],False
+guilt,[],True
+guiltily,[],False
+guilty,"[('tội', 5), ('mắc tội', 1), ('mắc', 1)]",True
+gullible,[],False
+gutless,[],False
+gutter,[],False
+hack,[],True
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],True
+halfheartedly,"[('halfhearted', 1), ('quá', 1), ('halfhearted quá', 1)]",True
+hallucinate,[],False
+hallucination,[],False
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,"[('treo', 7), ('treo _ treo', 1), ('hang', 1), ('hàng', 1)]",True
+hangs,[],False
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,"[('quấy', 1), ('quấy rối', 1), ('rối', 1)]",True
+harassed,"[('quấy', 3), ('phá', 1), ('quấy phá', 1)]",True
+harasses,[],False
+harassment,"[('lễ', 1), ('rối', 1), ('quậy _ nhỉ', 1), ('quậy', 1), ('nhỉ', 1)]",True
+harboring,[],False
+harbors,"[('cảng', 1), ('bến', 1), ('bến cảng', 1)]",True
+hard,"[('khó', 7), ('chăm', 3), ('công', 2), ('cứng', 2), ('sức', 2)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,"[('đóng cứng', 1), ('đóng', 1), ('cứng', 1)]",True
+hardened,[],False
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,[],False
+hardships,[],False
+harm,"[('hại', 2)]",True
+harmed,"[('hại', 1)]",True
+harmful,"[('hại', 5), ('tai hại', 1), ('tai', 1), ('gây hại', 1), ('gây', 1)]",True
+harms,"[('tổn', 1), ('thất', 1), ('tổn thất', 1), ('hại', 1)]",True
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,"[('nặng', 3), ('nề', 1), ('nặng nề', 1), ('khắc nghiệt', 1), ('nghiệt', 1)]",True
+harshly,[],False
+hasseling,[],False
+hassle,[],False
+hassled,[],False
+hassles,[],False
+haste,[],False
+hastily,"[('vàng', 2), ('vội', 2), ('vội vàng', 2), ('vã', 1)]",True
+hasty,"[('vội _ chăng', 1), ('chăng', 1), ('vội', 1)]",True
+hate,"[('ghét', 11), ('hận', 2), ('ưa', 1), ('ưa _ ghét', 1), ('thù', 1)]",True
+hated,"[('ghét', 5), ('thù', 2), ('căm thù', 1), ('căm', 1), ('ghét bỏ', 1)]",True
+hateful,"[('ghét', 1)]",True
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,"[('ghét', 3), ('thù', 1)]",True
+hating,[],False
+hatred,[],False
+haughtily,[],False
+haughty,[],False
+haunt,[],True
+haunting,[],False
+havoc,"[('havoc', 1), ('phách', 1)]",True
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,"[('nhức', 2), ('nhức đầu', 1), ('đầu', 1), ('nhức _ mỏi', 1), ('mỏi', 1)]",True
+headaches,"[('điều', 1), ('đau', 1), ('đau đầu', 1), ('đầu', 1)]",True
+heartbreaker,[],False
+heartbreaking,[],False
+heartbreakingly,[],False
+heartless,[],False
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],False
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],True
+hedonistic,[],False
+heedless,[],False
+hefty,[],False
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,"[('tày', 1)]",True
+hell,"[('hell', 1), ('quái', 1)]",True
+hell-bent,[],False
+hellion,[],False
+hells,[],True
+helpless,"[('bó', 2), ('tay', 1), ('bó tay', 1)]",True
+helplessly,[],False
+helplessness,[],False
+heresy,[],False
+heretic,"[('giáo', 1)]",True
+heretical,"[('giáo', 1), ('tà', 1), ('tà giáo', 1)]",True
+hesitant,"[('tay', 2), ('chùn', 1), ('chùn tay', 1)]",True
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,[],True
+hindrance,[],False
+hiss,[],False
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,[],False
+hobble,[],False
+hogs,[],False
+hollow,[],False
+hoodium,[],False
+hoodwink,[],False
+hooligan,[],False
+hopeless,"[('vô vọng', 1), ('vô', 1), ('vọng', 1)]",True
+hopelessly,[],False
+hopelessness,[],False
+horde,[],False
+horrendous,[],False
+horrendously,[],False
+horrible,"[('kinh', 1), ('oan', 1)]",True
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],False
+hostile,"[('thái', 1), ('thái _ thù', 1), ('thù', 1)]",True
+hostilities,[],False
+hostility,[],False
+hotbeds,[],False
+hothead,[],False
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,"[('nhục', 2), ('làm nhục', 1), ('làm', 1)]",True
+humiliating,"[('buồn', 1), ('làm', 1), ('làm _ buồn', 1)]",True
+humiliation,[],False
+humming,[],False
+hung,"[('hùng', 4), ('hưng', 2), ('hungicp', 1), ('hung', 1), ('treo', 1)]",True
+hurt,"[('thương', 2), ('tổn thương', 1), ('tổn', 1), ('hại', 1)]",True
+hurted,[],False
+hurtful,[],False
+hurting,[],False
+hurts,[],False
+hustler,[],False
+hype,[],False
+hypocricy,[],False
+hypocrisy,[],False
+hypocrite,[],True
+hypocrites,"[('hô _ giả', 1), ('hô', 1), ('giả', 1)]",True
+hypocritical,"[('đạo', 1), ('đức', 1), ('hèn', 1), ('đạo đức _ hèn', 1)]",True
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],True
+hysterical,"[('độ', 1), ('độ _ cuồng', 1), ('cuồng', 1)]",True
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,[],False
+idiotic,[],False
+idiotically,[],False
+idiots,[],False
+idle,"[('rỗi', 2), ('nhàn rỗi', 1), ('nhàn', 1)]",True
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,[],True
+ignorant,"[('vô', 2), ('dốt', 1), ('thiếu _ đó', 1), ('đó', 1), ('thiếu', 1)]",True
+ignore,"[('bỏ', 4), ('qua', 4), ('bỏ qua', 4), ('làm ngơ', 2), ('ngơ', 2)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('pháp', 1), ('không', 1), ('tư _ phép', 1), ('phép', 1), ('tư', 1)]",True
+illegally,"[('cấm', 1)]",True
+illegitimate,[],False
+illicit,[],False
+illiterate,[],False
+illness,"[('bệnh', 2)]",True
+illogic,[],True
+illogical,"[('phi', 1), ('lạ _ phi', 1), ('lạ', 1)]",True
+illogically,[],False
+illusion,[],True
+illusions,"[('tưởng', 1), ('ảo', 1), ('ảo tưởng', 1)]",True
+illusory,[],False
+imaginary,[],False
+imbalance,[],False
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,[],False
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,"[('hành _ vô _ nhỉ', 1), ('hành', 1), ('nhỉ', 1), ('vô', 1)]",True
+immorality,[],False
+immorally,[],False
+immovable,[],False
+impair,[],False
+impaired,[],False
+impasse,[],False
+impatience,[],False
+impatient,[],False
+impatiently,[],False
+impeach,"[('tội', 1), ('buộc', 1), ('buộc tội', 1)]",True
+impedance,[],False
+impede,[],False
+impediment,[],False
+impending,[],False
+impenitent,[],False
+imperfect,[],False
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,[],False
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,[],False
+impertinent,[],False
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,[],False
+implausibly,[],False
+implicate,[],True
+implication,[],False
+implode,[],False
+impolite,"[('sự', 1), ('bất', 1), ('bất lịch sự', 1), ('lịch', 1)]",True
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,"[('đặt', 4), ('áp đặt', 1), ('áp', 1)]",True
+imposers,[],False
+imposing,"[('áp đặt', 1), ('áp', 1), ('đặt', 1)]",True
+imposition,[],False
+impossible,"[('không', 4), ('không thể', 1), ('thể', 1), ('khả', 1), ('bất', 1)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],False
+impoverished,[],False
+impractical,[],True
+imprecate,[],False
+imprecise,[],False
+imprecisely,[],False
+imprecision,[],False
+imprison,[],True
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,[],False
+improperly,[],False
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,[],False
+impudent,[],False
+impudently,[],False
+impugn,[],False
+impulsive,[],True
+impulsively,[],False
+impunity,[],False
+impure,[],False
+impurity,"[('tịnh', 1)]",True
+inability,[],False
+inaccuracies,[],False
+inaccuracy,[],False
+inaccurate,"[('xác', 3), ('không', 2), ('thiếu', 1), ('sài', 1), ('sài _ thiếu _ xác', 1)]",True
+inaccurately,[],False
+inaction,[],False
+inactive,"[('hoạt', 2), ('động', 2), ('hoạt động', 2)]",True
+inadequacy,"[('bất cập', 2), ('cập', 2), ('bất', 2)]",True
+inadequate,[],False
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('hợp', 5), ('không', 5), ('phù', 4), ('không phù hợp', 3), ('không thích hợp', 1)]",True
+inappropriately,"[('hợp', 1), ('không', 1), ('không thích hợp', 1), ('thích', 1)]",True
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,[],False
+inaudible,[],False
+incapable,[],False
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,[],False
+incessantly,[],False
+incite,"[('có _ vặn', 1), ('vặn', 1), ('có', 1), ('kích', 1), ('động', 1)]",True
+incitement,[],False
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,[],False
+incoherent,[],False
+incoherently,[],False
+incommensurate,[],False
+incomparable,[],False
+incomparably,[],False
+incompatability,[],False
+incompatibility,[],False
+incompatible,[],False
+incompetence,"[('kém cỏi', 1), ('cỏi', 1), ('kém', 1)]",True
+incompetent,"[('lực', 1), ('năng', 1), ('năng lực', 1), ('bất tài _ cuồng', 1), ('tài', 1)]",True
+incompetently,[],False
+incomplete,"[('không', 1), ('đủ', 1), ('không _ đủ', 1)]",True
+incompliant,[],False
+incomprehensible,[],False
+incomprehension,[],False
+inconceivable,"[('khôn nguôi', 1), ('nguôi', 1), ('khôn', 1)]",True
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,[],False
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,[],False
+inconsistency,"[('mâu', 1), ('mâu thuẫn', 1), ('thuẫn', 1), ('nhất', 1), ('bất nhất', 1)]",True
+inconsistent,"[('mâu', 1), ('mâu thuẫn', 1), ('thuẫn', 1), ('quán', 1), ('nhất', 1)]",True
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,"[('bất tiện', 1), ('bất', 1), ('tiện', 1)]",True
+inconveniently,[],False
+incorrect,"[('đúng', 5), ('xác', 4), ('chính xác', 3), ('chính', 3), ('không', 2)]",True
+incorrectly,"[('nhầm', 1), ('sai', 1)]",True
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,[],False
+indecent,[],False
+indecently,[],False
+indecision,[],False
+indecisive,[],True
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,[],False
+indifferent,"[('tình', 1), ('vô', 1), ('vô tình', 1), ('thờ', 1)]",True
+indigent,[],False
+indignant,[],False
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,[],False
+indiscreetly,[],False
+indiscretion,[],False
+indiscriminate,[],True
+indiscriminately,"[('bừa bãi', 2), ('bãi', 2), ('bừa', 2)]",True
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,[],False
+ineffective,"[('không hiệu quả', 1), ('không', 1), ('hiệu', 1), ('quả', 1)]",True
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,[],False
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,[],False
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,[],False
+inequality,[],False
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,"[('không', 1), ('nào', 1), ('thể', 1), ('không thể nào', 1), ('mười', 1)]",True
+inevitably,[],False
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,[],False
+inexperienced,[],False
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,[],False
+inextricably,[],False
+infamous,"[('hiểm', 1), ('nham', 1), ('nham hiểm', 1)]",True
+infamously,[],False
+infamy,[],False
+infected,"[('nhiễm', 1), ('bị', 1), ('bị nhiễm', 1), ('lây', 1), ('dính', 1)]",True
+infection,[],False
+infections,[],False
+inferior,"[('thua', 1), ('so', 1)]",True
+inferiority,[],False
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],False
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,[],False
+infraction,[],False
+infringe,"[('phạm', 3), ('vi', 2), ('vi phạm', 2), ('xâm phạm', 1), ('xâm', 1)]",True
+infringement,"[('vi', 16), ('phạm', 13), ('vi phạm', 12), ('quyền', 2), ('bản', 1)]",True
+infringements,[],False
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],False
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],True
+injurious,[],False
+injury,[],False
+injustice,"[('bất công', 1), ('công', 1), ('bất', 1)]",True
+injustices,[],False
+innuendo,[],False
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,[],False
+insanely,[],False
+insanity,[],False
+insatiable,[],False
+insecure,[],False
+insecurity,[],False
+insensible,[],False
+insensitive,[],False
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,[],False
+insignificant,[],False
+insignificantly,[],False
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],False
+insinuating,[],False
+insinuation,[],False
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,"[('ổn', 1), ('bất', 1), ('bất ổn', 1)]",True
+instable,[],False
+instigate,[],False
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,"[('chưa đủ', 2), ('chưa', 2), ('đủ', 2)]",True
+insufficiently,[],False
+insular,[],False
+insult,"[('phạm', 4), ('xúc', 4), ('xúc phạm', 4), ('sỉ _ hả', 1), ('hả', 1)]",True
+insulted,"[('nhục', 1), ('sỉ nhục', 1), ('sỉ', 1)]",True
+insulting,"[('xúc', 3), ('phạm', 2), ('xúc phạm _ chửi', 1), ('chửi', 1), ('xúc phạm', 1)]",True
+insultingly,[],False
+insults,"[('chưởi', 1)]",True
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,"[('nghĩa', 1), ('khởi nghĩa', 1), ('khởi', 1)]",True
+intefere,[],False
+inteferes,[],False
+intense,"[('liệt', 1)]",True
+interfere,"[('dô', 1), ('xía', 1), ('thiệp', 1)]",True
+interference,"[('thoa', 1)]",True
+interferes,[],False
+intermittent,[],False
+interrupt,"[('ngang', 3), ('chen ngang', 2), ('chen', 2), ('lỗi', 1), ('lỗi _ ngang', 1)]",True
+interruption,"[('ngang', 1), ('lỗi', 1), ('lỗi _ ngang', 1)]",True
+interruptions,[],False
+intimidate,[],False
+intimidating,[],False
+intimidatingly,[],False
+intimidation,"[('hăm dọa', 1), ('hăm', 1), ('dọa', 1)]",True
+intolerable,[],False
+intolerablely,[],False
+intolerance,[],False
+intoxicate,[],False
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],False
+intrusion,[],False
+intrusive,[],False
+inundate,[],False
+inundated,[],False
+invader,[],False
+invalid,"[('lệ', 2), ('không', 2), ('không hợp lệ', 1), ('hợp', 1), ('vô hiệu', 1)]",True
+invalidate,[],False
+invalidity,[],False
+invasive,[],False
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,"[('hình', 2), ('vô hình', 1), ('vô', 1)]",True
+involuntarily,[],False
+involuntary,[],False
+irascible,[],False
+irate,[],True
+irately,[],False
+ire,[],True
+irk,[],False
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,"[('khôi hài', 1), ('hài', 1), ('khôi', 1)]",True
+ironical,[],False
+ironically,[],False
+ironies,[],False
+irony,[],False
+irragularity,[],False
+irrational,[],False
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,[],True
+irregularity,"[('thường', 1), ('bất thường', 1), ('bất', 1)]",True
+irrelevance,[],False
+irrelevant,"[('quan', 1), ('liên', 1), ('liên quan', 1)]",True
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,"[('trách nhiệm', 1), ('trách', 1), ('nhiệm', 1)]",True
+irresponsibly,[],False
+irretating,[],False
+irretrievable,[],False
+irreversible,[],False
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],False
+irritated,[],False
+irritating,[],False
+irritation,[],False
+irritations,[],False
+isolate,"[('cách ly', 1), ('cách', 1), ('ly', 1)]",True
+isolated,[],False
+isolation,[],False
+issue,"[('đề', 42), ('vấn', 10), ('vấn đề', 6), ('ra', 1), ('đế', 1)]",True
+issues,"[('đề', 13), ('vấn', 11), ('vấn đề', 9)]",True
+itch,"[('ngứa', 1)]",True
+itching,[],True
+itchy,"[('ngứa', 3), ('mắt', 1), ('ngứa mắt', 1), ('thật', 1)]",True
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,"[('ghen', 1)]",True
+jealously,[],False
+jealousness,[],False
+jealousy,[],False
+jeer,[],False
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,"[('nguy _ cho', 1), ('nguy', 1), ('cho', 1)]",True
+jeopardy,[],False
+jerk,"[('anh', 1)]",True
+jerky,[],False
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,"[('jobless', 1), ('vô _ nghề', 1), ('nghề', 1), ('vô', 1)]",True
+joke,"[('đùa', 2), ('túc', 1), ('túc _ đùa', 1), ('đi', 1), ('đi đùa', 1)]",True
+joker,[],False
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,"[('linh', 1)]",True
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,"[('giết', 4), ('chết', 1), ('diệt', 1)]",True
+killed,"[('giết', 3), ('chết', 1)]",True
+killer,[],False
+killing,"[('giết', 3)]",True
+killjoy,[],False
+kills,[],True
+knave,[],False
+knife,[],False
+knock,[],True
+knotted,[],False
+kook,[],False
+kooky,[],False
+lack,"[('thiếu', 16), ('không', 1), ('thiếu _ thiếu', 1), ('dục', 1)]",True
+lackadaisical,[],False
+lacked,[],False
+lackey,[],False
+lackeys,[],False
+lacking,"[('thiếu', 7), ('thiếu hụt', 1), ('hụt', 1), ('dán', 1), ('nhãn', 1)]",True
+lackluster,[],False
+lacks,"[('thiếu', 2)]",True
+laconic,[],False
+lag,[],True
+lagged,[],False
+lagging,"[('lag', 1)]",True
+laggy,"[('kô', 1), ('lag kô', 1), ('lag', 1)]",True
+lags,[],True
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,[],True
+lame-duck,[],False
+lament,[],False
+lamentable,[],False
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],True
+lapsed,[],False
+lapses,[],False
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,[],False
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],False
+lawlessness,[],False
+layoff,[],False
+layoff-happy,[],False
+lazy,"[('lười', 7), ('biếng', 2), ('lười biếng', 2), ('lười _ chuột', 1), ('chuột', 1)]",True
+leak,[],False
+leakage,[],False
+leakages,[],False
+leaking,[],False
+leaks,[],False
+leaky,[],False
+lech,[],True
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,"[('đỉa', 1)]",True
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,[],False
+lengthy,"[('dài', 8), ('dài dòng', 2), ('dòng', 2), ('thê', 1), ('dài _ thê', 1)]",True
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,[],True
+liable,[],True
+liar,[],True
+liars,[],False
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('nói', 2), ('láo', 1), ('bố', 1), ('bố láo', 1), ('dối', 1)]",True
+lied,[],True
+lier,[],True
+lies,"[('nằm', 2), ('dối', 1), ('lies', 1)]",True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('hạn', 13), ('chế', 3), ('hạn chế', 1), ('mức', 1), ('hạn mức', 1)]",True
+limitation,[],True
+limitations,"[('hạn chế', 1), ('chế', 1), ('hạn', 1)]",True
+limited,"[('hạn', 4), ('chế', 2), ('chặt', 1), ('hạn chế', 1)]",True
+limits,"[('hạn', 1)]",True
+limp,[],False
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,"[('đơn', 1), ('cô', 1), ('cô đơn', 1)]",True
+loner,[],False
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,[],True
+longingly,[],False
+loophole,"[('dấu hở', 1), ('dấu', 1), ('hở', 1)]",True
+loopholes,[],True
+loose,"[('lỏng', 2), ('lẽo', 1), ('lỏng lẽo', 1)]",True
+loot,[],False
+lorn,[],False
+lose,"[('mất', 7), ('thua', 6), ('có thua', 1), ('có', 1), ('thất', 1)]",True
+loser,[],True
+losers,[],False
+loses,[],True
+losing,"[('mất', 5), ('thua', 1)]",True
+loss,"[('thiệt', 1), ('thua thiệt', 1), ('thua', 1), ('công', 1), ('mất', 1)]",True
+losses,[],False
+lost,"[('mất', 18), ('thua', 3), ('thất', 3), ('lạc', 1), ('quánh', 1)]",True
+loud,"[('đi', 1), ('rùi', 1)]",True
+louder,[],False
+lousy,[],False
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,[],True
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,[],False
+lunaticism,[],False
+lurch,[],False
+lure,[],True
+lurid,[],False
+lurk,[],False
+lurking,[],False
+lying,"[('nằm', 1)]",True
+macabre,[],False
+mad,"[('giận', 1)]",True
+madden,[],False
+maddening,[],False
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,[],False
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,"[('ghen', 1), ('làn', 1), ('ác', 1), ('làn _ ghen _ ác', 1)]",True
+malicious,"[('ác', 1), ('xấu', 1)]",True
+maliciously,[],False
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,[],True
+maniac,[],False
+maniacal,[],False
+manic,[],False
+manipulate,"[('thao túng', 1), ('thao', 1), ('túng', 1)]",True
+manipulation,[],False
+manipulative,[],False
+manipulators,[],False
+mar,[],True
+marginal,[],False
+marginally,[],False
+martyrdom,[],False
+martyrdom-seeking,[],False
+mashed,[],True
+massacre,"[('sát', 2)]",True
+massacres,"[('trận', 1), ('sát', 1), ('trận _ sát', 1)]",True
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,[],False
+meaningless,"[('vô nghĩa', 2), ('vô', 2), ('nghĩa', 2)]",True
+meanness,[],False
+measly,[],False
+meddle,"[('ung', 1), ('xía _ ung', 1), ('xía', 1), ('xen', 1)]",True
+meddlesome,[],False
+mediocre,[],False
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,[],False
+mercilessly,[],False
+mess,"[('mớ', 2), ('lộn', 2), ('rối', 2), ('mớ lộn', 1), ('lung', 1)]",True
+messed,"[('làm', 1), ('loạn', 1), ('nhầm', 1), ('xệch', 1), ('quấy', 1)]",True
+messes,[],True
+messing,"[('làm', 1), ('rối', 1), ('nghịch', 1)]",True
+messy,"[('xộn', 4), ('lộn', 4), ('lộn xộn', 3), ('lộn xộn lắm', 1), ('lắm', 1)]",True
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],True
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,"[('hẵng', 1), ('khoái xóa bài', 1), ('khoái', 1), ('xóa', 1), ('bài', 1)]",True
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,[],True
+misconceptions,"[('lầm', 1), ('niệm', 1), ('niệm sai lầm', 1), ('sai', 1)]",True
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],True
+miserable,"[('khổ', 2), ('khổ thế', 1), ('thế', 1)]",True
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,[],False
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],False
+misinform,[],False
+misinformed,[],False
+misinterpret,[],False
+misjudge,[],False
+misjudgment,[],False
+mislead,"[('lừa', 1), ('đánh lừa', 1), ('đánh', 1)]",True
+misleading,"[('hiểu', 3), ('hiểu lầm', 2), ('lầm', 2)]",True
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],True
+mispronounced,"[('âm sai', 1), ('âm', 1), ('sai', 1)]",True
+mispronounces,[],False
+misread,[],False
+misreading,[],False
+misrepresent,"[('sai lệch', 1), ('lệch', 1), ('sai', 1)]",True
+misrepresentation,[],False
+miss,"[('bỏ', 3), ('nhớ', 2), ('hậu', 1)]",True
+missed,"[('hụt', 1), ('bỏ', 1)]",True
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('sai', 8), ('nhầm', 5), ('lỗi', 4), ('lầm', 4), ('sai lầm', 3)]",True
+mistaken,"[('lầm', 1), ('nhầm', 1), ('rảnh', 1)]",True
+mistakenly,"[('tưởng', 1)]",True
+mistakes,"[('lỗi', 3), ('lầm', 2), ('sai', 2), ('điểm', 1), ('sai lầm của', 1)]",True
+mistified,[],False
+mistress,[],False
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],True
+misunderstand,"[('hiểu lầm', 2), ('hiểu', 2), ('lầm', 2), ('nhầm', 1), ('sai', 1)]",True
+misunderstanding,"[('hiểu', 2), ('nhầm', 2), ('hiểu lầm', 1), ('lầm', 1), ('hiểu nhầm', 1)]",True
+misunderstandings,"[('hiểu', 3), ('hiểu lầm', 2), ('lầm', 2), ('nhầm', 1), ('hiểu nhầm', 1)]",True
+misunderstood,"[('hiểu', 7), ('nhầm', 3), ('hiểu nhầm', 2), ('dễ', 1), ('hiểu _ dễ _ nhầm', 1)]",True
+misuse,[],True
+moan,[],False
+mobster,[],False
+mock,[],True
+mocked,[],False
+mockeries,[],False
+mockery,"[('chế giễu', 2), ('giễu', 2), ('chế', 2)]",True
+mocking,"[('chế giễu', 1), ('giễu', 1), ('chế', 1)]",True
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,"[('đơn', 2), ('điệu', 2), ('đơn điệu', 2)]",True
+monotony,[],False
+monster,[],False
+monstrosities,[],False
+monstrosity,[],False
+monstrous,[],False
+monstrously,[],False
+moody,[],False
+moot,[],False
+mope,[],False
+morbid,[],False
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,[],False
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,"[('hại', 1), ('sát hại', 1), ('sát', 1), ('giết', 1)]",True
+murderer,[],False
+murderous,"[('hiếu sát', 1), ('hiếu', 1), ('sát', 1)]",True
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,"[('ẩn', 1)]",True
+mysteriously,[],False
+mystery,[],False
+mystify,[],False
+myth,"[('chuyện', 1), ('chuyện hoang đường', 1), ('đường', 1), ('hoang', 1), ('thoại', 1)]",True
+nag,[],True
+nagging,"[('cằn', 1), ('cằn nhằn', 1), ('nhằn', 1)]",True
+naive,[],False
+naively,[],False
+narrower,"[('hẹp', 1), ('phân', 1), ('phân _ hẹp hơn', 1), ('hơn', 1)]",True
+nastily,[],False
+nastiness,[],False
+nasty,[],True
+naughty,[],False
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,[],False
+needlessly,[],False
+needy,[],False
+nefarious,"[('chăng', 1)]",True
+nefariously,[],False
+negate,"[('phủ nhận', 1), ('nhận', 1), ('phủ', 1)]",True
+negation,[],False
+negative,"[('cực', 2), ('tiêu cực', 1), ('tiêu', 1), ('âm', 1), ('chống', 1)]",True
+negatives,[],False
+negativity,[],False
+neglect,[],True
+neglected,"[('bỏ', 1), ('vị', 1)]",True
+negligence,[],False
+negligent,[],False
+nemesis,[],False
+nepotism,[],False
+nervous,"[('thần', 1), ('hộp', 1)]",True
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,[],False
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,[],True
+noises,"[('tiếng', 1), ('kêu', 1), ('tiếng kêu', 1)]",True
+noisier,[],False
+noisy,"[('ào', 1), ('ồn ào', 1), ('ồn', 1)]",True
+non-confidence,[],False
+nonexistent,"[('không', 1)]",True
+nonresponsive,[],False
+nonsense,"[('tung', 1), ('bậy _ tung', 1), ('bậy', 1), ('vẩn', 1)]",True
+nosey,[],False
+notoriety,[],False
+notorious,[],False
+notoriously,[],False
+noxious,[],True
+nuisance,[],False
+numb,[],True
+obese,[],False
+object,"[('tượng', 2), ('phản', 2), ('vật', 2), ('object', 1), ('phản đối', 1)]",True
+objection,"[('phản đối', 2), ('đối', 2), ('phản', 2)]",True
+objectionable,[],False
+objections,"[('phản đối', 2), ('đối', 2), ('phản', 2), ('ý', 1), ('ý kiến', 1)]",True
+oblique,[],False
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,"[('đáng', 1), ('ghét', 1), ('đáng ghét', 1)]",True
+obnoxiously,[],False
+obscene,"[('tĩu', 3), ('quá tục tĩu', 1), ('quá', 1), ('tục', 1)]",True
+obscenely,[],False
+obscenity,[],False
+obscure,"[('tối', 1), ('nghĩa', 1)]",True
+obscured,"[('lu', 1), ('khuất', 1)]",True
+obscures,[],False
+obscurity,[],False
+obsess,[],True
+obsessive,"[('ám', 2), ('ảnh', 1), ('ám ảnh', 1), ('cưỡng', 1), ('ám _ cưỡng', 1)]",True
+obsessively,[],False
+obsessiveness,[],False
+obsolete,"[('lạc hậu', 1), ('hậu', 1), ('lạc', 1)]",True
+obstacle,[],True
+obstinate,[],False
+obstinately,[],False
+obstruct,[],False
+obstructed,[],False
+obstructing,[],False
+obstruction,[],False
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,[],True
+odder,[],False
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,[],True
+odor,[],False
+offence,[],False
+offend,"[('phạm', 3), ('xúc', 3), ('xúc phạm', 3)]",True
+offender,[],False
+offending,"[('phạm', 2), ('vi', 1), ('vi phạm', 1), ('mất', 1)]",True
+offenses,[],False
+offensive,"[('kích', 2), ('lời', 2), ('những', 1), ('những _ kích', 1), ('phản', 1)]",True
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,[],False
+ominously,[],False
+omission,[],True
+omit,[],True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,"[('chính', 1), ('chính kiến', 1), ('kiến', 1)]",True
+opponent,[],True
+opportunistic,[],False
+oppose,"[('đối', 4), ('phản', 3), ('phản đối', 1), ('chống', 1), ('chống đối', 1)]",True
+opposition,"[('đối lập', 1), ('đối', 1), ('lập', 1)]",True
+oppositions,[],False
+oppress,"[('đàn áp', 2), ('áp', 2), ('đàn', 2)]",True
+oppression,"[('đàn', 1)]",True
+oppressive,[],False
+oppressively,[],False
+oppressiveness,[],False
+oppressors,[],False
+ordeal,[],False
+orphan,[],False
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,[],False
+outcry,[],False
+outlaw,[],False
+outmoded,[],False
+outrage,[],False
+outraged,[],False
+outrageous,[],False
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,[],True
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,[],False
+overdone,[],False
+overdue,[],False
+overemphasize,[],False
+overheat,[],False
+overkill,"[('tay', 1), ('quá tay', 1), ('quá', 1)]",True
+overloaded,[],False
+overlook,[],True
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],True
+oversight,[],False
+oversights,[],False
+oversimplification,[],False
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],True
+overstate,[],True
+overstated,"[('nhận', 1), ('quá', 1), ('nhận sai _ quá', 1), ('sai', 1)]",True
+overstatement,[],False
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,[],True
+overthrows,[],False
+overturn,[],True
+overweight,[],False
+overwhelm,[],True
+overwhelmed,"[('áp đảo', 1), ('đảo', 1), ('áp', 1)]",True
+overwhelming,[],False
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,[],False
+overzealously,[],False
+overzelous,[],False
+pain,"[('đau', 2), ('ngứa', 1)]",True
+painful,"[('khổ', 1), ('khổ thật', 1), ('thật', 1)]",True
+painfull,[],False
+painfully,[],False
+pains,[],False
+pale,[],True
+pales,[],False
+paltry,[],False
+pan,[],True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,"[('hốt', 1)]",True
+panick,[],False
+panicked,[],False
+panicking,[],False
+panicky,[],False
+paradoxical,[],False
+paradoxically,[],False
+paralize,[],False
+paralyzed,[],False
+paranoia,"[('tưởng', 1), ('hoang tưởng', 1), ('hoang', 1)]",True
+paranoid,[],False
+parasite,[],False
+pariah,[],False
+parody,[],False
+partiality,[],False
+partisan,[],False
+partisans,[],False
+passe,[],True
+passive,[],False
+passiveness,[],False
+pathetic,[],True
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,[],False
+peculiarly,[],False
+pedantic,[],False
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],True
+penalty,"[('phạt', 1), ('hình', 1), ('luật', 1)]",True
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],False
+pernicious,[],False
+perplex,[],False
+perplexed,[],False
+perplexing,[],False
+perplexity,[],False
+persecute,[],True
+persecution,"[('hại', 1), ('bức hại', 1), ('bức', 1)]",True
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,[],True
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,"[('nhặt', 1)]",True
+phobia,[],False
+phobic,[],False
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,"[('nhỉ _ phải', 1), ('phải', 1), ('nhỉ', 1)]",True
+pig,"[('lợn', 2), ('heo', 1)]",True
+pigs,"[('lợn', 2)]",True
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,"[('nhúm', 1)]",True
+pique,[],False
+pitiable,[],False
+pitiful,"[('thương', 1)]",True
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,"[('tiếc', 2)]",True
+plagiarize,[],False
+plague,[],False
+plasticky,[],False
+plaything,[],False
+plea,[],True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,"[('truyện', 1), ('plot', 1)]",True
+plotters,[],False
+ploy,[],True
+plunder,[],False
+plunderer,[],False
+pointless,"[('vô', 1), ('vị', 1), ('vô vị', 1)]",True
+pointlessly,[],False
+poison,"[('độc', 1), ('đầu độc', 1), ('đầu', 1)]",True
+poisonous,[],False
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,[],True
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('kém', 11), ('nghèo', 5), ('cỏi', 1), ('nông', 1), ('nghiệp', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,"[('rất', 1), ('kém', 1)]",True
+posturing,[],False
+pout,[],False
+poverty,[],False
+powerless,[],False
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,"[('thành kiến _ ác', 1), ('thành', 1), ('ác', 1), ('kiến', 1)]",True
+prejudices,[],False
+prejudicial,[],False
+premeditated,[],False
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,[],False
+presumptuously,[],False
+pretence,[],False
+pretend,"[('vờ', 3), ('giả vờ', 2), ('giả', 2), ('lại _ vờ', 1), ('lại', 1)]",True
+pretense,[],False
+pretentious,[],False
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],False
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,"[('nguyên', 1), ('khai', 1)]",True
+prison,"[('tù', 4)]",True
+prisoner,"[('tù', 1)]",True
+problem,"[('đề', 90), ('vấn', 28), ('vấn đề', 24), ('sao', 2), ('trục', 2)]",True
+problematic,"[('vấn', 3), ('đề', 1), ('vấn đề', 1)]",True
+problems,"[('đề', 11), ('vấn', 6), ('vấn đề', 4), ('mắc', 3), ('trặc', 2)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,[],False
+prohibit,"[('cấm', 2), ('hả', 1), ('cấm hả', 1)]",True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,"[('tuyên', 3), ('truyền', 1), ('chiến', 1)]",True
+propagandize,[],False
+proprietary,[],False
+prosecute,[],True
+protest,"[('biểu', 1)]",True
+protested,"[('phản đối', 1), ('đối', 1), ('phản', 1)]",True
+protesting,"[('biểu', 2), ('có _ biểu', 1), ('có', 1), ('biểu tình', 1), ('tình', 1)]",True
+protests,[],False
+protracted,"[('dai', 1)]",True
+provocation,[],False
+provocative,[],False
+provoke,"[('gây', 1), ('tức', 1), ('trầm', 1), ('tức _ trầm', 1)]",True
+pry,[],False
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,[],False
+punish,"[('phạt', 1)]",True
+punishable,[],False
+punitive,[],False
+punk,[],False
+puny,[],False
+puppet,"[('rối', 11), ('ngụy', 2), ('tài', 2), ('nhìn', 2), ('bù', 2)]",True
+puppets,"[('rối', 9), ('vậy', 1), ('rối vậy', 1), ('thì _ kĩ', 1), ('kĩ', 1)]",True
+puzzled,"[('thắc mắc', 1), ('mắc', 1), ('thắc', 1)]",True
+puzzlement,[],False
+puzzling,[],False
+quack,"[('liệu', 1)]",True
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,"[('chuyện', 1), ('cãi', 1), ('chuyện cãi', 1)]",True
+quarrellous,[],False
+quarrellously,[],False
+quarrels,"[('lộn', 1), ('cãi', 1), ('cãi lộn', 1)]",True
+quarrelsome,[],False
+quash,[],False
+queer,[],False
+questionable,"[('vấn', 1), ('vấn _ lớn', 1), ('lớn', 1)]",True
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,"[('dại', 1)]",True
+racism,[],False
+racist,[],False
+racists,[],False
+racy,[],True
+radical,[],True
+radicalization,[],False
+radically,[],True
+radicals,[],False
+rage,[],True
+ragged,[],True
+raging,[],True
+rail,"[('rail', 1)]",True
+raked,[],False
+rampage,[],False
+rampant,"[('tràn', 1), ('rộ', 1), ('rầm rộ', 1), ('rầm', 1)]",True
+ramshackle,[],False
+rancor,[],False
+randomly,[],True
+rankle,[],False
+rant,[],True
+ranted,[],True
+ranting,[],True
+rantingly,[],False
+rants,[],True
+rape,[],True
+raped,[],False
+raping,[],False
+rascal,[],False
+rascals,[],False
+rash,[],True
+rattle,[],False
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],False
+reactionary,"[('phản', 4), ('phản động', 3), ('động', 3)]",True
+rebellious,[],False
+rebuff,[],False
+rebuke,"[('bắt bẻ', 1), ('bắt', 1), ('bẻ', 1)]",True
+recalcitrant,[],False
+recant,[],False
+recession,"[('suy thoái', 1), ('suy', 1), ('thoái', 1)]",True
+recessionary,[],False
+reckless,"[('liều lĩnh', 1), ('liều', 1), ('lĩnh', 1)]",True
+recklessly,[],False
+recklessness,[],False
+recoil,[],False
+recourses,[],False
+redundancy,[],False
+redundant,"[('thừa', 3), ('bỏ', 1), ('nhỉ', 1), ('bộ', 1), ('sẵn _ thừa bộ', 1)]",True
+refusal,"[('chối', 1)]",True
+refuse,"[('chối', 7), ('không', 2), ('từ chối', 1), ('từ', 1)]",True
+refused,"[('chối', 3), ('không', 1)]",True
+refuses,"[('không', 2), ('từ chối', 1), ('chối', 1), ('từ', 1)]",True
+refusing,[],False
+refutation,[],False
+refute,"[('bẻ', 1), ('phản bác', 1), ('bác', 1), ('phản', 1)]",True
+refuted,[],False
+refutes,[],False
+refuting,[],False
+regress,[],False
+regression,[],False
+regressive,[],False
+regret,"[('hối hận', 1), ('hận', 1), ('hối', 1)]",True
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,"[('tiếc', 1)]",True
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,"[('bỏ', 3), ('bác', 3), ('bác bỏ', 3)]",True
+rejected,"[('chối', 1), ('trừ', 1)]",True
+rejecting,[],False
+rejection,[],False
+rejects,[],False
+relapse,[],False
+relentless,[],False
+relentlessly,[],False
+relentlessness,[],False
+reluctance,[],False
+reluctant,"[('cưỡng', 1), ('khiên cưỡng', 1), ('khiên', 1)]",True
+reluctantly,"[('cưỡng', 1), ('miễn', 1), ('miễn cưỡng', 1)]",True
+remorse,[],False
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,[],False
+renunciation,[],False
+repel,[],False
+repetitive,[],False
+reprehensible,[],False
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],False
+repression,[],False
+repressive,[],False
+reprimand,[],True
+reproach,[],False
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,[],False
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],True
+repulsed,"[('đẩy lui', 1), ('lui', 1), ('đẩy', 1)]",True
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,[],True
+resentful,[],True
+resentment,[],False
+resignation,[],False
+resigned,[],False
+resistance,"[('kháng', 1), ('resistance', 1)]",True
+restless,[],True
+restlessness,[],False
+restrict,"[('hạn chế', 1), ('chế', 1), ('hạn', 1)]",True
+restricted,"[('hạn', 2)]",True
+restriction,"[('hạn chế', 1), ('chế', 1), ('hạn', 1)]",True
+restrictive,"[('bó', 1)]",True
+resurgent,[],False
+retaliate,[],False
+retaliatory,[],False
+retard,[],False
+retarded,[],False
+retardedness,[],False
+retards,[],False
+reticent,[],False
+retract,"[('rút lại', 2), ('rút', 2), ('lại', 2)]",True
+retreat,"[('rút', 1)]",True
+retreated,[],False
+revenge,"[('thù', 3), ('trả thù', 1), ('trả', 1)]",True
+revengeful,[],False
+revengefully,[],False
+revert,"[('lùi', 6), ('revert', 4), ('hồi', 1), ('lại hồi', 1), ('lại', 1)]",True
+revile,[],False
+reviled,[],False
+revoke,[],False
+revolt,[],False
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,"[('trương', 1)]",True
+rhetorical,[],False
+ricer,[],False
+ridicule,[],False
+ridicules,[],False
+ridiculous,"[('hoại', 1), ('lố _ hoại', 1), ('lố', 1), ('hoành hành', 1), ('hành', 1)]",True
+ridiculously,[],False
+rife,[],False
+rift,[],False
+rifts,[],False
+rigid,"[('cứng', 2), ('cứng nhắc', 1), ('nhắc', 1)]",True
+rigidity,[],False
+rigidness,[],False
+rile,[],False
+riled,[],False
+rip,[],True
+rip-off,[],False
+ripoff,[],False
+ripped,[],False
+risk,"[('hiểm', 1)]",True
+risks,[],False
+risky,[],False
+rival,[],False
+rivalry,[],False
+roadblocks,[],False
+rocky,"[('rocky', 1)]",True
+rogue,[],False
+rollercoaster,[],False
+rot,[],True
+rotten,"[('ươn', 1), ('rotten', 1), ('trắc thối', 1), ('trắc', 1), ('thối', 1)]",True
+rough,"[('kém', 1)]",True
+rremediable,[],False
+rubbish,[],False
+rude,"[('nhã', 1)]",True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,[],True
+ruined,[],False
+ruining,[],False
+ruinous,[],False
+ruins,"[('huề', 1)]",True
+rumbling,[],False
+rumor,"[('cứ', 1), ('đồn', 1), ('đồn _ cứ', 1)]",True
+rumors,"[('tin', 2), ('đồn', 1)]",True
+rumours,[],False
+rumple,[],False
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,[],True
+rusts,[],True
+rusty,[],True
+rut,[],True
+ruthless,[],False
+ruthlessly,[],False
+ruthlessness,[],False
+ruts,[],False
+sabotage,"[('hoại', 9), ('phá', 9), ('phá hoại', 8), ('trêu _ lùi _ phá hoại', 1), ('lùi', 1)]",True
+sack,[],True
+sacrificed,[],True
+sad,"[('buồn', 11), ('buon', 2), ('quá', 2), ('thật', 1), ('tiếc', 1)]",True
+sadden,[],False
+sadly,[],True
+sadness,[],False
+sag,[],True
+sagged,[],False
+sagging,[],False
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,[],True
+sarcasm,[],False
+sarcastic,[],False
+sarcastically,[],False
+sardonic,[],False
+sardonically,[],False
+sass,[],True
+satirical,[],False
+satirize,[],False
+savage,[],False
+savaged,[],False
+savagery,[],False
+savages,[],False
+scaly,[],False
+scam,[],True
+scams,[],False
+scandal,"[('scandal', 3), ('xùm', 1)]",True
+scandalize,[],False
+scandalized,[],False
+scandalous,"[('tiếng', 1)]",True
+scandalously,[],False
+scandals,"[('các _ scandal', 1), ('scandal', 1), ('các', 1)]",True
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,"[('tụi', 1)]",True
+scar,[],True
+scarce,"[('ít', 1)]",True
+scarcely,[],False
+scarcity,[],False
+scare,"[('dọa', 1)]",True
+scared,"[('sợ', 3), ('sợ lắm', 1), ('lắm', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,"[('sẹo', 1)]",True
+scars,[],False
+scary,[],False
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,"[('mắng', 1), ('chộp', 1)]",True
+scolded,[],False
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],False
+scornful,[],False
+scornfully,[],False
+scoundrel,[],False
+scourge,[],False
+scowl,[],False
+scramble,"[('giành _ hãm', 1), ('giành', 1), ('hãm', 1)]",True
+scrambled,[],False
+scrambles,[],False
+scrambling,[],False
+scrap,[],True
+scratch,"[('đầu', 1), ('cào', 1)]",True
+scratched,[],False
+scratches,"[('gãi', 1)]",True
+scratchy,[],False
+scream,"[('hỡi _ lên _ biết', 1), ('lên', 1), ('hỡi', 1), ('biết', 1), ('lôi', 1)]",True
+screech,[],False
+screw-up,[],False
+screwed,"[('vặn', 1)]",True
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,"[('canh', 1)]",True
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,[],False
+selfishly,[],False
+selfishness,[],False
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,[],False
+senselessly,[],False
+seriousness,[],False
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],False
+setbacks,[],False
+sever,[],True
+severe,"[('nặng', 1), ('đứt', 1), ('ăn', 1), ('ăn đứt', 1), ('severe', 1)]",True
+severity,[],False
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,"[('mờ', 1)]",True
+shake,[],True
+shaky,[],False
+shallow,[],False
+sham,[],True
+shambles,[],False
+shame,[],True
+shameful,"[('xấu', 1), ('xấu _ không', 1), ('không', 1)]",True
+shamefully,[],False
+shamefulness,[],False
+shameless,[],False
+shamelessly,[],False
+shamelessness,[],False
+shark,[],False
+sharply,[],False
+shatter,[],False
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,[],False
+shirker,[],False
+shit,"[('cứt', 2), ('cục phân', 1), ('phân', 1), ('cục', 1)]",True
+shiver,"[('rét run', 2), ('run', 2), ('rét', 2)]",True
+shock,"[('xung', 1), ('kích', 1), ('xung kích', 1)]",True
+shocked,"[('sốc', 2), ('bị', 1), ('bị _ sốc', 1), ('gây', 1)]",True
+shocking,[],True
+shockingly,"[('phức', 1)]",True
+shoddy,[],False
+short-lived,[],False
+shortage,"[('thiếu', 2)]",True
+shortchange,[],False
+shortcoming,"[('thiếu', 2), ('thiếu sót', 1), ('sót', 1)]",True
+shortcomings,[],False
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,[],False
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,"[('thuấn', 1)]",True
+shunned,"[('đuổi', 73), ('xua', 73), ('xua đuổi', 73), ('lánh', 1)]",True
+sick,"[('sick', 1), ('mắc', 1), ('đau', 1), ('yếu', 1)]",True
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],False
+sidetracked,[],False
+siege,[],False
+sillily,[],False
+silly,"[('vớ vẩn', 3), ('vớ', 3), ('vẩn', 3), ('ngớ', 3), ('ngớ ngẩn', 2)]",True
+simplistic,[],False
+simplistically,[],False
+sin,"[('tội', 1)]",True
+sinful,[],False
+sinfully,[],False
+sinister,[],True
+sinisterly,[],False
+sink,[],True
+sinking,[],False
+skeletons,[],False
+skeptic,"[('nghi', 1)]",True
+skeptical,[],False
+skeptically,[],False
+skepticism,[],False
+sketchy,"[('sài', 5), ('sơ', 3), ('ra', 1), ('trông', 1), ('ra _ trông', 1)]",True
+skimpy,[],False
+skinny,[],False
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,"[('xấu', 1)]",True
+slanderer,[],False
+slanderous,"[('khống', 1), ('vu khống', 1), ('vu', 1)]",True
+slanderously,[],False
+slanders,"[('vu khống cho', 1), ('khống', 1), ('cho', 1), ('vu', 1)]",True
+slap,"[('vỗ _ đùm đụp', 1), ('vỗ', 1), ('đùm', 1), ('đụp', 1), ('tát', 1)]",True
+slashing,[],False
+slaughter,"[('chém giết', 1), ('giết', 1), ('chém', 1)]",True
+slaughtered,[],False
+slave,"[('lệ', 1), ('nô', 1)]",True
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],True
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,"[('ẩu', 2), ('lủng', 1), ('ẩu tả', 1), ('tả', 1), ('củng', 1)]",True
+sloth,[],False
+slothful,[],False
+slow,"[('chậm', 3), ('nhỉ', 1), ('đồ', 1), ('bình _ nha', 1), ('nha', 1)]",True
+slow-moving,[],False
+slowed,[],False
+slower,"[('chậm hơn', 1), ('hơn', 1), ('chậm', 1)]",True
+slowest,[],False
+slowly,"[('chậm', 2), ('một', 1)]",True
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],True
+sluggish,"[('hơi oải', 1), ('oải', 1), ('hơi', 1)]",True
+slump,[],False
+slumping,[],False
+slumpping,[],False
+slur,[],True
+slut,[],False
+sluts,[],False
+sly,[],True
+smack,[],False
+smallish,[],False
+smash,[],True
+smear,[],True
+smell,[],False
+smelled,[],False
+smelling,[],False
+smells,[],False
+smelly,[],False
+smelt,[],False
+smoke,[],True
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,"[('tréo', 1), ('tréo ngoe', 1), ('ngoe', 1)]",True
+smugly,[],False
+smut,[],False
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,[],False
+snarky,[],False
+snarl,[],False
+sneak,[],True
+sneakily,[],False
+sneaky,"[('lén', 1), ('lút', 1), ('lén lút', 1)]",True
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,[],False
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,[],False
+so-cal,[],False
+soapy,[],False
+sob,[],False
+sober,[],False
+sobering,[],False
+solemn,[],False
+solicitude,[],False
+somber,[],False
+sore,[],True
+sorely,[],False
+soreness,[],False
+sorrow,[],False
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('xin', 19), ('lỗi', 9), ('tiếc', 3), ('bạn', 2), ('xin lỗi', 2)]",True
+sour,[],True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],False
+spewed,[],False
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,[],True
+spiteful,"[('hằn học', 1), ('hằn', 1), ('học', 1)]",True
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,"[('tách', 4), ('chia', 3), ('rẽ', 1), ('chia rẽ', 1), ('bị', 1)]",True
+splitting,[],False
+spoil,[],True
+spoilage,[],False
+spoilages,[],False
+spoiled,"[('trăm', 1)]",True
+spoilled,[],False
+spoils,"[('nhúm', 1)]",True
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,"[('tẻ', 1), ('lẻ', 1), ('lẻ tẻ', 1)]",True
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],False
+squabbling,[],False
+squander,[],False
+squash,[],False
+squeak,[],False
+squeaks,[],False
+squeaky,[],False
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,"[('giãy', 1)]",True
+stab,"[('đâm', 1)]",True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,[],True
+stains,[],True
+stale,[],False
+stalemate,[],False
+stall,[],True
+stalls,[],False
+stammer,[],True
+stampede,[],False
+standstill,[],False
+stark,[],False
+starkly,[],False
+startle,[],True
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,"[('đói', 2), ('chết', 1), ('chết đói', 1)]",True
+static,[],False
+steal,"[('bẻ', 1), ('trộm', 1)]",True
+stealing,"[('ăn', 2), ('ăn trộm', 2), ('trộm', 2)]",True
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],True
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,[],True
+sticky,"[('dính _ nhỉ', 1), ('dính', 1), ('nhỉ', 1)]",True
+stiff,[],False
+stiffness,[],False
+stifle,[],False
+stifling,[],False
+stiflingly,[],False
+stigma,[],False
+stigmatize,[],False
+sting,"[('châm chích', 1), ('chích', 1), ('châm', 1)]",True
+stinging,"[('châm chích', 1), ('chích', 1), ('châm', 1)]",True
+stingingly,[],False
+stingy,[],False
+stink,[],False
+stinks,[],False
+stodgy,[],False
+stole,[],True
+stolen,"[('quyền', 1), ('ăn', 1), ('ăn _ quyền', 1)]",True
+stooge,[],False
+stooges,[],False
+stormy,"[('giông', 1)]",True
+straggle,[],False
+straggler,[],False
+strain,[],False
+strained,[],False
+straining,[],False
+strange,"[('lạ', 14), ('tai', 2), ('lùng', 2), ('vậy', 2), ('quá', 2)]",True
+strangely,"[('cục', 1)]",True
+stranger,"[('gì', 1), ('xa', 1), ('xa _ gì', 1)]",True
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,[],True
+stresses,[],False
+stressful,"[('căng thẳng', 2), ('căng', 2), ('thẳng', 2)]",True
+stressfully,[],False
+stricken,[],False
+strict,"[('nghiêm', 1)]",True
+strictly,[],True
+strident,[],False
+stridently,[],False
+strife,[],False
+strike,[],True
+stringent,[],False
+stringently,[],False
+struck,[],False
+struggle,[],False
+struggled,[],False
+struggles,[],False
+struggling,[],False
+strut,[],False
+stubborn,"[('cố', 3), ('chấp', 2), ('cố chấp', 2), ('lợm', 2), ('mấy _ cứng đầu', 1)]",True
+stubbornly,"[('cố', 1)]",True
+stubbornness,"[('cứng đầu', 1), ('cứng', 1), ('đầu', 1)]",True
+stuck,"[('dính', 3), ('cắm', 1), ('rồi', 1), ('bó _ rồi', 1), ('bó', 1)]",True
+stuffy,"[('mịa', 1)]",True
+stumble,[],False
+stumbled,[],False
+stumbles,[],False
+stump,[],False
+stumped,[],False
+stumps,[],False
+stun,[],False
+stunt,[],False
+stunted,[],False
+stupid,"[('ngu', 9), ('dốt', 2), ('vớ', 2), ('tiếc', 1), ('nhu ngu', 1)]",True
+stupidest,[],False
+stupidity,"[('ngốc', 1)]",True
+stupidly,[],False
+stupified,[],False
+stupify,[],False
+stupor,[],False
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,[],False
+subjected,[],False
+subjection,[],False
+subjugate,[],False
+subjugation,[],False
+submissive,[],False
+subordinate,[],False
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,"[('sơ sài', 1), ('sài', 1), ('sơ', 1)]",True
+subtract,[],False
+subversion,[],False
+subversive,[],True
+subversively,[],False
+subvert,[],False
+succumb,[],False
+suck,[],True
+sucked,[],False
+sucker,[],True
+sucks,"[('húp', 1)]",True
+sucky,[],False
+sue,"[('hỏi', 1), ('cáo', 1), ('kiện', 1), ('kiện cáo', 1)]",True
+sued,"[('cáo', 1), ('kế kiện', 1), ('kế', 1), ('kiện', 1)]",True
+sueing,[],False
+sues,[],True
+suffer,"[('bị', 1), ('có bị', 1), ('có', 1)]",True
+suffered,[],False
+sufferer,[],False
+sufferers,[],False
+suffering,[],False
+suffers,[],True
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,[],False
+suicide,"[('tử', 1)]",True
+sulk,[],True
+sullen,[],False
+sully,[],False
+sunder,[],True
+sunk,[],False
+sunken,[],False
+superficial,[],False
+superficiality,[],False
+superficially,[],False
+superfluous,"[('không', 1), ('đâu', 1)]",True
+superstition,"[('đị', 1), ('mê _ đoan', 1), ('dị', 1), ('mê _ đị đoan', 1), ('dị đoan', 1)]",True
+superstitious,"[('mê', 1), ('mê tín', 1), ('tín', 1)]",True
+suppress,"[('suppress', 2), ('chế', 1), ('áp', 1), ('áp chế', 1)]",True
+suppression,"[('áp', 1)]",True
+surrender,"[('hàng', 1)]",True
+susceptible,[],False
+suspect,"[('ngờ', 3), ('nghi', 3)]",True
+suspicion,[],False
+suspicions,[],False
+suspicious,"[('nghi', 6), ('khả', 3), ('khả nghi', 3), ('ngờ', 3), ('nghi ngờ', 2)]",True
+suspiciously,[],False
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],False
+swelling,[],False
+swindle,[],False
+swipe,"[('vuốt', 1)]",True
+swollen,[],False
+symptom,[],False
+symptoms,[],False
+syndrome,"[('chứng', 1)]",True
+taboo,[],False
+tacky,[],False
+taint,[],True
+tainted,[],False
+tamper,[],False
+tangle,"[('rối', 1)]",True
+tangled,"[('rối', 2)]",True
+tangles,[],False
+tank,"[('tăng', 3), ('lên', 1), ('bể', 1)]",True
+tanked,[],False
+tanks,"[('tăng', 1)]",True
+tantrum,[],False
+tardy,[],False
+tarnish,[],False
+tarnished,[],False
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],False
+taunting,[],False
+tauntingly,[],False
+taunts,[],False
+taut,[],False
+tawdry,[],False
+taxing,[],False
+tease,"[('trêu', 3), ('chọc', 2), ('chọc trêu', 1), ('tức', 1), ('trêu tức', 1)]",True
+teasingly,[],False
+tedious,[],False
+tediously,[],False
+temerity,[],False
+temper,[],True
+tempest,[],False
+temptation,[],False
+tenderness,[],False
+tense,"[('lắm', 1)]",True
+tension,"[('thẳng', 1)]",True
+tentative,[],False
+tentatively,[],False
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,"[('quá', 3), ('vậy', 1), ('gớm', 1)]",True
+terribleness,[],False
+terribly,[],False
+terror,[],True
+terror-genic,[],False
+terrorism,"[('khủng', 2), ('khủng bố', 1), ('bố', 1)]",True
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,"[('dày', 1)]",True
+thirst,[],False
+thorny,"[('xám', 1)]",True
+thoughtless,"[('suy', 1), ('thiếu suy', 1), ('thiếu', 1)]",True
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,[],True
+threaten,"[('dọa', 3), ('dọa dẫm', 1), ('dẫm', 1)]",True
+threatening,"[('dọa', 2), ('dọa dẫm', 1), ('dẫm', 1)]",True
+threats,"[('dọa', 1)]",True
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,[],False
+thumb-down,[],False
+thumbs-down,[],False
+thwart,[],False
+time-consuming,[],False
+timid,[],True
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('mệt', 3), ('quá', 2), ('mỏi', 2), ('dọn', 1), ('hết sức', 1)]",True
+tiresome,[],False
+tiring,"[('mỏi', 3), ('mệt', 2), ('mỏi _ quá', 1), ('quá', 1)]",True
+tiringly,[],False
+toil,[],False
+toll,"[('số', 1)]",True
+top-heavy,[],False
+topple,[],False
+torment,[],True
+tormented,[],False
+torrent,[],True
+tortuous,[],False
+torture,[],False
+tortured,[],False
+tortures,[],False
+torturing,[],False
+torturous,[],False
+torturously,[],False
+totalitarian,[],False
+touchy,[],False
+toughness,[],False
+tout,[],False
+touted,[],False
+touts,[],False
+toxic,[],True
+traduce,[],False
+tragedy,[],False
+tragic,[],False
+tragically,[],False
+traitor,"[('kẻ', 1), ('phản bội', 1), ('bội', 1), ('phản', 1)]",True
+traitorous,[],False
+traitorously,[],False
+tramp,[],True
+trample,"[('đạp', 1), ('chà', 1), ('chà đạp', 1)]",True
+transgress,[],False
+transgression,[],False
+trap,[],True
+traped,[],False
+trapped,[],False
+trash,"[('rác', 4), ('rác _ quét', 1), ('quét', 1)]",True
+trashed,[],False
+trashy,[],False
+trauma,[],False
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,"[('quốc', 1), ('phản quốc', 1), ('phản', 1)]",True
+treasonous,[],False
+trick,[],True
+tricked,"[('gạ', 1)]",True
+trickery,[],False
+tricky,[],False
+trivial,"[('thường', 1)]",True
+trivialize,[],False
+trouble,"[('khó', 1), ('nữa', 1), ('thật', 1), ('công', 1), ('đáng', 1)]",True
+troubled,[],False
+troublemaker,[],False
+troubles,[],True
+troublesome,"[('rắc rối', 3), ('rối', 3), ('rắc', 3), ('phiền', 1), ('phiền phức', 1)]",True
+troublesomely,[],False
+troubling,[],False
+troublingly,[],False
+truant,[],False
+tumble,[],False
+tumbled,[],False
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,"[('bây _ loạn', 1), ('bây', 1), ('loạn', 1)]",True
+twist,"[('vặn', 1)]",True
+twisted,"[('vặn', 1)]",True
+twists,[],False
+two-faced,[],False
+two-faces,[],False
+tyrannical,"[('bạo', 1)]",True
+tyrannically,[],False
+tyranny,[],False
+tyrant,"[('bạo', 3), ('chúa', 3), ('bạo chúa', 3)]",True
+ugh,"[('hự', 1), ('ự', 1), ('ự hự', 1)]",True
+uglier,[],False
+ugliest,"[('xấu', 1)]",True
+ugliness,[],False
+ugly,"[('xấu', 1), ('đẹp', 1), ('giàn', 1), ('giàn _ xấu _ đẹp', 1)]",True
+ulterior,[],False
+ultimatum,[],False
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,"[('chưa', 1)]",True
+unacceptable,"[('chấp', 2), ('được', 2), ('không', 2), ('nhận', 1), ('không chấp nhận được', 1)]",True
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,[],False
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,"[('thiếu hấp dẫn', 1), ('hấp', 1), ('thiếu', 1), ('dẫn', 1)]",True
+unauthentic,[],False
+unavailable,[],False
+unavoidably,[],False
+unbearable,[],False
+unbearablely,[],False
+unbelievable,"[('tin', 1), ('khó', 1), ('khó tin', 1)]",True
+unbelievably,[],True
+uncaring,[],False
+uncertain,"[('chưa', 1)]",True
+uncivil,[],True
+uncivilized,"[('minh', 4), ('không', 4), ('không văn minh', 2), ('văn', 2), ('minh _ minh', 1)]",True
+unclean,[],False
+unclear,"[('rõ', 3), ('chưa', 2), ('không', 2), ('ràng', 2), ('chưa rõ', 1)]",True
+uncollectible,[],False
+uncomfortable,"[('chịu', 4), ('khó chịu', 4), ('khó', 4), ('thoải', 3), ('không', 3)]",True
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,[],False
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,[],False
+uncontrolled,[],False
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,[],False
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,[],False
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,[],False
+underestimate,[],False
+underlings,[],False
+undermine,[],False
+undermined,[],False
+undermines,[],False
+undermining,[],False
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,[],False
+undetermined,[],False
+undid,[],False
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,"[('lùi', 1)]",True
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,[],False
+uneconomical,[],False
+unemployed,[],False
+unequal,"[('thiếu bình', 1), ('thiếu', 1), ('bình', 1)]",True
+unethical,"[('bất _ đức', 1), ('đức', 1), ('bất', 1)]",True
+uneven,"[('đều', 1)]",True
+uneventful,[],False
+unexpected,"[('unexpected', 1)]",True
+unexpectedly,[],False
+unexplained,[],False
+unfairly,[],False
+unfaithful,[],False
+unfaithfully,[],False
+unfamiliar,[],False
+unfavorable,[],False
+unfeeling,[],False
+unfinished,"[('dở', 3), ('dang', 1), ('dang dở', 1)]",True
+unfit,[],False
+unforeseen,[],False
+unforgiving,[],False
+unfortunate,"[('bất hạnh', 1), ('bất', 1), ('hạnh', 1)]",True
+unfortunately,"[('tiếc', 3), ('đáng', 2), ('rất', 2), ('tiếc là', 1), ('là', 1)]",True
+unfounded,"[('thiếu', 1)]",True
+unfriendly,"[('thiếu _ thiện', 75), ('thiện', 75), ('thiếu', 75)]",True
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,[],False
+unhealthy,[],False
+unhelpful,[],False
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,"[('không', 1)]",True
+uninformed,[],False
+uninsured,[],False
+unintelligible,[],False
+unintelligile,[],False
+unipolar,[],False
+unjust,[],False
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,[],False
+unjustly,[],False
+unkind,[],False
+unkindly,[],False
+unknown,"[('rõ', 8), ('biết', 2), ('các', 1), ('rõ các', 1), ('danh', 1)]",True
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,[],False
+unlicensed,"[('giấy', 1), ('thiếu _ phép', 1), ('thiếu giấy phép', 1), ('thiếu', 1), ('phép', 1)]",True
+unlikely,[],False
+unlucky,[],True
+unmoved,[],False
+unnatural,[],False
+unnaturally,[],False
+unnecessary,"[('không', 6), ('thiết', 5), ('cần', 5), ('không cần thiết', 4), ('không cần', 1)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,[],False
+unobserved,[],False
+unorthodox,[],False
+unorthodoxy,[],False
+unpleasant,[],False
+unpleasantries,[],False
+unpopular,"[('biến', 1), ('phổ biến', 1), ('phổ', 1)]",True
+unpredictable,[],False
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],True
+unproved,[],False
+unproven,[],True
+unproves,[],False
+unproving,[],False
+unqualified,"[('tiêu', 2), ('không _ tiêu', 1), ('không', 1), ('chuẩn', 1), ('chưa', 1)]",True
+unravel,[],False
+unraveled,[],False
+unreachable,[],False
+unreadable,[],False
+unrealistic,[],False
+unreasonable,"[('lý', 16), ('vô', 5), ('không', 5), ('không _ lý', 4), ('bất', 3)]",True
+unreasonably,[],False
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,[],False
+unreliable,"[('cậy', 8), ('không', 8), ('không _ cậy', 5), ('tin', 3), ('không _ tin cậy', 1)]",True
+unresolved,"[('chưa', 1)]",True
+unresponsive,[],False
+unrest,[],False
+unruly,[],False
+unsafe,[],False
+unsatisfactory,"[('không', 1), ('mãn', 1), ('không _ mãn', 1), ('chưa', 1)]",True
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,[],False
+unsettle,[],False
+unsettled,[],False
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,"[('không _ xiết', 1), ('không', 1), ('xiết', 1)]",True
+unspeakablely,[],False
+unspecified,[],False
+unstable,"[('mất', 1)]",True
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,[],False
+unsuccessfully,[],False
+unsupported,[],False
+unsupportive,[],False
+unsure,"[('không', 1), ('không _ chắn', 1), ('chắn', 1)]",True
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,[],False
+untouched,[],False
+untrue,[],False
+untrustworthy,[],False
+untruthful,"[('những', 1), ('sự', 1), ('những _ sự', 1)]",True
+unusable,"[('dụng', 1)]",True
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,"[('thường', 3), ('bất thường', 1), ('bất', 1)]",True
+unusually,[],True
+unviewable,[],False
+unwanted,[],False
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,[],False
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,[],False
+unyielding,[],False
+upbraid,[],False
+upheaval,[],False
+uprising,"[('dậy', 1), ('nổi', 1), ('nổi dậy', 1)]",True
+uproar,[],False
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,[],True
+upset,"[('bức', 1), ('ức', 1), ('khiến', 1), ('tức', 1)]",True
+upseting,[],False
+upsets,"[('buồn', 1)]",True
+upsetting,[],False
+upsettingly,[],False
+urgent,"[('đảm', 1), ('gấp', 1), ('gấp _ đảm', 1)]",True
+useless,"[('vô', 3), ('dụng', 2), ('ích', 1), ('những', 1), ('những _ vô', 1)]",True
+usurp,[],False
+usurper,[],False
+utterly,[],False
+vagrant,[],False
+vague,"[('mơ', 1), ('hồ', 1), ('ràng', 1), ('rõ ràng', 1), ('rõ', 1)]",True
+vagueness,[],False
+vain,"[('ích', 1), ('à', 1), ('tầm', 1)]",True
+vainly,[],False
+vanity,[],False
+vehement,[],False
+vehemently,[],False
+vengeance,[],False
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],True
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,[],False
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,[],False
+vice,"[('ngược', 3), ('phó', 2)]",True
+vicious,[],False
+viciously,[],False
+viciousness,[],False
+victimize,[],False
+vile,"[('hạ', 1)]",True
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],False
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,"[('phạm', 11), ('có _ phạm', 1), ('có', 1), ('đổi', 1), ('đổi _ phạm', 1)]",True
+violation,"[('phạm', 8), ('vi', 2)]",True
+violator,[],False
+violators,[],False
+violent,"[('lộng', 1), ('hành', 1), ('lộng hành', 1)]",True
+violently,[],False
+viper,[],False
+virulence,[],False
+virulent,[],False
+virulently,[],False
+virus,"[('virus', 3)]",True
+vociferous,[],False
+vociferously,[],False
+volatile,[],True
+volatility,[],False
+vomit,"[('hộc', 1)]",True
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,"[('tục', 2), ('thô tục', 1), ('thô', 1), ('lỗi', 1), ('lỗi _ tục', 1)]",True
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],True
+wane,[],True
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,"[('cảnh', 3), ('cảnh báo', 2), ('báo', 2), ('cảnh cáo', 1), ('cáo', 1)]",True
+warning,"[('báo', 9), ('warning', 3), ('cảnh', 2), ('cảnh báo', 2), ('cáo', 2)]",True
+warp,[],False
+warped,[],False
+wary,[],False
+washed-out,[],False
+waste,"[('mất', 4), ('tốn', 2), ('thải', 2), ('phí', 2), ('tổ', 1)]",True
+wasted,"[('mất', 1)]",True
+wasteful,"[('hoa', 1), ('xa', 1), ('xa hoa', 1)]",True
+wastefulness,[],False
+wasting,"[('tốn', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,"[('yếu', 7), ('đồng', 1)]",True
+weaken,[],False
+weakening,[],False
+weaker,"[('đi', 1), ('yếu', 1), ('yếu _ đi', 1)]",True
+weakness,"[('yếu', 2), ('yếu kém', 1), ('kém', 1)]",True
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,[],False
+weed,[],True
+weep,[],True
+weird,"[('cục', 2), ('quặc', 1), ('vậy', 1)]",True
+weirdly,[],False
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,[],False
+whiny,[],False
+whips,[],False
+whore,[],False
+whores,[],False
+wicked,[],False
+wickedly,[],False
+wickedness,[],False
+wild,"[('wild', 1), ('hoang dã', 1), ('hoang', 1), ('dã', 1), ('ngông', 1)]",True
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,[],True
+wobbled,"[('chao', 1), ('lọi', 1), ('chao _ lọi', 1)]",True
+wobbles,[],False
+woe,"[('oan', 1)]",True
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,[],False
+worried,"[('lo', 5), ('lắng', 3), ('lo lắng', 2), ('lăn _ lắm', 1), ('lắm', 1)]",True
+worriedly,[],False
+worrier,[],False
+worries,[],False
+worrisome,"[('đáng', 1)]",True
+worry,"[('lo', 11), ('lo lắng', 2), ('lắng', 2), ('ơi', 1), ('mắc', 1)]",True
+worrying,[],False
+worryingly,[],False
+worse,"[('nát', 1), ('tệ', 1), ('dở', 1)]",True
+worsen,[],False
+worsening,[],False
+worst,[],False
+worthless,"[('giá trị', 1), ('trị', 1), ('giá', 1)]",True
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,"[('phá', 1)]",True
+wreaked,[],False
+wreaks,[],False
+wreck,[],False
+wrest,[],True
+wrestle,[],True
+wretch,[],False
+wretched,[],False
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,[],True
+wrinkled,"[('tóc', 1), ('nhăn', 1), ('tóc _ nhăn', 1)]",True
+wrinkles,[],False
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('sai', 74), ('gì', 13), ('không', 7), ('đúng', 5), ('trái', 3)]",True
+wrongful,[],False
+wrongly,"[('lý', 1), ('cấm', 1)]",True
+wrought,[],False
+yawn,[],False
+zap,[],False
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,[],False
+zealously,[],False

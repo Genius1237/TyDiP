@@ -1,0 +1,6944 @@
+0,1,2
+Strategy - Please,,
+please,"[('пожалуйста', 89), ('скажите', 30), ('прошу', 18), ('подскажите', 14), ('поясните', 14)]",True
+Strategy - Please_start,,
+please,"[('пожалуйста', 89), ('скажите', 30), ('прошу', 18), ('подскажите', 14), ('поясните', 14)]",True
+Strategy - HASHEDGE,,
+think,"[('считаете', 79), ('думаете', 54), ('думаю', 32), (',', 22), ('кажется', 14)]",True
+thought,"[('думал', 8), ('задумывались', 3), ('мысль', 3), ('подумал', 3), (',', 2)]",True
+thinking,"[('думаю', 4), ('извините', 1), ('раздумьях', 1), ('мысли', 1), ('раздумывая', 1)]",True
+almost,"[('почти', 27), ('практически', 8), ('не', 2), ('чуть', 2), ('охраняет', 1)]",True
+apparent,[],True
+apparently,"[('видимо', 11), ('судя', 3), ('видится', 1), ('видимости', 1), ('вопрос судя', 1)]",True
+appear,"[('появляются', 4), ('появятся', 4), ('появиться', 2), ('значиться', 1), ('появляться', 1)]",True
+appeared,"[('появились', 4), ('появился', 3), ('появлялись', 1), ('появилась', 1)]",True
+appears,"[('появляется', 5), ('оказывается', 1), ('встречается', 1), ('пояляется', 1)]",True
+approximately,"[('примерно', 3), ('приблизительно', 1)]",True
+around,"[('вокруг', 6), ('вп:покругу', 1), ('наоборот', 1), ('поиграться', 1), ('около', 1)]",True
+assume,"[('предполагаю', 1), ('предположим', 1), ('предполагать', 1), ('предположу', 1), ('допускаю', 1)]",True
+assumed,"[('предположить ,', 1), (',', 1), ('предположить', 1), ('предположили', 1)]",True
+certain amount,[],False
+certain extent,[],False
+certain level,[],False
+claim,"[('утверждаете', 3), ('претендовать', 2), ('иск', 2), ('претензии', 1), ('утверждают', 1)]",True
+claimed,"[('утверждается', 1), ('утверждал', 1)]",True
+doubt,"[('сомневаетесь', 6), ('сомнения', 3), ('сомнений', 3), ('сомневаюсь', 1), ('сомнение', 1)]",True
+doubtful,"[('сомнительным', 1), ('сомнительная', 1), ('сомнительна', 1), ('сомнительно', 1)]",True
+essentially,"[('сущностно', 1)]",True
+estimate,"[('прикиньет', 1)]",True
+estimated,"[('примерно', 1)]",True
+feel,"[('чувствуете', 1), ('отношение', 1), ('пожалеть', 1), ('относитесь', 1), ('себя', 1)]",True
+felt,"[('почувствовал', 1), ('стало', 1)]",True
+frequently,"[('часто', 1)]",True
+from our perspective,[],False
+generally,"[('вообще', 15), ('целом', 1), ('общепризнанным', 1), ('общем', 1), ('общепризнанной', 1)]",True
+guess,"[('догадаться', 1), ('догадались', 1), ('полагаю', 1), ('угадаю', 1), ('угадывать', 1)]",True
+in general,"[('вообще', 4), ('вообщето', 3), ('вообщем', 3)]",True
+in most cases,[],False
+in most instances,[],False
+in our view,[],False
+indicate,"[('указать', 17), ('указывать', 11), ('обозначить', 2), ('укажите', 2), ('укажу', 2)]",True
+indicated,"[('указано', 15), ('указали', 8), ('указаны', 7), ('указал', 4), ('указан', 4)]",True
+largely,[],False
+likely,"[('всего', 6), ('вероятно', 2)]",True
+mainly,"[('основном', 4), ('главным', 2)]",True
+may,"[('может', 26), ('можно', 13), ('могут', 4), ('мае', 3), ('разрешите', 3)]",True
+maybe,"[('может', 240), ('быть', 12), ('может быть', 10), ('возможно', 6), ('может ,', 5)]",True
+might,"[('может', 9), ('можно', 3)]",True
+mostly,"[('части', 2), ('основном', 2)]",True
+often,"[('часто', 13), ('всего', 2), ('чаще', 2), ('зачастую', 2), ('нередко', 1)]",True
+on the whole,[],True
+ought,[],True
+perhaps,"[('возможно', 30), (',', 17), ('возможно ,', 12), ('быть', 6), ('может', 5)]",True
+plausible,[],True
+plausibly,[],False
+possible,"[('можно', 78), ('возможно', 36), ('нельзя', 9), ('возможности', 5), ('возможным', 5)]",True
+possibly,"[('возможно', 1), ('б', 1)]",True
+postulate,[],True
+postulated,[],False
+presumable,[],False
+probable,[],False
+probably,"[('вероятно', 9), ('наверное', 7), ('наверно', 4), ('так', 1), ('вообще', 1)]",True
+relatively,"[('относительно', 3)]",True
+roughly,"[('грубо', 1), ('примерно', 1)]",True
+seems,"[('кажется', 36), ('вроде', 6), ('представляется', 3), ('похоже', 2), ('думал', 1)]",True
+should,"[('должен', 39), ('должно', 33), ('должны', 30), ('надо', 30), ('следует', 29)]",True
+sometimes,"[('иногда', 11), ('порой', 1)]",True
+somewhat,"[('несколько', 10)]",True
+suggest,"[('предлагаю', 5), ('предлагаете', 4), ('предложить', 4), ('подсказать', 2), ('предложили', 1)]",True
+suggested,"[('предложили', 1), ('предложил', 1), ('предлагал', 1), ('предложенного', 1), ('предлагает', 1)]",True
+suppose,"[('предположим', 3), (',', 2), ('полагаю', 2), ('предположим ,', 1), ('полагаю ,', 1)]",True
+suspect,"[('подозреваете', 2)]",True
+tend to,"[('склоняюсь', 1)]",True
+tends to,[],False
+typical,"[('типичной', 1)]",True
+typically,[],False
+uncertain,[],True
+uncertainly,[],False
+unclear,"[('неясный', 2), ('непонятно', 1), ('неясно', 1), ('непонятным', 1)]",True
+unclearly,[],False
+unlikely,[],True
+usually,"[('обычно', 13)]",True
+broadly,"[('расширенно', 1)]",True
+tended to,[],False
+presumably,"[('полагать', 1), ('надо', 1), ('надо полагать', 1)]",True
+suggests,[],False
+from this perspective,[],False
+from my perspective,[],False
+in my view,[],True
+in this view,[],False
+in our opinion,[],False
+in my opinion,[],True
+to my knowledge,[],True
+fairly,"[('довольно', 1)]",True
+quite,"[('вполне', 15), ('совсем', 14), ('довольно', 6), ('достаточно', 6), ('очень', 1)]",True
+rather,"[('скорее', 10), ('довольно', 6), ('достаточно', 3), ('вернее', 1), ('точнее', 1)]",True
+argue,"[('спорить', 6), ('аргументировать', 2), ('спорю', 2), ('утверждать', 2), ('оспаривать', 1)]",True
+argues,"[('спорит', 1)]",True
+argued,"[('спорили', 1)]",True
+claims,"[('претензии', 12), ('претензий', 3), ('утверждается', 2), ('утверждает', 2), ('претендующему', 1)]",True
+feels,"[('себя', 1), ('плохо', 1)]",True
+indicates,"[('указывается', 1)]",True
+supposed,"[('должно', 5), ('предполагается', 1), ('должны', 1)]",True
+supposes,[],False
+suspects,[],False
+postulates,"[('постулатов', 1)]",True
+Strategy - Deference,,
+great,"[('здорово', 4), ('великого', 4), ('великая', 3), ('большой', 2), ('большая', 2)]",True
+good,"[('добрый', 130), ('доброго', 18), ('хорошо', 15), ('хорошие', 7), ('хорошей', 4)]",True
+nice,"[('приятно', 1), ('хорошо', 1), ('красиво', 1), ('неплохо', 1)]",True
+good,"[('добрый', 130), ('доброго', 18), ('хорошо', 15), ('хорошие', 7), ('хорошей', 4)]",True
+interesting,"[('интересно', 20), ('интересные', 8), ('интересный', 8), ('интересен', 3), ('интересным', 1)]",True
+cool,"[('круто', 1), ('клёвый', 1)]",True
+excellent,"[('отлично', 2), ('превосходные', 1), ('прекрасный', 1), ('превосходный', 1)]",True
+awesome,"[('будет', 1), ('офигенно будет', 1), ('офигенно', 1)]",True
+Strategy - 1st_person_pl.,,
+we,"[('мы', 104), ('нас', 25), ('будем', 15), ('нам', 12), ('можем', 4)]",True
+our,"[('наши', 10), ('нас', 7), ('нашего', 7), ('наш', 6), ('нашу', 5)]",True
+us,"[('нас', 12), ('нам', 8), ('сша', 4), ('расскажите', 2), ('мьі', 1)]",True
+ourselves,"[('сами', 2), ('разберемся', 1), ('себя', 1)]",True
+Strategy - 1st_person,,
+i,"[('я', 1074), ('мне', 150), ('меня', 85), ('думаю', 18), ('хочу', 17)]",True
+my,"[('мой', 60), ('мои', 54), ('мою', 36), ('моей', 36), ('моя', 31)]",True
+mine,"[('моя', 3), ('мои', 3), ('моей', 3), ('моё', 2), ('мой', 2)]",True
+myself,"[('сам', 14), ('себя', 7), ('себе', 3), ('самому', 3), ('сама', 2)]",True
+Strategy - 1st_person_start,,
+i,"[('я', 1074), ('мне', 150), ('меня', 85), ('думаю', 18), ('хочу', 17)]",True
+my,"[('мой', 60), ('мои', 54), ('мою', 36), ('моей', 36), ('моя', 31)]",True
+mine,"[('моя', 3), ('мои', 3), ('моей', 3), ('моё', 2), ('мой', 2)]",True
+myself,"[('сам', 14), ('себя', 7), ('себе', 3), ('самому', 3), ('сама', 2)]",True
+Strategy - 2nd_person,,
+you,"[('вы', 1454), ('вас', 233), ('вам', 226), ('ты', 124), ('можете', 81)]",True
+your,"[('ваш', 59), ('ваши', 58), ('вашей', 51), ('ваше', 44), ('вашего', 27)]",True
+yours,"[('ваше', 4), ('вашей', 3), ('ваша', 2), ('ваш', 2), ('ваши', 2)]",True
+yourself,"[('сами', 23), ('себя', 17), ('сам', 4), ('себе', 4), ('самостоятельно', 3)]",True
+Strategy - 2nd_person_start,,
+you,"[('вы', 1454), ('вас', 233), ('вам', 226), ('ты', 124), ('можете', 81)]",True
+your,"[('ваш', 59), ('ваши', 58), ('вашей', 51), ('ваше', 44), ('вашего', 27)]",True
+yours,"[('ваше', 4), ('вашей', 3), ('ваша', 2), ('ваш', 2), ('ваши', 2)]",True
+yourself,"[('сами', 23), ('себя', 17), ('сам', 4), ('себе', 4), ('самостоятельно', 3)]",True
+Strategy - Indirect_(greeting),,
+hi,"[(',', 3), ('привет', 1)]",True
+hello,"[('здравствуйте', 132), ('привет', 30), (',', 18), ('здравствуй', 5), ('привет ,', 2)]",True
+hey,"[('привет', 4), (',', 1)]",True
+Strategy - Direct_question,,
+what,"[('что', 675), ('какие', 96), ('как', 83), ('чем', 82), ('какой', 75)]",True
+why,"[('почему', 372), ('зачем', 186), ('чего', 36), ('чем', 18), ('что', 12)]",True
+who,"[('кто', 139), ('которые', 28), ('кому', 26), ('который', 23), (',', 21)]",True
+how,"[('как', 487), ('сколько', 34), ('насколько', 33), ('каким', 26), ('чем', 14)]",True
+Strategy - Direct_start,,
+so,"[('так', 221), (',', 35), ('поэтому', 21), ('и', 20), ('чтобы', 16)]",True
+then,"[('то', 165), ('тогда', 132), ('потом', 46), ('затем', 15), ('дальше', 3)]",True
+and,"[('и', 1690), ('а', 603), ('да', 18), ('с', 15), ('причём', 14)]",True
+but,"[('но', 563), ('а', 211), ('только', 11), ('однако', 10), ('зато', 5)]",True
+or,"[('или', 720), ('либо', 20), ('а', 16), ('и', 5), ('ни', 4)]",True
+Strategy - HASPOSITIVE,,
+a+,[],False
+abound,[],False
+abounds,[],False
+abundance,"[('изобилии', 1), ('недопереизбыточностью', 1), ('переизбыточностью', 1)]",True
+abundant,[],False
+accessable,[],False
+accessible,[],False
+acclaim,[],False
+acclaimed,[],False
+acclamation,[],False
+accolade,[],False
+accolades,[],False
+accommodative,[],False
+accomodative,[],False
+accomplish,[],False
+accomplished,[],False
+accomplishment,[],False
+accomplishments,[],False
+accurate,"[('точных', 1), ('точностью', 1), ('точная', 1)]",True
+accurately,"[('точнее', 1), ('максимально аккуратно', 1), ('аккуратно', 1), ('максимально', 1), ('точно', 1)]",True
+achievable,[],False
+achievement,"[('достижения', 1), ('достижением', 1)]",True
+achievements,"[('достижения', 2), ('достижениях', 2)]",True
+achievible,[],False
+acumen,[],False
+adaptable,[],False
+adaptive,[],False
+adequate,"[('адекватные', 1), ('соответствует', 1), ('адекватную', 1), ('адекватное', 1), ('адекватный', 1)]",True
+adjustable,[],False
+admirable,[],False
+admirably,[],False
+admiration,[],False
+admire,[],False
+admirer,[],False
+admiring,[],False
+admiringly,[],False
+adorable,[],False
+adore,[],False
+adored,[],False
+adorer,[],False
+adoring,[],False
+adoringly,[],False
+adroit,[],False
+adroitly,[],False
+adulate,[],False
+adulation,[],False
+adulatory,[],False
+advanced,"[('расширенного', 1), ('развитых', 1), ('всевозможных', 1), ('развитых _ всевозможных', 1)]",True
+advantage,"[('преимущество', 1)]",True
+advantageous,[],False
+advantageously,[],False
+advantages,[],False
+adventuresome,[],False
+adventurous,[],False
+advocate,[],True
+advocated,"[('выступил', 1)]",True
+advocates,"[('поборники', 1)]",True
+affability,[],False
+affable,[],False
+affably,[],False
+affectation,[],False
+affection,[],False
+affectionate,[],False
+affinity,[],False
+affirm,[],False
+affirmation,[],False
+affirmative,[],False
+affluence,[],False
+affluent,[],False
+afford,"[('позволить', 1)]",True
+affordable,[],False
+affordably,[],False
+afordable,[],False
+agile,[],False
+agilely,[],False
+agility,[],False
+agreeable,[],False
+agreeableness,[],False
+agreeably,[],False
+all-around,[],False
+alluring,[],False
+alluringly,[],False
+altruistic,[],False
+altruistically,[],False
+amaze,[],False
+amazed,[],False
+amazement,[],False
+amazes,[],False
+amazing,"[('сногсшибательно _ огромное', 1), ('огромное', 1), ('сногсшибательно', 1), ('поразительная', 1)]",True
+amazingly,[],False
+ambitious,[],False
+ambitiously,[],False
+ameliorate,[],False
+amenable,[],False
+amenity,[],False
+amiability,[],False
+amiabily,[],False
+amiable,[],False
+amicability,[],False
+amicable,[],False
+amicably,"[('полюбовно', 1)]",True
+amity,[],False
+ample,[],True
+amply,[],False
+amuse,"[('увеселения', 1)]",True
+amusing,"[('забавна', 1)]",True
+amusingly,[],False
+angel,[],True
+angelic,"[('поангельски', 1), ('ангельскоес', 1)]",True
+apotheosis,[],False
+appeal,"[('обращение', 3), ('обращаюсь', 2), ('обращения', 1), ('призыв', 1), ('обжаловать', 1)]",True
+appealing,[],False
+applaud,[],False
+appreciable,[],False
+appreciate,"[('оценят', 1), ('почитал', 1)]",True
+appreciated,[],False
+appreciates,[],False
+appreciative,[],False
+appreciatively,[],False
+appropriate,"[('уместно', 3), ('соответствующим', 2), ('соответствующий', 2), ('они', 1), ('уместен', 1)]",True
+approval,"[('одобрение', 2)]",True
+approve,"[('одобрили', 1), ('утвердить', 1), ('утверждает', 1), ('одобрямс', 1)]",True
+ardent,[],False
+ardently,[],False
+ardor,[],False
+articulate,[],False
+aspiration,[],True
+aspirations,"[('устремления', 1)]",True
+aspire,[],False
+assurance,[],True
+assurances,"[('уверения', 1)]",True
+assure,"[('уверяю', 1)]",True
+assuredly,[],False
+assuring,[],False
+astonish,[],False
+astonished,[],False
+astonishing,[],False
+astonishingly,[],False
+astonishment,[],False
+astound,[],False
+astounded,[],False
+astounding,[],False
+astoundingly,[],False
+astutely,[],False
+attentive,"[('внимательнее', 1)]",True
+attraction,[],True
+attractive,[],False
+attractively,[],False
+attune,[],False
+audible,[],False
+audibly,[],False
+auspicious,[],False
+authentic,"[('аутентичными', 2)]",True
+authoritative,"[('авторитетные', 12), ('авторитетным', 11), ('авторитетный', 9), ('авторитетных', 7), ('авторитетными', 6)]",True
+autonomous,"[('автономный', 2)]",True
+available,"[('доступна', 3), ('доступны', 2), ('доступен', 2), ('имеющимся', 1), ('вариантов', 1)]",True
+aver,[],True
+avid,[],True
+avidly,[],False
+award,"[('награду', 2), ('награждения', 1), ('вручение', 1), ('награде', 1), ('наградной', 1)]",True
+awarded,"[('награждён', 1), ('наградить', 1), ('вручена', 1), ('награжден', 1), ('награждённых', 1)]",True
+awards,"[('награды', 4), ('премии', 2), ('наградами', 1), ('наград', 1)]",True
+awe,[],True
+awed,[],True
+awesome,"[('будет', 1), ('офигенно будет', 1), ('офигенно', 1)]",True
+awesomely,[],False
+awesomeness,[],False
+awestruck,[],False
+awsome,[],False
+backbone,[],False
+balanced,"[('уравновешенные', 1)]",True
+bargain,"[('сторгуемся', 1)]",True
+beauteous,[],False
+beautiful,"[('красивого', 2), ('красиво', 1), ('красивое', 1), ('красивых', 1), ('прекрасный', 1)]",True
+beautifullly,[],False
+beautifully,"[('красиво', 1)]",True
+beautify,[],False
+beauty,"[('красотка', 1)]",True
+beckon,[],False
+beckoned,[],False
+beckoning,[],False
+beckons,[],False
+believable,[],False
+believeable,[],False
+beloved,[],False
+benefactor,[],False
+beneficent,[],False
+beneficial,"[('выгодно', 1), ('всеобщей', 1)]",True
+beneficially,[],False
+beneficiary,[],False
+benefit,"[('пользу', 2)]",True
+benefits,"[('преимущества', 1), ('выгодами', 1)]",True
+benevolence,[],False
+benevolent,"[('доброжелательный', 1)]",True
+benifits,[],False
+best,"[('лучше', 10), ('лучший', 5), ('лучшие', 2), ('лучших', 2), ('лучшем', 1)]",True
+best-known,[],False
+best-performing,[],False
+best-selling,[],False
+better,"[('лучше', 102), ('понятнее', 1), ('большее', 1), ('лучшего', 1), ('виднее', 1)]",True
+better-known,[],False
+better-than-expected,[],False
+beutifully,[],False
+blameless,[],False
+bless,[],True
+blessing,"[('счастье', 1)]",True
+bliss,[],False
+blissful,[],False
+blissfully,[],False
+blithe,[],False
+blockbuster,[],False
+bloom,[],False
+blossom,[],False
+bolster,[],False
+bonny,[],False
+bonus,"[('бонусной', 1)]",True
+bonuses,[],False
+boom,[],False
+booming,[],False
+boost,[],False
+boundless,[],False
+bountiful,[],False
+brainiest,[],False
+brainy,[],False
+brand-new,[],False
+brave,"[('смелым', 1)]",True
+bravery,[],False
+bravo,[],False
+breakthrough,"[('прорыв', 2)]",True
+breakthroughs,[],False
+breathlessness,[],False
+breathtaking,[],False
+breathtakingly,[],False
+breeze,[],False
+bright,[],True
+brighten,[],False
+brighter,[],False
+brightest,"[('светлого', 1)]",True
+brilliance,[],False
+brilliances,[],False
+brilliant,"[('бриллиантового', 1)]",True
+brilliantly,[],False
+brisk,[],False
+brotherly,[],False
+bullish,[],False
+buoyant,[],False
+cajole,[],False
+calm,"[('успокоить', 1), ('успокоитесь', 1), ('успокоит', 1), ('спокойно', 1)]",True
+calming,[],False
+calmness,[],False
+capability,"[('обороноспособности', 1)]",True
+capable,"[('способно', 1), ('способны', 1)]",True
+capably,[],False
+captivate,[],False
+captivating,[],False
+carefree,[],False
+cashback,[],False
+cashbacks,[],False
+catchy,[],False
+celebrate,[],False
+celebrated,[],False
+celebration,[],False
+celebratory,[],False
+champ,[],True
+champion,"[('чемпиона', 1), ('чемпионом', 1)]",True
+charisma,[],False
+charismatic,[],False
+charitable,[],False
+charm,"[('charm', 1)]",True
+charming,[],False
+charmingly,[],False
+chaste,[],False
+cheaper,"[('дешевле', 1)]",True
+cheapest,[],False
+cheer,[],True
+cheerful,"[('весел', 1)]",True
+cheery,[],False
+cherish,[],False
+cherished,[],False
+cherub,[],False
+chic,[],True
+chivalrous,[],False
+chivalry,[],False
+civility,[],False
+civilize,[],True
+clarity,"[('ясность', 1), ('ясности', 1)]",True
+classic,"[('классическом', 2), ('классик', 1), ('классика', 1)]",True
+classy,[],False
+clean,"[('подчищать', 1), ('почистить', 1), ('вычищать', 1), ('убирает', 1), ('пусть', 1)]",True
+cleaner,[],False
+cleanest,[],False
+cleanliness,[],False
+cleanly,[],False
+clear,"[('понятно', 26), ('ясно', 10), ('непонятно', 4), ('понятны', 3), ('неясно', 2)]",True
+clear-cut,[],False
+cleared,"[('чистил', 2), ('очищалась', 1), ('прояснилось', 1), ('расчищал', 1)]",True
+clearer,"[('понятнее', 2), ('более', 2), ('четкое', 1), ('более четкое', 1), ('более чёткий', 1)]",True
+clearly,"[('явно', 9), ('чётко', 4), ('ясно', 3), ('четко', 3), ('хорошо', 1)]",True
+clears,[],False
+clever,"[('спокойное', 1), ('ловких', 1), ('ловких _ спокойное', 1)]",True
+cleverly,[],False
+cohere,[],True
+coherence,[],False
+coherent,[],True
+cohesive,[],False
+colorful,[],False
+comely,[],False
+comfort,[],True
+comfortable,"[('удобно', 1), ('устраивают', 1), ('комфортно', 1)]",True
+comfortably,[],False
+comforting,[],False
+comfy,[],False
+commend,[],True
+commendable,[],False
+commendably,[],False
+commitment,[],False
+commodious,[],False
+compact,"[('компактен', 1), ('покомпактнее', 1)]",True
+compactly,"[('компактно', 1)]",True
+compassion,[],False
+compassionate,[],False
+compatible,[],False
+competitive,[],False
+complement,[],False
+complementary,[],False
+complemented,[],False
+complements,[],False
+compliant,[],False
+compliment,[],False
+complimentary,[],False
+comprehensive,[],False
+conciliate,[],False
+conciliatory,[],False
+concise,"[('сжато', 1)]",True
+confidence,"[('уверенность', 3), ('уверенности', 1), ('доверия', 1)]",True
+confident,"[('уверен', 1)]",True
+congenial,[],False
+congratulate,"[('поздравить', 1)]",True
+congratulation,[],True
+congratulations,"[('поздравляю', 4), ('поздравлю', 1), ('согласие _ поздравляю', 1), ('согласие', 1)]",True
+congratulatory,[],False
+conscientious,[],False
+considerate,[],False
+consistent,"[('последовательными', 1), ('соответствуют', 1), ('согласовано', 1)]",True
+consistently,[],False
+constructive,"[('конструктивных', 2), ('конструктивные', 2), ('конструктивно', 1), ('конструктивной', 1), ('неконструктивные', 1)]",True
+consummate,[],False
+contentment,[],False
+continuity,[],False
+contrasty,"[('контрастно', 1)]",True
+contribution,"[('вклад', 16), ('вклада', 3), ('вкладом', 2), ('вкладу', 2), ('contribution', 1)]",True
+convenience,"[('удобства', 1)]",True
+convenient,"[('удобнее', 4), ('удобное', 2), ('удобней', 1), ('удобно', 1)]",True
+conveniently,[],False
+convience,[],False
+convienient,[],False
+convient,[],False
+convincing,"[('убедительны', 1)]",True
+convincingly,"[('убедительно', 1)]",True
+cool,"[('круто', 1), ('клёвый', 1)]",True
+coolest,[],False
+cooperative,[],True
+cooperatively,[],False
+cornerstone,[],False
+correct,"[('правильно', 10), ('поправить', 8), ('исправить', 5), ('правильным', 5), ('правильное', 5)]",True
+correctly,"[('правильно', 46), ('корректно', 8), ('некорректно', 1), ('аргументированно', 1), ('аргументированно _ корректно', 1)]",True
+cost-effective,[],False
+cost-saving,[],False
+counter-attack,[],False
+counter-attacks,[],False
+courage,[],True
+courageous,[],False
+courageously,[],False
+courageousness,[],False
+courteous,[],False
+courtly,[],False
+covenant,[],False
+cozy,[],False
+creative,"[('творческий', 1), ('creative', 1), ('творческие', 1), ('креативная', 1)]",True
+credence,[],False
+credible,[],True
+crisp,[],False
+crisper,[],False
+cure,[],True
+cure-all,[],False
+cushy,[],False
+cute,[],True
+cuteness,[],False
+danke,[],False
+danken,[],False
+daring,[],False
+daringly,[],False
+darling,[],False
+dashing,[],False
+dauntless,[],False
+dawn,"[('заре', 1)]",True
+dazzle,[],False
+dazzled,[],False
+dazzling,[],False
+dead-cheap,[],False
+dead-on,[],False
+decency,"[('порядочность', 1)]",True
+decent,"[('порядочная', 1)]",True
+decisive,[],False
+decisiveness,[],False
+dedicated,"[('посвящённый', 2), ('посвящённых', 1), ('посвящена', 1), ('посвященные', 1), ('посвященную', 1)]",True
+defeat,[],True
+defeated,[],False
+defeating,"[('самоочевиноподрывные', 1)]",True
+defeats,[],False
+defender,"[('защитника', 1)]",True
+deference,[],False
+deft,[],False
+deginified,[],False
+delectable,[],False
+delicacy,[],False
+delicate,"[('щекотливым', 1)]",True
+delicious,[],False
+delight,[],True
+delighted,"[('восторге', 1)]",True
+delightful,[],False
+delightfully,[],False
+delightfulness,[],False
+dependable,[],False
+dependably,[],False
+deservedly,[],False
+deserving,[],False
+desirable,"[('желательно', 3), ('имеется', 1), ('желательно _ имеется', 1)]",True
+desiring,[],False
+desirous,[],False
+destiny,[],False
+detachable,[],False
+devout,[],False
+dexterous,[],False
+dexterously,[],False
+dextrous,[],False
+dignified,[],False
+dignify,[],False
+dignity,"[('достоинство', 2), ('достоинстве', 1), ('достоинства', 1)]",True
+diligence,[],False
+diligent,[],False
+diligently,[],False
+diplomatic,[],True
+dirt-cheap,[],False
+distinction,"[('различие', 1)]",True
+distinctive,[],False
+distinguished,"[('различать', 1), ('выделяют', 1)]",True
+diversified,[],False
+divine,"[('божественная', 1), ('божескому', 1)]",True
+divinely,[],False
+dominate,[],False
+dominated,[],False
+dominates,[],False
+dote,[],True
+dotingly,[],False
+doubtless,[],False
+dreamland,[],False
+dumbfounded,[],False
+dumbfounding,[],False
+dummy-proof,[],False
+durable,[],False
+dynamic,"[('динамические', 1), ('динамический', 1)]",True
+eager,[],False
+eagerly,[],False
+eagerness,[],False
+earnest,[],False
+earnestly,[],False
+earnestness,[],False
+ease,"[('легкостью', 1)]",True
+eased,[],True
+eases,[],True
+easier,"[('проще', 7), ('легче', 1), ('было', 1), ('полегче', 1)]",True
+easiest,"[('проще всего', 1), ('проще', 1), ('всего', 1)]",True
+easiness,[],False
+easing,[],True
+easy,"[('легко', 6), ('полегче', 1), ('легкой', 1), ('удобно', 1), ('непросто', 1)]",True
+easy-to-use,[],False
+easygoing,[],False
+ebullience,[],False
+ebullient,[],False
+ebulliently,[],False
+ecenomical,[],False
+economical,"[('экономные', 1), ('экономичный', 1)]",True
+ecstasies,[],False
+ecstasy,[],False
+ecstatic,[],False
+ecstatically,[],False
+edify,[],False
+educated,[],False
+effective,"[('результативной', 1), ('эффективнее', 1), ('рентабельный', 1)]",True
+effectively,[],False
+effectiveness,"[('эффективности', 1)]",True
+effectual,[],False
+efficacious,[],False
+efficient,[],True
+efficiently,[],False
+effortless,[],False
+effortlessly,[],False
+effusion,[],False
+effusive,[],False
+effusively,[],False
+effusiveness,[],False
+elan,[],True
+elate,[],True
+elated,[],True
+elatedly,[],False
+elation,[],True
+electrify,[],False
+elegance,[],False
+elegant,[],False
+elegantly,[],False
+elevate,[],True
+elite,[],False
+eloquence,[],False
+eloquent,[],False
+eloquently,[],False
+embolden,[],False
+eminence,"[('кардиналом', 1)]",True
+eminent,"[('именитых', 1)]",True
+empathize,[],False
+empathy,[],False
+empower,[],False
+empowerment,[],False
+enchant,[],False
+enchanted,[],False
+enchanting,[],False
+enchantingly,[],False
+encourage,"[('побуждает', 1)]",True
+encouragement,[],False
+encouraging,"[('думаете', 1), ('думаете _ подьігрьіваем', 1), ('подьігрьіваем', 1)]",True
+encouragingly,[],False
+endear,[],False
+endearing,[],False
+endorse,[],False
+endorsed,[],False
+endorsement,[],False
+endorses,[],False
+endorsing,[],False
+energetic,"[('энергичных', 1)]",True
+energize,[],False
+energy-efficient,[],False
+energy-saving,[],False
+engaging,[],False
+engrossing,[],False
+enhance,[],False
+enhanced,[],False
+enhancement,[],False
+enhances,[],False
+enjoy,[],False
+enjoyable,[],False
+enjoyably,[],False
+enjoyed,[],False
+enjoying,[],False
+enjoyment,[],False
+enjoys,[],False
+enlighten,"[('просветить', 2)]",True
+enlightenment,[],False
+enliven,[],False
+ennoble,[],False
+enough,"[('достаточно', 28), ('недостаточно', 9), ('мало', 4), ('маловато', 2), ('ума', 1)]",True
+enrapt,[],False
+enrapture,[],False
+enraptured,[],False
+enrich,[],True
+enrichment,[],False
+enterprising,[],False
+entertain,[],True
+entertaining,[],False
+entertains,[],False
+enthral,[],False
+enthrall,[],False
+enthralled,[],False
+enthuse,[],False
+enthusiasm,[],False
+enthusiast,"[('энтузиаст', 1)]",True
+enthusiastic,[],False
+enthusiastically,[],False
+entice,[],False
+enticed,[],False
+enticing,[],False
+enticingly,[],False
+entranced,[],False
+entrancing,[],False
+entrust,[],False
+enviable,[],False
+enviably,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+envy,[],False
+equitable,[],False
+ergonomical,[],False
+err-free,[],False
+erudite,[],False
+ethical,"[('этично', 1), ('этичным', 1), ('этичности', 1), ('этики', 1), ('этичное', 1)]",True
+eulogize,[],False
+euphoria,[],False
+euphoric,[],False
+euphorically,[],False
+evaluative,"[('оценочные высказывания', 1), ('оценочные', 1), ('высказывания', 1)]",True
+evenly,[],False
+eventful,[],False
+everlasting,[],False
+evocative,[],False
+exalt,[],False
+exaltation,[],False
+exalted,[],False
+exaltedly,[],False
+exalting,[],False
+exaltingly,[],False
+examplar,[],False
+examplary,[],False
+excallent,[],False
+exceed,[],True
+exceeded,"[('превысили', 1)]",True
+exceeding,[],False
+exceedingly,[],False
+exceeds,"[('превышает', 2)]",True
+excel,"[('excel', 1)]",True
+exceled,[],False
+excelent,[],False
+excellant,[],False
+excelled,[],False
+excellence,[],False
+excellency,[],True
+excellent,"[('отлично', 2), ('превосходные', 1), ('прекрасный', 1), ('превосходный', 1)]",True
+excellently,[],False
+excels,[],False
+exceptional,"[('исключительное', 1)]",True
+exceptionally,[],False
+excite,[],True
+excited,"[('погорячился', 2), ('немножко _ погорячился', 1), ('немножко', 1), ('погорячились', 1)]",True
+excitedly,[],False
+excitedness,[],False
+excitement,[],False
+excites,[],False
+exciting,[],False
+excitingly,[],False
+exellent,[],False
+exemplar,[],False
+exemplary,[],False
+exhilarate,[],False
+exhilarating,[],False
+exhilaratingly,[],False
+exhilaration,[],False
+exonerate,[],False
+expansive,[],False
+expeditiously,[],False
+expertly,[],False
+exquisite,[],False
+exquisitely,[],False
+extol,[],True
+extoll,[],False
+extraordinarily,[],False
+extraordinary,[],False
+exuberance,[],False
+exuberant,[],False
+exuberantly,[],False
+exult,[],False
+exultant,[],False
+exultation,[],False
+exultingly,[],False
+eye-catch,[],False
+eye-catching,[],False
+eyecatch,[],False
+eyecatching,[],False
+fabulous,[],False
+fabulously,[],False
+facilitate,[],False
+fair,"[('добросовестного', 3), ('справедливо', 2), ('светловолосые', 1), ('честно', 1), ('справедливым', 1)]",True
+fairly,"[('довольно', 1)]",True
+fairness,"[('справедливости', 1)]",True
+faith,"[('вера', 2), ('веру', 1), ('веры', 1)]",True
+faithful,"[('верного', 1)]",True
+faithfully,[],False
+faithfulness,[],False
+fame,"[('слава', 1), ('известность', 1)]",True
+famed,[],False
+famous,"[('известных', 5), ('известного', 3), ('известным', 1), ('славен', 1), ('знаменитыми', 1)]",True
+famously,[],False
+fancier,[],False
+fancinating,[],False
+fancy,[],False
+fanfare,[],False
+fans,"[('болельщиков', 1), ('поклонники', 1)]",True
+fantastic,[],False
+fantastically,[],False
+fascinate,[],False
+fascinating,[],False
+fascinatingly,[],False
+fascination,[],False
+fashionable,"[('модно', 1)]",True
+fashionably,[],False
+fast,"[('быстро', 1)]",True
+fast-growing,[],False
+fast-paced,[],False
+faster,"[('быстрее', 3), ('более', 1)]",True
+fastest,[],False
+fastest-growing,[],False
+faultless,[],False
+fav,[],True
+fave,[],False
+favor,"[('пользу', 6), ('за', 2)]",True
+favorable,[],False
+favored,[],False
+favorite,"[('любимый', 2), ('излюбленную', 1)]",True
+favorited,[],False
+favour,[],False
+fearless,[],False
+fearlessly,[],False
+feasible,[],False
+feasibly,[],False
+feat,"[('подвиг', 1)]",True
+feature-rich,[],False
+fecilitous,[],False
+feisty,[],False
+felicitate,[],False
+felicitous,[],False
+felicity,[],False
+fertile,"[('fertile', 1)]",True
+fervent,[],False
+fervently,[],False
+fervid,[],False
+fervidly,[],False
+fervor,[],False
+festive,[],False
+fidelity,[],False
+fiery,[],False
+fine,"[('нормально', 10), ('ровно', 1), ('замечательно', 1), ('удачно', 1)]",True
+fine-looking,[],False
+finely,[],False
+finer,[],False
+finest,[],False
+firmer,[],False
+first-class,[],False
+first-in-class,[],False
+first-rate,[],False
+flashy,"[('кричащих', 1)]",True
+flatter,[],False
+flattering,[],False
+flatteringly,[],False
+flawless,"[('безупречен', 1)]",True
+flawlessly,[],False
+flexibility,[],False
+flexible,[],False
+flourish,[],True
+flourishing,"[('процветает', 1)]",True
+fluent,"[('владеете', 1), ('свободно говорите', 1), ('свободно', 1), ('говорите', 1)]",True
+flutter,[],False
+fond,"[('увлекаюсь', 2), ('любят', 1)]",True
+fondly,[],False
+fondness,[],False
+foolproof,[],False
+foremost,[],False
+foresight,[],False
+formidable,[],False
+fortitude,[],False
+fortuitous,[],False
+fortuitously,[],False
+fortunate,[],True
+fortunately,[],True
+fortune,[],False
+fragrant,"[('ароматный', 1)]",True
+free,"[('свободной', 7), ('несвободные', 5), ('свободные', 5), ('свободное', 3), ('свободный', 3)]",True
+freed,[],True
+freedom,"[('свобода', 1), ('свободы', 1), ('свободе', 1)]",True
+freedoms,[],False
+fresh,"[('свежий', 3), ('свежим', 3), ('свежие', 2), ('свежая', 1)]",True
+fresher,[],False
+freshest,[],False
+friendliness,[],False
+friendly,"[('короткой', 1), ('дружит', 1)]",True
+frolic,[],False
+frugal,[],False
+fruitful,[],False
+ftw,[],True
+fulfillment,"[('выполнение', 1)]",True
+fun,"[('веселья', 1), ('ради', 1)]",True
+futurestic,[],False
+futuristic,[],False
+gaiety,[],False
+gaily,[],False
+gain,"[('gain', 1)]",True
+gained,"[('получивший', 1)]",True
+gainful,[],False
+gainfully,[],False
+gaining,[],True
+gains,[],True
+gallant,[],False
+gallantly,[],False
+galore,[],False
+geekier,[],False
+geeky,[],False
+gem,[],True
+gems,[],False
+generosity,[],False
+generous,[],False
+generously,[],False
+genial,[],False
+genius,"[('гением', 1)]",True
+gentle,"[('нежном', 1)]",True
+gentlest,[],False
+genuine,[],True
+gifted,[],False
+glad,"[('рад', 3), ('рада', 2)]",True
+gladden,[],False
+gladly,"[('удовольствием', 1), ('спокойно', 1)]",True
+gladness,[],False
+glamorous,[],False
+glee,[],False
+gleeful,[],False
+gleefully,[],False
+glimmer,[],False
+glimmering,[],False
+glisten,[],False
+glistening,[],False
+glitter,[],False
+glitz,[],False
+glorify,[],False
+glorious,"[('славного', 1), ('славный', 1), ('трэнд', 1), ('славный _ трэнд', 1)]",True
+gloriously,[],False
+glory,"[('слава', 1)]",True
+glow,"[('светиться', 1), ('светиться _ красненьким', 1), ('красненьким', 1)]",True
+glowing,[],False
+glowingly,[],False
+god-given,[],False
+god-send,[],False
+godlike,[],False
+godsend,[],False
+gold,"[('золотую', 1)]",True
+golden,"[('золотое', 1), ('золотистом', 1)]",True
+good,"[('добрый', 130), ('доброго', 18), ('хорошо', 15), ('хорошие', 7), ('хорошей', 4)]",True
+goodly,[],False
+goodness,[],False
+goodwill,[],False
+goood,[],False
+gooood,[],False
+gorgeous,[],False
+gorgeously,[],False
+grace,[],True
+graceful,[],False
+gracefully,[],False
+gracious,[],False
+graciously,[],False
+graciousness,[],False
+grand,"[('великим', 1), ('великий', 1), ('большого', 1), ('великому', 1)]",True
+grandeur,[],False
+grateful,"[('благодарен', 2), ('признателен', 1), ('спасибо', 1), ('благодарны', 1)]",True
+gratefully,[],False
+gratification,[],False
+gratified,[],False
+gratifies,[],False
+gratify,[],False
+gratifying,[],False
+gratifyingly,[],False
+gratitude,"[('признательности', 1), ('благодарности', 1)]",True
+great,"[('здорово', 4), ('великого', 4), ('великая', 3), ('большой', 2), ('большая', 2)]",True
+greatest,"[('наибольшие', 1)]",True
+greatness,[],False
+grin,"[('погано', 1)]",True
+groundbreaking,[],False
+guarantee,"[('гарантия', 1), ('гарантий', 1)]",True
+guidance,"[('наведения', 1)]",True
+guiltless,[],False
+gumption,[],False
+gush,[],True
+gusto,[],False
+gutsy,[],False
+hail,[],True
+halcyon,[],False
+hale,[],False
+hallmark,[],False
+hallmarks,[],False
+hallowed,[],False
+handier,[],False
+handily,[],False
+hands-down,[],False
+handsome,[],False
+handsomely,[],False
+handy,"[('кстати', 1)]",True
+happier,[],False
+happily,[],False
+happiness,[],False
+happy,"[('с', 3), ('счастливом', 1), ('доволен', 1), ('довольны', 1), ('со', 1)]",True
+hard-working,[],False
+hardier,[],False
+hardy,[],False
+harmless,[],False
+harmonious,"[('гармонично', 1)]",True
+harmoniously,[],False
+harmonize,[],False
+harmony,[],False
+headway,[],False
+heal,[],True
+healthful,[],False
+healthy,"[('здорового', 1)]",True
+hearten,[],False
+heartening,[],False
+heartfelt,[],False
+heartily,[],False
+heartwarming,[],False
+heaven,[],True
+heavenly,"[('небесной', 2), ('небесные', 1)]",True
+helped,"[('помогло', 2), ('помогал', 1)]",True
+helpful,"[('полезные', 1)]",True
+helping,"[('помогли', 1), ('помогает', 1), ('помощь', 1)]",True
+hero,"[('героя', 3)]",True
+heroic,[],False
+heroically,[],False
+heroine,"[('героиня', 1), ('главной героини', 1), ('главной', 1), ('героини', 1)]",True
+heroize,[],False
+heros,[],False
+high-quality,[],False
+high-spirited,[],False
+hilarious,[],False
+holy,"[('священным', 1), ('святы', 1), ('священную', 1), ('святым', 1)]",True
+homage,[],False
+honest,"[('честно', 5), ('откровенны', 1), ('честном', 1), ('говоря', 1)]",True
+honesty,[],False
+honor,"[('честь', 2)]",True
+honorable,[],False
+honored,"[('заслуженный', 2), ('заслуженные', 1), ('заслуженного', 1), ('заслуженной', 1)]",True
+honoring,[],False
+hooray,[],False
+hopeful,[],True
+hospitable,[],False
+hot,"[('горячим', 1)]",True
+hotcake,[],False
+hotcakes,[],False
+hottest,[],False
+hug,[],True
+humane,[],False
+humble,"[('скромный', 1)]",True
+humility,[],False
+humor,"[('юмора', 4), ('юмор', 1)]",True
+humorous,[],False
+humorously,[],False
+humour,[],False
+humourous,[],False
+ideal,"[('идеал', 1)]",True
+idealize,[],False
+ideally,"[('идеале', 1)]",True
+idol,[],False
+idolize,[],False
+idolized,[],False
+idyllic,[],False
+illuminate,[],True
+illuminati,[],False
+illuminating,[],False
+illumine,[],False
+illustrious,[],False
+ilu,[],True
+imaculate,[],False
+imaginative,[],False
+immaculate,[],False
+immaculately,[],False
+immense,[],False
+impartial,"[('беспристрастными', 1), ('информационно', 1), ('беспристрастное', 1), ('информационно _ беспристрастное', 1)]",True
+impartiality,[],False
+impartially,"[('беспристрастно', 1)]",True
+impassioned,[],False
+impeccable,[],False
+impeccably,[],False
+important,"[('важно', 8), ('важнее', 6), ('важная', 5), ('важный', 3), ('важное', 3)]",True
+impress,[],True
+impressed,"[('впечатлил', 1)]",True
+impresses,[],False
+impressive,[],True
+impressively,[],False
+impressiveness,[],False
+improve,"[('улучшить', 4), ('дорабатывать', 2), ('улучшать', 2), ('улучшению', 2), ('улучшает', 2)]",True
+improved,"[('улучшить', 2), ('улучшаться', 1), ('доработать', 1)]",True
+improvement,"[('улучшению', 3), ('улучшение', 1), ('улучшении', 1)]",True
+improvements,[],False
+improves,[],False
+improving,"[('улучшать', 1), ('улучшающее', 1)]",True
+incredible,"[('неимоверных', 1), ('удалили _ беспредел', 1), ('удалили', 1), ('беспредел', 1)]",True
+incredibly,"[('невероятно', 1)]",True
+indebted,[],False
+individualized,[],False
+indulgence,[],False
+indulgent,[],False
+industrious,[],False
+inestimable,[],False
+inestimably,[],False
+inexpensive,[],False
+infallibility,"[('непогрешимости', 1)]",True
+infallible,[],False
+infallibly,[],False
+influential,"[('влиятельный', 1)]",True
+ingenious,[],False
+ingeniously,[],False
+ingenuity,"[('изобретательность', 1)]",True
+ingenuous,[],False
+ingenuously,[],False
+innocuous,[],False
+innovation,"[('инновация', 1), ('новация', 1)]",True
+innovative,[],False
+inpressed,[],False
+insightful,[],False
+insightfully,[],False
+inspiration,[],False
+inspirational,[],False
+inspire,"[('вызывает', 1)]",True
+inspiring,[],False
+instantly,"[('мгновенно', 1)]",True
+instructive,[],False
+instrumental,[],False
+integral,[],False
+integrated,[],False
+intelligence,"[('офицерразведчик', 1), ('разведок', 1), ('свр', 1)]",True
+intelligent,"[('умного', 1), ('разумных', 1)]",True
+intelligible,[],True
+interesting,"[('интересно', 20), ('интересные', 8), ('интересный', 8), ('интересен', 3), ('интересным', 1)]",True
+interests,"[('интересы', 2), ('интересах', 1), ('интересов', 1), ('интересует', 1), ('интересующий', 1)]",True
+intimacy,[],False
+intimate,[],False
+intricate,[],False
+intrigue,[],True
+intriguing,[],False
+intriguingly,[],False
+intuitive,"[('интуитивно', 2), ('понятным', 1), ('интуитивно понятным', 1), ('понятно', 1), ('интуитивно понятно', 1)]",True
+invaluable,[],False
+invaluablely,[],False
+inventive,[],False
+invigorate,[],False
+invigorating,[],False
+invincibility,[],False
+invincible,[],False
+inviolable,"[('неприкосновенны', 1)]",True
+inviolate,[],False
+invulnerable,[],False
+irreplaceable,[],False
+irreproachable,[],False
+irresistible,"[('непреодолимая', 1)]",True
+irresistibly,[],False
+issue-free,[],False
+jaw-droping,[],False
+jaw-dropping,[],False
+jollify,[],False
+jolly,[],False
+jovial,[],False
+joy,"[('радостей', 1), ('радости', 1)]",True
+joyful,"[('радостного', 1), ('радостно', 1)]",True
+joyfully,[],False
+joyous,[],False
+joyously,[],False
+jubilant,[],False
+jubilantly,[],False
+jubilate,[],False
+jubilation,[],False
+jubiliant,[],False
+judicious,[],False
+justly,[],False
+keen,[],False
+keenly,[],False
+keenness,[],False
+kid-friendly,[],False
+kindliness,[],False
+kindly,"[('любезно', 1)]",True
+kindness,[],False
+knowledgeable,"[('знающим', 1), ('сведущ', 1)]",True
+kudos,[],False
+large-capacity,[],False
+laud,[],True
+laudable,[],False
+laudably,[],False
+lavish,[],False
+lavishly,[],False
+law-abiding,[],False
+lawful,[],False
+lawfully,[],False
+lead,"[('приведёт', 2), ('ведут', 2), ('ведёт', 2), ('вести', 2), ('ведите', 1)]",True
+leading,"[('ведущие', 2), ('ведущими', 2), ('ведущей', 1), ('наводящие', 1)]",True
+leads,"[('ведёт', 2), ('приводит', 1), ('ведет', 1)]",True
+lean,[],True
+led,"[('привело', 2), ('вела', 1), ('навело', 1), ('привела', 1), ('вели', 1)]",True
+legendary,"[('легендарный', 1)]",True
+leverage,[],False
+levity,[],False
+liberate,"[('освобождать', 1)]",True
+liberation,[],False
+liberty,"[('смелость', 2), ('свобода', 1)]",True
+lifesaver,[],False
+light-hearted,[],False
+lighter,[],False
+likable,[],False
+like,"[('как', 41), ('типа', 20), ('хотелось', 17), ('хотел', 12), ('нравится', 11)]",True
+liked,"[('понравился', 3), ('понравилось', 3), ('понравилась', 1), ('нравились', 1)]",True
+likes,"[('любит', 1)]",True
+liking,"[('вкусу', 1), ('вкус', 1)]",True
+lionhearted,[],False
+lively,"[('живого', 1)]",True
+logical,"[('логично', 5), ('логичным', 2), ('логическую', 1), ('логичной', 1), ('логичные', 1)]",True
+long-lasting,[],False
+lovable,[],False
+lovably,[],False
+love,"[('обожаю', 1), ('любви', 1), ('люблю', 1), ('любящими', 1)]",True
+loved,[],False
+loveliness,[],False
+lovely,[],False
+lover,"[('любовница', 1)]",True
+loves,[],False
+loving,[],False
+low-cost,[],False
+low-price,[],False
+low-priced,[],False
+low-risk,[],False
+lower-priced,[],False
+loyal,"[('преданными', 1)]",True
+loyalty,"[('лояльности', 1), ('лояльность', 1)]",True
+lucid,[],False
+lucidly,[],False
+luck,"[('везение', 1)]",True
+luckier,[],False
+luckiest,[],False
+luckiness,[],False
+lucky,[],False
+lucrative,[],False
+luminous,[],True
+lush,[],True
+luster,[],False
+lustrous,[],False
+luxuriant,[],False
+luxuriate,[],False
+luxurious,[],False
+luxuriously,[],False
+luxury,[],False
+lyrical,"[('лирикабеллетристика', 1)]",True
+magic,[],True
+magical,[],False
+magnanimous,[],False
+magnanimously,[],False
+magnificence,[],False
+magnificent,"[('великолепных', 1), ('великолепному', 1)]",True
+magnificently,[],False
+majestic,[],False
+majesty,[],False
+manageable,[],False
+maneuverable,[],False
+marvel,"[('marvel', 2)]",True
+marveled,[],False
+marvelled,[],False
+marvellous,[],False
+marvelous,[],False
+marvelously,[],False
+marvelousness,[],False
+marvels,[],False
+master,"[('мастер', 2), ('господарь', 1), ('освоил', 1), ('хозяин', 1)]",True
+masterful,[],False
+masterfully,[],False
+masterpiece,"[('шедевр', 1)]",True
+masterpieces,"[('шедеврах', 1)]",True
+masters,"[('masters', 1), ('мастеров', 1)]",True
+mastery,[],False
+matchless,[],False
+mature,[],False
+maturely,[],False
+maturity,[],False
+meaningful,"[('значимы', 1), ('вразумительного', 1), ('осмысленных', 1), ('значим', 1), ('осмысленный', 1)]",True
+memorable,[],False
+merciful,"[('милостивого', 1), ('милостливого', 1)]",True
+mercifully,[],False
+mercy,"[('милости', 1)]",True
+merit,[],True
+meritorious,[],False
+merrily,[],False
+merriment,[],False
+merriness,[],False
+merry,[],True
+mesmerize,[],False
+mesmerized,[],False
+mesmerizes,[],False
+mesmerizing,[],False
+mesmerizingly,[],False
+meticulous,[],False
+meticulously,[],False
+mightily,[],False
+mighty,"[('могучего', 1)]",True
+mind-blowing,[],False
+miracle,"[('чудо', 2)]",True
+miracles,"[('чудес', 1)]",True
+miraculous,"[('чудесного', 1)]",True
+miraculously,[],False
+miraculousness,[],False
+modern,"[('современные', 3), ('современное', 2), ('современного', 2), ('современных', 2), ('модернарми', 1)]",True
+modest,[],True
+modesty,"[('скромность', 1)]",True
+momentous,[],False
+monumental,[],False
+monumentally,[],False
+morality,[],False
+motivated,"[('мотивированы', 1)]",True
+multi-purpose,[],False
+navigable,[],False
+neat,[],True
+neatest,[],False
+neatly,[],False
+nice,"[('приятно', 1), ('хорошо', 1), ('красиво', 1), ('неплохо', 1)]",True
+nicely,[],False
+nicer,[],False
+nicest,[],False
+nifty,[],False
+nimble,[],False
+noble,[],False
+nobly,[],False
+noiseless,[],False
+non-violence,[],False
+non-violent,[],False
+notably,[],False
+noteworthy,"[('достопримечательного', 1)]",True
+nourish,[],False
+nourishing,[],False
+nourishment,[],False
+novelty,[],False
+nurturing,[],False
+oasis,[],False
+obsession,[],False
+obsessions,[],False
+obtainable,[],False
+openly,"[('открыто', 1)]",True
+openness,"[('открытости', 1)]",True
+optimal,[],True
+optimism,[],False
+optimistic,[],False
+opulent,[],False
+orderly,[],False
+originality,[],False
+outdo,[],False
+outdone,[],False
+outperform,[],False
+outperformed,[],False
+outperforming,[],False
+outperforms,[],False
+outshine,[],False
+outshone,[],False
+outsmart,[],False
+outstanding,"[('выдающемся', 1), ('выдающимся', 1)]",True
+outstandingly,[],False
+outstrip,[],False
+outwit,[],False
+ovation,[],True
+overjoyed,[],False
+overtake,"[('перегнать', 1)]",True
+overtaken,[],False
+overtakes,[],False
+overtaking,[],False
+overtook,[],False
+overture,[],False
+pain-free,[],False
+painless,[],True
+painlessly,"[('безболезненно', 1)]",True
+palatial,[],False
+pamper,[],False
+pampered,[],False
+pamperedly,[],False
+pamperedness,[],False
+pampers,[],False
+panoramic,[],False
+paradise,"[('рая', 1)]",True
+paramount,[],False
+pardon,"[('прощения', 2)]",True
+passion,"[('пассии', 1)]",True
+passionate,[],False
+passionately,[],False
+patience,"[('терпением', 1), ('терпения', 1)]",True
+patient,[],True
+patiently,[],False
+patriot,"[('патриот', 1)]",True
+patriotic,"[('отечественная', 2)]",True
+peace,"[('мир', 2), ('пухом', 1)]",True
+peaceable,[],False
+peaceful,"[('мирных', 1)]",True
+peacefully,"[('мирно', 1)]",True
+peacekeepers,[],False
+peach,[],False
+peerless,[],False
+pep,[],False
+pepped,[],False
+pepping,[],False
+peppy,[],False
+peps,[],False
+perfect,[],True
+perfection,[],False
+perfectly,[],False
+permissible,"[('допустимо', 3)]",True
+perseverance,[],False
+persevere,[],False
+personages,[],False
+personalized,[],False
+phenomenal,[],False
+phenomenally,[],False
+picturesque,[],False
+piety,"[('благочестия', 2)]",True
+pinnacle,[],False
+playful,[],False
+playfully,[],False
+pleasant,"[('приятен', 1), ('приятнее', 1)]",True
+pleasantly,[],False
+pleased,[],False
+pleases,[],False
+pleasing,"[('угодными', 1)]",True
+pleasingly,[],False
+pleasurable,[],False
+pleasurably,[],False
+pleasure,"[('удовольствием', 4), ('удовольствия', 1), ('приятно', 1)]",True
+plentiful,[],False
+pluses,[],False
+plush,[],False
+plusses,[],False
+poetic,[],False
+poeticize,[],False
+poignant,[],False
+poise,[],False
+poised,[],False
+polished,[],False
+polite,"[('вежливого', 1), ('вежливое', 1)]",True
+politeness,[],False
+popular,"[('популярные', 2), ('популярный', 1), ('народной', 1)]",True
+portable,[],False
+posh,[],False
+positive,"[('положительное', 3), ('положительных', 1), ('положительный', 1), ('позитив', 1), ('положительная', 1)]",True
+positively,"[('позитивный', 1)]",True
+positives,[],False
+powerful,[],False
+powerfully,[],False
+praise,"[('восхвалять', 1), ('хвалят', 1)]",True
+praiseworthy,[],False
+praising,[],False
+pre-eminent,[],False
+precious,[],False
+precise,"[('поточнее', 1), ('указать', 1), ('точнее', 1)]",True
+precisely,"[('именно', 9), ('точнее', 5), ('поточнее', 1), ('подробно', 1), ('именно _ подробно', 1)]",True
+preeminent,[],False
+prefer,"[('предпочитаете', 3), ('предпочитаю', 1)]",True
+preferable,"[('предпочтительнее', 1)]",True
+preferably,"[('желательно', 1)]",True
+prefered,[],False
+preferes,[],False
+preferring,"[('предпочитая', 2)]",True
+prefers,[],False
+premier,[],False
+prestige,[],True
+prestigious,[],False
+prettily,[],False
+pretty,"[('довольно', 1), ('довольнотаки', 1)]",True
+priceless,[],False
+pride,[],False
+principled,[],False
+privilege,[],True
+privileged,[],False
+prize,"[('премия', 1), ('премию', 1), ('приз', 1), ('премии', 1)]",True
+proactive,[],False
+problem-free,[],False
+problem-solver,[],False
+prodigious,[],False
+prodigiously,[],False
+prodigy,[],False
+productive,[],False
+productively,[],False
+proficient,[],False
+proficiently,[],False
+profound,[],False
+profoundly,[],False
+profuse,[],False
+profusion,[],False
+progress,"[('прогресс', 1), ('прогресса', 1)]",True
+progressive,"[('прогрессивная', 1), ('протопрогрессив', 1)]",True
+prolific,[],False
+prominence,[],False
+prominent,"[('заметных', 1), ('выдающийся', 1)]",True
+promise,"[('обещание', 2), ('обещаете', 1), ('обещаю', 1)]",True
+promised,"[('обещали', 2), ('обещал', 1)]",True
+promises,[],False
+promising,[],True
+promoter,[],False
+prompt,"[('промпт', 1)]",True
+promptly,[],False
+proper,"[('собственно', 1), ('имён', 1), ('собственным', 1), ('надлежащий', 1)]",True
+properly,"[('правильно', 5), ('охарактеризовать', 1), ('правильно охарактеризовать', 1), ('образом', 1)]",True
+propitious,[],False
+propitiously,[],False
+pros,[],True
+prosper,"[('проспера', 1)]",True
+prosperity,[],False
+prosperous,[],False
+prospros,[],False
+protect,"[('защитить', 2), ('защищать', 1), ('охраняете', 1), ('ограждаетесь', 1), ('защитит', 1)]",True
+protection,"[('защиту', 5), ('защита', 3), ('защиты', 3)]",True
+protective,[],False
+proud,[],True
+proven,"[('доказывать', 1), ('доказанных', 1)]",True
+proves,[],True
+providence,[],False
+proving,"[('доказывающего', 1)]",True
+prowess,[],False
+prudence,"[('благоразумие', 1)]",True
+prudent,[],False
+prudently,[],False
+punctual,[],False
+pure,"[('чистой', 2), ('чистая', 2), ('чистым', 1), ('чистые', 1), ('чистого', 1)]",True
+purify,[],False
+purposeful,[],True
+quaint,[],True
+qualified,"[('квалифицироваться', 1)]",True
+qualify,"[('относилась', 1)]",True
+quicker,[],False
+quiet,[],True
+quieter,[],False
+radiance,[],False
+radiant,[],False
+rapid,[],True
+rapport,[],False
+rapt,[],False
+rapture,[],False
+raptureous,[],False
+raptureously,[],False
+rapturous,[],False
+rapturously,[],False
+rational,"[('рациональный', 1)]",True
+razor-sharp,[],False
+reachable,[],False
+readable,"[('удобочитаемой', 1), ('читабельной', 1)]",True
+readily,[],False
+ready,"[('готов', 10), ('готовы', 8), ('готовые', 1), ('готова', 1)]",True
+reaffirm,[],False
+reaffirmation,[],False
+realistic,"[('реально', 1)]",True
+realizable,[],False
+reasonable,"[('разумного', 2), ('разумны', 2), ('разумнее', 1), ('резонные', 1)]",True
+reasonably,"[('аргументированно', 2), ('обосновано', 1), ('аргументированно _ корректно', 1), ('корректно', 1)]",True
+reasoned,"[('аргументированными', 1), ('аргументированных', 1)]",True
+reassurance,[],False
+reassure,[],False
+receptive,[],False
+reclaim,[],False
+recomend,[],False
+recommend,"[('посоветуешь', 2), ('посоветуете', 2), ('рекомендуете', 1), ('порекомендовал', 1), ('порекомендуете', 1)]",True
+recommendation,[],True
+recommendations,"[('рекомендации', 3), ('рекомендаций', 2), ('рекомендациями', 1)]",True
+recommended,"[('рекомендуемой', 2), ('рекомендовано', 1), ('рекомендованных', 1)]",True
+reconcile,"[('помирить', 1), ('совместить', 1)]",True
+reconciliation,"[('патрулирование', 1), ('выверкой', 1), ('патрулирование _ выверкой', 1)]",True
+record-setting,[],False
+recover,[],True
+recovery,"[('восстановление', 3), ('восстановления', 2)]",True
+rectification,[],False
+rectify,[],False
+rectifying,[],False
+redeem,[],False
+redeeming,[],False
+redemption,[],False
+refine,"[('дорабатывать', 2), ('доработать', 1)]",True
+refined,[],False
+refinement,[],False
+reform,"[('реформе', 1), ('реформа', 1)]",True
+reformed,[],False
+reforming,[],False
+reforms,[],False
+refresh,[],False
+refreshed,[],False
+refreshing,[],False
+refund,[],False
+refunded,[],False
+regal,[],True
+regally,[],False
+regard,"[('связи', 4), ('плане', 1), ('отношении', 1), ('оглядки', 1)]",True
+rejoice,"[('радовать', 1)]",True
+rejoicing,[],False
+rejoicingly,[],False
+rejuvenate,[],False
+rejuvenated,[],False
+rejuvenating,[],False
+relaxed,[],False
+relent,[],False
+reliable,"[('достоверные', 3), ('достоверными', 2), ('достовернее', 1), ('достоверной', 1), ('надежным', 1)]",True
+reliably,[],False
+relief,"[('облегчением', 1)]",True
+relish,[],False
+remarkable,[],True
+remarkably,[],False
+remedy,[],False
+remission,[],False
+remunerate,[],False
+renaissance,[],False
+renewed,[],False
+renown,[],False
+renowned,[],False
+replaceable,[],False
+reputable,"[('авторитетные', 1), ('попытается солидная', 1), ('попытается', 1), ('солидная', 1)]",True
+reputation,"[('имя', 1), ('репутацией', 1), ('репутации', 1), ('репутацию', 1)]",True
+resilient,[],False
+resolute,[],False
+resound,[],True
+resounding,[],False
+resourceful,[],False
+resourcefulness,[],False
+respect,"[('уважения', 2), ('уважаете', 2), ('уважение', 2), ('отношении', 2), ('уважением', 2)]",True
+respectable,[],False
+respectful,[],False
+respectfully,[],False
+respite,[],False
+resplendent,[],False
+responsibly,[],False
+responsive,[],False
+restful,[],False
+restored,"[('восстановить', 5), ('восстановится', 1), ('восстановлению', 1), ('восстановлен', 1), ('восстановили', 1)]",True
+restructure,[],False
+restructured,[],False
+restructuring,[],False
+retractable,[],False
+revel,[],False
+revelation,[],False
+revere,[],True
+reverence,[],False
+reverent,[],False
+reverently,[],False
+revitalize,[],False
+revival,"[('возрождение', 2)]",True
+revive,"[('оживили', 1)]",True
+revives,[],False
+revolutionary,"[('дореволюционной', 1), ('дореволюціонная', 1), ('революционная', 1)]",True
+revolutionize,[],False
+revolutionized,[],False
+revolutionizes,[],False
+reward,"[('награда', 1), ('награду', 1), ('награды', 1)]",True
+rewarding,[],False
+rewardingly,[],False
+rich,"[('богатое', 1)]",True
+richer,[],False
+richly,[],False
+richness,[],False
+right,"[('право', 28), ('правильно', 12), ('прав', 11), ('так', 11), ('верно', 10)]",True
+righten,[],True
+righteous,[],False
+righteously,[],False
+righteousness,[],False
+rightful,[],False
+rightfully,[],False
+rightly,"[('правильно', 1)]",True
+rightness,[],True
+risk-free,[],False
+robust,[],False
+rock-star,[],False
+rock-stars,[],False
+rockstar,[],False
+rockstars,[],False
+romantic,"[('романтик', 1), ('романтические', 1)]",True
+romantically,[],False
+romanticize,[],False
+roomier,[],False
+roomy,[],False
+rosy,[],False
+safe,[],True
+safely,"[('смело', 1), ('спокойно', 1), ('благополучно', 1)]",True
+sagacity,[],False
+sagely,[],False
+saint,"[('святого', 2), ('сенжермене', 1), ('святой', 1), ('санкт', 1)]",True
+saintliness,[],False
+saintly,[],False
+salutary,[],False
+salute,"[('салют', 1)]",True
+sane,"[('вменяемое', 1)]",True
+satisfactorily,[],False
+satisfactory,[],False
+satisfied,"[('устраивает', 3), ('устроило', 1), ('устраивают', 1)]",True
+satisfies,"[('удовлетворяет', 2)]",True
+satisfy,"[('удовлетворяет', 1), ('удовлетворить', 1)]",True
+satisfying,[],False
+satisified,[],False
+saver,[],False
+savings,[],False
+savior,[],False
+savvy,[],False
+scenic,[],False
+seamless,[],False
+seasoned,[],False
+secure,[],False
+securely,[],False
+selective,[],False
+self-determination,[],False
+self-respect,[],False
+self-satisfaction,[],False
+self-sufficiency,[],False
+self-sufficient,[],False
+sensation,[],True
+sensational,[],False
+sensationally,[],False
+sensations,"[('ощущения', 1)]",True
+sensible,[],False
+sensibly,[],False
+sensitive,"[('чувствительны', 1), ('чувствительна', 1), ('чувствительных', 1)]",True
+serene,[],False
+serenity,[],False
+sexy,[],False
+sharp,"[('резкого', 1), ('колкие', 1)]",True
+sharper,[],False
+sharpest,[],False
+shimmering,[],False
+shimmeringly,[],False
+shine,"[('светится', 1)]",True
+shiny,[],False
+significant,"[('значим', 5), ('значимы', 4), ('значительную', 3), ('значимо', 3), ('значимую', 2)]",True
+silent,"[('сайлент', 1), ('промолчу', 1), ('хрена _ ответ', 1), ('хрена', 1), ('ответ', 1)]",True
+simpler,"[('простой', 1)]",True
+simplest,[],False
+simplified,"[('упрощенный', 1)]",True
+simplifies,"[('упрощает', 1)]",True
+simplify,[],False
+simplifying,[],False
+sincere,"[('душевную', 1)]",True
+sincerely,"[('искренне', 4), ('с', 1)]",True
+sincerity,[],False
+skill,[],True
+skilled,[],False
+skillful,[],False
+skillfully,[],False
+slammin,[],False
+sleek,[],False
+slick,[],False
+smart,"[('провомочно', 1), ('хватает', 1)]",True
+smarter,"[('умнее', 1)]",True
+smartest,[],False
+smartly,[],False
+smile,"[('улыбку', 1)]",True
+smiles,[],False
+smiling,[],False
+smilingly,[],False
+smitten,[],False
+smooth,"[('гладки', 1)]",True
+smoother,[],False
+smoothes,[],False
+smoothest,[],False
+smoothly,[],False
+snappy,[],False
+snazzy,[],False
+sociable,[],False
+soft,"[('мягко', 1), ('мягкий', 1)]",True
+softer,"[('мягкими', 1), ('более', 1), ('более _ мягкими', 1)]",True
+solace,[],False
+solicitous,[],False
+solicitously,[],False
+solid,"[('солидным', 1), ('твёрдого', 1)]",True
+solidarity,[],False
+soothe,[],False
+soothingly,[],False
+sophisticated,[],False
+soulful,[],False
+soundly,[],False
+soundness,[],False
+spacious,[],False
+sparkle,[],False
+sparkling,[],False
+spectacular,[],False
+spectacularly,[],False
+speedily,[],False
+speedy,"[('скорейшему', 1)]",True
+spellbind,[],False
+spellbinding,[],False
+spellbindingly,[],False
+spellbound,[],False
+spirited,[],False
+spiritual,"[('духовной', 1)]",True
+splendid,[],False
+splendidly,[],False
+splendor,[],False
+spontaneous,[],False
+sporty,[],False
+spotless,[],False
+sprightly,[],False
+stability,"[('стабильность', 1)]",True
+stabilize,[],True
+stable,"[('стабильная', 2), ('стабильную', 1)]",True
+stainless,[],False
+standout,[],False
+state-of-the-art,[],False
+stately,[],False
+statuesque,[],False
+staunch,[],False
+staunchly,[],False
+staunchness,[],False
+steadfast,[],False
+steadfastly,[],False
+steadfastness,[],False
+steadiest,[],False
+steadiness,[],False
+steady,[],False
+stellar,[],False
+stellarly,[],False
+stimulate,"[('стимулируют', 1)]",True
+stimulates,[],False
+stimulating,[],False
+stimulative,[],False
+stirringly,[],False
+straighten,[],True
+straightforward,"[('прямолинейный', 1)]",True
+streamlined,[],False
+striking,[],False
+strikingly,[],False
+striving,"[('стремление', 1)]",True
+strong,"[('силён', 2), ('сильно', 1), ('сильный', 1), ('сильными', 1), ('сильным', 1)]",True
+stronger,"[('сильнее', 1)]",True
+strongest,[],False
+stunned,[],False
+stunning,[],False
+stunningly,[],False
+stupendous,[],False
+stupendously,[],False
+sturdier,[],False
+sturdy,[],False
+stylish,[],False
+stylishly,[],False
+stylized,"[('стилизованная', 1)]",True
+suave,[],False
+suavely,[],False
+sublime,[],False
+subsidize,[],False
+subsidized,[],False
+subsidizes,[],False
+subsidizing,[],False
+substantive,"[('существу', 1), ('возражения _ существу', 1), ('возражения', 1)]",True
+succeed,"[('получилось', 1)]",True
+succeeded,[],False
+succeeding,[],False
+succeeds,"[('удастся', 1)]",True
+succes,[],True
+success,"[('безуспешно', 1), ('успехом', 1), ('успеху', 1)]",True
+successes,[],False
+successful,"[('удачный', 2), ('успешное', 1), ('успешными', 1)]",True
+successfully,"[('успешно', 1)]",True
+suffice,[],False
+sufficed,[],False
+suffices,[],False
+sufficient,"[('достаточно', 4), ('достаточным', 3), ('достаточной', 2), ('достаточного', 1), ('достаточном', 1)]",True
+sufficiently,"[('достаточно', 1)]",True
+suitable,"[('подходящий', 3), ('подойдет', 2), ('годен', 1), ('годится', 1), ('подходящего', 1)]",True
+sumptuous,[],True
+sumptuously,[],False
+sumptuousness,[],False
+super,[],True
+superb,[],False
+superbly,[],False
+superior,[],True
+superiority,"[('превосходства', 1), ('превосходству', 1), ('превосходство', 1)]",True
+supple,[],True
+support,"[('поддержали', 3), ('поддержке', 2), ('поддержку', 2), ('поддерживать', 2), ('поддерживаете', 1)]",True
+supported,"[('поддержка', 1), ('подтверждаемые', 1), ('поддерживается', 1), ('поддерживал', 1), ('подкреплять', 1)]",True
+supporter,"[('сторонник', 1)]",True
+supporting,[],True
+supportive,[],False
+supports,"[('подпорки', 1)]",True
+supremacy,[],False
+supreme,"[('верховного', 1), ('верховный', 1)]",True
+supremely,"[('поразительная', 1), ('степени', 1), ('высшей степени поразительная', 1), ('высшей', 1)]",True
+supurb,[],False
+supurbly,[],False
+surmount,[],False
+surpass,"[('переплюнула', 1)]",True
+surreal,[],True
+survival,[],False
+survivor,[],False
+sustainability,[],False
+sustainable,[],False
+swank,[],False
+swankier,[],False
+swankiest,[],False
+swanky,[],False
+sweeping,"[('огульных', 1)]",True
+sweet,"[('сладок', 1)]",True
+sweeten,[],False
+sweetheart,[],False
+sweetly,[],False
+sweetness,[],False
+swift,[],False
+swiftness,[],False
+talent,[],False
+talented,[],False
+talents,[],False
+tantalize,[],False
+tantalizing,[],False
+tantalizingly,[],False
+tempt,[],True
+tempting,"[('хочется', 1)]",True
+temptingly,[],False
+tenacious,[],False
+tenaciously,[],False
+tenacity,[],False
+tender,"[('нежным', 1)]",True
+tenderly,[],False
+terrific,[],False
+terrifically,[],False
+thank,"[('спасибо', 48), ('благодарю', 3), ('большое', 3), ('слава', 2), ('благодарен', 1)]",True
+thankful,"[('благодарен', 1)]",True
+thinner,[],False
+thoughtful,[],False
+thoughtfully,[],False
+thoughtfulness,[],False
+thrift,[],False
+thrifty,[],False
+thrill,[],True
+thrilled,[],False
+thrilling,[],False
+thrillingly,[],False
+thrills,[],False
+thrive,[],False
+thriving,[],False
+thumb-up,[],False
+thumbs-up,[],False
+tickle,[],False
+tidy,[],False
+time-honored,[],False
+timely,[],False
+tingle,[],False
+titillate,[],False
+titillating,[],False
+titillatingly,[],False
+togetherness,[],False
+tolerable,[],False
+toll-free,[],False
+top,"[('сверху', 3), ('наверх', 2), ('верху', 2), ('наверху', 2), ('вверху', 2)]",True
+top-notch,[],False
+top-quality,[],False
+topnotch,[],False
+tops,"[('верхушкам', 1)]",True
+tough,"[('жёсткого', 1)]",True
+tougher,"[('жёстко', 1), ('более', 1), ('более жёстко', 1)]",True
+toughest,[],False
+traction,[],True
+tranquil,[],False
+tranquility,[],False
+transparent,"[('прозрачны', 1)]",True
+treasure,[],True
+tremendously,[],False
+trendy,[],False
+triumph,[],False
+triumphal,[],False
+triumphant,[],False
+triumphantly,[],False
+trivially,[],False
+trophy,[],False
+trouble-free,[],False
+trump,[],False
+trumpet,[],False
+trust,"[('доверять', 3), ('доверия', 1), ('доверяем', 1), ('доверие', 1), ('поверте', 1)]",True
+trusted,"[('доверять', 2), ('верить', 1), ('доверяют', 1)]",True
+trusting,[],False
+trustingly,[],False
+trustworthiness,[],False
+trustworthy,[],False
+trusty,[],False
+truthful,"[('правдивой', 1)]",True
+truthfully,[],False
+truthfulness,[],False
+twinkly,[],False
+ultra-crisp,[],False
+unabashed,[],False
+unabashedly,[],False
+unaffected,[],False
+unassailable,[],False
+unbeatable,[],False
+unbiased,"[('неангажированным', 1)]",True
+unbound,[],False
+uncomplicated,[],False
+unconditional,"[('безоговорочный', 1), ('безусловный', 1)]",True
+undamaged,[],False
+undaunted,[],False
+understandable,"[('понятно', 4), ('понятными', 1)]",True
+undisputable,[],False
+undisputably,[],False
+undisputed,[],False
+unencumbered,[],False
+unequivocal,[],True
+unequivocally,"[('однозначно', 1)]",True
+unfazed,[],False
+unfettered,[],False
+unforgettable,[],False
+unity,"[('разложения', 1), ('единицы', 1), ('разложения _ единицы', 1)]",True
+unlimited,"[('неограниченном', 1)]",True
+unmatched,[],False
+unparalleled,[],False
+unquestionable,[],False
+unquestionably,[],False
+unreal,[],False
+unrestricted,[],False
+unrivaled,[],False
+unselfish,[],False
+unwavering,[],False
+upbeat,[],False
+upgradable,[],False
+upgradeable,[],False
+upgraded,[],False
+upheld,[],False
+uphold,[],False
+uplift,[],False
+uplifting,[],False
+upliftingly,[],False
+upliftment,[],False
+upscale,[],False
+usable,[],False
+useable,[],False
+useful,"[('полезное', 2), ('полезные', 2), ('полезен', 2), ('полезная', 2), ('полезна', 2)]",True
+user-friendly,[],False
+user-replaceable,[],False
+valiant,[],False
+valiantly,[],False
+valor,[],False
+valuable,"[('ценнее', 1), ('ценной', 1), ('ценная', 1), ('ценным', 1), ('ценных', 1)]",True
+variety,[],False
+venerate,[],False
+verifiable,"[('проверке', 1), ('проверяемым', 1)]",True
+veritable,[],False
+versatile,[],False
+versatility,[],False
+vibrant,[],False
+vibrantly,[],False
+victorious,"[('победоносца', 1)]",True
+victory,"[('победы', 3), ('победой', 1), ('победа', 1), ('победу', 1)]",True
+viewable,[],False
+vigilance,[],False
+vigilant,[],False
+virtue,"[('поведения', 1)]",True
+virtuous,[],False
+virtuously,[],False
+visionary,[],False
+vivacious,[],False
+vivid,[],False
+vouch,[],False
+vouchsafe,[],False
+warm,[],True
+warmer,[],False
+warmhearted,[],False
+warmly,[],False
+warmth,"[('тепла', 1)]",True
+wealthy,[],False
+welcome,"[('милости', 1), ('приветствуется', 1), ('приветственное', 1), ('рады', 1), ('приветствую', 1)]",True
+well,"[('ну', 70), ('хорошо', 15), ('также', 5), ('прекрасно', 5), ('что', 4)]",True
+well-backlit,[],False
+well-balanced,[],False
+well-behaved,[],False
+well-being,[],False
+well-bred,[],False
+well-connected,[],False
+well-educated,[],False
+well-established,[],False
+well-informed,[],False
+well-intentioned,[],False
+well-known,[],False
+well-made,[],False
+well-managed,[],False
+well-mannered,[],False
+well-positioned,[],False
+well-received,[],False
+well-regarded,[],False
+well-rounded,[],False
+well-run,[],False
+well-wishers,[],False
+wellbeing,[],False
+whoa,[],False
+wholeheartedly,[],False
+wholesome,[],False
+whooa,[],False
+whoooa,[],False
+wieldy,[],False
+willing,"[('готов', 1), ('желающие', 1), ('желающих', 1), ('желающий', 1)]",True
+willingly,[],False
+willingness,"[('готовность', 1)]",True
+win,[],True
+windfall,[],False
+winnable,[],False
+winner,"[('победитель', 1)]",True
+winners,"[('призеры', 1), ('призёров', 1)]",True
+winning,[],False
+wins,[],False
+wisdom,[],False
+wise,"[('мудрого', 1)]",True
+wisely,[],False
+witty,[],False
+won,"[('победили', 1), ('завоевала', 1), ('снискали', 1)]",True
+wonder,"[('интересно', 16), ('недоумеваю', 2), ('удивляюсь', 2), ('чудятся', 1), ('почувствовал', 1)]",True
+wonderful,"[('чудесно', 1), ('замечательный', 1), ('чудных', 1), ('замечательные', 1), ('замечательно', 1)]",True
+wonderfully,[],False
+wonderous,[],False
+wonderously,[],False
+wonders,[],False
+wondrous,[],False
+woo,[],True
+work,"[('работать', 16), ('работы', 16), ('работу', 14), ('работе', 12), ('работает', 7)]",True
+workable,"[('работоспособной', 1)]",True
+worked,"[('работали', 1), ('заработали', 1), ('трудились', 1), ('отработал', 1), ('работал', 1)]",True
+works,"[('работает', 9), ('произведений', 5), ('работы', 4), ('работ', 3), ('произведения', 2)]",True
+world-famous,[],False
+worth,"[('стоит', 16), ('стоило', 3), ('стоить', 1), ('вообще', 1), ('стоят', 1)]",True
+worth-while,[],False
+worthiness,[],False
+worthwhile,"[('стоит', 1)]",True
+worthy,"[('достойна', 2), ('достойная', 1), ('достойные', 1), ('достойны', 1)]",True
+wow,"[('ого', 1), ('ух', 1)]",True
+wowed,[],False
+wowing,[],False
+wows,[],False
+yay,[],False
+youthful,"[('юношеская', 1)]",True
+zeal,[],True
+zenith,[],False
+zest,[],False
+zippy,[],False
+Strategy - HASNEGATIVE,,
+2-faced,[],False
+2-faces,[],False
+abnormal,[],False
+abolish,[],True
+abominable,[],False
+abominably,[],False
+abominate,[],False
+abomination,[],False
+abort,[],False
+aborted,[],False
+aborts,[],False
+abrade,[],False
+abrasive,[],False
+abrupt,[],False
+abruptly,[],False
+abscond,[],False
+absence,"[('отсутствие', 5), ('отсуствие', 1), ('отсутствии', 1), ('отсутствием', 1)]",True
+absent-minded,[],False
+absentee,[],False
+absurd,"[('абсурдно', 2), ('абсурдным', 2), ('абсурдный', 1)]",True
+absurdity,"[('абсурд', 4), ('абсурда', 3), ('абсурдность', 1)]",True
+absurdly,[],False
+absurdness,[],False
+abuse,"[('злоупотребление', 2), ('злоупотреблять', 1)]",True
+abused,[],False
+abuses,[],False
+abusive,"[('ругательные', 1)]",True
+abysmal,[],False
+abysmally,[],False
+abyss,[],False
+accidental,[],True
+accost,[],False
+accursed,[],False
+accusation,"[('обвинение', 4), ('обвинением', 1)]",True
+accusations,"[('обвинений', 5), ('обвинения', 4), ('обвинениями', 2), ('упреков', 1)]",True
+accuse,"[('обвиняете', 4), ('обвинять', 2), ('обвинить', 1)]",True
+accuses,"[('обвиняет', 1)]",True
+accusing,"[('обвиняете', 4), ('обвинить', 1)]",True
+accusingly,[],False
+acerbate,[],True
+acerbic,[],False
+acerbically,[],False
+ache,[],True
+ached,[],True
+aches,[],True
+achey,[],False
+aching,[],True
+acrid,[],False
+acridly,[],False
+acridness,[],False
+acrimonious,[],False
+acrimoniously,[],False
+acrimony,[],False
+adamant,[],False
+adamantly,[],False
+addict,[],True
+addicted,[],False
+addicting,[],False
+addicts,[],False
+admonish,[],False
+admonisher,[],False
+admonishingly,[],False
+admonishment,[],False
+admonition,[],False
+adulterate,[],False
+adulterated,[],False
+adulteration,[],False
+adulterier,[],False
+adversarial,[],False
+adversary,[],False
+adverse,[],False
+adversity,[],False
+afflict,[],False
+affliction,[],False
+afflictive,[],False
+affront,[],False
+afraid,"[('что', 3), ('боятся', 1), (',', 1), ('боитесь', 1)]",True
+aggravate,"[('усугублять', 1)]",True
+aggravating,[],False
+aggravation,[],False
+aggression,"[('агрессию', 1), ('агрессии', 1)]",True
+aggressive,"[('агрессивном', 1), ('агрессивной', 1), ('агрессивного', 1)]",True
+aggressiveness,[],False
+aggressor,[],False
+aggrieve,[],False
+aggrieved,[],False
+aggrivation,[],False
+aghast,[],False
+agonies,[],False
+agonize,[],False
+agonizing,[],False
+agonizingly,[],False
+agony,[],False
+aground,[],False
+ail,[],True
+ailing,[],True
+ailment,[],False
+aimless,[],False
+alarm,[],True
+alarmed,[],False
+alarming,[],False
+alarmingly,[],False
+alienate,[],False
+alienated,[],False
+alienation,[],False
+allegation,[],False
+allegations,[],False
+allege,[],True
+allergic,[],False
+allergies,[],False
+allergy,[],False
+aloof,[],False
+altercation,[],False
+ambiguity,"[('двусмысленность', 2), ('неоднозначность', 1), ('неясность', 1)]",True
+ambiguous,"[('неоднозначное', 1), ('неоднозначного', 1), ('неоднозначная', 1)]",True
+ambivalence,[],False
+ambivalent,[],False
+ambush,"[('засада', 1)]",True
+amiss,[],False
+amputate,[],False
+anarchism,[],False
+anarchist,[],False
+anarchistic,[],False
+anarchy,[],False
+anemic,[],False
+anger,[],True
+angrily,[],False
+angriness,[],False
+angry,[],False
+anguish,[],False
+animosity,[],False
+annihilate,[],False
+annihilation,[],False
+annoy,"[('напрягает', 1)]",True
+annoyance,[],False
+annoyances,[],False
+annoyed,"[('раздражения', 1), ('раздосадовало', 1)]",True
+annoying,[],False
+annoyingly,[],False
+annoys,"[('раздражает', 1)]",True
+anomalous,[],False
+anomaly,[],False
+antagonism,[],False
+antagonist,[],False
+antagonistic,[],False
+antagonize,[],False
+anti-,[],False
+anti-american,[],False
+anti-israeli,[],False
+anti-occupation,[],False
+anti-proliferation,[],False
+anti-semites,[],False
+anti-social,[],False
+anti-us,[],False
+anti-white,[],False
+antipathy,[],False
+antiquated,[],False
+antithetical,[],False
+anxieties,[],False
+anxiety,"[('тревожных', 1)]",True
+anxious,[],False
+anxiously,[],False
+anxiousness,[],False
+apathetic,[],False
+apathetically,[],False
+apathy,[],False
+apocalypse,[],False
+apocalyptic,[],False
+apologist,[],False
+apologists,[],False
+appal,[],False
+appall,[],False
+appalled,[],False
+appalling,[],False
+appallingly,[],False
+apprehension,[],False
+apprehensions,[],False
+apprehensive,[],False
+apprehensively,[],False
+arbitrary,"[('произвол', 2), ('условная', 1), ('условна', 1), ('произвольном', 1)]",True
+arcane,[],False
+archaic,"[('архаичное', 1)]",True
+arduous,[],False
+arduously,[],False
+argumentative,[],False
+arrogance,[],False
+arrogant,"[('самонадеянно', 1)]",True
+arrogantly,[],False
+ashamed,"[('стыдно', 3), ('совестно', 1)]",True
+asinine,[],False
+asininely,[],False
+asinininity,[],False
+askance,[],False
+asperse,[],False
+aspersion,[],False
+aspersions,[],False
+assail,[],False
+assassin,[],True
+assassinate,[],False
+assault,"[('штурм', 1)]",True
+assult,[],False
+astray,[],False
+asunder,[],False
+atrocious,[],False
+atrocities,[],False
+atrocity,[],False
+atrophy,[],False
+attack,"[('выпад', 1), ('атаковать', 1), ('против', 1), ('приступ', 1)]",True
+attacks,"[('нападениях', 1), ('выпады', 1), ('нападки', 1)]",True
+audacious,[],False
+audaciously,[],False
+audaciousness,[],False
+audacity,[],False
+audiciously,[],False
+austere,[],False
+authoritarian,"[('авторитарные', 1)]",True
+autocrat,[],False
+autocratic,[],False
+avalanche,[],False
+avarice,[],False
+avaricious,[],False
+avariciously,[],False
+avenge,[],False
+averse,[],False
+aversion,[],False
+aweful,[],False
+awful,[],False
+awfully,[],False
+awfulness,[],False
+awkward,[],False
+awkwardness,[],False
+ax,[],True
+babble,[],False
+back-logged,[],False
+back-wood,[],False
+back-woods,[],False
+backache,[],False
+backaches,[],False
+backaching,[],False
+backbite,[],False
+backbiting,[],False
+backward,[],False
+backwardness,[],False
+backwood,[],False
+backwoods,[],False
+bad,"[('плохо', 5), ('плохой', 3), ('плохи', 2), ('плохая', 1), ('недобрых', 1)]",True
+badly,"[('плохо', 1), ('лежало', 1)]",True
+baffle,[],False
+baffled,[],False
+bafflement,[],False
+baffling,[],False
+bait,[],False
+balk,[],False
+banal,"[('банальная', 1), ('банальной', 1), ('банальной _ чужому', 1), ('чужому', 1)]",True
+banalize,[],False
+bane,[],False
+banish,[],False
+banishment,[],False
+bankrupt,"[('обанкроченный', 1)]",True
+barbarian,"[('варвар _ викинг', 1), ('викинг', 1), ('варвар', 1)]",True
+barbaric,[],False
+barbarically,[],False
+barbarity,[],False
+barbarous,[],False
+barbarously,[],False
+barren,[],False
+baseless,[],False
+bash,[],True
+bashed,[],False
+bashful,[],False
+bashing,[],False
+bastard,[],False
+bastards,[],False
+battered,[],False
+battering,[],False
+batty,[],False
+bearish,[],False
+beastly,[],False
+bedlam,[],False
+bedlamite,[],False
+befoul,[],False
+beg,"[('прошу', 2), ('выпросить', 1)]",True
+beggar,[],False
+beggarly,[],False
+begging,[],False
+beguile,[],False
+belabor,[],False
+belated,"[('запоздалым', 1)]",True
+beleaguer,[],False
+belie,[],True
+belittle,[],False
+belittled,[],False
+belittling,[],False
+bellicose,[],False
+belligerence,[],False
+belligerent,[],False
+belligerently,[],False
+bemoan,[],False
+bemoaning,[],False
+bemused,[],False
+bent,[],False
+berate,[],True
+bereave,[],False
+bereavement,[],False
+bereft,[],False
+berserk,[],False
+beseech,[],False
+beset,[],False
+besiege,[],False
+besmirch,[],False
+bestial,[],False
+betray,[],False
+betrayal,[],False
+betrayals,[],False
+betrayer,[],False
+betraying,[],False
+betrays,[],False
+bewail,[],False
+beware,[],False
+bewilder,[],True
+bewildered,[],False
+bewildering,[],False
+bewilderingly,[],False
+bewilderment,"[('недоумение', 1)]",True
+bewitch,[],False
+bias,[],True
+biased,"[('тенденциозно', 1), ('необъективна', 1), ('предвзятое', 1), ('предвзятости', 1), ('необъективности', 1)]",True
+biases,[],False
+bicker,[],False
+bickering,[],False
+bid-rigging,[],False
+bigotries,[],False
+bigotry,[],False
+bitch,[],False
+bitchy,[],False
+biting,[],True
+bitingly,[],False
+bitter,[],False
+bitterly,[],False
+bitterness,[],False
+bizarre,[],False
+blab,[],True
+blabber,[],False
+blackmail,[],True
+blah,[],False
+blame,"[('виноват', 3), ('виновата', 2), ('виновен', 1), ('провинился', 1), ('виноваты', 1)]",True
+blameworthy,[],False
+bland,[],False
+blandish,[],False
+blaspheme,[],False
+blasphemous,[],False
+blasphemy,[],False
+blasted,[],False
+blatant,[],True
+blatantly,"[('нагло', 1)]",True
+blather,[],False
+bleak,[],False
+bleakly,[],False
+bleakness,[],False
+bleed,[],False
+bleeding,[],False
+bleeds,[],False
+blemish,[],False
+blind,[],True
+blinding,[],False
+blindingly,[],False
+blindside,[],False
+blister,[],False
+blistering,[],False
+bloated,[],False
+blockage,[],False
+blockhead,[],False
+bloodshed,[],False
+bloodthirsty,[],False
+bloody,[],False
+blotchy,[],False
+blow,[],True
+blunder,[],False
+blundering,[],False
+blunders,[],False
+blunt,[],False
+blur,[],True
+bluring,[],False
+blurred,[],False
+blurring,[],False
+blurry,"[('размыты', 1), ('размытого', 1)]",True
+blurs,[],False
+blurt,[],False
+boastful,[],False
+boggle,[],False
+bogus,[],False
+boil,[],False
+boiling,[],False
+boisterous,[],False
+bomb,[],True
+bombard,"[('засыпать', 1)]",True
+bombardment,[],False
+bombastic,[],False
+bondage,[],False
+bonkers,[],False
+bore,"[('носили', 1)]",True
+bored,[],True
+boredom,"[('скука', 1)]",True
+bores,[],False
+boring,"[('занудыпрепода', 1), ('занудное', 1), ('скучно', 1), ('надоевшая', 1)]",True
+botch,[],False
+bother,"[('смущает', 3), ('мешали', 2), ('беспокойство', 1), ('удосуживаетесь', 1), ('мешать', 1)]",True
+bothered,"[('мешало', 1)]",True
+bothering,"[('удосужившись', 1), ('смущает', 1)]",True
+bothers,"[('мешает', 1), ('смущает', 1)]",True
+bothersome,[],False
+bowdlerize,[],False
+boycott,[],False
+braggart,[],False
+bragger,[],False
+brainless,[],False
+brainwash,[],True
+brash,[],False
+brashly,[],False
+brashness,[],False
+brat,[],True
+bravado,[],False
+brazen,[],True
+brazenly,"[('нагло', 3), ('вторгаться', 1), ('нагло вторгаться', 1)]",True
+brazenness,[],False
+breach,"[('правил', 1), ('нарушение правил', 1), ('нарушение', 1)]",True
+break,"[('нарушил', 2), ('нарушить', 2), ('разорвать', 1), ('нарушать', 1), ('ломать', 1)]",True
+break-up,[],False
+break-ups,[],False
+breakdown,[],False
+breaking,"[('нарушает', 2), ('нарушая', 1), ('нарушении', 1), ('нарушению', 1), ('неразрывный', 1)]",True
+breaks,"[('разрывы', 2), ('ломает', 1), ('разрывами', 1)]",True
+breakup,[],False
+breakups,[],False
+bribery,[],False
+brimstone,[],False
+bristle,[],False
+brittle,[],False
+broke,"[('сломал', 1), ('нарушили', 1)]",True
+broken,"[('сломано', 1), ('сломались', 1), ('сломаны', 1)]",True
+broken-hearted,[],False
+brood,[],False
+browbeat,[],False
+bruise,[],False
+bruised,[],False
+bruises,[],False
+bruising,[],False
+brusque,[],False
+brutal,[],False
+brutalising,[],False
+brutalities,[],False
+brutality,[],False
+brutalize,[],False
+brutalizing,[],False
+brutally,[],False
+brute,[],False
+brutish,[],False
+bs,[],True
+buckle,[],False
+bug,[],True
+bugging,[],False
+buggy,"[('глючит', 2), ('заскок', 1), ('глючит _ заскок', 1)]",True
+bugs,"[('ляпы', 1)]",True
+bulkier,[],False
+bulkiness,"[('громоздкость', 1)]",True
+bulky,[],False
+bulkyness,[],False
+bull****,[],False
+bull----,[],False
+bullies,[],False
+bullshit,"[('фигню', 1), ('фигня', 1), ('фуфла', 1)]",True
+bullshyt,[],False
+bully,[],False
+bullying,[],False
+bullyingly,[],False
+bum,[],True
+bump,[],False
+bumped,[],False
+bumping,[],False
+bumpping,[],False
+bumps,[],False
+bumpy,[],False
+bungle,[],True
+bungler,[],False
+bungling,[],False
+bunk,[],True
+burden,[],False
+burdensome,[],False
+burdensomely,[],False
+burn,"[('обжигают', 1), ('горит', 1), ('викиссылках', 1), ('викиссылках _ допалочной', 1), ('допалочной', 1)]",True
+burned,"[('припалитили', 1), ('сгорел', 1)]",True
+burning,"[('горящая', 1)]",True
+burns,[],False
+bust,"[('перебор', 1)]",True
+busts,[],False
+busybody,[],False
+butcher,[],False
+butchery,[],False
+buzzing,[],False
+byzantine,[],False
+cackle,[],False
+calamities,[],False
+calamitous,[],False
+calamitously,[],False
+calamity,[],False
+callous,[],False
+calumniate,[],False
+calumniation,[],False
+calumnies,[],False
+calumnious,[],False
+calumniously,[],False
+calumny,[],False
+cancer,[],False
+cancerous,[],False
+cannibal,[],False
+cannibalize,[],False
+capitulate,[],False
+capricious,[],False
+capriciously,[],False
+capriciousness,[],False
+capsize,[],False
+careless,[],True
+carelessness,"[('внимательность', 1), ('невнимательности', 1)]",True
+caricature,[],True
+carnage,[],False
+carp,[],True
+cartoonish,[],False
+cash-strapped,[],False
+castigate,[],False
+castrated,[],False
+casualty,[],False
+cataclysm,[],False
+cataclysmal,[],False
+cataclysmic,[],False
+cataclysmically,[],False
+catastrophe,[],False
+catastrophes,[],False
+catastrophic,[],False
+catastrophically,[],False
+catastrophies,[],False
+caustic,[],False
+caustically,[],False
+cautionary,[],False
+cave,"[('пещере', 2)]",True
+censure,"[('выношу', 1)]",True
+chafe,[],False
+chaff,[],False
+chagrin,[],False
+challenging,"[('оспаривании', 1)]",True
+chaos,[],False
+chaotic,[],True
+chasten,[],False
+chastise,[],False
+chastisement,[],False
+chatter,"[('болтовни', 1)]",True
+chatterbox,[],False
+cheap,[],True
+cheapen,[],False
+cheaply,[],False
+cheat,[],False
+cheated,[],False
+cheater,[],False
+cheating,[],False
+cheats,[],False
+checkered,[],False
+cheerless,[],False
+cheesy,[],False
+chide,[],False
+childish,"[('детским', 1), ('детской', 1)]",True
+chill,"[('остынуть', 1), ('охолонуть', 1)]",True
+chilly,[],False
+chintzy,[],False
+choke,[],False
+choleric,[],False
+choppy,[],False
+chore,[],True
+chronic,[],True
+chunky,[],False
+clamor,[],False
+clamorous,[],False
+clash,[],False
+cliche,[],False
+cliched,[],False
+clique,[],False
+clog,"[('забивать', 1)]",True
+clogged,[],False
+clogs,[],False
+cloud,[],True
+clouding,[],False
+cloudy,[],False
+clueless,[],False
+clumsy,"[('корявой', 1)]",True
+clunky,[],False
+coarse,[],False
+cocky,"[('дерзкий', 1)]",True
+coerce,[],False
+coercion,[],False
+coercive,[],False
+cold,"[('холод', 1)]",True
+coldly,[],False
+collapse,"[('краха', 2), ('распада', 1)]",True
+collude,[],False
+collusion,[],False
+combative,[],False
+combust,[],False
+comical,[],False
+commiserate,[],False
+commonplace,[],False
+commotion,[],False
+commotions,[],False
+complacent,[],False
+complain,"[('жаловаться', 3), ('жалуюсь', 1), ('нарекание', 1), ('жалуетесь', 1)]",True
+complained,"[('посетовал', 1)]",True
+complaining,[],False
+complains,"[('жалуется', 1)]",True
+complaint,"[('жалобная', 1), ('жалобу', 1)]",True
+complaints,"[('претензий', 2), ('жалобам', 1), ('жалобы', 1)]",True
+complex,"[('агрокомбината', 1), ('комплексе', 1), ('сложный', 1), ('сложных', 1), ('комплексные', 1)]",True
+complicated,"[('сложны', 1), ('сложным', 1)]",True
+complication,[],False
+complicit,[],False
+compulsion,[],False
+compulsive,[],False
+concede,[],False
+conceded,[],False
+conceit,"[('собственную', 1)]",True
+conceited,[],False
+concen,[],True
+concens,[],False
+concern,"[('опасение', 1), ('забота', 1), ('касается', 1), ('концерна', 1)]",True
+concerned,"[('беспокоит', 1)]",True
+concerns,"[('касается', 5), ('опасения', 1)]",True
+concession,[],False
+concessions,[],False
+condemn,[],False
+condemnable,[],False
+condemnation,[],False
+condemned,[],False
+condemns,[],False
+condescend,[],True
+condescending,"[('снисходительны', 1)]",True
+condescendingly,[],False
+condescension,[],False
+confess,"[('признаюсь', 1), ('каюсь', 1), ('признавайтесь', 1)]",True
+confession,[],False
+confessions,[],False
+confined,[],False
+conflict,"[('конфликт', 17), ('конфликта', 10), ('конфликте', 5), ('коллизию', 1), ('коллизии', 1)]",True
+conflicted,[],False
+conflicting,"[('вступить _ конфликт', 1), ('вступить', 1), ('конфликт', 1), ('конфликтный', 1)]",True
+conflicts,"[('конфликты', 3), ('конфликтов', 2), ('конфликтах', 1), ('конфликтует', 1)]",True
+confound,[],False
+confounded,[],False
+confounding,[],False
+confront,[],True
+confrontation,"[('конфронтацию', 2)]",True
+confrontational,"[('конфронтацию', 1)]",True
+confuse,"[('сбивают', 1), ('сбивает', 1)]",True
+confused,"[('запутался', 3), ('смущает', 2), ('путаной', 1), ('путаете', 1), ('смущают', 1)]",True
+confuses,"[('смущает', 5), ('вас', 1), ('вас смущает', 1)]",True
+confusing,"[('путаете', 2), ('смущает', 1), ('понял', 1), ('путаю', 1), ('понял _ путаю', 1)]",True
+confusion,"[('путаница', 3), ('неразбериха', 2)]",True
+confusions,[],False
+congested,[],False
+congestion,[],False
+cons,"[('вп:конс', 1)]",True
+conscons,[],False
+conservative,[],False
+conspicuous,[],False
+conspicuously,[],False
+conspiracies,[],False
+conspiracy,"[('конспирологический', 1)]",True
+conspirator,[],False
+conspiratorial,[],False
+conspire,[],False
+consternation,[],False
+contagious,[],False
+contaminate,[],False
+contaminated,[],False
+contaminates,[],False
+contaminating,[],False
+contamination,[],False
+contempt,[],True
+contemptible,"[('презренный', 1)]",True
+contemptuous,[],False
+contemptuously,[],False
+contend,[],False
+contention,[],False
+contentious,[],False
+contort,[],False
+contortions,[],False
+contradict,"[('противоречат', 5), ('противоречить', 3), ('противоречащих', 1)]",True
+contradiction,[],False
+contradictory,[],False
+contrariness,[],False
+contravene,[],False
+contrive,[],False
+contrived,[],False
+controversial,"[('спорным', 1), ('спорных', 1), ('спорные', 1), ('спорной', 1), ('спорная', 1)]",True
+controversy,"[('спор', 1), ('полемики', 1)]",True
+convoluted,[],False
+corrode,[],False
+corrosion,[],False
+corrosions,[],False
+corrosive,[],False
+corrupt,[],True
+corrupted,[],False
+corrupting,[],False
+corruption,"[('коррупции', 2), ('коррупция', 1)]",True
+corrupts,[],False
+corruptted,[],False
+costlier,[],False
+costly,"[('затратно', 1)]",True
+counter-productive,[],False
+counterproductive,[],False
+coupists,[],False
+covetous,[],False
+coward,[],False
+cowardly,[],False
+crabby,[],False
+crack,"[('тресни', 1)]",True
+cracked,[],False
+cracks,[],False
+craftily,[],False
+craftly,[],False
+crafty,[],False
+cramp,[],False
+cramped,[],False
+cramping,[],False
+cranky,[],False
+crap,"[('лажовый', 1)]",True
+crappy,[],False
+craps,[],False
+crash,[],True
+crashed,[],False
+crashes,[],False
+crashing,[],False
+crass,[],False
+craven,[],False
+cravenly,[],False
+craze,[],False
+crazily,[],False
+craziness,[],False
+crazy,[],False
+creak,[],False
+creaking,[],False
+creaks,[],False
+credulous,[],False
+creep,"[('закрадываются', 1)]",True
+creeping,[],False
+creeps,[],False
+creepy,[],False
+crept,"[('вкралась', 1)]",True
+crime,"[('криминал', 1), ('преступностью', 1)]",True
+criminal,"[('уголовный', 2), ('уголовное', 2), ('преступник', 1), ('уголовного', 1), ('преступницы', 1)]",True
+cringe,[],False
+cringed,[],False
+cringes,[],False
+cripple,"[('калечил', 1)]",True
+crippled,[],False
+cripples,[],False
+crippling,[],False
+crisis,"[('»', 1), ('кризиса', 1)]",True
+critic,"[('искусствовед', 1)]",True
+critical,"[('критические', 3), ('критическую', 1), ('некритичное', 1), ('критично', 1), ('критикующих', 1)]",True
+criticism,"[('критика', 3), ('критики', 3), ('критику', 2), ('критикой', 1)]",True
+criticisms,[],False
+criticize,"[('критиковать', 1), ('раскритиковать', 1), ('критикуют', 1)]",True
+criticized,"[('покритиковала', 1), ('критикуемой', 1)]",True
+criticizing,"[('критики', 1)]",True
+critics,"[('критики', 2), ('кинокритиков', 1)]",True
+cronyism,[],False
+crook,[],False
+crooked,[],False
+crooks,[],False
+crowded,[],False
+crowdedness,[],False
+crude,[],False
+cruel,"[('жестокий', 1)]",True
+crueler,[],False
+cruelest,[],False
+cruelly,[],False
+cruelness,[],False
+cruelties,[],False
+cruelty,[],False
+crumble,[],False
+crumbling,[],False
+crummy,[],False
+crumple,[],False
+crumpled,[],False
+crumples,[],False
+crush,"[('давите', 1), ('придавить', 1)]",True
+crushed,[],False
+crushing,[],False
+cry,[],True
+culpable,[],False
+culprit,[],False
+cumbersome,"[('громоздко', 3), ('громоздкое', 1), ('громоздко конечно', 1), ('конечно', 1)]",True
+cunt,[],False
+cunts,[],False
+cuplrit,[],False
+curse,[],False
+cursed,[],False
+curses,[],False
+curt,[],True
+cuss,[],True
+cussed,[],True
+cutthroat,[],False
+cynical,[],False
+cynicism,[],False
+d*mn,[],False
+damage,"[('ущербе', 1), ('ущерб', 1)]",True
+damaged,[],False
+damages,[],False
+damaging,[],False
+damn,"[('блин', 2), ('чёрт', 1)]",True
+damnable,[],False
+damnably,[],False
+damnation,[],False
+damned,"[('проклятых', 1)]",True
+damning,[],False
+damper,[],False
+danger,"[('опасность', 1), ('опасности', 1)]",True
+dangerous,"[('опасен', 1)]",True
+dangerousness,[],False
+dark,"[('темным', 1), ('dark', 1), ('тёмный', 1), ('тёмная', 1), ('темном', 1)]",True
+darken,[],False
+darkened,[],False
+darker,[],False
+darkness,[],False
+dastard,[],False
+dastardly,[],False
+daunt,[],False
+daunting,[],False
+dauntingly,[],False
+dawdle,[],False
+daze,[],False
+dazed,[],False
+dead,"[('мертвые', 1), ('умер', 1), ('умерших', 1), ('мёртвыми', 1)]",True
+deadbeat,[],False
+deadlock,[],False
+deadly,[],False
+deadweight,[],False
+deaf,"[('глухие', 1), ('глухо', 1)]",True
+dearth,[],False
+death,"[('смерти', 6), ('смерть', 3), ('смертью', 2), ('жизни', 1)]",True
+debacle,[],False
+debase,[],False
+debasement,[],False
+debaser,[],False
+debatable,[],False
+debauch,[],False
+debaucher,[],False
+debauchery,[],False
+debilitate,[],False
+debilitating,[],False
+debility,[],False
+debt,[],False
+debts,[],False
+decadence,[],False
+decadent,[],False
+decay,[],False
+decayed,[],False
+deceit,[],False
+deceitful,[],False
+deceitfully,[],False
+deceitfulness,[],False
+deceive,"[('обманывать', 1), ('отобрать', 1)]",True
+deceiver,[],False
+deceivers,[],False
+deceiving,[],False
+deception,[],False
+deceptive,[],False
+deceptively,[],False
+declaim,[],False
+decline,"[('просклонять', 1)]",True
+declines,[],False
+declining,[],False
+decrement,[],False
+decrepit,[],True
+decrepitude,"[('отсрочка дряхлости', 1), ('отсрочка', 1), ('дряхлости', 1)]",True
+decry,[],False
+defamation,"[('достоинстве', 1), ('чести _ достоинстве', 1), ('чести', 1)]",True
+defamations,[],False
+defamatory,[],False
+defame,"[('опорочить', 1)]",True
+defect,[],True
+defective,[],False
+defects,"[('дефектов', 1)]",True
+defensive,[],False
+defiance,[],False
+defiant,[],True
+defiantly,"[('демонстративно', 1)]",True
+deficiencies,[],False
+deficiency,[],False
+deficient,[],False
+defile,[],True
+defiler,[],False
+deform,[],False
+deformed,[],False
+defrauding,[],False
+defunct,[],False
+defy,[],False
+degenerate,"[('вырождаются', 1)]",True
+degenerately,[],False
+degeneration,[],False
+degradation,[],False
+degrade,[],False
+degrading,[],False
+degradingly,[],False
+dehumanization,[],False
+dehumanize,[],False
+deign,"[('соизволит', 1)]",True
+deject,[],False
+dejected,[],False
+dejectedly,[],False
+dejection,[],False
+delay,"[('затягивать', 1), ('отсрочка', 1)]",True
+delayed,"[('задержка', 1)]",True
+delaying,[],False
+delays,[],False
+delinquency,[],False
+delinquent,[],False
+delirious,[],False
+delirium,[],False
+delude,[],False
+deluded,[],False
+deluge,[],False
+delusion,"[('заблуждение', 1)]",True
+delusional,[],False
+delusions,[],False
+demean,[],False
+demeaning,[],False
+demise,[],False
+demolish,"[('удаляя _ снести', 1), ('снести', 1), ('удаляя', 1)]",True
+demolisher,[],False
+demon,[],True
+demonic,[],True
+demonize,[],False
+demonized,[],False
+demonizes,[],False
+demonizing,[],False
+demoralize,[],False
+demoralizing,[],False
+demoralizingly,[],False
+denial,[],False
+denied,"[('опроверг', 1)]",True
+denies,[],False
+denigrate,[],False
+denounce,[],False
+dense,[],False
+dent,[],True
+dented,[],False
+dents,[],True
+denunciate,[],False
+denunciation,[],False
+denunciations,[],False
+deny,"[('отказываете', 3), ('отрицать', 1), ('отрицают', 1), ('отрицаете', 1), ('опровергли', 1)]",True
+denying,[],False
+deplete,[],False
+deplorable,[],False
+deplorably,[],False
+deplore,[],False
+deploring,[],False
+deploringly,[],False
+deprave,[],False
+depraved,[],False
+depravedly,[],False
+deprecate,[],False
+depress,[],True
+depressed,[],False
+depressing,[],False
+depressingly,[],False
+depression,[],True
+depressions,"[('углубления', 1)]",True
+deprive,"[('лишить', 1), ('удалить', 1), ('лишить _ удалить', 1)]",True
+deprived,"[('лишён', 1), ('лишили', 1)]",True
+deride,[],False
+derision,[],False
+derisive,[],False
+derisively,[],False
+derisiveness,[],False
+derogatory,[],False
+desecrate,[],False
+desert,"[('пустынный', 1), ('пустыня', 1)]",True
+desertion,[],False
+desiccate,[],False
+desiccated,[],False
+desititute,[],False
+desolate,[],False
+desolately,[],False
+desolation,[],False
+despair,[],False
+despairing,[],False
+despairingly,[],False
+desperate,[],False
+desperately,[],False
+desperation,[],False
+despicable,[],False
+despicably,[],False
+despise,[],False
+despised,[],False
+despoil,[],False
+despoiler,[],False
+despondence,[],False
+despondency,[],False
+despondent,[],False
+despondently,[],False
+despot,[],True
+despotic,[],False
+despotism,[],False
+destabilisation,[],False
+destains,[],False
+destitute,[],False
+destitution,[],False
+destroy,"[('уничтожению', 1), ('уничтожать', 1)]",True
+destroyer,[],True
+destruction,[],False
+destructive,"[('деструктивизмом', 1), ('деструктивных', 1), ('деструктивные', 1), ('деструктив', 1), ('деструктивной', 1)]",True
+desultory,[],False
+deter,[],True
+deteriorate,[],False
+deteriorating,[],False
+deterioration,[],False
+deterrent,"[('deterrent', 1)]",True
+detest,[],False
+detestable,[],False
+detestably,[],False
+detested,[],False
+detesting,[],False
+detests,[],False
+detract,[],False
+detracted,[],False
+detracting,[],False
+detraction,[],False
+detracts,[],False
+detriment,"[('ущерб', 2)]",True
+detrimental,[],False
+devastate,[],False
+devastated,[],False
+devastates,[],False
+devastating,[],False
+devastatingly,[],False
+devastation,[],False
+deviate,"[('отходить', 1)]",True
+deviation,[],False
+devil,"[('чёрт', 1)]",True
+devilish,[],False
+devilishly,[],False
+devilment,[],False
+devilry,[],False
+devious,[],False
+deviously,[],False
+deviousness,[],False
+devoid,[],False
+diabolic,[],False
+diabolical,[],False
+diabolically,[],False
+diametrically,"[('диаметрально', 1)]",True
+diappointed,[],False
+diatribe,[],False
+diatribes,[],False
+dick,[],False
+dictator,[],False
+dictatorial,[],False
+die,"[('die', 2), ('умер', 1), ('плашки', 1), ('погибало', 1), ('сдохните', 1)]",True
+die-hard,[],False
+died,"[('умерших', 2), ('умер', 2), ('умершего', 1), ('вымерли', 1), ('погиб', 1)]",True
+dies,[],True
+difficult,"[('трудно', 9), ('сложно', 7), ('затруднит', 5), ('нетрудно', 3), ('трудные', 2)]",True
+difficulties,"[('сложностями', 1), ('трудностей', 1)]",True
+difficulty,"[('трудности', 1), ('затруднение', 1), ('трудность', 1), ('затруднения', 1)]",True
+diffidence,[],False
+dilapidated,[],False
+dilemma,[],False
+dilly-dally,[],False
+dim,[],True
+dimmer,[],False
+din,[],True
+ding,[],True
+dings,[],True
+dinky,[],False
+dire,"[('dire', 1)]",True
+direly,[],False
+direness,[],False
+dirt,"[('грязь', 1), ('компромат', 1)]",True
+dirtbag,[],False
+dirtbags,[],False
+dirts,[],False
+dirty,"[('мутные', 1), ('грязное', 1)]",True
+disable,"[('отключать', 1)]",True
+disabled,[],True
+disaccord,[],False
+disadvantage,[],False
+disadvantaged,[],False
+disadvantageous,[],False
+disadvantages,[],False
+disaffect,[],False
+disaffected,[],False
+disaffirm,[],False
+disagree,"[('согласны', 8), ('согласен', 3)]",True
+disagreeable,[],False
+disagreeably,[],False
+disagreed,[],False
+disagreeing,[],False
+disagreement,"[('разногласии', 1)]",True
+disagrees,"[('несогласен', 1)]",True
+disallow,[],False
+disapointed,[],False
+disapointing,[],False
+disapointment,[],False
+disappoint,[],False
+disappointed,[],False
+disappointing,[],False
+disappointingly,[],False
+disappointment,[],False
+disappointments,[],False
+disappoints,[],False
+disapprobation,[],False
+disapproval,"[('неодобрение', 1)]",True
+disapprove,[],False
+disapproving,[],False
+disarm,[],False
+disarray,[],False
+disaster,[],True
+disasterous,[],False
+disastrous,[],False
+disastrously,[],False
+disavow,"[('дезавуировать', 1)]",True
+disavowal,[],False
+disbelief,[],False
+disbelieve,[],False
+disbeliever,[],False
+disclaim,[],False
+discombobulate,[],False
+discomfit,[],False
+discomfititure,[],False
+discomfort,[],False
+discompose,[],False
+disconcert,[],False
+disconcerted,[],False
+disconcerting,[],False
+disconcertingly,[],False
+disconsolate,[],False
+disconsolately,[],False
+disconsolation,[],False
+discontent,[],False
+discontented,[],False
+discontentedly,[],False
+discontinued,[],False
+discontinuity,[],False
+discontinuous,[],False
+discord,"[('дискорде', 1)]",True
+discordance,[],False
+discordant,[],False
+discountenance,[],False
+discourage,[],False
+discouragement,[],False
+discouraging,[],False
+discouragingly,[],False
+discourteous,[],False
+discourteously,[],False
+discoutinous,[],False
+discredit,"[('дискредитировать', 2), ('порочащие', 1)]",True
+discrepant,[],False
+discriminate,[],True
+discrimination,"[('дискриминация', 1)]",True
+discriminatory,[],False
+disdain,[],False
+disdained,[],False
+disdainful,[],False
+disdainfully,[],False
+disfavor,[],False
+disgrace,"[('позорить', 1)]",True
+disgraced,[],False
+disgraceful,[],False
+disgracefully,[],False
+disgruntle,[],False
+disgruntled,[],False
+disgust,[],True
+disgusted,[],False
+disgustedly,[],False
+disgustful,[],False
+disgustfully,[],False
+disgusting,"[('отвратительно', 1), ('свинство', 1), ('плохи', 1), ('свинство _ плохи', 1)]",True
+disgustingly,[],False
+dishearten,[],False
+disheartening,[],False
+dishearteningly,[],False
+dishonest,[],False
+dishonestly,[],False
+dishonesty,[],False
+dishonor,[],True
+dishonorable,[],False
+dishonorablely,[],False
+disillusion,[],False
+disillusioned,[],False
+disillusionment,[],False
+disillusions,[],False
+disinclination,[],False
+disinclined,[],False
+disingenuous,[],False
+disingenuously,[],False
+disintegrate,[],False
+disintegrated,[],False
+disintegrates,[],False
+disintegration,[],False
+disinterest,[],False
+disinterested,[],False
+dislike,"[('устраивает', 2), ('нелюбовь', 1), ('любите', 1), ('нравится', 1), ('угодили', 1)]",True
+disliked,[],False
+dislikes,[],False
+disliking,[],False
+dislocated,[],False
+disloyal,[],False
+disloyalty,[],False
+dismal,[],False
+dismally,[],False
+dismalness,[],False
+dismay,[],False
+dismayed,[],False
+dismaying,[],False
+dismayingly,[],False
+dismissive,[],False
+dismissively,[],False
+disobedience,[],False
+disobedient,[],False
+disobey,[],False
+disoobedient,[],False
+disorder,"[('расстройство', 1), ('disorder', 1)]",True
+disordered,[],False
+disorderly,[],False
+disorganized,[],False
+disorient,[],False
+disoriented,[],False
+disown,"[('откреститься от', 1), ('от', 1), ('откреститься', 1)]",True
+disparage,[],False
+disparaging,[],False
+disparagingly,[],False
+dispensable,[],False
+dispirit,[],False
+dispirited,[],False
+dispiritedly,[],False
+dispiriting,[],False
+displace,[],False
+displaced,[],False
+displease,[],False
+displeased,[],False
+displeasing,[],False
+displeasure,[],False
+disproportionate,"[('непропорциональной _ непропорциональность', 1), ('непропорциональный', 1), ('непропорциональность', 1), ('непропорциональной', 1)]",True
+disprove,[],False
+disputable,[],True
+dispute,"[('спора', 3), ('спор', 2), ('оспариваю', 1), ('оспариваете', 1), ('оспаривать', 1)]",True
+disputed,"[('спорных', 1), ('оспоримо', 1), ('оспаривать', 1)]",True
+disquiet,[],False
+disquieting,[],False
+disquietingly,[],False
+disquietude,[],False
+disregard,[],False
+disregardful,[],False
+disreputable,[],False
+disrepute,[],False
+disrespect,"[('неуважение', 1)]",True
+disrespectable,[],False
+disrespectablity,[],False
+disrespectful,[],False
+disrespectfully,[],False
+disrespectfulness,[],False
+disrespecting,[],False
+disrupt,[],True
+disruption,[],False
+disruptive,"[('подрывными', 1)]",True
+diss,[],True
+dissapointed,[],False
+dissappointed,[],False
+dissappointing,[],False
+dissatisfaction,[],False
+dissatisfactory,[],False
+dissatisfied,"[('недоволен', 1)]",True
+dissatisfies,[],False
+dissatisfy,[],False
+dissatisfying,[],False
+dissed,[],False
+dissemble,"[('лукавить', 1)]",True
+dissembler,[],False
+dissension,[],False
+dissent,[],False
+dissenter,[],False
+dissention,[],False
+disservice,[],False
+disses,[],False
+dissidence,[],False
+dissident,[],True
+dissidents,"[('диссидентами', 1), ('диссиденты', 1)]",True
+dissing,[],False
+dissocial,[],False
+dissolute,[],False
+dissolution,[],False
+dissonance,"[('диссонанса', 1)]",True
+dissonant,[],False
+dissonantly,[],False
+dissuade,[],False
+dissuasive,[],False
+distains,[],False
+distaste,[],False
+distasteful,[],False
+distastefully,[],False
+distort,"[('исказить', 3), ('искажайте', 1), ('искажению', 1), ('передёргивать', 1)]",True
+distorted,"[('искажённое', 1), ('извратили', 1), ('искажал', 1)]",True
+distortion,[],True
+distorts,"[('передёргивает', 1)]",True
+distract,[],True
+distracting,"[('отвлекать', 1)]",True
+distraction,"[('отвлечение', 1)]",True
+distraught,[],False
+distraughtly,[],False
+distraughtness,[],False
+distress,[],False
+distressed,[],False
+distressing,[],False
+distressingly,[],False
+distrust,[],False
+distrustful,[],False
+distrusting,[],False
+disturb,"[('беспокою', 1), ('потревожить', 1)]",True
+disturbance,[],False
+disturbed,[],False
+disturbing,[],False
+disturbingly,[],False
+disunity,[],False
+disvalue,[],False
+divergent,[],False
+divisive,[],False
+divisively,[],False
+divisiveness,[],False
+dizzing,[],False
+dizzingly,[],False
+dizzy,[],False
+doddering,[],False
+dodgey,[],False
+dogged,[],False
+doggedly,[],False
+dogmatic,[],False
+doldrums,[],False
+domineer,[],False
+domineering,[],False
+donside,[],False
+doom,[],False
+doomed,[],False
+doomsday,[],False
+dope,[],False
+doubt,"[('сомневаетесь', 6), ('сомнения', 3), ('сомнений', 3), ('сомневаюсь', 1), ('сомнение', 1)]",True
+doubtful,"[('сомнительным', 1), ('сомнительная', 1), ('сомнительна', 1), ('сомнительно', 1)]",True
+doubtfully,[],False
+doubts,"[('сомнения', 12), ('сомнений', 2), ('сомнениях', 1)]",True
+douchbag,[],False
+douchebag,[],False
+douchebags,[],False
+downbeat,[],False
+downcast,[],False
+downer,[],False
+downfall,[],False
+downfallen,[],False
+downgrade,[],False
+downhearted,[],False
+downheartedly,[],False
+downhill,[],False
+downside,[],False
+downsides,[],False
+downturn,[],False
+downturns,[],False
+drab,[],False
+draconian,[],False
+draconic,[],False
+drag,"[('тащить', 2), ('втягивать', 1), ('перетащить', 1)]",True
+dragged,[],False
+dragging,[],False
+dragoon,[],False
+drags,[],False
+drain,"[('хвост.зачем', 1)]",True
+drained,[],False
+draining,[],False
+drains,[],False
+drastic,[],False
+drastically,[],False
+drawback,[],False
+drawbacks,[],False
+dread,[],False
+dreadful,[],False
+dreadfully,[],False
+dreadfulness,[],False
+dreary,[],False
+dripped,[],False
+dripping,[],False
+drippy,[],False
+drips,[],False
+drones,[],False
+droop,[],False
+droops,[],False
+drop-out,[],False
+drop-outs,[],False
+dropout,[],False
+dropouts,[],False
+drought,[],False
+drowning,[],False
+drunk,"[('пьяный', 1)]",True
+drunkard,[],False
+drunken,[],False
+dubious,"[('сомнительный', 2), ('сомнительные', 2), ('сомнительно', 1), ('сомнительному', 1), ('сомнительных', 1)]",True
+dubiously,[],False
+dubitable,[],False
+dud,[],False
+dull,"[('непонятливой', 1)]",True
+dullard,[],False
+dumb,"[('тупых', 1)]",True
+dumbfound,[],False
+dump,[],False
+dumped,[],False
+dumping,[],False
+dumps,[],False
+dunce,[],False
+dungeon,[],False
+dungeons,[],False
+dupe,[],False
+dust,"[('пыль', 1)]",True
+dusty,[],False
+dwindling,[],False
+dying,[],True
+earsplitting,[],False
+eccentric,[],False
+eccentricity,[],False
+effigy,[],False
+effrontery,[],False
+egocentric,[],False
+egomania,[],False
+egotism,[],False
+egotistical,[],False
+egotistically,[],False
+egregious,[],False
+egregiously,[],False
+election-rigger,[],False
+elimination,"[('устранения', 1)]",True
+emaciated,[],False
+emasculate,[],False
+embarrass,[],True
+embarrassing,[],False
+embarrassingly,[],False
+embarrassment,[],False
+embattled,[],False
+embroil,[],False
+embroiled,[],False
+embroilment,[],False
+emergency,[],True
+emphatic,[],False
+emphatically,[],False
+emptiness,[],False
+encroach,[],True
+encroachment,[],True
+endanger,[],False
+enemies,"[('ворогам', 1)]",True
+enemy,"[('противнику', 1), ('вражеские', 1), ('врага', 1)]",True
+enervate,[],False
+enfeeble,[],False
+enflame,[],False
+engulf,[],False
+enjoin,[],False
+enmity,[],False
+enrage,[],False
+enraged,[],False
+enraging,[],False
+enslave,[],False
+entangle,[],False
+entanglement,[],False
+entrap,[],False
+entrapment,[],False
+envious,[],False
+enviously,[],False
+enviousness,[],False
+epidemic,"[('эпидемия', 1)]",True
+equivocal,[],True
+erase,"[('стирать', 4), ('стереть', 2), ('кинулись', 1), ('стёр', 1), ('стер', 1)]",True
+erode,[],False
+erodes,[],False
+erosion,[],False
+err,[],True
+errant,[],False
+erratic,[],False
+erratically,[],False
+erroneous,"[('ошибочно', 2), ('ошибочные', 1), ('ошибочная', 1)]",True
+erroneously,[],False
+error,"[('ошибка', 8), ('ошибку', 3), ('ошибки', 1), ('патрулирования', 1), ('редиректошибку', 1)]",True
+errors,"[('ошибки', 9), ('ошибок', 5), ('ошибках', 1), ('ошибками', 1), ('погрешности', 1)]",True
+eruptions,[],False
+escapade,[],False
+eschew,[],False
+estranged,[],False
+evade,[],False
+evasion,[],False
+evasive,[],False
+evil,"[('зло', 1), ('злобным', 1), ('злобный', 1)]",True
+evildoer,[],False
+evils,[],True
+eviscerate,[],False
+exacerbate,"[('грозит _ обострением', 1), ('грозит', 1), ('обострением', 1)]",True
+exagerate,[],False
+exagerated,[],False
+exagerates,[],False
+exaggerate,[],True
+exaggeration,"[('преувеличения', 1)]",True
+exasperate,[],False
+exasperated,[],False
+exasperating,[],False
+exasperatingly,[],False
+exasperation,[],False
+excessive,"[('чрезмерное', 1), ('излишнего', 1), ('избыточным', 1)]",True
+excessively,"[('избыточно многозначительно', 1), ('многозначительно', 1), ('избыточно', 1)]",True
+exclusion,"[('исключений', 1), ('исключению', 1)]",True
+excoriate,[],False
+excruciating,[],False
+excruciatingly,[],False
+excuse,"[('простите', 9), ('извините', 5), ('обидеть', 1), ('извинить _ обидеть', 1), ('извинить', 1)]",True
+excuses,"[('оправдания', 1), ('оправдываетесь', 1)]",True
+execrate,[],False
+exhaust,[],True
+exhausted,[],False
+exhaustion,[],False
+exhausts,[],False
+exhorbitant,[],False
+exhort,"[('увещевать', 1)]",True
+exile,"[('эмиграции', 1)]",True
+exorbitant,[],False
+exorbitantance,[],False
+exorbitantly,[],False
+expel,"[('изгнать', 1)]",True
+expensive,"[('дорогих', 1), ('дорогой', 1), ('дорогие', 1)]",True
+expire,[],False
+expired,[],False
+explode,[],True
+exploit,"[('поэксплуатировать', 1)]",True
+exploitation,[],False
+explosive,[],False
+expropriate,[],False
+expropriation,[],False
+expulse,[],False
+expunge,[],False
+exterminate,[],False
+extermination,[],False
+extinguish,[],False
+extort,[],False
+extortion,[],False
+extraneous,"[('посторонней', 1)]",True
+extravagance,[],False
+extravagant,[],False
+extravagantly,[],False
+extremism,[],False
+extremist,"[('экстремистской', 1), ('экстремистских', 1)]",True
+extremists,[],False
+eyesore,[],False
+f**k,[],False
+fabricate,[],True
+fabrication,[],True
+facetious,[],False
+facetiously,[],False
+fail,"[('не можете', 1), ('можете', 1), ('не', 1)]",True
+failed,"[('попытки', 1), ('неудачной', 1), ('неудачной попытки', 1), ('непрошедший', 1), ('разрушились', 1)]",True
+failing,[],False
+fails,[],False
+failure,[],True
+failures,"[('провальных', 1)]",True
+faint,[],False
+fainthearted,[],False
+faithless,[],False
+fake,"[('фальшссылкой', 1), ('маркафальшивка', 1)]",True
+fall,"[('попасть', 2), ('попадать', 2), ('подпадает', 2), ('попадает', 2), ('подпадать', 1)]",True
+fallacies,[],False
+fallacious,[],False
+fallaciously,[],False
+fallaciousness,[],False
+fallacy,[],False
+fallen,"[('падшие', 1), ('упавшее', 1)]",True
+falling,"[('падающие', 1), ('падающих', 1)]",True
+fallout,[],False
+falls,"[('попадает', 5), ('падает', 1), ('подпадает', 1)]",True
+false,"[('ложная', 2), ('ложные', 2), ('ложь', 1), ('фальшивой', 1), ('ложную', 1)]",True
+falsehood,[],False
+falsely,[],False
+falsify,"[('фальсифицируют', 1)]",True
+falter,[],False
+faltered,[],False
+famine,[],False
+famished,[],False
+fanatic,"[('фанатик', 1), ('фанатик христианин', 1), ('христианин', 1)]",True
+fanatical,[],False
+fanatically,[],False
+fanaticism,[],False
+fanatics,[],False
+fanciful,[],False
+far-fetched,[],False
+farce,"[('фарс', 1)]",True
+farcical,[],False
+farcical-yet-provocative,[],False
+farcically,[],False
+farfetched,[],False
+fascism,"[('фашизма', 2)]",True
+fascist,"[('фашистского', 1), ('буржуйскофашистские', 1)]",True
+fastidious,[],False
+fastidiously,[],False
+fastuous,[],False
+fat,"[('навар', 1), ('толстый', 1)]",True
+fat-cat,[],False
+fat-cats,[],False
+fatal,[],False
+fatalistic,[],False
+fatalistically,[],False
+fatally,[],False
+fatcat,[],False
+fatcats,[],False
+fateful,[],False
+fatefully,[],False
+fathomless,[],False
+fatigue,[],False
+fatigued,[],False
+fatique,[],False
+fatty,[],False
+fatuity,[],False
+fatuous,[],False
+fatuously,[],False
+fault,"[('именно', 1), ('вина', 1), ('разломе', 1), ('года', 1), ('разломе _ года', 1)]",True
+faults,[],False
+faulty,[],False
+fawningly,[],False
+faze,[],False
+fear,"[('страха', 1)]",True
+fearful,[],False
+fearfully,[],False
+fears,[],False
+fearsome,[],False
+feckless,[],False
+feeble,[],False
+feeblely,[],False
+feebleminded,[],False
+feign,[],False
+feint,[],False
+fell,"[('выпал', 2), ('упала', 1)]",True
+felon,[],False
+felonious,[],False
+ferociously,[],False
+ferocity,[],False
+fetid,[],False
+fever,[],False
+feverish,[],False
+fevers,[],False
+fiasco,[],False
+fib,[],False
+fibber,[],False
+fickle,[],False
+fiction,"[('лирикабеллетристика', 1), ('фантастам', 1), ('беллетристику', 1), ('вымысел', 1), ('научнофантастическая', 1)]",True
+fictional,"[('вымышленных', 1)]",True
+fictitious,"[('выдуманного', 1)]",True
+fidget,[],False
+fidgety,[],False
+fiend,[],False
+fiendish,[],False
+fierce,[],False
+figurehead,[],False
+filth,[],True
+filthy,"[('ухмыляться', 1)]",True
+finagle,[],False
+finicky,[],False
+fissures,[],False
+fist,[],False
+flabbergast,[],False
+flabbergasted,[],False
+flagging,"[('флагификации', 1)]",True
+flagrant,"[('грубым', 1)]",True
+flagrantly,[],False
+flair,[],False
+flairs,[],False
+flak,[],False
+flake,[],False
+flakey,[],False
+flakieness,[],False
+flaking,[],False
+flaky,[],False
+flare,[],False
+flares,[],False
+flareup,[],False
+flareups,[],False
+flat-out,[],False
+flaunt,[],True
+flaw,[],True
+flawed,"[('ущербная', 1)]",True
+flaws,"[('огрехи', 1)]",True
+flee,[],True
+fleed,[],False
+fleeing,[],False
+fleer,[],False
+flees,[],False
+fleeting,[],False
+flicering,[],False
+flicker,[],False
+flickering,[],False
+flickers,[],False
+flighty,[],False
+flimflam,[],False
+flimsy,[],False
+flirt,[],True
+flirty,[],False
+floored,[],False
+flounder,[],False
+floundering,[],False
+flout,[],False
+fluster,[],False
+foe,[],False
+fool,"[('дураком', 1)]",True
+fooled,[],False
+foolhardy,[],False
+foolish,"[('глупо', 1)]",True
+foolishly,[],False
+foolishness,[],False
+forbid,"[('запрещаете', 2), ('дай', 2), ('запрещают', 1)]",True
+forbidden,"[('запрещено', 5), ('запретная', 1), ('запретный', 1)]",True
+forbidding,[],False
+forceful,[],False
+foreboding,[],False
+forebodingly,[],False
+forfeit,[],False
+forged,"[('куется', 1)]",True
+forgetful,[],False
+forgetfully,[],False
+forgetfulness,[],False
+forlorn,[],False
+forlornly,[],False
+forsake,[],False
+forsaken,[],False
+forswear,[],False
+foul,[],False
+foully,[],False
+foulness,[],False
+fractious,[],False
+fractiously,[],False
+fracture,[],False
+fragile,[],False
+fragmented,[],False
+frail,[],False
+frantic,[],False
+frantically,[],False
+franticly,[],False
+fraud,"[('мошенничестве', 1)]",True
+fraudulent,[],False
+fraught,[],False
+frazzle,[],False
+frazzled,[],False
+freak,[],False
+freaking,[],False
+freakish,[],False
+freakishly,[],False
+freaks,[],False
+freeze,"[('застывали', 1)]",True
+freezes,[],False
+freezing,[],False
+frenetic,[],False
+frenetically,[],False
+frenzied,[],False
+frenzy,"[('угаре', 1)]",True
+fret,[],False
+fretful,[],False
+frets,[],False
+friction,[],False
+frictions,[],False
+fried,[],False
+friggin,[],False
+frigging,[],False
+fright,"[('перепугу', 2)]",True
+frighten,"[('пугать', 1)]",True
+frightening,[],False
+frighteningly,[],False
+frightful,[],False
+frightfully,[],False
+frigid,[],False
+frost,"[('frost', 1), ('фрост', 1)]",True
+frown,[],False
+froze,[],False
+frozen,[],False
+fruitless,"[('бесплодную', 1)]",True
+fruitlessly,[],False
+frustrate,[],False
+frustrated,[],False
+frustrates,[],False
+frustrating,[],False
+frustratingly,[],False
+frustration,[],False
+frustrations,[],False
+fuck,"[('насрать', 1), ('какого хрена _ ответ _ молчите', 1), ('хрена', 1), ('молчите', 1), ('какого', 1)]",True
+fucking,[],False
+fudge,[],False
+fugitive,[],False
+full-blown,[],False
+fulminate,[],False
+fumble,[],False
+fume,[],True
+fumes,[],False
+fundamentalism,[],False
+funky,[],False
+funnily,[],False
+funny,"[('смешно', 4), ('забавно', 1), ('забавная', 1), ('забавного', 1), ('забавным', 1)]",True
+furious,[],False
+furiously,[],False
+furor,[],False
+fury,[],False
+fuss,"[('возню', 1)]",True
+fussy,[],False
+fustigate,[],False
+fusty,[],False
+futile,[],False
+futilely,[],False
+futility,[],False
+fuzzy,[],False
+gabble,[],False
+gaff,[],False
+gaffe,[],False
+gainsay,[],False
+gainsayer,[],False
+gall,[],True
+galling,[],False
+gallingly,[],False
+galls,[],False
+gangster,[],False
+gape,[],False
+garbage,"[('фигня', 1)]",True
+garish,[],False
+gasp,[],True
+gauche,[],False
+gaudy,[],False
+gawk,[],False
+gawky,[],False
+geezer,[],False
+genocide,"[('геноцида', 2), ('геноцид', 1)]",True
+get-rich,[],False
+ghastly,[],False
+ghetto,[],False
+ghosting,[],False
+gibber,[],False
+gibberish,[],False
+gibe,[],False
+giddy,[],False
+gimmick,[],False
+gimmicked,[],False
+gimmicking,[],False
+gimmicks,[],False
+gimmicky,[],False
+glare,[],False
+glaringly,[],False
+glib,[],False
+glibly,[],False
+glitch,"[('сбоя', 1)]",True
+glitches,[],False
+gloatingly,[],False
+gloom,[],False
+gloomy,[],False
+glower,[],False
+glum,[],False
+glut,[],False
+gnawing,[],False
+goad,[],False
+goading,[],False
+god-awful,[],False
+goof,[],True
+goofy,[],False
+goon,[],False
+gossip,[],False
+graceless,[],False
+gracelessly,[],False
+graft,[],False
+grainy,[],False
+grapple,[],False
+grate,[],True
+grating,[],False
+gravely,[],False
+greasy,[],False
+greed,[],True
+greedy,[],False
+grief,[],False
+grievance,[],True
+grievances,"[('обид', 1)]",True
+grieve,[],False
+grieving,[],False
+grievous,[],False
+grievously,[],False
+grim,[],True
+grimace,[],False
+grind,[],True
+gripe,[],False
+gripes,[],False
+grisly,[],False
+gritty,[],False
+gross,"[('грубые', 1)]",True
+grossly,"[('грубое', 1)]",True
+grotesque,[],False
+grouch,[],False
+grouchy,[],False
+groundless,[],True
+grouse,[],False
+growl,[],False
+grudge,[],False
+grudges,[],False
+grudging,[],False
+grudgingly,[],False
+gruesome,[],False
+gruesomely,[],False
+gruff,[],False
+grumble,[],False
+grumpier,[],False
+grumpiest,[],False
+grumpily,[],False
+grumpish,[],False
+grumpy,[],False
+guile,[],False
+guilt,"[('вины', 1)]",True
+guiltily,[],False
+guilty,"[('виновных', 1)]",True
+gullible,[],False
+gutless,[],False
+gutter,[],False
+hack,[],False
+hacks,[],False
+haggard,[],False
+haggle,[],False
+hairloss,[],False
+halfhearted,[],False
+halfheartedly,[],False
+hallucinate,[],False
+hallucination,[],False
+hamper,[],False
+hampered,[],False
+handicapped,[],False
+hang,"[('висят', 3), ('навесить', 2), ('вешать', 1), ('отбой', 1), ('повесить', 1)]",True
+hangs,[],False
+haphazard,[],False
+hapless,[],False
+harangue,[],False
+harass,[],False
+harassed,[],False
+harasses,[],False
+harassment,[],False
+harboring,[],False
+harbors,[],False
+hard,"[('туго', 1), ('сильно', 1), ('жёстко', 1), ('трудно', 1), ('не', 1)]",True
+hard-hit,[],False
+hard-line,[],False
+hard-liner,[],False
+hardball,[],False
+harden,[],False
+hardened,[],False
+hardheaded,[],False
+hardhearted,[],False
+hardliner,[],False
+hardliners,[],False
+hardship,[],False
+hardships,[],False
+harm,"[('вреда', 3), ('вред', 1), ('вредите', 1)]",True
+harmed,[],False
+harmful,"[('вредны', 1), ('вредные', 1)]",True
+harms,[],False
+harpy,[],False
+harridan,[],False
+harried,[],False
+harrow,[],False
+harsh,"[('резкий', 1), ('резок', 1)]",True
+harshly,[],False
+hasseling,[],False
+hassle,[],False
+hassled,[],False
+hassles,[],False
+haste,[],False
+hastily,"[('поспешно', 1)]",True
+hasty,"[('поспешным', 1)]",True
+hate,"[('ненависти', 1)]",True
+hated,"[('ненавидел', 1)]",True
+hateful,[],False
+hatefully,[],False
+hatefulness,[],False
+hater,[],False
+haters,[],False
+hates,[],False
+hating,[],False
+hatred,[],False
+haughtily,[],False
+haughty,[],False
+haunt,[],False
+haunting,[],False
+havoc,[],False
+hawkish,[],False
+haywire,[],False
+hazard,[],False
+hazardous,[],False
+haze,[],False
+hazy,[],False
+head-aches,[],False
+headache,[],False
+headaches,[],False
+heartbreaker,[],False
+heartbreaking,[],False
+heartbreakingly,[],False
+heartless,[],False
+heathen,[],False
+heavy-handed,[],False
+heavyhearted,[],False
+heck,[],True
+heckle,[],False
+heckled,[],False
+heckles,[],False
+hectic,[],False
+hedge,[],False
+hedonistic,[],False
+heedless,[],False
+hefty,"[('дюж', 1)]",True
+hegemonism,[],False
+hegemonistic,[],False
+hegemony,[],False
+heinous,[],False
+hell,"[('чорт', 1), ('духе', 1)]",True
+hell-bent,[],False
+hellion,[],False
+hells,[],False
+helpless,"[('беспомощная', 1)]",True
+helplessly,[],False
+helplessness,[],False
+heresy,"[('ереси', 1)]",True
+heretic,[],False
+heretical,[],False
+hesitant,[],False
+hestitant,[],False
+hideous,[],False
+hideously,[],False
+hideousness,[],False
+high-priced,[],False
+hiliarious,[],False
+hinder,[],True
+hindrance,[],False
+hiss,[],False
+hissed,[],False
+hissing,[],False
+ho-hum,[],False
+hoard,[],False
+hoax,"[('мистификацию', 2)]",True
+hobble,[],False
+hogs,[],False
+hollow,[],False
+hoodium,[],False
+hoodwink,[],False
+hooligan,"[('хулиганских', 1)]",True
+hopeless,[],False
+hopelessly,[],False
+hopelessness,[],False
+horde,[],False
+horrendous,[],False
+horrendously,[],False
+horrible,[],False
+horrid,[],False
+horrific,[],False
+horrified,[],False
+horrifies,[],False
+horrify,[],False
+horrifying,[],False
+horrifys,[],False
+hostage,[],False
+hostile,"[('вражеские', 1)]",True
+hostilities,"[('военных действий', 1), ('действий', 1), ('военных', 1)]",True
+hostility,"[('неприязнь', 1)]",True
+hotbeds,[],False
+hothead,[],False
+hotheaded,[],False
+hothouse,[],False
+hubris,[],False
+huckster,[],False
+hum,[],True
+humid,[],False
+humiliate,[],False
+humiliating,"[('унижающего', 1), ('унизительно', 1)]",True
+humiliation,[],False
+humming,[],False
+hung,"[('висела', 1), ('тусовались', 1), ('крутился', 1)]",True
+hurt,"[('мешает', 1), ('режет', 1), ('болит', 1), ('колит', 1), ('помешало', 1)]",True
+hurted,[],False
+hurtful,[],False
+hurting,[],False
+hurts,[],False
+hustler,[],False
+hype,[],False
+hypocricy,[],False
+hypocrisy,"[('лицедейство', 1)]",True
+hypocrite,[],False
+hypocrites,[],False
+hypocritical,[],False
+hypocritically,[],False
+hysteria,[],False
+hysteric,[],False
+hysterical,[],False
+hysterically,[],False
+hysterics,[],False
+idiocies,[],False
+idiocy,[],False
+idiot,[],True
+idiotic,"[('идиотскому', 1)]",True
+idiotically,[],False
+idiots,[],False
+idle,"[('искал', 1), ('без', 1), ('досужей', 1)]",True
+ignoble,[],False
+ignominious,[],False
+ignominiously,[],False
+ignominy,[],False
+ignorance,"[('невежестве', 1), ('незнание', 1), ('незнания', 1), ('незнанию', 1), ('невежественности', 1)]",True
+ignorant,"[('несведущий', 1)]",True
+ignore,"[('игнорировать', 6), ('игнорируете', 2), ('проигнорировать', 1), ('проигнорировали', 1), ('игнорируй', 1)]",True
+ill-advised,[],False
+ill-conceived,[],False
+ill-defined,[],False
+ill-designed,[],False
+ill-fated,[],False
+ill-favored,[],False
+ill-formed,[],False
+ill-mannered,[],False
+ill-natured,[],False
+ill-sorted,[],False
+ill-tempered,[],False
+ill-treated,[],False
+ill-treatment,[],False
+ill-usage,[],False
+ill-used,[],False
+illegal,"[('незаконно', 1), ('незаконном', 1), ('незаконное', 1), ('правомерные', 1), ('нарушением', 1)]",True
+illegally,[],False
+illegitimate,[],False
+illicit,[],False
+illiterate,"[('безграмотно', 1), ('безграмотного', 1), ('безграмотная', 1), ('безграмотны', 1), ('неграмотное', 1)]",True
+illness,[],False
+illogic,[],True
+illogical,"[('логичные', 1)]",True
+illogically,[],False
+illusion,"[('illusion', 1), ('иллюзия', 1)]",True
+illusions,[],False
+illusory,[],False
+imaginary,[],False
+imbalance,[],True
+imbecile,[],False
+imbroglio,[],False
+immaterial,[],False
+immature,[],False
+imminence,[],False
+imminently,[],False
+immobilized,[],False
+immoderate,[],False
+immoderately,[],False
+immodest,[],False
+immoral,[],False
+immorality,[],False
+immorally,[],False
+immovable,[],False
+impair,[],False
+impaired,[],False
+impasse,[],False
+impatience,[],False
+impatient,"[('нетерпением', 1)]",True
+impatiently,[],False
+impeach,[],False
+impedance,[],False
+impede,[],False
+impediment,[],False
+impending,[],False
+impenitent,[],False
+imperfect,[],False
+imperfection,[],False
+imperfections,[],False
+imperfectly,[],False
+imperialist,[],False
+imperil,[],False
+imperious,[],False
+imperiously,[],False
+impermissible,[],False
+impersonal,[],False
+impertinent,"[('чрезмерной', 1), ('большим', 1), ('нахальством', 1), ('большим нахальством', 1)]",True
+impetuous,[],False
+impetuously,[],False
+impiety,[],False
+impinge,[],False
+impious,[],False
+implacable,[],False
+implausible,"[('неправдоподобные', 1)]",True
+implausibly,[],False
+implicate,[],False
+implication,[],False
+implode,[],False
+impolite,[],False
+impolitely,[],False
+impolitic,[],False
+importunate,[],False
+importune,[],False
+impose,"[('обложить', 1), ('накладывает', 1), ('налагает', 1), ('наложить', 1)]",True
+imposers,[],False
+imposing,[],False
+imposition,"[('введение', 1)]",True
+impossible,"[('нельзя', 10), ('невозможно', 4)]",True
+impossiblity,[],False
+impossibly,[],False
+impotent,[],False
+impoverish,[],False
+impoverished,[],False
+impractical,[],False
+imprecate,[],False
+imprecise,[],False
+imprecisely,[],False
+imprecision,[],False
+imprison,[],False
+imprisonment,[],False
+improbability,[],False
+improbable,[],False
+improbably,[],False
+improper,[],False
+improperly,[],False
+impropriety,[],False
+imprudence,[],False
+imprudent,[],False
+impudence,"[('наглостью', 1)]",True
+impudent,"[('дерзкий', 1)]",True
+impudently,[],False
+impugn,[],False
+impulsive,[],False
+impulsively,[],False
+impunity,"[('безнаказанно', 1)]",True
+impure,[],False
+impurity,[],False
+inability,"[('неспособности', 1)]",True
+inaccuracies,"[('неточностей', 2), ('неточности', 1), ('неточностей _ ошибок', 1), ('ошибок', 1)]",True
+inaccuracy,"[('недостоверности', 1), ('отсутствия _ неверности', 1), ('отсутствия', 1), ('неверности', 1)]",True
+inaccurate,"[('недостоверная', 1), ('недостоверна', 1)]",True
+inaccurately,"[('неточно', 1)]",True
+inaction,"[('бездействия', 1), ('бездействии', 1)]",True
+inactive,"[('неактивны', 1), ('неактивными', 1)]",True
+inadequacy,"[('неадеквата', 1)]",True
+inadequate,"[('неадекватная', 1)]",True
+inadequately,[],False
+inadverent,[],False
+inadverently,[],False
+inadvisable,[],False
+inadvisably,[],False
+inane,[],False
+inanely,[],False
+inappropriate,"[('неуместна', 1), ('неуместно', 1), ('соответствующую', 1), ('не соответствующую', 1), ('не', 1)]",True
+inappropriately,[],False
+inapt,[],False
+inaptitude,[],False
+inarticulate,[],False
+inattentive,"[('невнимателен', 1)]",True
+inaudible,[],False
+incapable,[],False
+incapably,[],False
+incautious,[],False
+incendiary,[],False
+incense,[],False
+incessant,[],False
+incessantly,[],False
+incite,[],False
+incitement,[],False
+incivility,[],False
+inclement,[],False
+incognizant,[],False
+incoherence,[],False
+incoherent,"[('бессвязные', 1)]",True
+incoherently,[],False
+incommensurate,[],False
+incomparable,[],False
+incomparably,"[('несравненно', 1)]",True
+incompatability,[],False
+incompatibility,[],False
+incompatible,[],False
+incompetence,[],False
+incompetent,"[('некомпетентна', 1), ('некомпетентных', 1)]",True
+incompetently,[],False
+incomplete,"[('неполнотой', 1), ('неполной', 1), ('неполный', 1)]",True
+incompliant,[],False
+incomprehensible,"[('непонятна', 1), ('непонятны', 1), ('непонятное', 1), ('интерпретации', 1), ('непонятно', 1)]",True
+incomprehension,[],False
+inconceivable,[],False
+inconceivably,[],False
+incongruous,[],False
+incongruously,[],False
+inconsequent,[],False
+inconsequential,[],False
+inconsequentially,[],False
+inconsequently,[],False
+inconsiderate,[],False
+inconsiderately,[],False
+inconsistence,[],False
+inconsistencies,"[('ошибками', 1), ('ошибками _ несостыковками', 1), ('несостыковками', 1)]",True
+inconsistency,"[('разнобой', 1), ('соответствие', 1), ('несостыковки', 1), ('несоответствие', 1), ('несоответствия', 1)]",True
+inconsistent,"[('несогласованное', 1), ('несогласованная', 1), ('несоответствующим', 1)]",True
+inconsolable,[],False
+inconsolably,[],False
+inconstant,[],False
+inconvenience,[],False
+inconveniently,[],False
+incorrect,"[('некорректны', 3), ('неверные', 2), ('неправильным', 1), ('некорректный', 1), ('неверный', 1)]",True
+incorrectly,"[('неправильно', 4), ('некооректно', 1), ('правильно', 1), ('не', 1), ('не правильно', 1)]",True
+incorrigible,[],False
+incorrigibly,[],False
+incredulous,[],False
+incredulously,[],False
+inculcate,[],False
+indecency,[],False
+indecent,"[('неприлично', 1)]",True
+indecently,[],False
+indecision,[],False
+indecisive,[],False
+indecisively,[],False
+indecorum,[],False
+indefensible,[],False
+indelicate,[],False
+indeterminable,[],False
+indeterminably,[],False
+indeterminate,[],False
+indifference,[],False
+indifferent,"[('небезразличных', 1), ('неравнодушные', 1)]",True
+indigent,[],False
+indignant,"[('негодуют', 1), ('возмущался', 1)]",True
+indignantly,[],False
+indignation,[],False
+indignity,[],False
+indiscernible,[],False
+indiscreet,[],False
+indiscreetly,[],False
+indiscretion,[],False
+indiscriminate,[],True
+indiscriminately,"[('огульно', 1), ('опять', 1)]",True
+indiscriminating,[],False
+indistinguishable,[],False
+indoctrinate,[],False
+indoctrination,[],False
+indolent,[],False
+indulge,"[('потакать', 1), ('хостить _ балуются', 1), ('балуются', 1), ('хостить', 1)]",True
+ineffective,"[('малорезультативной', 1)]",True
+ineffectively,[],False
+ineffectiveness,[],False
+ineffectual,[],False
+ineffectually,[],False
+ineffectualness,[],False
+inefficacious,[],False
+inefficacy,[],False
+inefficiency,[],False
+inefficient,[],False
+inefficiently,[],False
+inelegance,[],False
+inelegant,[],False
+ineligible,[],False
+ineloquent,[],False
+ineloquently,[],False
+inept,[],False
+ineptitude,[],False
+ineptly,[],False
+inequalities,[],False
+inequality,"[('неравенство', 1)]",True
+inequitable,[],False
+inequitably,[],False
+inequities,[],False
+inescapable,[],False
+inescapably,[],False
+inessential,[],False
+inevitable,[],False
+inevitably,[],False
+inexcusable,[],False
+inexcusably,[],False
+inexorable,[],False
+inexorably,[],False
+inexperience,[],True
+inexperienced,"[('малоопытный', 1), ('неопытный', 1), ('неопытен', 1)]",True
+inexpert,[],False
+inexpertly,[],False
+inexpiable,[],False
+inexplainable,[],False
+inextricable,[],False
+inextricably,"[('неразрывно', 1)]",True
+infamous,[],False
+infamously,[],False
+infamy,[],False
+infected,[],False
+infection,"[('анкилостомоз', 1)]",True
+infections,[],False
+inferior,[],False
+inferiority,[],False
+infernal,[],False
+infest,[],False
+infested,[],False
+infidel,[],False
+infidels,[],False
+infiltrator,[],False
+infiltrators,[],False
+infirm,[],False
+inflame,[],True
+inflammation,[],False
+inflammatory,[],False
+inflammed,[],False
+inflated,[],False
+inflationary,[],False
+inflexible,[],False
+inflict,[],True
+infraction,[],False
+infringe,[],True
+infringement,"[('нарушение', 3), ('нарушением', 2), ('нарушении', 2), ('ущемления', 1), ('нарушении копирайта', 1)]",True
+infringements,[],False
+infuriate,[],False
+infuriated,[],False
+infuriating,[],False
+infuriatingly,[],False
+inglorious,[],False
+ingrate,[],False
+ingratitude,[],False
+inhibit,[],False
+inhibition,[],False
+inhospitable,[],False
+inhospitality,[],False
+inhuman,[],False
+inhumane,[],False
+inhumanity,[],False
+inimical,[],False
+inimically,[],False
+iniquitous,[],False
+iniquity,[],False
+injudicious,[],False
+injure,[],False
+injurious,[],False
+injury,[],False
+injustice,[],False
+injustices,[],False
+innuendo,[],False
+inoperable,[],False
+inopportune,[],False
+inordinate,[],False
+inordinately,[],False
+insane,[],False
+insanely,[],False
+insanity,[],False
+insatiable,[],False
+insecure,[],False
+insecurity,[],False
+insensible,[],False
+insensitive,[],False
+insensitively,[],False
+insensitivity,[],False
+insidious,[],False
+insidiously,[],False
+insignificance,"[('незначимость', 1)]",True
+insignificant,"[('незначительной', 1), ('незначимая', 1), ('незначимый', 1), ('незначителен', 1), ('незначим', 1)]",True
+insignificantly,"[('ничтожно', 1)]",True
+insincere,[],False
+insincerely,[],False
+insincerity,[],False
+insinuate,[],False
+insinuating,[],False
+insinuation,[],False
+insociable,[],False
+insolence,[],False
+insolent,[],False
+insolently,[],False
+insolvent,[],False
+insouciance,[],False
+instability,[],False
+instable,[],False
+instigate,[],False
+instigator,[],False
+instigators,[],False
+insubordinate,[],False
+insubstantial,[],False
+insubstantially,[],False
+insufferable,[],False
+insufferably,[],False
+insufficiency,[],False
+insufficient,"[('недостаточная', 1), ('недостаточные', 1), ('недостаточным', 1), ('недостаточна', 1), ('недостаточно', 1)]",True
+insufficiently,"[('недостаточно', 1)]",True
+insular,[],False
+insult,"[('оскорбление', 5), ('оскорблением', 3), ('оскорблять', 2), ('оскорбляют', 1), ('оскорбления', 1)]",True
+insulted,[],False
+insulting,"[('оскорбляя', 1)]",True
+insultingly,[],False
+insults,"[('оскорбления', 2), ('оскорблений', 2), ('оскорблениями', 1), ('оскорблениям', 1), ('нормы', 1)]",True
+insupportable,[],False
+insupportably,[],False
+insurmountable,[],False
+insurmountably,[],False
+insurrection,[],False
+intefere,[],False
+inteferes,[],False
+intense,[],False
+interfere,"[('мешать', 2), ('вмешиваться', 1), ('вмешиваюсь', 1), ('помешал', 1), ('мешают', 1)]",True
+interference,[],False
+interferes,[],False
+intermittent,[],False
+interrupt,[],False
+interruption,[],False
+interruptions,[],False
+intimidate,[],False
+intimidating,[],False
+intimidatingly,[],False
+intimidation,[],False
+intolerable,[],False
+intolerablely,[],False
+intolerance,"[('нетерпимости', 2)]",True
+intoxicate,[],False
+intractable,[],False
+intransigence,[],False
+intransigent,[],False
+intrude,[],True
+intrusion,"[('вторжение', 1)]",True
+intrusive,[],False
+inundate,[],False
+inundated,[],False
+invader,[],False
+invalid,"[('недопустимые', 1), ('инвалиде', 1)]",True
+invalidate,[],False
+invalidity,[],False
+invasive,[],False
+invective,[],False
+inveigle,[],False
+invidious,[],False
+invidiously,[],False
+invidiousness,[],False
+invisible,"[('невидимый', 1)]",True
+involuntarily,[],False
+involuntary,[],False
+irascible,[],False
+irate,[],False
+irately,[],False
+ire,[],True
+irk,[],True
+irked,[],False
+irking,[],False
+irks,[],False
+irksome,[],False
+irksomely,[],False
+irksomeness,[],False
+irksomenesses,[],False
+ironic,[],False
+ironical,[],False
+ironically,[],False
+ironies,[],False
+irony,"[('иронию', 1), ('иронии', 1)]",True
+irragularity,[],False
+irrational,[],False
+irrationalities,[],False
+irrationality,[],False
+irrationally,[],False
+irrationals,[],False
+irreconcilable,[],False
+irrecoverable,[],False
+irrecoverableness,[],False
+irrecoverablenesses,[],False
+irrecoverably,[],False
+irredeemable,[],False
+irredeemably,[],False
+irreformable,[],False
+irregular,[],False
+irregularity,[],False
+irrelevance,[],False
+irrelevant,"[('неактуальны', 1)]",True
+irreparable,[],False
+irreplacible,[],False
+irrepressible,[],False
+irresolute,[],False
+irresolvable,[],False
+irresponsible,"[('безответственны', 1)]",True
+irresponsibly,[],False
+irretating,[],False
+irretrievable,[],False
+irreversible,[],False
+irritable,[],False
+irritably,[],False
+irritant,[],False
+irritate,[],True
+irritated,"[('раздражения', 1)]",True
+irritating,"[('раздражающий', 1)]",True
+irritation,[],False
+irritations,[],False
+isolate,[],True
+isolated,"[('изолированная', 1), ('изолированные', 1)]",True
+isolation,"[('изоляция', 1)]",True
+issue,"[('вопрос', 15), ('вопросу', 12), ('вопроса', 9), ('вопросе', 4), ('вопросом', 3)]",True
+issues,"[('вопросам', 4), ('вопросов', 2), ('вопросы', 1), ('выносит', 1), ('проблемы', 1)]",True
+itch,[],True
+itching,[],True
+itchy,[],False
+jabber,[],False
+jaded,[],False
+jagged,[],False
+jam,[],True
+jarring,[],False
+jaundiced,[],False
+jealous,[],True
+jealously,[],False
+jealousness,[],False
+jealousy,"[('ревности', 1)]",True
+jeer,[],False
+jeering,[],False
+jeeringly,[],False
+jeers,[],False
+jeopardize,[],False
+jeopardy,[],False
+jerk,[],False
+jerky,[],False
+jitter,[],False
+jitters,[],False
+jittery,[],False
+job-killing,[],False
+jobless,[],False
+joke,"[('анекдоте', 2), ('шутка', 2), ('пошутить', 1), ('прикол', 1), ('шутку', 1)]",True
+joker,"[('джокер', 1)]",True
+jolt,[],False
+judder,[],False
+juddering,[],False
+judders,[],False
+jumpy,[],False
+junk,[],False
+junky,[],False
+junkyard,[],False
+jutter,[],False
+jutters,[],False
+kaput,[],False
+kill,"[('убийства', 1), ('убивают', 1), ('убить', 1), ('убивать', 1), ('убъём', 1)]",True
+killed,"[('убиты', 2), ('убитого', 1), ('убитыми', 1), ('наложил', 1)]",True
+killer,"[('убийцу', 1)]",True
+killing,"[('убивают', 1)]",True
+killjoy,[],False
+kills,"[('kills', 1)]",True
+knave,[],False
+knife,[],False
+knock,[],False
+knotted,[],False
+kook,[],False
+kooky,[],False
+lack,"[('отсутствие', 3), ('отсутствия', 2), ('отсутствии', 2), ('невсесезонности', 1), ('не', 1)]",True
+lackadaisical,[],False
+lacked,"[('отсутсвовали', 1), ('не хватает', 1), ('хватает', 1), ('не', 1)]",True
+lackey,[],False
+lackeys,[],False
+lacking,[],False
+lackluster,[],False
+lacks,"[('не хватает', 1), ('хватает', 1), ('не', 1)]",True
+laconic,[],False
+lag,[],True
+lagged,[],True
+lagging,[],True
+laggy,[],False
+lags,[],True
+laid-off,[],False
+lambast,[],False
+lambaste,[],False
+lame,[],True
+lame-duck,[],False
+lament,[],False
+lamentable,[],False
+lamentably,[],False
+languid,[],False
+languish,[],False
+languor,[],False
+languorous,[],False
+languorously,[],False
+lanky,[],False
+lapse,[],True
+lapsed,[],True
+lapses,[],False
+lascivious,[],False
+last-ditch,[],False
+latency,[],False
+laughable,[],False
+laughably,[],False
+laughingstock,[],False
+lawbreaker,[],False
+lawbreaking,[],False
+lawless,[],True
+lawlessness,[],False
+layoff,[],False
+layoff-happy,[],False
+lazy,"[('лень', 4), ('нарушить', 1), ('лень _ нарушить', 1), ('поленятся', 1)]",True
+leak,[],False
+leakage,[],False
+leakages,[],False
+leaking,[],False
+leaks,[],False
+leaky,[],False
+lech,[],True
+lecher,[],False
+lecherous,[],False
+lechery,[],False
+leech,[],False
+leer,[],False
+leery,[],False
+left-leaning,[],False
+lemon,[],False
+lengthy,"[('длинновато', 1), ('сумбурно', 1), ('сумбурно _ длинновато', 1)]",True
+less-developed,[],False
+lesser-known,[],False
+letch,[],False
+lethal,[],False
+lethargic,[],False
+lethargy,[],False
+lewd,[],False
+lewdly,[],False
+lewdness,[],False
+liability,[],True
+liable,[],True
+liar,"[('лжецу', 1)]",True
+liars,[],True
+licentious,[],False
+licentiously,[],False
+licentiousness,[],False
+lie,"[('ложь', 2), ('лгать', 1)]",True
+lied,"[('соврала', 1), ('солгал', 1)]",True
+lier,[],True
+lies,"[('лжи', 3), ('кроется', 1), ('заключена', 1)]",True
+life-threatening,[],False
+lifeless,[],False
+limit,"[('предел', 1), ('ограничили', 1), ('ограничить', 1), ('ограничивать', 1)]",True
+limitation,"[('ограничение', 1)]",True
+limitations,"[('давности', 1), ('ограничения', 1)]",True
+limited,"[('ограниченности', 1), ('ограничиваетесь', 1), ('ограничено', 1), ('ограничен', 1), ('ограничив', 1)]",True
+limits,"[('границы', 1), ('рамках', 1), ('пределы', 1), ('рамки', 1)]",True
+limp,[],False
+listless,[],False
+litigious,[],False
+little-known,[],False
+livid,[],False
+lividly,[],False
+loath,[],False
+loathe,[],False
+loathing,[],False
+loathly,[],False
+loathsome,[],False
+loathsomely,[],False
+lone,[],True
+loneliness,[],False
+lonely,[],False
+loner,[],False
+lonesome,[],False
+long-time,[],False
+long-winded,[],False
+longing,[],True
+longingly,[],False
+loophole,[],False
+loopholes,[],False
+loose,[],False
+loot,[],False
+lorn,[],False
+lose,"[('потеряли', 1)]",True
+loser,[],True
+losers,"[('лузерами', 1)]",True
+loses,"[('теряет', 1)]",True
+losing,"[('потере', 1), ('потери', 1)]",True
+loss,"[('недоумении', 1)]",True
+losses,"[('потерь', 3), ('потери', 2), ('потерям', 1)]",True
+lost,"[('потеряла', 2), ('похудел', 1), ('потерял', 1), ('потеряться', 1), ('заблудился', 1)]",True
+loud,[],True
+louder,[],False
+lousy,[],True
+loveless,[],False
+lovelorn,[],False
+low-rated,[],False
+lowly,[],True
+ludicrous,[],False
+ludicrously,[],False
+lugubrious,[],False
+lukewarm,[],False
+lull,[],False
+lumpy,[],False
+lunatic,[],False
+lunaticism,[],False
+lurch,[],False
+lure,[],True
+lurid,[],False
+lurk,[],False
+lurking,[],False
+lying,"[('лжет', 1), ('лежит', 1), ('лежащих', 1), ('врать', 1)]",True
+macabre,[],False
+mad,"[('беситесь', 1)]",True
+madden,[],False
+maddening,[],False
+maddeningly,[],False
+madder,[],False
+madly,[],False
+madman,[],False
+madness,[],False
+maladjusted,[],False
+maladjustment,[],False
+malady,[],False
+malaise,[],False
+malcontent,[],False
+malcontented,[],False
+maledict,[],False
+malevolence,[],False
+malevolent,[],False
+malevolently,[],False
+malice,[],False
+malicious,"[('вредоносное', 1), ('шаблон', 1), ('шаблон вредоносное', 1)]",True
+maliciously,[],False
+maliciousness,[],False
+malign,[],False
+malignant,[],False
+malodorous,[],False
+maltreatment,[],False
+mangle,[],False
+mangled,[],False
+mangles,[],False
+mangling,[],False
+mania,"[('мания', 1)]",True
+maniac,[],False
+maniacal,[],False
+manic,[],False
+manipulate,[],False
+manipulation,[],False
+manipulative,"[('манипулятивный', 1)]",True
+manipulators,[],False
+mar,[],True
+marginal,"[('маргинального', 2), ('маргинально', 1), ('маргинальным', 1), ('квазимаргинальной', 1)]",True
+marginally,[],False
+martyrdom,[],False
+martyrdom-seeking,[],False
+mashed,[],False
+massacre,"[('резня', 2), ('резни', 1), ('резне', 1)]",True
+massacres,[],False
+matte,[],True
+mawkish,[],False
+mawkishly,[],False
+mawkishness,[],False
+meager,[],False
+meaningless,"[('бессмысленно', 1), ('бессмысленную', 1), ('бессмысленной', 1), ('бессмысленными', 1)]",True
+meanness,"[('подлость', 1)]",True
+measly,[],False
+meddle,[],False
+meddlesome,[],False
+mediocre,[],False
+mediocrity,[],False
+melancholy,[],False
+melodramatic,[],False
+melodramatically,[],False
+meltdown,[],False
+menace,[],False
+menacing,[],False
+menacingly,[],False
+mendacious,[],False
+mendacity,[],False
+menial,[],False
+merciless,[],False
+mercilessly,[],False
+mess,"[('мешанина', 1), ('навадалил', 1)]",True
+messed,"[('напутал', 1)]",True
+messes,[],False
+messing,[],False
+messy,[],False
+midget,[],False
+miff,[],False
+militancy,[],False
+mindless,[],False
+mindlessly,[],False
+mirage,[],False
+mire,[],True
+misalign,[],False
+misaligned,[],False
+misaligns,[],False
+misapprehend,[],False
+misbecome,[],False
+misbecoming,[],False
+misbegotten,[],False
+misbehave,[],False
+misbehavior,[],False
+miscalculate,[],False
+miscalculation,[],False
+miscellaneous,"[('прочее', 1), ('разные', 1)]",True
+mischief,[],False
+mischievous,[],False
+mischievously,[],False
+misconception,[],True
+misconceptions,"[('заблуждений', 1)]",True
+miscreant,[],False
+miscreants,[],False
+misdirection,[],False
+miser,[],True
+miserable,"[('бесспорно', 1)]",True
+miserableness,[],False
+miserably,[],False
+miseries,[],False
+miserly,[],False
+misery,[],False
+misfit,[],False
+misfortune,[],False
+misgiving,[],False
+misgivings,[],False
+misguidance,[],False
+misguide,[],False
+misguided,[],False
+mishandle,[],False
+mishap,[],False
+misinform,[],False
+misinformed,[],False
+misinterpret,[],True
+misjudge,[],False
+misjudgment,[],False
+mislead,"[('заблуждение', 3), ('вводить', 2), ('ввести', 2), ('вводить _ заблуждение', 1), ('ввести _ заблуждение', 1)]",True
+misleading,"[('осмысленных _ заблуждение', 1), ('заблуждение', 1), ('осмысленных', 1)]",True
+misleadingly,[],False
+mislike,[],False
+mismanage,[],False
+mispronounce,[],False
+mispronounced,[],False
+mispronounces,[],False
+misread,[],False
+misreading,[],False
+misrepresent,[],True
+misrepresentation,[],False
+miss,"[('не хватает', 1), ('хватает', 1), ('не', 1), ('мисс', 1), ('пропустили', 1)]",True
+missed,"[('пропустил', 3), ('както', 1), ('промахнулся', 1)]",True
+misses,[],False
+misstatement,[],False
+mist,[],True
+mistake,"[('ошибка', 9), ('ошибку', 4), ('ошибке', 2), ('ошибочно', 2), ('ошибки', 2)]",True
+mistaken,"[('ошибаюсь', 4), ('ошибаются', 1), ('заблуждаться', 1), ('ошибусь', 1), ('ошибся', 1)]",True
+mistakenly,[],False
+mistakes,"[('ошибки', 6), ('ошибками', 1), ('промахи', 1), ('сообщениями _ ошибке', 1), ('ошибке', 1)]",True
+mistified,[],False
+mistress,"[('любовницы', 1)]",True
+mistrust,[],False
+mistrustful,[],False
+mistrustfully,[],False
+mists,[],True
+misunderstand,"[('неправильно', 2), ('поняла', 1), ('неправильно понимаю', 1), ('понимаю', 1), ('понял', 1)]",True
+misunderstanding,"[('недопонимаю', 3), ('понимаю', 1), ('непонимания', 1), ('опять', 1), ('опять _ недопонимаю', 1)]",True
+misunderstandings,[],False
+misunderstood,"[('разобрался', 1), ('неверно разобрался', 1), ('неверно', 1), ('понял', 1), ('неправильно', 1)]",True
+misuse,"[('нецелевое', 2), ('нецелевое использование', 2), ('использование', 2)]",True
+moan,[],False
+mobster,[],False
+mock,[],True
+mocked,"[('издевался', 1)]",True
+mockeries,[],False
+mockery,[],False
+mocking,"[('издеваетесь', 1), ('надо', 1), ('издеваетесь надо', 1)]",True
+mockingly,[],False
+mocks,[],False
+molest,[],False
+molestation,[],False
+monotonous,[],False
+monotony,[],False
+monster,"[('монстра', 1), ('монстр', 1)]",True
+monstrosities,[],False
+monstrosity,[],False
+monstrous,"[('монструозное', 1)]",True
+monstrously,[],False
+moody,[],True
+moot,[],True
+mope,[],True
+morbid,[],False
+morbidly,[],False
+mordant,[],False
+mordantly,[],False
+moribund,[],False
+moron,[],False
+moronic,[],False
+morons,[],False
+mortification,[],False
+mortified,[],False
+mortify,[],False
+mortifying,[],False
+motionless,[],False
+motley,[],False
+mourn,[],False
+mourner,[],False
+mournful,[],False
+mournfully,[],False
+muddle,[],False
+muddy,[],False
+mudslinger,[],False
+mudslinging,[],False
+mulish,[],False
+multi-polarization,[],False
+mundane,[],False
+murder,"[('убийство', 2), ('murder', 1), ('убийстве', 1)]",True
+murderer,[],False
+murderous,[],False
+murderously,[],False
+murky,[],False
+muscle-flexing,[],False
+mushy,[],False
+musty,[],False
+mysterious,"[('загадочная', 2), ('таинственная', 1)]",True
+mysteriously,[],False
+mystery,"[('mistery', 1)]",True
+mystify,[],False
+myth,"[('антимифотворческими', 1)]",True
+nag,[],True
+nagging,[],False
+naive,"[('наивных', 1)]",True
+naively,[],False
+narrower,[],False
+nastily,[],False
+nastiness,[],False
+nasty,"[('гадостями', 1), ('чужих', 1), ('гадости _ чужих', 1), ('гадости', 1)]",True
+naughty,[],False
+nauseate,[],False
+nauseates,[],False
+nauseating,[],False
+nauseatingly,[],False
+naïve,[],False
+nebulous,[],False
+nebulously,[],False
+needless,[],False
+needlessly,[],False
+needy,[],False
+nefarious,[],False
+nefariously,[],False
+negate,"[('отменяет', 1)]",True
+negation,[],False
+negative,"[('негатив', 2), ('отрицательные', 1), ('отрицательным', 1)]",True
+negatives,[],False
+negativity,"[('негативом', 1)]",True
+neglect,"[('пренебрежение', 1)]",True
+neglected,[],False
+negligence,[],False
+negligent,[],False
+nemesis,[],False
+nepotism,[],False
+nervous,"[('нервной', 2), ('нервничаете', 1)]",True
+nervously,[],False
+nervousness,[],False
+nettle,[],False
+nettlesome,[],False
+neurotic,[],False
+neurotically,[],False
+niggle,[],False
+niggles,[],False
+nightmare,[],False
+nightmarish,[],False
+nightmarishly,[],False
+nitpick,[],False
+nitpicking,[],False
+noise,"[('шуметь', 1)]",True
+noises,[],False
+noisier,[],False
+noisy,[],False
+non-confidence,[],False
+nonexistent,[],False
+nonresponsive,[],False
+nonsense,"[('бред', 2), ('ерунда', 2), ('бессмыслицы', 1), ('везде бред', 1), ('везде', 1)]",True
+nosey,[],False
+notoriety,[],False
+notorious,"[('престижа', 1), ('пресловутого', 1), ('небезызвестного', 1), ('небезызвестная', 1)]",True
+notoriously,[],False
+noxious,[],False
+nuisance,[],False
+numb,[],True
+obese,[],False
+object,"[('объект', 6), ('объекту', 2), ('объектом', 1), ('возражаете', 1), ('будут возражать', 1)]",True
+objection,"[('возражениями', 1), ('возражений', 1)]",True
+objectionable,"[('неугодное', 1), ('неугодные', 1)]",True
+objections,"[('возражения', 8), ('возражений', 5), ('уверен', 1), ('возражений _ уверен', 1), ('дополнения', 1)]",True
+oblique,[],False
+obliterate,[],False
+obliterated,[],False
+oblivious,[],False
+obnoxious,[],False
+obnoxiously,[],False
+obscene,"[('оскорбительного', 1), ('нецензурного _ оскорбительного', 1), ('нецензурного', 1)]",True
+obscenely,[],False
+obscenity,[],False
+obscure,"[('неясное', 1), ('малопонятные', 1), ('непонятными', 1)]",True
+obscured,[],False
+obscures,[],False
+obscurity,[],False
+obsess,[],False
+obsessive,[],False
+obsessively,[],False
+obsessiveness,[],False
+obsolete,"[('устарелость', 1)]",True
+obstacle,"[('препятствием', 1)]",True
+obstinate,[],False
+obstinately,[],False
+obstruct,[],False
+obstructed,[],False
+obstructing,[],False
+obstruction,[],False
+obstructs,[],False
+obtrusive,[],False
+obtuse,[],False
+occlude,[],False
+occluded,[],False
+occludes,[],False
+occluding,[],False
+odd,[],True
+odder,[],False
+oddest,[],False
+oddities,[],False
+oddity,[],False
+oddly,"[('странно', 1)]",True
+odor,[],False
+offence,[],False
+offend,"[('нанести', 1), ('обидеть', 1), ('обижайте', 1)]",True
+offender,[],False
+offending,[],False
+offenses,[],False
+offensive,"[('оскорбительно', 2), ('обидно', 1), ('оскорбительными', 1), ('оскорбительное', 1), ('оскорбительным', 1)]",True
+offensively,[],False
+offensiveness,[],False
+officious,[],False
+ominous,[],False
+ominously,[],False
+omission,[],False
+omit,[],True
+one-sided,[],False
+onerous,[],False
+onerously,[],False
+onslaught,[],False
+opinionated,[],False
+opponent,"[('оппонента', 5), ('оппонент', 4), ('оппонентом', 2), ('оппонет', 1)]",True
+opportunistic,[],False
+oppose,[],True
+opposition,"[('противопоставление', 1)]",True
+oppositions,[],False
+oppress,[],True
+oppression,[],True
+oppressive,[],False
+oppressively,[],False
+oppressiveness,[],False
+oppressors,[],False
+ordeal,[],False
+orphan,"[('сирота', 1), ('шаблон', 1), ('шаблон _ статьясирота', 1), ('статьясирота', 1)]",True
+ostracize,[],False
+outbreak,[],False
+outburst,[],False
+outbursts,[],False
+outcast,[],False
+outcry,[],False
+outlaw,[],False
+outmoded,[],False
+outrage,[],True
+outraged,"[('возмущает', 1)]",True
+outrageous,[],False
+outrageously,[],False
+outrageousness,[],False
+outrages,[],False
+outsider,[],False
+over-acted,[],False
+over-awe,[],False
+over-balanced,[],False
+over-hyped,[],False
+over-priced,[],False
+over-valuation,[],False
+overact,[],False
+overacted,[],False
+overawe,[],False
+overbalance,[],False
+overbalanced,[],False
+overbearing,[],False
+overbearingly,[],False
+overblown,[],False
+overdo,[],False
+overdone,[],False
+overdue,"[('просроченные', 1)]",True
+overemphasize,[],False
+overheat,[],False
+overkill,[],False
+overloaded,"[('перегружена', 1)]",True
+overlook,[],True
+overpaid,[],False
+overpayed,[],False
+overplay,[],False
+overpower,[],False
+overpriced,[],False
+overrated,[],False
+overreach,[],False
+overrun,[],False
+overshadow,[],False
+oversight,[],False
+oversights,[],False
+oversimplification,[],False
+oversimplified,[],False
+oversimplify,[],False
+oversize,[],False
+overstate,[],False
+overstated,[],False
+overstatement,[],False
+overstatements,[],False
+overstates,[],False
+overtaxed,[],False
+overthrow,[],False
+overthrows,[],False
+overturn,[],False
+overweight,[],False
+overwhelm,[],True
+overwhelmed,"[('занесло', 1)]",True
+overwhelming,[],False
+overwhelmingly,[],False
+overwhelms,[],False
+overzealous,[],False
+overzealously,[],False
+overzelous,[],False
+pain,[],True
+painful,[],True
+painfull,[],True
+painfully,"[('болезненно', 1)]",True
+pains,[],False
+pale,"[('бледный', 1), ('бледной', 1)]",True
+pales,[],True
+paltry,[],False
+pan,"[('пантюркизме', 1)]",True
+pandemonium,[],False
+pander,[],False
+pandering,[],False
+panders,[],False
+panic,"[('паниковать', 1)]",True
+panick,[],True
+panicked,[],False
+panicking,"[('запаниковали', 1)]",True
+panicky,[],False
+paradoxical,[],False
+paradoxically,[],False
+paralize,[],False
+paralyzed,[],False
+paranoia,[],False
+paranoid,[],False
+parasite,[],False
+pariah,[],False
+parody,[],False
+partiality,[],False
+partisan,[],True
+partisans,"[('партизаны', 1), ('партизанты', 1), ('беспартийных', 1)]",True
+passe,[],True
+passive,[],False
+passiveness,[],False
+pathetic,[],False
+pathetically,[],False
+patronize,[],False
+paucity,[],False
+pauper,[],False
+paupers,[],False
+payback,[],False
+peculiar,"[('своеобразная', 1)]",True
+peculiarly,[],False
+pedantic,[],False
+peeled,[],False
+peeve,[],False
+peeved,[],False
+peevish,[],False
+peevishly,[],False
+penalize,[],False
+penalty,"[('штрафную', 1)]",True
+perfidious,[],False
+perfidity,[],False
+perfunctory,[],False
+peril,[],False
+perilous,[],False
+perilously,[],False
+perish,[],False
+pernicious,[],False
+perplex,[],False
+perplexed,[],False
+perplexing,[],False
+perplexity,[],False
+persecute,"[('травле', 1), ('преследуют', 1)]",True
+persecution,"[('преследования', 4), ('преследованием', 1)]",True
+pertinacious,[],False
+pertinaciously,[],False
+pertinacity,[],False
+perturb,[],False
+perturbed,[],False
+pervasive,[],False
+perverse,[],False
+perversely,[],False
+perversion,[],False
+perversity,[],False
+pervert,[],False
+perverted,[],False
+perverts,[],False
+pessimism,[],False
+pessimistic,[],False
+pessimistically,[],False
+pest,[],False
+pestilent,[],False
+petrified,[],False
+petrify,[],False
+pettifog,[],False
+petty,[],False
+phobia,[],True
+phobic,[],True
+phony,[],False
+picket,[],False
+picketed,[],False
+picketing,[],False
+pickets,[],False
+picky,"[('придирчивые', 1)]",True
+pig,"[('волк', 1)]",True
+pigs,[],False
+pillage,[],False
+pillory,[],False
+pimple,[],False
+pinch,"[('зажимают', 1)]",True
+pique,[],False
+pitiable,[],False
+pitiful,"[('жалкое', 1)]",True
+pitifully,[],False
+pitiless,[],False
+pitilessly,[],False
+pittance,[],False
+pity,"[('жалко', 5), (',', 1), ('жалко _ кстати', 1), ('кстати', 1), ('жаль', 1)]",True
+plagiarize,[],False
+plague,[],False
+plasticky,[],False
+plaything,[],False
+plea,[],True
+pleas,[],True
+plebeian,[],False
+plight,[],False
+plot,"[('сюжет', 5), ('сюжете', 2), ('сюжетных', 1), ('заговор', 1), ('сюжета', 1)]",True
+plotters,[],False
+ploy,[],True
+plunder,[],False
+plunderer,[],False
+pointless,"[('бессмысленно', 1), ('бессмысленные', 1), ('бессмысленных', 1)]",True
+pointlessly,[],False
+poison,[],False
+poisonous,[],False
+poisonously,[],False
+pokey,[],False
+poky,[],False
+polarisation,[],False
+polemize,[],False
+pollute,"[('загрязнять', 1)]",True
+polluter,[],False
+polluters,[],False
+polution,[],False
+pompous,[],False
+poor,"[('убого', 2), ('бедного', 1), ('бедные', 1), ('скудным', 1)]",True
+poorer,[],False
+poorest,[],False
+poorly,"[('плохо', 2)]",True
+posturing,[],False
+pout,[],False
+poverty,[],False
+powerless,[],False
+prate,[],False
+pratfall,[],False
+prattle,[],False
+precarious,[],False
+precariously,[],False
+precipitate,[],False
+precipitous,[],False
+predatory,[],False
+predicament,[],False
+prejudge,[],False
+prejudice,[],True
+prejudices,[],False
+prejudicial,[],False
+premeditated,[],False
+preoccupy,[],False
+preposterous,[],False
+preposterously,[],False
+presumptuous,"[('зачем _ самонадеянно', 1), ('самонадеянно', 1), ('зачем', 1)]",True
+presumptuously,[],False
+pretence,[],False
+pretend,"[('претендую', 1)]",True
+pretense,[],False
+pretentious,[],False
+pretentiously,[],False
+prevaricate,[],False
+pricey,[],False
+pricier,[],False
+prick,[],False
+prickle,[],False
+prickles,[],False
+prideful,[],False
+prik,[],False
+primitive,"[('примитивный', 1)]",True
+prison,"[('острог', 1), ('тюрьме', 1)]",True
+prisoner,[],True
+problem,"[('проблема', 36), ('проблему', 11), ('проблемы', 8), ('проблемой', 4), ('проблеме', 3)]",True
+problematic,"[('проблематично', 1), ('проблемное', 1)]",True
+problems,"[('проблемы', 18), ('проблем', 8), ('проблемах', 2), ('задачах', 1), ('задач', 1)]",True
+procrastinate,[],False
+procrastinates,[],False
+procrastination,[],False
+profane,[],False
+profanity,[],False
+prohibit,"[('запрета', 1)]",True
+prohibitive,[],False
+prohibitively,[],False
+propaganda,"[('пропаганда', 2), ('пропагандой', 2), ('пропаганды', 2), ('гомосексуализма', 1), ('пропоганда', 1)]",True
+propagandize,[],True
+proprietary,"[('свободном', 1), ('проприетарном', 1), ('проприетарном _ свободном', 1)]",True
+prosecute,[],False
+protest,[],False
+protested,[],False
+protesting,[],False
+protests,[],False
+protracted,[],False
+provocation,"[('провокация', 3), ('провокациями', 1), ('провокацию', 1)]",True
+provocative,"[('провокационным', 2), ('провокация', 1)]",True
+provoke,"[('провоцировать', 1)]",True
+pry,[],True
+pugnacious,[],False
+pugnaciously,[],False
+pugnacity,[],False
+punch,[],True
+punish,"[('наказывать', 1)]",True
+punishable,[],False
+punitive,"[('карательными', 1)]",True
+punk,[],False
+puny,[],False
+puppet,[],True
+puppets,"[('куклами', 1)]",True
+puzzled,[],False
+puzzlement,[],False
+puzzling,"[('недоумение', 2), ('озадачивает', 1)]",True
+quack,[],False
+qualm,[],False
+qualms,[],False
+quandary,[],False
+quarrel,[],True
+quarrellous,[],False
+quarrellously,[],False
+quarrels,[],False
+quarrelsome,[],False
+quash,[],False
+queer,[],False
+questionable,"[('сомнительная', 1)]",True
+quibble,[],False
+quibbles,[],False
+quitter,[],False
+rabid,[],False
+racism,[],False
+racist,"[('расистовтихушников', 1)]",True
+racists,[],False
+racy,[],True
+radical,"[('радикал', 1)]",True
+radicalization,[],False
+radically,"[('радикально', 1)]",True
+radicals,"[('радикалов', 1)]",True
+rage,[],True
+ragged,[],False
+raging,[],True
+rail,[],True
+raked,[],False
+rampage,[],False
+rampant,[],False
+ramshackle,[],False
+rancor,[],False
+randomly,[],False
+rankle,[],False
+rant,[],True
+ranted,[],False
+ranting,[],False
+rantingly,[],False
+rants,[],True
+rape,"[('изнасилований', 1)]",True
+raped,[],False
+raping,[],False
+rascal,[],False
+rascals,[],False
+rash,"[('сыпи', 1)]",True
+rattle,[],False
+rattled,[],False
+rattles,[],False
+ravage,[],False
+raving,[],True
+reactionary,[],False
+rebellious,[],False
+rebuff,[],False
+rebuke,[],False
+recalcitrant,[],False
+recant,[],False
+recession,[],False
+recessionary,[],False
+reckless,[],False
+recklessly,[],False
+recklessness,[],False
+recoil,[],False
+recourses,[],False
+redundancy,[],False
+redundant,"[('избыточной', 1), ('лишних', 1)]",True
+refusal,"[('отказ', 2)]",True
+refuse,"[('отказываетесь', 2), ('отказывают', 1), ('откажите', 1), ('откажусь', 1), ('отказываю', 1)]",True
+refused,"[('отказался', 1), ('отказались', 1)]",True
+refuses,"[('отказывается', 1)]",True
+refusing,[],False
+refutation,"[('опровержением', 2), ('опровержения', 1)]",True
+refute,"[('опровергнем', 1), ('опровергнуть', 1), ('опровергнете', 1)]",True
+refuted,[],True
+refutes,"[('опровергающий', 1)]",True
+refuting,"[('опровержения', 1)]",True
+regress,[],True
+regression,"[('регрессию', 1)]",True
+regressive,[],False
+regret,[],False
+regreted,[],False
+regretful,[],False
+regretfully,[],False
+regrets,[],False
+regrettable,[],False
+regrettably,[],False
+regretted,[],False
+reject,"[('отклонили', 1)]",True
+rejected,"[('отклоняются', 2), ('отклонены', 1), ('отклоняется', 1)]",True
+rejecting,"[('проявляет', 1), ('проявляет _ отвергает', 1), ('отвергает', 1), ('отвергая', 1)]",True
+rejection,"[('непринятии', 1), ('неприятие', 1), ('отказ', 1)]",True
+rejects,[],False
+relapse,[],False
+relentless,[],False
+relentlessly,[],False
+relentlessness,[],False
+reluctance,"[('нежелание', 1)]",True
+reluctant,"[('конфликтовать', 1), ('неохота конфликтовать', 1), ('неохота', 1)]",True
+reluctantly,[],False
+remorse,[],False
+remorseful,[],False
+remorsefully,[],False
+remorseless,[],False
+remorselessly,[],False
+remorselessness,[],False
+renounce,[],False
+renunciation,[],False
+repel,[],False
+repetitive,[],False
+reprehensible,"[('предосудительно', 1)]",True
+reprehensibly,[],False
+reprehension,[],False
+reprehensive,[],False
+repress,[],True
+repression,[],True
+repressive,[],False
+reprimand,[],False
+reproach,"[('упрекаете', 1), ('корю', 1)]",True
+reproachful,[],False
+reprove,[],False
+reprovingly,[],False
+repudiate,[],False
+repudiation,[],False
+repugn,[],False
+repugnance,[],False
+repugnant,[],False
+repugnantly,[],False
+repulse,[],False
+repulsed,[],False
+repulsing,[],False
+repulsive,[],False
+repulsively,[],False
+repulsiveness,[],False
+resent,"[('возмущаться', 1)]",True
+resentful,[],False
+resentment,[],False
+resignation,"[('отставки', 1)]",True
+resigned,[],False
+resistance,[],True
+restless,[],False
+restlessness,[],False
+restrict,"[('ограничили', 1)]",True
+restricted,[],False
+restriction,"[('ограничение', 2)]",True
+restrictive,[],False
+resurgent,[],False
+retaliate,[],False
+retaliatory,"[('retaliatory', 1)]",True
+retard,[],False
+retarded,[],False
+retardedness,[],False
+retards,[],False
+reticent,[],False
+retract,[],True
+retreat,[],True
+retreated,[],False
+revenge,"[('месть', 1)]",True
+revengeful,[],False
+revengefully,[],False
+revert,"[('отменять', 2), ('откатили', 1), ('возвращаю', 1)]",True
+revile,[],False
+reviled,[],False
+revoke,[],False
+revolt,[],False
+revolting,[],False
+revoltingly,[],False
+revulsion,[],False
+revulsive,[],False
+rhapsodize,[],False
+rhetoric,[],False
+rhetorical,[],False
+ricer,[],False
+ridicule,[],False
+ridicules,[],False
+ridiculous,"[('смешно', 2), ('смешное', 1), ('смешной', 1), ('ненейтрально', 1), ('ненейтрально _ смешно', 1)]",True
+ridiculously,[],False
+rife,[],False
+rift,[],False
+rifts,[],False
+rigid,[],False
+rigidity,[],False
+rigidness,[],False
+rile,[],True
+riled,[],False
+rip,[],True
+rip-off,[],False
+ripoff,[],False
+ripped,[],True
+risk,"[('риск', 1), ('риска', 1), ('рискуют', 1), ('рисковать', 1), ('угрозой', 1)]",True
+risks,[],True
+risky,[],False
+rival,[],False
+rivalry,[],False
+roadblocks,[],False
+rocky,[],False
+rogue,[],False
+rollercoaster,[],False
+rot,[],True
+rotten,"[('гнилые', 1), ('гнилая', 1)]",True
+rough,[],True
+rremediable,[],False
+rubbish,"[('хлам', 1), ('перевода', 1), ('белиберду _ перевода', 1), ('белиберду', 1)]",True
+rude,"[('хамите', 2), ('грубое', 1), ('грубите', 1)]",True
+rue,[],True
+ruffian,[],False
+ruffle,[],False
+ruin,[],True
+ruined,[],False
+ruining,"[('испортив', 1)]",True
+ruinous,[],False
+ruins,[],False
+rumbling,[],False
+rumor,[],True
+rumors,"[('толков', 1), ('слухи', 1), ('слухам', 1)]",True
+rumours,[],False
+rumple,[],False
+run-down,[],False
+runaway,[],False
+rupture,[],False
+rust,[],True
+rusts,[],False
+rusty,[],False
+rut,[],True
+ruthless,[],True
+ruthlessly,"[('безжалостно', 1)]",True
+ruthlessness,[],False
+ruts,[],True
+sabotage,[],False
+sack,[],True
+sacrificed,[],False
+sad,"[('печалюсь', 1), ('грустно', 1), (',', 1), ('грустно ,', 1)]",True
+sadden,[],False
+sadly,[],False
+sadness,[],False
+sag,[],True
+sagged,[],False
+sagging,[],False
+saggy,[],False
+sags,[],False
+salacious,[],False
+sanctimonious,[],False
+sap,[],True
+sarcasm,[],False
+sarcastic,[],False
+sarcastically,[],False
+sardonic,[],False
+sardonically,[],False
+sass,[],True
+satirical,[],False
+satirize,[],False
+savage,[],False
+savaged,[],False
+savagery,[],False
+savages,[],False
+scaly,[],False
+scam,[],True
+scams,[],False
+scandal,"[('скандал', 1), ('сексскандал', 1)]",True
+scandalize,[],False
+scandalized,[],False
+scandalous,[],True
+scandalously,[],False
+scandals,"[('скандалы', 2)]",True
+scandel,[],False
+scandels,[],False
+scant,[],False
+scapegoat,[],False
+scar,[],True
+scarce,[],False
+scarcely,[],False
+scarcity,[],False
+scare,"[('отпугнуть', 1)]",True
+scared,"[('пугал', 1)]",True
+scarier,[],False
+scariest,[],False
+scarily,[],False
+scarred,[],False
+scars,[],False
+scary,"[('страшный визуально', 1), ('страшный', 1), ('визуально', 1), ('страшные', 1), ('страшно', 1)]",True
+scathing,[],False
+scathingly,[],False
+sceptical,[],False
+scoff,[],False
+scoffingly,[],False
+scold,[],False
+scolded,[],False
+scolding,[],False
+scoldingly,[],False
+scorching,[],False
+scorchingly,[],False
+scorn,[],False
+scornful,[],False
+scornfully,[],False
+scoundrel,[],False
+scourge,[],False
+scowl,[],False
+scramble,"[('скрамбл', 1)]",True
+scrambled,[],False
+scrambles,[],False
+scrambling,[],False
+scrap,[],False
+scratch,"[('нуля', 6), ('почесать', 1), ('цикла', 1), ('нулевого', 1), ('нулевого цикла', 1)]",True
+scratched,"[('почесал', 1)]",True
+scratches,[],False
+scratchy,[],False
+scream,[],True
+screech,[],False
+screw-up,[],False
+screwed,[],False
+screwed-up,[],False
+screwy,[],False
+scuff,[],False
+scuffs,[],False
+scum,[],False
+scummy,[],False
+second-class,[],False
+second-tier,[],False
+secretive,[],False
+sedentary,[],False
+seedy,[],False
+seethe,[],False
+seething,[],False
+self-coup,[],False
+self-criticism,[],False
+self-defeating,[],False
+self-destructive,[],False
+self-humiliation,[],False
+self-interest,[],False
+self-interested,[],False
+self-serving,[],False
+selfinterested,[],False
+selfish,[],False
+selfishly,[],False
+selfishness,[],False
+semi-retarded,[],False
+senile,[],False
+sensationalize,[],False
+senseless,"[('бессмысленного', 1)]",True
+senselessly,[],False
+seriousness,"[('серьезности', 1)]",True
+sermonize,[],False
+servitude,[],False
+set-up,[],False
+setback,[],False
+setbacks,[],False
+sever,[],True
+severe,"[('тяжелые', 1)]",True
+severity,[],False
+sh*t,[],False
+shabby,[],False
+shadowy,[],False
+shady,[],False
+shake,"[('качать', 1), ('помириться', 1), ('пожать', 1), ('пожать _ помириться', 1)]",True
+shaky,"[('зыбкая', 1)]",True
+shallow,[],True
+sham,[],True
+shambles,[],False
+shame,"[('позор', 2)]",True
+shameful,[],False
+shamefully,[],False
+shamefulness,[],False
+shameless,[],False
+shamelessly,[],False
+shamelessness,[],False
+shark,[],False
+sharply,"[('резким', 1)]",True
+shatter,[],False
+shemale,[],False
+shimmer,[],False
+shimmy,[],False
+shipwreck,[],False
+shirk,[],False
+shirker,[],False
+shit,"[('гадят', 1)]",True
+shiver,[],False
+shock,"[('шоке', 1)]",True
+shocked,"[('шокировало', 1)]",True
+shocking,[],False
+shockingly,[],False
+shoddy,[],False
+short-lived,[],False
+shortage,[],False
+shortchange,[],False
+shortcoming,"[('недочёт', 1)]",True
+shortcomings,"[('недостатках', 1), ('недостатки', 1), ('недочёты', 1), ('замечания _ недостаткам', 1), ('замечания', 1)]",True
+shortness,[],False
+shortsighted,[],False
+shortsightedness,[],False
+showdown,"[('разборки', 1)]",True
+shrew,[],False
+shriek,[],False
+shrill,[],False
+shrilly,[],False
+shrivel,[],False
+shroud,[],False
+shrouded,[],False
+shrug,[],False
+shun,[],False
+shunned,[],False
+sick,"[('дорогой', 1), ('больной', 1)]",True
+sicken,[],False
+sickening,[],False
+sickeningly,[],False
+sickly,[],False
+sickness,[],False
+sidetrack,[],True
+sidetracked,[],False
+siege,"[('осаду', 1)]",True
+sillily,[],False
+silly,[],False
+simplistic,[],False
+simplistically,[],False
+sin,[],True
+sinful,[],False
+sinfully,[],False
+sinister,[],False
+sinisterly,[],False
+sink,[],False
+sinking,[],False
+skeletons,[],False
+skeptic,[],True
+skeptical,[],False
+skeptically,[],False
+skepticism,[],False
+sketchy,[],False
+skimpy,[],False
+skinny,[],False
+skittish,[],False
+skittishly,[],False
+skulk,[],False
+slack,[],False
+slander,"[('клевета', 2)]",True
+slanderer,[],False
+slanderous,[],False
+slanderously,[],False
+slanders,[],False
+slap,[],False
+slashing,[],False
+slaughter,[],False
+slaughtered,[],False
+slave,[],True
+slaves,[],False
+sleazy,[],False
+slime,[],False
+slog,[],False
+slogged,[],False
+slogging,[],False
+slogs,[],False
+sloooooooooooooow,[],False
+sloooow,[],False
+slooow,[],False
+sloow,[],False
+sloppily,[],False
+sloppy,[],False
+sloth,[],False
+slothful,[],False
+slow,"[('умерить', 1), ('притормозить', 1), ('сильно', 1)]",True
+slow-moving,[],False
+slowed,[],False
+slower,[],False
+slowest,[],False
+slowly,"[('медленно', 2), ('потихоньку', 1)]",True
+sloww,[],False
+slowww,[],False
+slowwww,[],False
+slug,[],True
+sluggish,"[('вялотекущей', 1), ('подробными', 1), ('вялотекущая', 1), ('подробными _ вялотекущая', 1)]",True
+slump,[],False
+slumping,[],False
+slumpping,[],False
+slur,[],False
+slut,[],False
+sluts,[],False
+sly,"[('втихаря', 1), ('лукавым', 1)]",True
+smack,[],False
+smallish,[],False
+smash,"[('громить', 1)]",True
+smear,[],True
+smell,"[('нюхом', 1), ('ощущать', 1)]",True
+smelled,[],False
+smelling,[],False
+smells,[],False
+smelly,[],False
+smelt,[],False
+smoke,[],True
+smokescreen,[],False
+smolder,[],False
+smoldering,[],False
+smother,[],False
+smoulder,[],False
+smouldering,[],False
+smudge,[],False
+smudged,[],False
+smudges,[],False
+smudging,[],False
+smug,[],True
+smugly,[],False
+smut,[],False
+smuttier,[],False
+smuttiest,[],False
+smutty,[],False
+snag,[],False
+snagged,[],False
+snagging,[],False
+snags,[],False
+snappish,[],False
+snappishly,[],False
+snare,[],False
+snarky,[],False
+snarl,[],False
+sneak,[],False
+sneakily,[],False
+sneaky,[],False
+sneer,[],False
+sneering,[],False
+sneeringly,[],False
+snob,[],False
+snobbish,[],False
+snobby,[],False
+snobish,[],False
+snobs,[],False
+snub,[],False
+so-cal,[],False
+soapy,[],False
+sob,[],True
+sober,[],False
+sobering,[],False
+solemn,[],True
+solicitude,[],False
+somber,[],False
+sore,"[('больная', 1)]",True
+sorely,[],False
+soreness,[],False
+sorrow,[],False
+sorrowful,[],False
+sorrowfully,[],False
+sorry,"[('извините', 15), ('простите', 6), ('извиняюсь', 4), ('прощения', 4), ('жаль', 3)]",True
+sour,[],True
+sourly,[],False
+spade,[],False
+spank,[],False
+spendy,[],False
+spew,[],False
+spewed,[],False
+spewing,[],False
+spews,[],False
+spilling,[],False
+spinster,[],False
+spiritless,[],False
+spite,"[('несмотря', 1)]",True
+spiteful,[],False
+spitefully,[],False
+spitefulness,[],False
+splatter,[],False
+split,"[('разделить', 1)]",True
+splitting,[],False
+spoil,"[('портить', 2), ('гадить', 1), ('портите', 1), ('портить репутацию', 1), ('репутацию', 1)]",True
+spoilage,[],False
+spoilages,[],False
+spoiled,"[('портили', 1), ('испортил', 1)]",True
+spoilled,[],False
+spoils,"[('портит', 1)]",True
+spook,[],False
+spookier,[],False
+spookiest,[],False
+spookily,[],False
+spooky,[],False
+spoon-fed,[],False
+spoon-feed,[],False
+spoonfed,[],False
+sporadic,"[('спорадические', 1)]",True
+spotty,[],False
+spurious,[],False
+spurn,[],False
+sputter,[],False
+squabble,[],True
+squabbling,[],False
+squander,[],False
+squash,[],False
+squeak,[],False
+squeaks,[],False
+squeaky,[],False
+squeal,[],False
+squealing,[],False
+squeals,[],False
+squirm,[],False
+stab,[],True
+stagnant,[],False
+stagnate,[],False
+stagnation,[],False
+staid,[],False
+stain,[],True
+stains,[],False
+stale,[],False
+stalemate,[],False
+stall,[],True
+stalls,[],False
+stammer,[],False
+stampede,[],False
+standstill,[],False
+stark,[],False
+starkly,[],False
+startle,[],False
+startling,[],False
+startlingly,[],False
+starvation,[],False
+starve,[],False
+static,"[('статичный', 2)]",True
+steal,"[('украсть', 1), ('увести _ восстановление', 1), ('восстановление', 1), ('увести', 1)]",True
+stealing,[],False
+steals,[],False
+steep,[],False
+steeply,[],False
+stench,[],False
+stereotype,[],False
+stereotypical,[],False
+stereotypically,[],False
+stern,[],True
+stew,"[('stew', 1)]",True
+sticky,[],False
+stiff,[],False
+stiffness,[],False
+stifle,[],False
+stifling,[],False
+stiflingly,[],False
+stigma,[],False
+stigmatize,[],False
+sting,[],True
+stinging,[],False
+stingingly,[],False
+stingy,[],False
+stink,[],False
+stinks,[],False
+stodgy,[],False
+stole,"[('стащил', 1)]",True
+stolen,[],False
+stooge,[],False
+stooges,[],False
+stormy,[],False
+straggle,[],False
+straggler,[],False
+strain,[],True
+strained,"[('напрягла', 1)]",True
+straining,[],True
+strange,"[('странно', 9), ('странный', 3), ('странная', 2), ('странным', 2), ('странное', 2)]",True
+strangely,"[('странно', 1)]",True
+stranger,"[('незнакомка', 1)]",True
+strangest,[],False
+strangle,[],False
+streaky,[],False
+strenuous,[],False
+stress,"[('ударение', 2), ('ударением', 1)]",True
+stresses,[],False
+stressful,"[('напряжные', 1)]",True
+stressfully,[],False
+stricken,[],False
+strict,"[('получается', 1), ('неукоснительное', 1), ('строгие', 1)]",True
+strictly,"[('строго', 4), ('собственно', 1)]",True
+strident,[],False
+stridently,[],False
+strife,[],False
+strike,"[('ударять', 1)]",True
+stringent,[],False
+stringently,[],False
+struck,[],True
+struggle,"[('борьбы', 2)]",True
+struggled,[],False
+struggles,[],False
+struggling,[],False
+strut,[],False
+stubborn,"[('упёртый', 1)]",True
+stubbornly,"[('упорно', 6), ('упёрто', 1)]",True
+stubbornness,"[('упрямства', 1)]",True
+stuck,"[('зависло', 1), ('пристал', 1)]",True
+stuffy,[],False
+stumble,[],True
+stumbled,"[('наткнулся', 4), ('наткнулись', 1)]",True
+stumbles,[],False
+stump,[],False
+stumped,[],False
+stumps,[],False
+stun,[],False
+stunt,[],False
+stunted,[],False
+stupid,"[('тупо', 2), ('глупо', 2), ('скажи _ тупо', 1), ('скажи', 1), ('глупый', 1)]",True
+stupidest,[],False
+stupidity,"[('глупость', 1)]",True
+stupidly,"[('тупо', 3), ('откатывать', 1), ('тупо откатывать', 1)]",True
+stupified,[],False
+stupify,[],False
+stupor,"[('ступоре', 1)]",True
+stutter,[],False
+stuttered,[],False
+stuttering,[],False
+stutters,[],False
+sty,[],True
+stymied,[],False
+sub-par,[],False
+subdued,[],False
+subjected,"[('подвергли', 1), ('подвергаются', 1)]",True
+subjection,[],False
+subjugate,[],False
+subjugation,[],False
+submissive,[],False
+subordinate,"[('подчинённого', 1)]",True
+subpoena,[],False
+subpoenas,[],False
+subservience,[],False
+subservient,[],False
+substandard,[],False
+subtract,[],False
+subversion,[],False
+subversive,[],False
+subversively,[],False
+subvert,[],False
+succumb,"[('поддаваться', 1)]",True
+suck,[],True
+sucked,[],False
+sucker,"[('лох', 1)]",True
+sucks,[],False
+sucky,[],False
+sue,[],True
+sued,"[('подан', 1)]",True
+sueing,[],False
+sues,[],True
+suffer,"[('страдать', 1), ('мучаться', 1), ('пострадать', 1)]",True
+suffered,"[('пострадали', 1)]",True
+sufferer,[],False
+sufferers,[],False
+suffering,"[('многострадальной', 1), ('многострадальная', 1)]",True
+suffers,"[('страдает', 1)]",True
+suffocate,[],False
+sugar-coat,[],False
+sugar-coated,[],False
+sugarcoated,[],False
+suicidal,[],False
+suicide,[],False
+sulk,[],False
+sullen,[],False
+sully,[],False
+sunder,[],True
+sunk,[],False
+sunken,[],False
+superficial,"[('поверхностно', 1)]",True
+superficiality,[],False
+superficially,[],False
+superfluous,"[('лишние', 1), ('лишнего', 1)]",True
+superstition,[],False
+superstitious,"[('суеверные', 1)]",True
+suppress,[],True
+suppression,"[('пресечении', 1), ('подавление', 1)]",True
+surrender,[],False
+susceptible,"[('подвержены', 1)]",True
+suspect,"[('подозреваете', 2)]",True
+suspicion,"[('подозрение', 1), ('подозрения', 1), ('подозрений', 1)]",True
+suspicions,"[('подозрения', 1), ('подозрениями', 1)]",True
+suspicious,"[('подозрительно', 2), ('подозрительными', 1)]",True
+suspiciously,"[('подозрительно', 1)]",True
+swagger,[],False
+swamped,[],False
+sweaty,[],False
+swelled,[],False
+swelling,[],False
+swindle,[],False
+swipe,[],False
+swollen,[],False
+symptom,[],False
+symptoms,[],False
+syndrome,[],False
+taboo,[],False
+tacky,[],False
+taint,[],True
+tainted,[],False
+tamper,[],False
+tangle,[],False
+tangled,[],False
+tangles,[],False
+tank,"[('танка', 1), ('танке', 1)]",True
+tanked,[],False
+tanks,[],False
+tantrum,[],False
+tardy,[],False
+tarnish,[],False
+tarnished,[],False
+tarnishes,[],False
+tarnishing,[],False
+tattered,[],False
+taunt,[],False
+taunting,[],False
+tauntingly,[],False
+taunts,[],False
+taut,[],False
+tawdry,[],False
+taxing,[],False
+tease,[],False
+teasingly,[],False
+tedious,[],True
+tediously,[],False
+temerity,[],False
+temper,[],True
+tempest,[],False
+temptation,[],False
+tenderness,[],False
+tense,"[('времени', 1)]",True
+tension,"[('напряжения', 1)]",True
+tentative,[],False
+tentatively,[],False
+tenuous,[],False
+tenuously,[],False
+tepid,[],False
+terrible,"[('страшного', 2), ('ужасно', 2), ('жуткая', 1), ('страшногото', 1), ('ужасного', 1)]",True
+terribleness,[],False
+terribly,"[('страшно', 2)]",True
+terror,"[('террор', 2), ('террора', 1)]",True
+terror-genic,[],False
+terrorism,"[('терроризм', 2)]",True
+terrorize,[],False
+testily,[],False
+testy,[],False
+tetchily,[],False
+tetchy,[],False
+thankless,[],False
+thicker,[],False
+thirst,[],False
+thorny,[],False
+thoughtless,[],False
+thoughtlessly,[],False
+thoughtlessness,[],False
+thrash,[],False
+threat,"[('угроза', 2), ('угрозы', 1), ('угрозе', 1)]",True
+threaten,"[('угрожаете', 1), ('угрожать', 1), ('грозит', 1)]",True
+threatening,"[('угрожающе', 1), ('репрессий', 1), ('угрозы', 1), ('угрозы репрессий', 1), ('угрожаете', 1)]",True
+threats,"[('угрозами', 1), ('угроз', 1)]",True
+threesome,[],False
+throb,[],False
+throbbed,[],False
+throbbing,[],False
+throbs,[],False
+throttle,[],False
+thug,[],False
+thumb-down,[],False
+thumbs-down,[],False
+thwart,[],False
+time-consuming,[],False
+timid,[],False
+timidity,[],False
+timidly,[],False
+timidness,[],False
+tin-y,[],False
+tingled,[],False
+tingling,[],False
+tired,"[('устал', 2), ('утомил', 1), ('устали', 1), ('надоело', 1)]",True
+tiresome,[],False
+tiring,[],False
+tiringly,[],False
+toil,[],False
+toll,[],False
+top-heavy,[],False
+topple,[],False
+torment,[],True
+tormented,[],False
+torrent,"[('торенте', 1)]",True
+tortuous,[],False
+torture,"[('пытки', 1), ('пытках', 1), ('мучить', 1)]",True
+tortured,"[('пытал', 1)]",True
+tortures,[],False
+torturing,"[('мучаете', 1)]",True
+torturous,[],False
+torturously,[],False
+totalitarian,"[('тоталитарных', 1)]",True
+touchy,[],False
+toughness,[],False
+tout,[],False
+touted,[],False
+touts,[],False
+toxic,[],False
+traduce,[],False
+tragedy,"[('трагизм', 1)]",True
+tragic,[],False
+tragically,[],False
+traitor,[],True
+traitorous,[],False
+traitorously,[],False
+tramp,[],False
+trample,[],False
+transgress,[],False
+transgression,[],False
+trap,[],True
+traped,[],False
+trapped,[],False
+trash,[],False
+trashed,[],False
+trashy,[],False
+trauma,[],False
+traumatic,[],False
+traumatically,[],False
+traumatize,[],False
+traumatized,[],False
+travesties,[],False
+travesty,[],False
+treacherous,[],False
+treacherously,[],False
+treachery,[],False
+treason,[],False
+treasonous,[],False
+trick,"[('фишка', 1)]",True
+tricked,[],False
+trickery,[],False
+tricky,[],False
+trivial,"[('нетривиальные', 2), ('тривиальное', 1), ('тривиальный', 1)]",True
+trivialize,[],False
+trouble,"[('беспокойство', 1), ('заладилось', 1), ('труд', 1)]",True
+troubled,[],False
+troublemaker,[],False
+troubles,"[('дела', 1)]",True
+troublesome,[],False
+troublesomely,[],False
+troubling,[],False
+troublingly,[],False
+truant,[],False
+tumble,[],True
+tumbled,[],True
+tumbles,[],False
+tumultuous,[],False
+turbulent,[],False
+turmoil,[],False
+twist,"[('перекручиваем', 1)]",True
+twisted,"[('twisted', 1), ('накручивал', 1)]",True
+twists,"[('извороты', 1)]",True
+two-faced,[],False
+two-faces,[],False
+tyrannical,[],False
+tyrannically,[],False
+tyranny,[],False
+tyrant,[],False
+ugh,[],True
+uglier,[],False
+ugliest,[],False
+ugliness,"[('уродства', 1)]",True
+ugly,[],False
+ulterior,[],False
+ultimatum,"[('ультиматум', 1)]",True
+ultimatums,[],False
+ultra-hardline,[],False
+un-viewable,[],False
+unable,"[('не', 2), ('неспособен', 1)]",True
+unacceptable,"[('недопустимо', 5), ('неприемлемыми', 2), ('недопустимое', 1), ('недопустимы', 1), ('недопустимо _ недопустимо', 1)]",True
+unacceptablely,[],False
+unacceptably,[],False
+unaccessible,[],False
+unaccustomed,[],False
+unachievable,[],False
+unaffordable,[],False
+unappealing,[],False
+unattractive,[],False
+unauthentic,[],False
+unavailable,"[('недоступен', 1)]",True
+unavoidably,[],False
+unbearable,[],False
+unbearablely,[],False
+unbelievable,[],False
+unbelievably,[],False
+uncaring,[],False
+uncertain,[],True
+uncivil,[],True
+uncivilized,"[('нецивилизованный', 1)]",True
+unclean,[],False
+unclear,"[('неясный', 2), ('непонятно', 1), ('неясно', 1), ('непонятным', 1)]",True
+uncollectible,[],False
+uncomfortable,"[('неудобным', 1), ('неуютно', 1)]",True
+uncomfortably,[],False
+uncomfy,[],False
+uncompetitive,[],False
+uncompromising,[],False
+uncompromisingly,[],False
+unconfirmed,[],False
+unconstitutional,[],False
+uncontrolled,[],False
+unconvincing,[],False
+unconvincingly,[],False
+uncooperative,"[('отказываетесь', 1), ('сотрудничества', 1), ('отказываетесь _ сотрудничества', 1)]",True
+uncouth,[],False
+uncreative,[],False
+undecided,[],False
+undefined,[],False
+undependability,[],False
+undependable,[],False
+undercut,[],False
+undercuts,[],False
+undercutting,[],False
+underdog,[],False
+underestimate,[],False
+underlings,[],False
+undermine,"[('подрывать', 1)]",True
+undermined,[],False
+undermines,"[('подрывает', 1)]",True
+undermining,[],False
+underpaid,[],False
+underpowered,[],False
+undersized,[],False
+undesirable,"[('нежелательна', 1)]",True
+undetermined,[],False
+undid,[],False
+undignified,[],False
+undissolved,[],False
+undocumented,[],False
+undone,[],False
+undue,[],False
+unease,[],False
+uneasily,[],False
+uneasiness,[],False
+uneasy,[],False
+uneconomical,[],False
+unemployed,[],False
+unequal,"[('неравнозначные', 1)]",True
+unethical,"[('неэтичное', 1), ('неэтичность', 1), ('неэтичности', 1), ('неэтичном', 1)]",True
+uneven,"[('неровно', 1)]",True
+uneventful,[],False
+unexpected,"[('неожиданный', 1), ('неожиданые', 1), ('неожиданную', 1)]",True
+unexpectedly,[],False
+unexplained,[],False
+unfairly,[],False
+unfaithful,[],False
+unfaithfully,[],False
+unfamiliar,"[('незнакомого', 1)]",True
+unfavorable,[],False
+unfeeling,[],False
+unfinished,"[('незаконченным', 1), ('незаконченном', 1), ('недоработанную', 1)]",True
+unfit,[],False
+unforeseen,[],False
+unforgiving,[],False
+unfortunate,"[('прискорбно', 1), ('несчастной', 1)]",True
+unfortunately,"[('сожалению', 12), ('несомненно', 1), ('сожалению _ несомненно', 1)]",True
+unfounded,"[('необоснованными', 1), ('лишёнными', 1), ('необоснованное', 1)]",True
+unfriendly,[],False
+unfulfilled,[],False
+unfunded,[],False
+ungovernable,[],False
+ungrateful,[],False
+unhappily,[],False
+unhappiness,[],False
+unhappy,[],False
+unhealthy,"[('нездоровой', 1)]",True
+unhelpful,[],False
+unilateralism,[],False
+unimaginable,[],False
+unimaginably,[],False
+unimportant,[],False
+uninformed,[],False
+uninsured,[],False
+unintelligible,"[('невразумительны', 1)]",True
+unintelligile,[],False
+unipolar,[],False
+unjust,[],False
+unjustifiable,[],False
+unjustifiably,[],False
+unjustified,[],False
+unjustly,[],False
+unkind,[],False
+unkindly,[],False
+unknown,"[('неизвестный', 1), ('неизвестных', 1), ('неизвестна', 1), ('неизвестны', 1), ('безвестным', 1)]",True
+unlamentable,[],False
+unlamentably,[],False
+unlawful,[],False
+unlawfully,[],False
+unlawfulness,[],False
+unleash,[],False
+unlicensed,[],False
+unlikely,[],True
+unlucky,[],False
+unmoved,[],False
+unnatural,[],False
+unnaturally,[],False
+unnecessary,"[('лишние', 1), ('ненужных', 1), ('ненужного', 1), ('ненужная', 1), ('ненужные', 1)]",True
+unneeded,[],False
+unnerve,[],False
+unnerved,[],False
+unnerving,[],False
+unnervingly,[],False
+unnoticed,"[('незаметно', 1)]",True
+unobserved,[],False
+unorthodox,[],False
+unorthodoxy,[],False
+unpleasant,"[('неприятных', 1), ('неприятной', 1), ('неприятные', 1)]",True
+unpleasantries,[],False
+unpopular,[],False
+unpredictable,"[('непредсказуемым', 1)]",True
+unprepared,[],False
+unproductive,[],False
+unprofitable,[],False
+unprove,[],True
+unproved,[],False
+unproven,"[('доказана', 1), ('не доказана', 1), ('не', 1)]",True
+unproves,[],False
+unproving,[],False
+unqualified,[],False
+unravel,[],False
+unraveled,[],False
+unreachable,[],False
+unreadable,[],False
+unrealistic,[],False
+unreasonable,"[('необоснованной', 2), ('необоснованным', 1)]",True
+unreasonably,"[('неоправданно', 1), ('безосновательно', 1)]",True
+unrelenting,[],False
+unrelentingly,[],False
+unreliability,"[('недостоверность', 1)]",True
+unreliable,"[('ненадёжен', 1), ('недостоверных', 1)]",True
+unresolved,"[('неразрешенные', 1), ('неразрешённых', 1)]",True
+unresponsive,[],False
+unrest,[],True
+unruly,[],False
+unsafe,[],False
+unsatisfactory,[],False
+unsavory,[],False
+unscrupulous,[],False
+unscrupulously,[],False
+unsecure,[],False
+unseemly,"[('неблаговидными', 1)]",True
+unsettle,[],True
+unsettled,"[('неустоявшаяся', 1)]",True
+unsettling,[],False
+unsettlingly,[],False
+unskilled,[],False
+unsophisticated,[],False
+unsound,[],False
+unspeakable,[],False
+unspeakablely,[],False
+unspecified,[],False
+unstable,[],False
+unsteadily,[],False
+unsteadiness,[],False
+unsteady,[],False
+unsuccessful,"[('неудачные', 1)]",True
+unsuccessfully,[],True
+unsupported,[],False
+unsupportive,[],False
+unsure,[],False
+unsuspecting,[],False
+unsustainable,[],False
+untenable,[],False
+untested,[],False
+unthinkable,[],False
+unthinkably,[],False
+untimely,[],False
+untouched,[],False
+untrue,[],False
+untrustworthy,[],False
+untruthful,[],False
+unusable,[],False
+unusably,[],False
+unuseable,[],False
+unuseably,[],False
+unusual,"[('необыкновенным', 1), ('необычным', 1), ('необычных', 1)]",True
+unusually,[],False
+unviewable,[],False
+unwanted,"[('нежелательная', 1)]",True
+unwarranted,[],False
+unwatchable,[],False
+unwelcome,[],False
+unwell,[],False
+unwieldy,[],False
+unwilling,[],False
+unwillingly,[],False
+unwillingness,[],False
+unwise,[],False
+unwisely,[],False
+unworkable,[],False
+unworthy,[],False
+unyielding,[],False
+upbraid,[],False
+upheaval,[],False
+uprising,"[('восстании', 2), ('восстание', 2)]",True
+uproar,[],False
+uproarious,[],False
+uproariously,[],False
+uproarous,[],False
+uproarously,[],False
+uproot,[],False
+upset,[],False
+upseting,[],False
+upsets,[],False
+upsetting,[],False
+upsettingly,[],False
+urgent,[],True
+useless,"[('бесполезно', 2)]",True
+usurp,[],True
+usurper,[],True
+utterly,[],False
+vagrant,[],False
+vague,"[('размыто', 1)]",True
+vagueness,"[('расплывчатость', 1)]",True
+vain,"[('зря', 2), ('напрасно', 1), ('наверно', 1)]",True
+vainly,[],False
+vanity,[],False
+vehement,[],False
+vehemently,[],False
+vengeance,[],False
+vengeful,[],False
+vengefully,[],False
+vengefulness,[],False
+venom,[],False
+venomous,[],False
+venomously,[],False
+vent,[],True
+vestiges,[],False
+vex,[],False
+vexation,[],False
+vexing,[],False
+vexingly,[],False
+vibrate,[],False
+vibrated,[],False
+vibrates,[],False
+vibrating,[],False
+vibration,"[('вибрации', 1)]",True
+vice,"[('вицедекан', 1), ('вицегубернаторы', 1), ('наоборот', 1)]",True
+vicious,"[('порочный', 1)]",True
+viciously,[],False
+viciousness,[],False
+victimize,[],False
+vile,"[('мерзким', 1)]",True
+vileness,[],False
+vilify,[],False
+villainous,[],False
+villainously,[],False
+villains,[],False
+villian,[],False
+villianous,[],False
+villianously,[],False
+villify,[],False
+vindictive,[],False
+vindictively,[],False
+vindictiveness,[],False
+violate,"[('нарушает', 5), ('нарушают', 2), ('нарушаете', 2), ('нарушаю', 1), ('нарушающих', 1)]",True
+violation,"[('нарушение', 21), ('нарушением', 10), ('нарушении', 2), ('нарушения', 2), ('противоречат', 1)]",True
+violator,[],True
+violators,"[('нарушителями', 1)]",True
+violent,"[('буйный', 1)]",True
+violently,[],False
+viper,[],False
+virulence,[],False
+virulent,[],False
+virulently,[],False
+virus,[],True
+vociferous,[],False
+vociferously,[],False
+volatile,[],False
+volatility,[],False
+vomit,[],False
+vomited,[],False
+vomiting,[],False
+vomits,[],False
+vulgar,[],False
+vulnerable,[],False
+wack,[],False
+wail,[],False
+wallow,[],False
+wane,[],False
+waning,[],False
+wanton,[],False
+war-like,[],False
+warily,[],False
+wariness,[],False
+warlike,[],False
+warned,"[('предупреждён', 2), ('предупрежден', 1), ('предупредить', 1), ('предупреждали', 1), ('предупредили', 1)]",True
+warning,"[('предупреждение', 19), ('предупреждения', 4), ('предупреждаете', 2), ('шаблона', 1), ('предупреждающих', 1)]",True
+warp,[],False
+warped,[],False
+wary,[],False
+washed-out,[],False
+waste,"[('тратить', 2), ('трата', 1)]",True
+wasted,[],False
+wasteful,[],False
+wastefulness,[],False
+wasting,"[('тратить', 1)]",True
+water-down,[],False
+watered-down,[],False
+wayward,[],False
+weak,"[('слабо', 2), ('слабоват', 1), ('слабом', 1)]",True
+weaken,[],False
+weakening,[],False
+weaker,[],False
+weakness,"[('слабину', 1)]",True
+weaknesses,[],False
+weariness,[],False
+wearisome,[],False
+weary,[],False
+wedge,[],False
+weed,"[('сорным', 1), ('сорные', 1)]",True
+weep,[],True
+weird,"[('странный', 2)]",True
+weirdly,[],False
+wheedle,[],False
+whimper,[],False
+whine,[],False
+whining,[],False
+whiny,[],False
+whips,[],False
+whore,[],False
+whores,[],False
+wicked,[],False
+wickedly,[],False
+wickedness,[],False
+wild,"[('дикие', 1), ('дикой', 1), ('дико', 1)]",True
+wildly,[],False
+wiles,[],False
+wilt,[],False
+wily,[],False
+wimpy,[],False
+wince,[],False
+wobble,[],False
+wobbled,[],False
+wobbles,[],False
+woe,[],False
+woebegone,[],False
+woeful,[],False
+woefully,[],False
+womanizer,[],False
+womanizing,[],False
+worn,"[('носить', 1), ('одеваемых', 1), ('носили', 1)]",True
+worried,"[('волнует', 1)]",True
+worriedly,[],False
+worrier,[],False
+worries,"[('страшно', 1)]",True
+worrisome,[],False
+worry,"[('беспокоится', 1), ('волнуйтесь', 1), ('умею _ волнуйтесь', 1), ('умею', 1)]",True
+worrying,"[('зря переживаю', 1), ('зря', 1), ('переживаю', 1)]",True
+worryingly,[],False
+worse,"[('хуже', 7), ('усугублять', 1), ('ничем', 1)]",True
+worsen,"[('ухудшают', 1)]",True
+worsening,[],False
+worst,"[('хуже', 1)]",True
+worthless,"[('цена', 1)]",True
+worthlessly,[],False
+worthlessness,[],False
+wound,[],False
+wounds,[],False
+wrangle,[],False
+wrath,[],False
+wreak,[],False
+wreaked,[],False
+wreaks,[],False
+wreck,[],False
+wrest,[],True
+wrestle,"[('боролись', 1)]",True
+wretch,[],True
+wretched,"[('тормозиловом', 1), ('убогим тормозиловом', 1), ('убогим', 1)]",True
+wretchedly,[],False
+wretchedness,[],False
+wrinkle,[],False
+wrinkled,[],False
+wrinkles,[],False
+wrip,[],False
+wripped,[],False
+wripping,[],False
+writhe,[],False
+wrong,"[('так', 17), ('прав', 11), ('wrong', 4), ('неправильно', 4), ('не', 3)]",True
+wrongful,"[('неправомерное', 1)]",True
+wrongly,[],False
+wrought,[],False
+yawn,[],False
+zap,[],True
+zapped,[],False
+zaps,[],False
+zealot,[],False
+zealous,[],True
+zealously,"[('ревностно', 1), ('усердно', 1)]",True
