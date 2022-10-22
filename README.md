@@ -1,4 +1,5 @@
-# TyDiP: Investigating Politeness in Nine Typologically Diverse Languages
+# TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages
+This repo contains the code and data for the EMNLP 2022 findings paper TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages which can be found [here]().
 ## Data
 The TyDiP dataset is licensed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
@@ -33,17 +34,15 @@ If you use the English train or test data, please cite the Stanford Politeness D
 }
 ```
 If you use the test data from the 9 target languages, please cite our paper
-TODO - Replace with actual
 ```
 @inproceedings{srinivasan-choi-2022-tydip,
-    title = "TyDiP: Investigating Politeness in Nine Typologically Diverse Languages",
+    title = "TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages",
     author = "Srinivasan, Anirudh  and
       Choi, Eunsol",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
     month = dec,
     year = "2022",
 }
-
 ```
 
 ## Code
