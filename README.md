@@ -1,3 +1,35 @@
+---
+annotations_creators:
+- crowdsourced
+language:
+- en
+- hi
+- ko
+- es
+- ta
+- fr
+- vi
+- ru
+- af
+- hu
+language_creators:
+- found
+license:
+- cc-by-4.0
+multilinguality:
+- multilingual
+pretty_name: TyDiP
+size_categories:
+- 1K<n<10K
+source_datasets: []
+tags:
+- politeness
+- wikipedia
+- multilingual
+task_categories:
+- text-classification
+task_ids: []
+---
 # TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages
 This repo contains the code and data for the EMNLP 2022 findings paper TyDiP: A Dataset for Politeness Classification in Nine Typologically Diverse Languages which can be found [here](https://aclanthology.org/2022.findings-emnlp.420/).
 ## Data
