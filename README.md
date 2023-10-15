@@ -47,6 +47,30 @@ data/
 `data/binary` is a filtered version of the above where sentences from the top and bottom 25 percentile of scores is only present. This is the data that we used for training and evaluation in the paper.  
 `data/unlabelled_train_sets`
 
+## Code
+`politeness_regresor.py` is used for training and evaluation of transformer models
+
+To train a model
+```
+python politeness_regressor.py --train_file data/binary/en_train_binary.csv --test_file data/binary/en_test_binary.csv --model_save_location model.pt --pretrained_model xlm-roberta-large --gpus 1 --batch_size 4 --accumulate_grad_batches 8 --max_epochs 5 --checkpoint_callback False --logger False --precision 16 --train --test --binary --learning_rate 5e-6
+```
+
+To test this trained model on $lang
+```
+python politeness_regressor.py --test_file data/binary/${lang}_test_binary.csv --load_model model.pt --gpus 1 --batch_size 32 --test --binary
+```
+
+## Pretrained Model
+XLM-Roberta Large finetuned on the English train set (as discussed and evaluated in the paper) can be found [here](https://huggingface.co/Genius1237/xlm-roberta-large-tydip)
+
+## Politeness Strategies
+`strategies` contains the processed strategy lexicon for different languages. `strategies/learnt_strategies.xlsx` contains the human edited strategies for 4 langauges
+
+## Annotation Interface
+`annotation.html` contains the UI used for conducting data annotation
+
+## Citation
+
 If you use the English train or test data, please cite the Stanford Politeness Dataset
 ```
 @inproceedings{danescu-niculescu-mizil-etal-2013-computational,
@@ -81,22 +105,3 @@ If you use the test data from the 9 target languages, please cite our paper
 }
 
 ```
-
-## Code
-`politeness_regresor.py` is used for training and evaluation of transformer models
-
-To train a model
-```
-python politeness_regressor.py --train_file data/binary/en_train_binary.csv --test_file data/binary/en_test_binary.csv --model_save_location model.pt --pretrained_model xlm-roberta-large --gpus 1 --batch_size 4 --accumulate_grad_batches 8 --max_epochs 5 --checkpoint_callback False --logger False --precision 16 --train --test --binary --learning_rate 5e-6
-```
-
-To test this trained model on $lang
-```
-python politeness_regressor.py --test_file data/binary/${lang}_test_binary.csv --load_model model.pt --gpus 1 --batch_size 32 --test --binary
-```
-
-## Politeness Strategies
-`strategies` contains the processed strategy lexicon for different languages. `strategies/learnt_strategies.xlsx` contains the human edited strategies for 4 langauges
-
-## Annotation Interface
-`annotation.html` contains the UI used for conducting data annotation
